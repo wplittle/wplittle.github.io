@@ -4,657 +4,751 @@
     "imdb_id": "tt9663168",
     "tmdb_id": "296271",
     "title": "THE DEVIL CONSPIRACY",
-    "poster": "https://www.themoviedb.org/t/p/w500/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg",
+    "release_date": "1/11/23"
   },
   {
     "id": 2,
     "imdb_id": "tt15486810",
     "tmdb_id": "877703",
     "title": "TEEN WOLF: THE MOVIE",
-    "poster": "https://www.themoviedb.org/t/p/w500/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg",
+    "release_date": "1/26/23"
   },
   {
     "id": 3,
     "imdb_id": "tt13756106",
     "tmdb_id": "1008651",
     "title": "LIFE UPSIDE DOWN",
-    "poster": "https://www.themoviedb.org/t/p/w500/iE1YH8oXqUAIJkJVNrXGb2uTvZt.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/iE1YH8oXqUAIJkJVNrXGb2uTvZt.jpg",
+    "release_date": "1/27/23"
   },
   {
     "id": 4,
     "imdb_id": "tt12830948",
     "tmdb_id": "880100",
     "title": "FEAR",
-    "poster": "https://www.themoviedb.org/t/p/w500/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/asCLy4s7HYP3zSRlLP4Qgme5L0A.jpg",
+    "release_date": "1/27/23"
   },
   {
     "id": 5,
     "imdb_id": "tt9378692",
     "tmdb_id": "950538",
     "title": "FREEDOM'S PATH",
-    "poster": "https://www.themoviedb.org/t/p/w500/sGZCJrpZvrNlF7BOhjWGytNXMc8.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/sGZCJrpZvrNlF7BOhjWGytNXMc8.jpg",
+    "release_date": "2/3/23"
   },
   {
     "id": 6,
     "imdb_id": "tt14993352",
     "tmdb_id": "884184",
     "title": "CONSECRATION",
-    "poster": "https://www.themoviedb.org/t/p/w500/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg",
+    "release_date": "2/10/23"
   },
   {
     "id": 7,
     "imdb_id": "tt16280138",
     "tmdb_id": "906221",
     "title": "MAGIC MIKE'S LAST DANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",
+    "release_date": "2/10/23"
   },
   {
     "id": 8,
     "imdb_id": "tt13259610",
     "tmdb_id": "752867",
     "title": "THE OUTWATERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/yBN3HGVjIIZtHlSX8t4H51cGDKd.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/yBN3HGVjIIZtHlSX8t4H51cGDKd.jpg",
+    "release_date": "2/10/23"
   },
   {
     "id": 9,
     "imdb_id": "tt7985704",
     "tmdb_id": "739405",
     "title": "OPERATION FORTUNE: RUSE DE GUERRE",
-    "poster": "https://www.themoviedb.org/t/p/w500/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg",
+    "release_date": "3/3/23"
   },
   {
     "id": 10,
     "imdb_id": "tt11932678",
     "tmdb_id": "822300",
     "title": "SOUTHERN GOSPEL",
-    "poster": "https://www.themoviedb.org/t/p/w500/uskzrZyYKP1cKxnhTunfUVbl1Xi.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/uskzrZyYKP1cKxnhTunfUVbl1Xi.jpg",
+    "release_date": "3/10/23"
   },
   {
     "id": 11,
     "imdb_id": "tt5153956",
     "tmdb_id": "516806",
     "title": "LAST SENTINEL",
-    "poster": "https://www.themoviedb.org/t/p/w500/pD1o9B0ibENdNroYrBCQemG2jnr.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/pD1o9B0ibENdNroYrBCQemG2jnr.jpg",
+    "release_date": "3/24/23"
   },
   {
     "id": 12,
     "imdb_id": "tt19757912",
     "tmdb_id": "964913",
     "title": "ACIDMAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg",
+    "release_date": "3/31/23"
   },
   {
     "id": 13,
     "imdb_id": "tt9472334",
     "tmdb_id": "1094403",
     "title": "MALUM",
-    "poster": "https://www.themoviedb.org/t/p/w500/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/m1rcLLs0KmS8Cg60sLoMZC2OyDR.jpg",
+    "release_date": "3/31/23"
   },
   {
     "id": 14,
     "imdb_id": "tt14770620",
     "tmdb_id": "846961",
     "title": "ONE TRUE LOVES",
-    "poster": "https://www.themoviedb.org/t/p/w500/6MF3JvIZkluUijw9rvDKNqPT8kC.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/6MF3JvIZkluUijw9rvDKNqPT8kC.jpg",
+    "release_date": "4/7/23"
   },
   {
     "id": 15,
     "imdb_id": "tt14472156",
     "tmdb_id": "821890",
     "title": "PAINT",
-    "poster": "https://www.themoviedb.org/t/p/w500/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg",
+    "release_date": "4/7/23"
   },
   {
     "id": 16,
     "imdb_id": "tt2316548",
     "tmdb_id": "1016121",
     "title": "BEAUTIFUL DISASTER",
-    "poster": "https://www.themoviedb.org/t/p/w500/7PYB5Qg8iFigpZJxE5qjvWQ4Bea.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/7PYB5Qg8iFigpZJxE5qjvWQ4Bea.jpg",
+    "release_date": "4/12/23"
   },
   {
     "id": 17,
     "imdb_id": "tt15836468",
     "tmdb_id": "899328",
     "title": "RARE OBJECTS",
-    "poster": "https://www.themoviedb.org/t/p/w500/sK6tRNl30FkoVAjOYAb7r3pmNjz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/sK6tRNl30FkoVAjOYAb7r3pmNjz.jpg",
+    "release_date": "4/14/23"
   },
   {
     "id": 18,
     "imdb_id": "tt1609497",
     "tmdb_id": "893752",
     "title": "QUASI",
-    "poster": "https://www.themoviedb.org/t/p/w500/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg",
+    "release_date": "4/20/23"
   },
   {
     "id": 19,
     "imdb_id": "tt6875952",
     "tmdb_id": "763261",
     "title": "CARMEN",
-    "poster": "https://www.themoviedb.org/t/p/w500/oc07MMSumgytiBT1fVTuEMDjUQA.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/oc07MMSumgytiBT1fVTuEMDjUQA.jpg",
+    "release_date": "4/21/23"
   },
   {
     "id": 20,
     "imdb_id": "tt8080204",
     "tmdb_id": "536437",
     "title": "HYPNOTIC",
-    "poster": "https://www.themoviedb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+    "release_date": "5/12/23"
   },
   {
     "id": 21,
     "imdb_id": "tt5264838",
     "tmdb_id": "620705",
     "title": "CRATER",
-    "poster": "https://www.themoviedb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",
+    "release_date": "5/12/23"
   },
   {
     "id": 22,
     "imdb_id": "tt8417168",
     "tmdb_id": "1008102",
     "title": "RALLY ROAD RACERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/e9L7N5z3qHHgSNUIUuBSaicQvpT.jpg",
+    "release_date": "5/12/23"
   },
   {
     "id": 23,
     "imdb_id": "tt9013340",
     "tmdb_id": "553147",
     "title": "FOOL'S PARADISE",
-    "poster": "https://www.themoviedb.org/t/p/w500/pPv4KYbcG16xmr2Q0rlV2Brqh6g.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/pPv4KYbcG16xmr2Q0rlV2Brqh6g.jpg",
+    "release_date": "5/12/23"
   },
   {
     "id": 24,
     "imdb_id": "tt6528290",
     "tmdb_id": "455476",
     "title": "KNIGHTS OF THE ZODIAC",
-    "poster": "https://www.themoviedb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg",
+    "release_date": "5/12/23"
   },
   {
     "id": 25,
     "imdb_id": "tt12579470",
     "tmdb_id": "723347",
     "title": "ROBOTS",
-    "poster": "https://www.themoviedb.org/t/p/w500/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg",
+    "release_date": "5/19/23"
   },
   {
     "id": 26,
     "imdb_id": "tt6436620",
     "tmdb_id": "920125",
     "title": "WHITE MEN CAN'T JUMP",
-    "poster": "https://www.themoviedb.org/t/p/w500/i83Ykng2HVY5EF043zMmeQdLUQY.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/i83Ykng2HVY5EF043zMmeQdLUQY.jpg",
+    "release_date": "5/19/23"
   },
   {
     "id": 27,
     "imdb_id": "tt5761544",
     "tmdb_id": "717930",
     "title": "KANDAHAR",
-    "poster": "https://www.themoviedb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg",
+    "release_date": "5/26/23"
   },
   {
     "id": 28,
     "imdb_id": "tt8373206",
     "tmdb_id": "829051",
     "title": "ABOUT MY FATHER",
-    "poster": "https://www.themoviedb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg",
+    "release_date": "5/26/23"
   },
   {
     "id": 29,
     "imdb_id": "tt14270702",
     "tmdb_id": "808396",
     "title": "GOD IS A BULLET",
-    "poster": "https://www.themoviedb.org/t/p/w500/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+    "release_date": "6/23/23"
   },
   {
     "id": 30,
     "imdb_id": "tt6195756",
     "tmdb_id": "456483",
     "title": "WONDERWELL",
-    "poster": "https://www.themoviedb.org/t/p/w500/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg",
+    "release_date": "6/23/23"
   },
   {
     "id": 31,
     "imdb_id": "tt21391242",
     "tmdb_id": "1070802",
     "title": "CONFIDENTIAL INFORMANT",
-    "poster": "https://www.themoviedb.org/t/p/w500/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg",
+    "release_date": "6/30/23"
   },
   {
     "id": 32,
     "imdb_id": "tt13304086",
     "tmdb_id": "1101224",
     "title": "THE UNSEEN",
-    "poster": "https://www.themoviedb.org/t/p/w500/gHkkHjygqfgLbC8ST3VTdGh2pwd.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/gHkkHjygqfgLbC8ST3VTdGh2pwd.jpg",
+    "release_date": "6/30/23"
   },
   {
     "id": 33,
     "imdb_id": "tt23159982",
     "tmdb_id": "1103402",
     "title": "BLUE HOUR: THE DISAPPEARANCE OF NICK BRANDRETH",
-    "poster": "https://www.themoviedb.org/t/p/w500/q6VP3ixXuSAUa5IihANK6tLLFYn.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/q6VP3ixXuSAUa5IihANK6tLLFYn.jpg",
+    "release_date": "8/1/23"
   },
   {
     "id": 34,
     "imdb_id": "tt21389338",
     "tmdb_id": "1005731",
     "title": "WHAT COMES AROUND",
-    "poster": "https://www.themoviedb.org/t/p/w500/ubznCtw6ghCzgyHDk31m4EgTtAW.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/ubznCtw6ghCzgyHDk31m4EgTtAW.jpg",
+    "release_date": "8/4/23"
   },
   {
     "id": 35,
     "imdb_id": "tt9224104",
     "tmdb_id": "615656",
     "title": "MEG 2: THE TRENCH",
-    "poster": "https://www.themoviedb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+    "release_date": "8/4/23"
   },
   {
     "id": 36,
     "imdb_id": "tt1001520",
     "tmdb_id": "635910",
     "title": "THE LAST VOYAGE OF THE DEMETER",
-    "poster": "https://www.themoviedb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",
+    "release_date": "8/11/23"
   },
   {
     "id": 37,
     "imdb_id": "tt26443107",
     "tmdb_id": "1077661",
     "title": "THE ADULTS",
-    "poster": "https://www.themoviedb.org/t/p/w500/iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/iA8HDbXgQE6RIEwqCMBZwPbpfxT.jpg",
+    "release_date": "8/18/23"
   },
   {
     "id": 38,
     "imdb_id": "tt6048442",
     "tmdb_id": "943818",
     "title": "BACK ON THE STRIP",
-    "poster": "https://www.themoviedb.org/t/p/w500/wy6FIXGqaOiNeBOkVei3hOB6sVM.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/wy6FIXGqaOiNeBOkVei3hOB6sVM.jpg",
+    "release_date": "8/18/23"
   },
   {
     "id": 39,
     "imdb_id": "tt14454876",
     "tmdb_id": "899524",
     "title": "GOLDA",
-    "poster": "https://www.themoviedb.org/t/p/w500/4SbxFDkhxZeAAN1zxgVJpdUB3V.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/4SbxFDkhxZeAAN1zxgVJpdUB3V.jpg",
+    "release_date": "8/25/23"
   },
   {
     "id": 40,
     "imdb_id": "tt6906292",
     "tmdb_id": "762430",
     "title": "RETRIBUTION",
-    "poster": "https://www.themoviedb.org/t/p/w500/hAZO3hvLQVjIDW32lxSKmOOl987.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/hAZO3hvLQVjIDW32lxSKmOOl987.jpg",
+    "release_date": "8/25/23"
   },
   {
     "id": 41,
     "imdb_id": "tt15351980",
     "tmdb_id": "869641",
     "title": "VACATION FRIENDS 2",
-    "poster": "https://www.themoviedb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",
+    "release_date": "8/25/23"
   },
   {
     "id": 42,
     "imdb_id": "tt17024450",
     "tmdb_id": "926393",
     "title": "THE EQUALIZER 3",
-    "poster": "https://www.themoviedb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+    "release_date": "9/1/23"
   },
   {
     "id": 43,
     "imdb_id": "tt21222462",
     "tmdb_id": "996347",
     "title": "THE GOOD MOTHER",
-    "poster": "https://www.themoviedb.org/t/p/w500/L71mjGG7lGIhWZpyBKNxniWQ9.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/L71mjGG7lGIhWZpyBKNxniWQ9.jpg",
+    "release_date": "9/1/23"
   },
   {
     "id": 44,
     "imdb_id": "tt9428746",
     "tmdb_id": "500104",
     "title": "ARISTOTLE AND DANTE DISCOVER THE SECRETS OF THE UNIVERSE",
-    "poster": "https://www.themoviedb.org/t/p/w500/3oILDgGBzdQepcKICKMXh4XLnXh.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/3oILDgGBzdQepcKICKMXh4XLnXh.jpg",
+    "release_date": "9/8/23"
   },
   {
     "id": 45,
     "imdb_id": "tt10160976",
     "tmdb_id": "968051",
     "title": "THE NUN II",
-    "poster": "https://www.themoviedb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+    "release_date": "9/8/23"
   },
   {
     "id": 46,
     "imdb_id": "tt21103300",
     "tmdb_id": "1001811",
     "title": "MY BIG FAT GREEK WEDDING 3",
-    "poster": "https://www.themoviedb.org/t/p/w500/irEqWPmDqCuzsItzefFxX3xWpL8.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/irEqWPmDqCuzsItzefFxX3xWpL8.jpg",
+    "release_date": "9/8/23"
   },
   {
     "id": 47,
     "imdb_id": "tt15334488",
     "tmdb_id": "820525",
     "title": "AFTER EVERYTHING",
-    "poster": "https://www.themoviedb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+    "release_date": "9/13/23"
   },
   {
     "id": 48,
     "imdb_id": "tt13957560",
     "tmdb_id": "792293",
     "title": "DUMB MONEY",
-    "poster": "https://www.themoviedb.org/t/p/w500/gbOnTa2eTbCAznHiusxHI5oA78c.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/gbOnTa2eTbCAznHiusxHI5oA78c.jpg",
+    "release_date": "9/15/23"
   },
   {
     "id": 49,
     "imdb_id": "tt8667828",
     "tmdb_id": "889450",
     "title": "OUTLAW JOHNNY BLACK",
-    "poster": "https://www.themoviedb.org/t/p/w500/nnMW6UT0sVwPF02cQf0q5lGMf8Q.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/nnMW6UT0sVwPF02cQf0q5lGMf8Q.jpg",
+    "release_date": "9/15/23"
   },
   {
     "id": 50,
     "imdb_id": "tt14051976",
     "tmdb_id": "917594",
     "title": "CAMP HIDEOUT",
-    "poster": "https://www.themoviedb.org/t/p/w500/iRqstvN60G1JytNcqerdvOvEA21.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/iRqstvN60G1JytNcqerdvOvEA21.jpg",
+    "release_date": "9/15/23"
   },
   {
     "id": 51,
     "imdb_id": "tt14827638",
     "tmdb_id": "866346",
     "title": "THE RETIREMENT PLAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
+    "release_date": "9/15/23"
   },
   {
     "id": 52,
     "imdb_id": "tt15683734",
     "tmdb_id": "1024773",
     "title": "IT LIVES INSIDE",
-    "poster": "https://www.themoviedb.org/t/p/w500/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
+    "release_date": "9/22/23"
   },
   {
     "id": 53,
     "imdb_id": "tt3291150",
     "tmdb_id": "299054",
     "title": "EXPEND4BLES",
-    "poster": "https://www.themoviedb.org/t/p/w500/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+    "release_date": "9/22/23"
   },
   {
     "id": 54,
     "imdb_id": "tt13978520",
     "tmdb_id": "790493",
     "title": "SPY KIDS: ARMAGEDDON",
-    "poster": "https://www.themoviedb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",
+    "release_date": "9/22/23"
   },
   {
     "id": 55,
     "imdb_id": "tt11908172",
     "tmdb_id": "958006",
     "title": "THE KILL ROOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/qKpdy7N6zX05eisopvvviiTwPxb.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
+    "release_date": "9/28/23"
   },
   {
     "id": 56,
     "imdb_id": "tt11858890",
     "tmdb_id": "670292",
     "title": "THE CREATOR",
-    "poster": "https://www.themoviedb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+    "release_date": "9/29/23"
   },
   {
     "id": 57,
     "imdb_id": "tt17202164",
     "tmdb_id": "1081662",
     "title": "APPENDAGE",
-    "poster": "https://www.themoviedb.org/t/p/w500/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg",
+    "release_date": "10/2/23"
   },
   {
     "id": 58,
     "imdb_id": "tt14866108",
     "tmdb_id": "980816",
     "title": "MIRANDA'S VICTIM",
-    "poster": "https://www.themoviedb.org/t/p/w500/82lu2Rb0MoBpfyUtoVwhLiVrDlF.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/82lu2Rb0MoBpfyUtoVwhLiVrDlF.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 59,
     "imdb_id": "tt14647404",
     "tmdb_id": "843394",
     "title": "CAT PERSON",
-    "poster": "https://www.themoviedb.org/t/p/w500/8J1iCl6S7yFVPu4Op3tC855BVyR.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/8J1iCl6S7yFVPu4Op3tC855BVyR.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 60,
     "imdb_id": "tt6689014",
     "tmdb_id": "503417",
     "title": "SHE CAME TO ME",
-    "poster": "https://www.themoviedb.org/t/p/w500/2lG18RqCK8qTk7R5jA1L7ZRMWXu.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/2lG18RqCK8qTk7R5jA1L7ZRMWXu.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 61,
     "imdb_id": "tt14633464",
     "tmdb_id": "1039690",
     "title": "DESPERATION ROAD",
-    "poster": "https://www.themoviedb.org/t/p/w500/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 62,
     "imdb_id": "tt22640398",
     "tmdb_id": "1032948",
     "title": "V/H/S/85",
-    "poster": "https://www.themoviedb.org/t/p/w500/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/yIPSlVaTYuxhbsmSsGBDCZkiN3P.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 63,
     "imdb_id": "tt8258502",
     "tmdb_id": "760245",
     "title": "FOE",
-    "poster": "https://www.themoviedb.org/t/p/w500/j5B6TQSYgssYdXjA7kYdTJR0tt2.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/j5B6TQSYgssYdXjA7kYdTJR0tt2.jpg",
+    "release_date": "10/6/23"
   },
   {
     "id": 64,
     "imdb_id": "tt26569323",
     "tmdb_id": "1081400",
     "title": "THE MILL",
-    "poster": "https://www.themoviedb.org/t/p/w500/bCga8NK6mzRHTd7t1m8bvLDDvSz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/bCga8NK6mzRHTd7t1m8bvLDDvSz.jpg",
+    "release_date": "10/9/23"
   },
   {
     "id": 65,
     "imdb_id": "tt14592044",
     "tmdb_id": "1072799",
     "title": "DOWN LOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/vRJ8gn4lapIhQhZDy1222CWCztc.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/vRJ8gn4lapIhQhZDy1222CWCztc.jpg",
+    "release_date": "10/10/23"
   },
   {
     "id": 66,
     "imdb_id": "tt9204328",
     "tmdb_id": "675531",
     "title": "DARK HARVEST",
-    "poster": "https://www.themoviedb.org/t/p/w500/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
+    "release_date": "10/11/23"
   },
   {
     "id": 67,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
-    "poster": "https://www.themoviedb.org/t/p/w500/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
+    "release_date": "10/13/23"
   },
   {
     "id": 68,
     "imdb_id": "tt15444046",
     "tmdb_id": "1058619",
     "title": "DIVINITY",
-    "poster": "https://www.themoviedb.org/t/p/w500/nDGij5loooxlI66SLVvT4101xEf.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/nDGij5loooxlI66SLVvT4101xEf.jpg",
+    "release_date": "10/13/23"
   },
   {
     "id": 69,
     "imdb_id": "tt9288740",
     "tmdb_id": "609768",
     "title": "DEAR DAVID",
-    "poster": "https://www.themoviedb.org/t/p/w500/kT5tsoIWnXlLBaeOfkoso11dUgB.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/kT5tsoIWnXlLBaeOfkoso11dUgB.jpg",
+    "release_date": "10/13/23"
   },
   {
     "id": 70,
     "imdb_id": "tt17595094",
     "tmdb_id": "946215",
     "title": "IN THE FIRE",
-    "poster": "https://www.themoviedb.org/t/p/w500/rS6GBWRgKkvmcPvtKNuhGkQggjz.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/rS6GBWRgKkvmcPvtKNuhGkQggjz.jpg",
+    "release_date": "10/13/23"
   },
   {
     "id": 71,
     "imdb_id": "tt5537002",
     "tmdb_id": "466420",
     "title": "KILLERS OF THE FLOWER MOON",
-    "poster": "https://www.themoviedb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+    "release_date": "10/20/23"
   },
   {
     "id": 72,
     "imdb_id": "tt24076146",
     "tmdb_id": "1058620",
     "title": "THE PERSIAN VERSION",
-    "poster": "https://www.themoviedb.org/t/p/w500/5YwOnR2tJO1X0wpmSaQb4PvfT1I.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/5YwOnR2tJO1X0wpmSaQb4PvfT1I.jpg",
+    "release_date": "10/20/23"
   },
   {
     "id": 73,
     "imdb_id": "tt11951276",
     "tmdb_id": "912916",
     "title": "THE OTHER ZOEY",
-    "poster": "https://www.themoviedb.org/t/p/w500/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg",
+    "release_date": "10/20/23"
   },
   {
     "id": 74,
     "imdb_id": "tt1462759",
     "tmdb_id": "843846",
     "title": "BUTCHER'S CROSSING",
-    "poster": "https://www.themoviedb.org/t/p/w500/ecCHA70C9PwG1AJz09wZrlPHzzF.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/ecCHA70C9PwG1AJz09wZrlPHzzF.jpg",
+    "release_date": "10/20/23"
   },
   {
     "id": 75,
     "imdb_id": "tt3701150",
     "tmdb_id": "618165",
     "title": "SICK GIRL",
-    "poster": "https://www.themoviedb.org/t/p/w500/oBwvNA03OQ2VXbtySYXPWRuWAGx.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/oBwvNA03OQ2VXbtySYXPWRuWAGx.jpg",
+    "release_date": "10/20/23"
   },
   {
     "id": 76,
     "imdb_id": "tt14849194",
     "tmdb_id": "840430",
     "title": "THE HOLDOVERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 77,
     "imdb_id": "tt1136617",
     "tmdb_id": "800158",
     "title": "THE KILLER",
-    "poster": "https://www.themoviedb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 78,
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
-    "poster": "https://www.themoviedb.org/t/p/w500/3eTAdKJzC8biM52Eii1ghk69bMP.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/3eTAdKJzC8biM52Eii1ghk69bMP.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 79,
     "imdb_id": "tt10551654",
     "tmdb_id": "609271",
     "title": "UNDER THE BOARDWALK",
-    "poster": "https://www.themoviedb.org/t/p/w500/dYubl9T67KKgggQUawHs0xYMWEU.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/dYubl9T67KKgggQUawHs0xYMWEU.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 80,
     "imdb_id": "tt15744298",
     "tmdb_id": "897087",
     "title": "FREELANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/7cpAXiwsdFx6GGU0TBGRvDYJuRQ.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/7cpAXiwsdFx6GGU0TBGRvDYJuRQ.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 81,
     "imdb_id": "tt21397580",
     "tmdb_id": "1006947",
     "title": "SUITABLE FLESH",
-    "poster": "https://www.themoviedb.org/t/p/w500/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg",
+    "release_date": "10/27/23"
   },
   {
     "id": 82,
     "imdb_id": "tt22796890",
     "tmdb_id": "1035982",
     "title": "HELL HOUSE LLC ORIGINS: THE CARMICHAEL MANOR",
-    "poster": "https://www.themoviedb.org/t/p/w500/9YlsIwWATGwT6LL5UZVF5xoBTcC.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/9YlsIwWATGwT6LL5UZVF5xoBTcC.jpg",
+    "release_date": "10/30/23"
   },
   {
     "id": 83,
     "imdb_id": "tt10950320",
     "tmdb_id": "844416",
     "title": "RUMBLE THROUGH THE DARK",
-    "poster": "https://www.themoviedb.org/t/p/w500/19UbYIT9WEQS5qSD3BREDxVXk8g.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/19UbYIT9WEQS5qSD3BREDxVXk8g.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 84,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
-    "poster": "https://www.themoviedb.org/t/p/w500/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 85,
     "imdb_id": "tt14160834",
     "tmdb_id": "898713",
     "title": "RUSTIN",
-    "poster": "https://www.themoviedb.org/t/p/w500/p5GJTRHGGvyJpkO5yEsKuGep5RK.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/p5GJTRHGGvyJpkO5yEsKuGep5RK.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 86,
     "imdb_id": "tt8002382",
     "tmdb_id": "798362",
     "title": "THE MARSH KING'S DAUGHTER",
-    "poster": "https://www.themoviedb.org/t/p/w500/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 87,
     "imdb_id": "tt15791114",
     "tmdb_id": "996740",
     "title": "HELEN'S DEAD",
-    "poster": "https://www.themoviedb.org/t/p/w500/qtk6f6VlwNkmVxeeXUqOpyw1QVF.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/qtk6f6VlwNkmVxeeXUqOpyw1QVF.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 88,
     "imdb_id": "tt11534720",
     "tmdb_id": "800227",
     "title": "ALL DIRT ROADS TASTE OF SALT",
-    "poster": "https://www.themoviedb.org/t/p/w500/mP9bXzOmRtklP4EMLbiF1eZlL7U.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/mP9bXzOmRtklP4EMLbiF1eZlL7U.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 89,
     "imdb_id": "tt19890316",
     "tmdb_id": "970948",
     "title": "WHAT HAPPENS LATER",
-    "poster": "https://www.themoviedb.org/t/p/w500/oSAdS03j8zbjv35gKdjrIL5snw1.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/oSAdS03j8zbjv35gKdjrIL5snw1.jpg",
+    "release_date": "11/3/23"
   },
   {
     "id": 90,
     "imdb_id": "tt13848804",
     "tmdb_id": "1092329",
     "title": "JOURNEY TO BETHLEHEM",
-    "poster": "https://www.themoviedb.org/t/p/w500/cJgF1vjiNoRAh5UePmiPfjrw6Iv.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/cJgF1vjiNoRAh5UePmiPfjrw6Iv.jpg",
+    "release_date": "11/10/23"
   },
   {
     "id": 91,
     "imdb_id": "tt16424988",
     "tmdb_id": "923993",
     "title": "YOUR LUCKY DAY",
-    "poster": "https://www.themoviedb.org/t/p/w500/n0KGjOJ4r2yvHT2dZpGq0PA77tP.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/n0KGjOJ4r2yvHT2dZpGq0PA77tP.jpg",
+    "release_date": "11/10/23"
   },
   {
     "id": 92,
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/h6Yg233bGv5740NPiU9bMFliwW4.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/h6Yg233bGv5740NPiU9bMFliwW4.jpg",
+    "release_date": "11/10/23"
   },
   {
     "id": 93,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
-    "poster": "https://www.themoviedb.org/t/p/w500/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg",
+    "release_date": "11/10/23"
   },
   {
     "id": 94,
     "imdb_id": "tt14813150",
     "tmdb_id": "843942",
     "title": "MANODROME",
-    "poster": "https://www.themoviedb.org/t/p/w500/n3vKWG58HoFu2BdnC4XkqkvuGEw.jpg"
+    "poster": "https://www.themoviedb.org/t/p/w500/n3vKWG58HoFu2BdnC4XkqkvuGEw.jpg",
+    "release_date": "11/10/23"
   }
 ]
