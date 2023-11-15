@@ -281,6 +281,14 @@
   },
   {
     "id": 36,
+    "imdb_id": "tt14998742",
+    "tmdb_id": "848326",
+    "title": "REBEL MOON",
+    "poster": "https://www.themoviedb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 37,
     "imdb_id": "tt21192142",
     "tmdb_id": "994108",
     "title": "ALL OF US STRANGERS",
@@ -288,7 +296,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 37,
+    "id": 38,
     "imdb_id": "tt26047818",
     "tmdb_id": "1072790",
     "title": "ANYONE BUT YOU",
@@ -296,7 +304,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 38,
+    "id": 39,
     "imdb_id": "tt9663764",
     "tmdb_id": "572802",
     "title": "AQUAMAN AND THE LOST KINGDOM",
@@ -304,19 +312,11 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 39,
+    "id": 40,
     "imdb_id": "tt6495056",
     "tmdb_id": "940551",
     "title": "MIGRATION",
     "poster": "https://www.themoviedb.org/t/p/w500/apQL85BMRgkBWQq6pBXKOLfCyaV.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 40,
-    "imdb_id": "tt14998742",
-    "tmdb_id": "848326",
-    "title": "REBEL MOON",
-    "poster": "https://www.themoviedb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
     "release_date": "12/22/23"
   },
   {
