@@ -564,7 +564,7 @@
     "imdb_id": "tt14160834",
     "tmdb_id": "898713",
     "title": "RUSTIN",
-    "poster": "https://www.themoviedb.org/t/p/w500/p5GJTRHGGvyJpkO5yEsKuGep5RK.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
     "release_date": "11/3/23"
   },
   {
@@ -644,15 +644,63 @@
     "imdb_id": "tt14813150",
     "tmdb_id": "843942",
     "title": "MANODROME",
-    "poster": "https://www.themoviedb.org/t/p/w500/n3vKWG58HoFu2BdnC4XkqkvuGEw.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg",
     "release_date": "11/10/23"
   },
   {
     "id": 82,
-    "imdb_id": "tt7038762",
-    "tmdb_id": "987490",
-    "title": "BEST. CHRISTMAS. EVER!",
-    "poster": "https://www.themoviedb.org/t/p/w500/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
-    "release_date": "11/16/23"
+    "imdb_id": "tt13651794",
+    "tmdb_id": "839369",
+    "title": "MAY DECEMBER",
+    "poster": "https://www.themoviedb.org/t/p/w500/zHR4WWExa1H3frWIjhKVyNV6PAk.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 83,
+    "imdb_id": "tt17351924",
+    "tmdb_id": "930564",
+    "title": "SALTBURN",
+    "poster": "https://www.themoviedb.org/t/p/w500/gjPI9wcQaLUF0hsiWTlw2CFHekQ.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 84,
+    "imdb_id": "tt10767052",
+    "tmdb_id": "621587",
+    "title": "NEXT GOAL WINS",
+    "poster": "https://www.themoviedb.org/t/p/w500/zWmKqcox4AgM3deEEVCeYqEOOJ2.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 85,
+    "imdb_id": "tt14362112",
+    "tmdb_id": "901362",
+    "title": "TROLLS BAND TOGETHER",
+    "poster": "https://www.themoviedb.org/t/p/w500/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 86,
+    "imdb_id": "tt5608166",
+    "tmdb_id": "1001884",
+    "title": "DASHING THROUGH THE SNOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 87,
+    "imdb_id": "tt21335356",
+    "tmdb_id": "1002315",
+    "title": "PLEASE DON'T DESTROY: THE TREASURE OF FOGGY MOUNTAIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/2WSTjQNamyMoy3kFDemd1os8TNz.jpg",
+    "release_date": "11/17/23"
+  },
+  {
+    "id": 88,
+    "imdb_id": "tt10545296",
+    "tmdb_id": "695721",
+    "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
+    "poster": "https://www.themoviedb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "release_date": "11/17/23"
   }
 ]

@@ -1614,5 +1614,21 @@
     "title": "IT'S A WONDERFUL KNIFE",
     "poster": "https://www.themoviedb.org/t/p/w500/bnm5NntrQBcG3P7DbO00v2FmXm8.jpg",
     "release_date": "11/10/23"
+  },
+  {
+    "id": 203,
+    "imdb_id": "tt7038762",
+    "tmdb_id": "987490",
+    "title": "BEST. CHRISTMAS. EVER!",
+    "poster": "https://www.themoviedb.org/t/p/w500/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg",
+    "release_date": "11/16/23"
+  },
+  {
+    "id": 204,
+    "imdb_id": "tt1448754",
+    "tmdb_id": "1071215",
+    "title": "THANKSGIVING",
+    "poster": "https://www.themoviedb.org/t/p/w500/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+    "release_date": "11/17/23"
   }
 ]
