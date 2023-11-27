@@ -16,7 +16,7 @@
     "release_date": "3/31/23"
   },
   {
-    "id": 4,
+    "id": 3,
     "imdb_id": "tt8080204",
     "tmdb_id": "536437",
     "title": "HYPNOTIC",
@@ -24,7 +24,7 @@
     "release_date": "5/12/23"
   },
   {
-    "id": 5,
+    "id": 4,
     "imdb_id": "tt8417168",
     "tmdb_id": "1008102",
     "title": "RALLY ROAD RACERS",
@@ -32,7 +32,7 @@
     "release_date": "5/12/23"
   },
   {
-    "id": 6,
+    "id": 5,
     "imdb_id": "tt9013340",
     "tmdb_id": "553147",
     "title": "FOOL'S PARADISE",
@@ -40,7 +40,7 @@
     "release_date": "5/12/23"
   },
   {
-    "id": 7,
+    "id": 6,
     "imdb_id": "tt6436620",
     "tmdb_id": "920125",
     "title": "WHITE MEN CAN'T JUMP",
@@ -48,7 +48,7 @@
     "release_date": "5/19/23"
   },
   {
-    "id": 8,
+    "id": 7,
     "imdb_id": "tt5761544",
     "tmdb_id": "717930",
     "title": "KANDAHAR",
@@ -56,15 +56,7 @@
     "release_date": "5/26/23"
   },
   {
-    "id": 9,
-    "imdb_id": "tt14270702",
-    "tmdb_id": "808396",
-    "title": "GOD IS A BULLET",
-    "poster": "https://www.themoviedb.org/t/p/w500/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
-    "release_date": "6/23/23"
-  },
-  {
-    "id": 10,
+    "id": 8,
     "imdb_id": "tt13304086",
     "tmdb_id": "1101224",
     "title": "THE UNSEEN",
@@ -72,7 +64,7 @@
     "release_date": "6/30/23"
   },
   {
-    "id": 11,
+    "id": 9,
     "imdb_id": "tt23159982",
     "tmdb_id": "1103402",
     "title": "BLUE HOUR: THE DISAPPEARANCE OF NICK BRANDRETH",
@@ -80,7 +72,7 @@
     "release_date": "8/1/23"
   },
   {
-    "id": 12,
+    "id": 10,
     "imdb_id": "tt9224104",
     "tmdb_id": "615656",
     "title": "MEG 2: THE TRENCH",
@@ -88,7 +80,7 @@
     "release_date": "8/4/23"
   },
   {
-    "id": 13,
+    "id": 11,
     "imdb_id": "tt6048442",
     "tmdb_id": "943818",
     "title": "BACK ON THE STRIP",
@@ -96,7 +88,7 @@
     "release_date": "8/18/23"
   },
   {
-    "id": 14,
+    "id": 12,
     "imdb_id": "tt6906292",
     "tmdb_id": "762430",
     "title": "RETRIBUTION",
@@ -104,7 +96,7 @@
     "release_date": "8/25/23"
   },
   {
-    "id": 15,
+    "id": 13,
     "imdb_id": "tt17024450",
     "tmdb_id": "926393",
     "title": "THE EQUALIZER 3",
@@ -112,7 +104,7 @@
     "release_date": "9/1/23"
   },
   {
-    "id": 16,
+    "id": 14,
     "imdb_id": "tt21222462",
     "tmdb_id": "996347",
     "title": "THE GOOD MOTHER",
@@ -120,7 +112,7 @@
     "release_date": "9/1/23"
   },
   {
-    "id": 17,
+    "id": 15,
     "imdb_id": "tt9428746",
     "tmdb_id": "500104",
     "title": "ARISTOTLE AND DANTE DISCOVER THE SECRETS OF THE UNIVERSE",
@@ -128,7 +120,7 @@
     "release_date": "9/8/23"
   },
   {
-    "id": 18,
+    "id": 16,
     "imdb_id": "tt21103300",
     "tmdb_id": "1001811",
     "title": "MY BIG FAT GREEK WEDDING 3",
@@ -136,7 +128,7 @@
     "release_date": "9/8/23"
   },
   {
-    "id": 19,
+    "id": 17,
     "imdb_id": "tt15334488",
     "tmdb_id": "820525",
     "title": "AFTER EVERYTHING",
@@ -144,15 +136,15 @@
     "release_date": "9/13/23"
   },
   {
-    "id": 20,
+    "id": 18,
     "imdb_id": "tt13957560",
     "tmdb_id": "792293",
     "title": "DUMB MONEY",
-    "poster": "https://www.themoviedb.org/t/p/w500/xYTymnjkVqhn3V66QmNJxFUesLT.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/wZYkhbtMlHKdxbF6SPZlOowF9w7.jpg",
     "release_date": "9/15/23"
   },
   {
-    "id": 21,
+    "id": 19,
     "imdb_id": "tt8667828",
     "tmdb_id": "889450",
     "title": "OUTLAW JOHNNY BLACK",
@@ -160,7 +152,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 22,
+    "id": 20,
     "imdb_id": "tt14051976",
     "tmdb_id": "917594",
     "title": "CAMP HIDEOUT",
@@ -168,7 +160,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 23,
+    "id": 21,
     "imdb_id": "tt14827638",
     "tmdb_id": "866346",
     "title": "THE RETIREMENT PLAN",
@@ -176,7 +168,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 24,
+    "id": 22,
     "imdb_id": "tt15683734",
     "tmdb_id": "1024773",
     "title": "IT LIVES INSIDE",
@@ -184,7 +176,7 @@
     "release_date": "9/22/23"
   },
   {
-    "id": 25,
+    "id": 23,
     "imdb_id": "tt3291150",
     "tmdb_id": "299054",
     "title": "EXPEND4BLES",
@@ -192,7 +184,7 @@
     "release_date": "9/22/23"
   },
   {
-    "id": 26,
+    "id": 24,
     "imdb_id": "tt13978520",
     "tmdb_id": "790493",
     "title": "SPY KIDS: ARMAGEDDON",
@@ -200,7 +192,7 @@
     "release_date": "9/22/23"
   },
   {
-    "id": 27,
+    "id": 25,
     "imdb_id": "tt11908172",
     "tmdb_id": "958006",
     "title": "THE KILL ROOM",
@@ -208,7 +200,7 @@
     "release_date": "9/28/23"
   },
   {
-    "id": 28,
+    "id": 26,
     "imdb_id": "tt11858890",
     "tmdb_id": "670292",
     "title": "THE CREATOR",
@@ -216,7 +208,7 @@
     "release_date": "9/29/23"
   },
   {
-    "id": 29,
+    "id": 27,
     "imdb_id": "tt13515258",
     "tmdb_id": "787761",
     "title": "ORACLE",
@@ -224,7 +216,7 @@
     "release_date": "10/1/23"
   },
   {
-    "id": 30,
+    "id": 28,
     "imdb_id": "tt17202164",
     "tmdb_id": "1081662",
     "title": "APPENDAGE",
@@ -232,7 +224,7 @@
     "release_date": "10/2/23"
   },
   {
-    "id": 31,
+    "id": 29,
     "imdb_id": "tt14866108",
     "tmdb_id": "980816",
     "title": "MIRANDA'S VICTIM",
@@ -240,7 +232,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 32,
+    "id": 30,
     "imdb_id": "tt14647404",
     "tmdb_id": "843394",
     "title": "CAT PERSON",
@@ -248,7 +240,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 33,
+    "id": 31,
     "imdb_id": "tt6689014",
     "tmdb_id": "503417",
     "title": "SHE CAME TO ME",
@@ -256,7 +248,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 34,
+    "id": 32,
     "imdb_id": "tt14633464",
     "tmdb_id": "1039690",
     "title": "DESPERATION ROAD",
@@ -264,7 +256,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 35,
+    "id": 33,
     "imdb_id": "tt22640398",
     "tmdb_id": "1032948",
     "title": "V/H/S/85",
@@ -272,7 +264,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 36,
+    "id": 34,
     "imdb_id": "tt8258502",
     "tmdb_id": "760245",
     "title": "FOE",
@@ -280,7 +272,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 37,
+    "id": 35,
     "imdb_id": "tt26569323",
     "tmdb_id": "1081400",
     "title": "THE MILL",
@@ -288,7 +280,7 @@
     "release_date": "10/9/23"
   },
   {
-    "id": 38,
+    "id": 36,
     "imdb_id": "tt14592044",
     "tmdb_id": "1072799",
     "title": "DOWN LOW",
@@ -296,7 +288,7 @@
     "release_date": "10/10/23"
   },
   {
-    "id": 39,
+    "id": 37,
     "imdb_id": "tt9204328",
     "tmdb_id": "675531",
     "title": "DARK HARVEST",
@@ -304,7 +296,7 @@
     "release_date": "10/11/23"
   },
   {
-    "id": 40,
+    "id": 38,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
@@ -312,7 +304,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 41,
+    "id": 39,
     "imdb_id": "tt15444046",
     "tmdb_id": "1058619",
     "title": "DIVINITY",
@@ -320,7 +312,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 42,
+    "id": 40,
     "imdb_id": "tt9288740",
     "tmdb_id": "609768",
     "title": "DEAR DAVID",
@@ -328,7 +320,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 43,
+    "id": 41,
     "imdb_id": "tt17595094",
     "tmdb_id": "946215",
     "title": "IN THE FIRE",
@@ -336,7 +328,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 44,
+    "id": 42,
     "imdb_id": "tt5537002",
     "tmdb_id": "466420",
     "title": "KILLERS OF THE FLOWER MOON",
@@ -344,7 +336,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 45,
+    "id": 43,
     "imdb_id": "tt24076146",
     "tmdb_id": "1058620",
     "title": "THE PERSIAN VERSION",
@@ -352,7 +344,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 46,
+    "id": 44,
     "imdb_id": "tt11951276",
     "tmdb_id": "912916",
     "title": "THE OTHER ZOEY",
@@ -360,7 +352,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 47,
+    "id": 45,
     "imdb_id": "tt3701150",
     "tmdb_id": "618165",
     "title": "SICK GIRL",
@@ -368,7 +360,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 48,
+    "id": 46,
     "imdb_id": "tt14849194",
     "tmdb_id": "840430",
     "title": "THE HOLDOVERS",
@@ -376,7 +368,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 49,
+    "id": 47,
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
@@ -384,7 +376,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 50,
+    "id": 48,
     "imdb_id": "tt1136617",
     "tmdb_id": "800158",
     "title": "THE KILLER",
@@ -392,7 +384,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 51,
+    "id": 49,
     "imdb_id": "tt10551654",
     "tmdb_id": "609271",
     "title": "UNDER THE BOARDWALK",
@@ -400,7 +392,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 52,
+    "id": 50,
     "imdb_id": "tt15744298",
     "tmdb_id": "897087",
     "title": "FREELANCE",
@@ -408,7 +400,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 53,
+    "id": 51,
     "imdb_id": "tt21397580",
     "tmdb_id": "1006947",
     "title": "SUITABLE FLESH",
@@ -416,7 +408,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 54,
+    "id": 52,
     "imdb_id": "tt22796890",
     "tmdb_id": "1035982",
     "title": "HELL HOUSE LLC ORIGINS: THE CARMICHAEL MANOR",
@@ -424,7 +416,7 @@
     "release_date": "10/30/23"
   },
   {
-    "id": 55,
+    "id": 53,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -432,15 +424,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 56,
-    "imdb_id": "tt8002382",
-    "tmdb_id": "798362",
-    "title": "THE MARSH KING'S DAUGHTER",
-    "poster": "https://www.themoviedb.org/t/p/w500/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg",
-    "release_date": "11/3/23"
-  },
-  {
-    "id": 57,
+    "id": 54,
     "imdb_id": "tt15791114",
     "tmdb_id": "996740",
     "title": "HELEN'S DEAD",
@@ -448,7 +432,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 58,
+    "id": 55,
     "imdb_id": "tt10950320",
     "tmdb_id": "844416",
     "title": "RUMBLE THROUGH THE DARK",
@@ -456,7 +440,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 59,
+    "id": 56,
     "imdb_id": "tt11534720",
     "tmdb_id": "800227",
     "title": "ALL DIRT ROADS TASTE OF SALT",
@@ -464,7 +448,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 60,
+    "id": 57,
     "imdb_id": "tt19890316",
     "tmdb_id": "970948",
     "title": "WHAT HAPPENS LATER",
@@ -472,7 +456,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 61,
+    "id": 58,
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
@@ -480,7 +464,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 62,
+    "id": 59,
     "imdb_id": "tt13848804",
     "tmdb_id": "1092329",
     "title": "JOURNEY TO BETHLEHEM",
@@ -488,15 +472,15 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 63,
+    "id": 60,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
-    "poster": "https://www.themoviedb.org/t/p/w500/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
     "release_date": "11/10/23"
   },
   {
-    "id": 64,
+    "id": 61,
     "imdb_id": "tt16424988",
     "tmdb_id": "923993",
     "title": "YOUR LUCKY DAY",
@@ -504,7 +488,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 65,
+    "id": 62,
     "imdb_id": "tt14813150",
     "tmdb_id": "843942",
     "title": "MANODROME",
@@ -512,7 +496,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 66,
+    "id": 63,
     "imdb_id": "tt17351924",
     "tmdb_id": "930564",
     "title": "SALTBURN",
@@ -520,15 +504,15 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 67,
+    "id": 64,
     "imdb_id": "tt13651794",
     "tmdb_id": "839369",
     "title": "MAY DECEMBER",
-    "poster": "https://www.themoviedb.org/t/p/w500/28EqM1hDOouA65aaCPucyagbF61.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/fRGB8l78uhPp14CAi2vtouTSQge.jpg",
     "release_date": "11/17/23"
   },
   {
-    "id": 68,
+    "id": 65,
     "imdb_id": "tt10545296",
     "tmdb_id": "695721",
     "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
@@ -536,7 +520,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 69,
+    "id": 66,
     "imdb_id": "tt21335356",
     "tmdb_id": "1002315",
     "title": "PLEASE DON'T DESTROY: THE TREASURE OF FOGGY MOUNTAIN",
@@ -544,7 +528,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 70,
+    "id": 67,
     "imdb_id": "tt10767052",
     "tmdb_id": "621587",
     "title": "NEXT GOAL WINS",
@@ -552,15 +536,15 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 71,
+    "id": 68,
     "imdb_id": "tt14362112",
     "tmdb_id": "901362",
     "title": "TROLLS BAND TOGETHER",
-    "poster": "https://www.themoviedb.org/t/p/w500/lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
     "release_date": "11/17/23"
   },
   {
-    "id": 72,
+    "id": 69,
     "imdb_id": "tt5608166",
     "tmdb_id": "1001884",
     "title": "DASHING THROUGH THE SNOW",
@@ -568,15 +552,15 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 73,
+    "id": 70,
     "imdb_id": "tt5755238",
     "tmdb_id": "1075794",
     "title": "LEO",
-    "poster": "https://www.themoviedb.org/t/p/w500/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
     "release_date": "11/21/23"
   },
   {
-    "id": 74,
+    "id": 71,
     "imdb_id": "tt5535276",
     "tmdb_id": "523607",
     "title": "MAESTRO",
@@ -584,7 +568,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 75,
+    "id": 72,
     "imdb_id": "tt12747748",
     "tmdb_id": "726209",
     "title": "LEAVE THE WORLD BEHIND",
@@ -592,7 +576,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 76,
+    "id": 73,
     "imdb_id": "tt13287846",
     "tmdb_id": "753342",
     "title": "NAPOLEON",
@@ -600,7 +584,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 77,
+    "id": 74,
     "imdb_id": "tt24429218",
     "tmdb_id": "1189198",
     "title": "GENIE",
@@ -608,7 +592,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 78,
+    "id": 75,
     "imdb_id": "tt11304740",
     "tmdb_id": "1022796",
     "title": "WISH",
@@ -616,7 +600,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 79,
+    "id": 76,
     "imdb_id": "tt25289836",
     "tmdb_id": "1101582",
     "title": "GOOD BURGER 2",
