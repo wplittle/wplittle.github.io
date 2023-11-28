@@ -25,14 +25,6 @@
   },
   {
     "id": 4,
-    "imdb_id": "tt21454134",
-    "tmdb_id": "1008409",
-    "title": "THE BIKERIDERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/oCM37y7RAmJeSEbxiWdjK7lVZzy.jpg",
-    "release_date": "12/1/23"
-  },
-  {
-    "id": 5,
     "imdb_id": "tt5198890",
     "tmdb_id": "664341",
     "title": "EILEEN",
@@ -40,7 +32,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 6,
+    "id": 5,
     "imdb_id": "tt21328106",
     "tmdb_id": "1022964",
     "title": "CANDY CANE LANE",
@@ -48,7 +40,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 7,
+    "id": 6,
     "imdb_id": "tt15799866",
     "tmdb_id": "891699",
     "title": "SILENT NIGHT",
@@ -56,7 +48,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 8,
+    "id": 7,
     "imdb_id": "tt15477042",
     "tmdb_id": "1114653",
     "title": "WAITRESS: THE MUSICAL",
@@ -64,7 +56,7 @@
     "release_date": "12/7/23"
   },
   {
-    "id": 9,
+    "id": 8,
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
@@ -72,15 +64,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 10,
-    "imdb_id": "tt7160372",
-    "tmdb_id": "467244",
-    "title": "THE ZONE OF INTEREST",
-    "poster": "https://www.themoviedb.org/t/p/w500/AbFtI353N2Pggl5TxfsI2VtpUt8.jpg",
-    "release_date": "12/8/23"
-  },
-  {
-    "id": 11,
+    "id": 9,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -88,7 +72,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 12,
+    "id": 10,
     "imdb_id": "tt13321244",
     "tmdb_id": "753336",
     "title": "ORIGIN",
@@ -96,7 +80,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 13,
+    "id": 11,
     "imdb_id": "tt29033964",
     "tmdb_id": "1123093",
     "title": "DIARY OF A WIMPY KID CHRISTMAS: CABIN FEVER",
@@ -104,7 +88,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 14,
+    "id": 12,
     "imdb_id": "tt18925050",
     "tmdb_id": "1190665",
     "title": "THE OATH",
@@ -112,7 +96,15 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 15,
+    "id": 13,
+    "imdb_id": "tt7160372",
+    "tmdb_id": "467244",
+    "title": "THE ZONE OF INTEREST",
+    "poster": "https://www.themoviedb.org/t/p/w500/AbFtI353N2Pggl5TxfsI2VtpUt8.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 14,
     "imdb_id": "tt23561236",
     "tmdb_id": "1056360",
     "title": "AMERICAN FICTION",
@@ -120,7 +112,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 16,
+    "id": 15,
     "imdb_id": "tt8337264",
     "tmdb_id": "520758",
     "title": "CHICKEN RUN: DAWN OF THE NUGGET",
@@ -128,7 +120,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 17,
+    "id": 16,
     "imdb_id": "tt7991508",
     "tmdb_id": "507532",
     "title": "FINESTKIND",
@@ -136,7 +128,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 18,
+    "id": 17,
     "imdb_id": "tt14998742",
     "tmdb_id": "848326",
     "title": "REBEL MOON - PART ONE: A CHILD OF FIRE",
@@ -144,7 +136,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 19,
+    "id": 18,
     "imdb_id": "tt16431870",
     "tmdb_id": "1029575",
     "title": "THE FAMILY PLAN",
@@ -152,7 +144,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 20,
+    "id": 19,
     "imdb_id": "tt6166392",
     "tmdb_id": "787699",
     "title": "WONKA",
@@ -160,7 +152,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 21,
+    "id": 20,
     "imdb_id": "tt19864828",
     "tmdb_id": "979097",
     "title": "MEMORY",
@@ -168,15 +160,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 22,
-    "imdb_id": "tt21192142",
-    "tmdb_id": "994108",
-    "title": "ALL OF US STRANGERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/9ezfT70CrORubJktOA88kfTb9L.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 23,
+    "id": 21,
     "imdb_id": "tt26047818",
     "tmdb_id": "1072790",
     "title": "ANYONE BUT YOU",
@@ -184,7 +168,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 24,
+    "id": 22,
     "imdb_id": "tt9663764",
     "tmdb_id": "572802",
     "title": "AQUAMAN AND THE LOST KINGDOM",
@@ -192,7 +176,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 25,
+    "id": 23,
     "imdb_id": "tt6495056",
     "tmdb_id": "940551",
     "title": "MIGRATION",
@@ -200,7 +184,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 26,
+    "id": 24,
     "imdb_id": "tt21064584",
     "tmdb_id": "850165",
     "title": "THE IRON CLAW",
@@ -208,7 +192,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 27,
+    "id": 25,
     "imdb_id": "tt3758542",
     "tmdb_id": "365620",
     "title": "FERRARI",
@@ -216,7 +200,7 @@
     "release_date": "12/25/23"
   },
   {
-    "id": 28,
+    "id": 26,
     "imdb_id": "tt1856080",
     "tmdb_id": "823452",
     "title": "THE BOYS IN THE BOAT",
@@ -224,7 +208,7 @@
     "release_date": "12/25/23"
   },
   {
-    "id": 29,
+    "id": 27,
     "imdb_id": "tt1200263",
     "tmdb_id": "558915",
     "title": "THE COLOR PURPLE",
