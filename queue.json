@@ -300,7 +300,7 @@
     "imdb_id": "tt14849194",
     "tmdb_id": "840430",
     "title": "THE HOLDOVERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/w4xVDkQYn603vfBtdTK0ZZwoaRc.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
     "release_date": "10/27/23"
   },
   {
@@ -308,7 +308,7 @@
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
-    "poster": "https://www.themoviedb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/2JCATDCP1UQ2TbJ1jNTTf43F2p5.jpg",
     "release_date": "10/27/23"
   },
   {
@@ -412,7 +412,7 @@
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
-    "poster": "https://www.themoviedb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
     "release_date": "11/10/23"
   },
   {
@@ -444,7 +444,7 @@
     "imdb_id": "tt13651794",
     "tmdb_id": "839369",
     "title": "MAY DECEMBER",
-    "poster": "https://www.themoviedb.org/t/p/w500/28EqM1hDOouA65aaCPucyagbF61.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/yibtHDMO70RueiEmtrcJeTiiHFo.jpg",
     "release_date": "11/17/23"
   },
   {
@@ -481,14 +481,6 @@
   },
   {
     "id": 61,
-    "imdb_id": "tt5608166",
-    "tmdb_id": "1001884",
-    "title": "DASHING THROUGH THE SNOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",
-    "release_date": "11/17/23"
-  },
-  {
-    "id": 62,
     "imdb_id": "tt5755238",
     "tmdb_id": "1075794",
     "title": "LEO",
@@ -496,7 +488,7 @@
     "release_date": "11/21/23"
   },
   {
-    "id": 63,
+    "id": 62,
     "imdb_id": "tt5535276",
     "tmdb_id": "523607",
     "title": "MAESTRO",
@@ -504,7 +496,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 64,
+    "id": 63,
     "imdb_id": "tt12747748",
     "tmdb_id": "726209",
     "title": "LEAVE THE WORLD BEHIND",
@@ -512,11 +504,51 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 65,
+    "id": 64,
     "imdb_id": "tt11304740",
     "tmdb_id": "1022796",
     "title": "WISH",
     "poster": "https://www.themoviedb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
     "release_date": "11/22/23"
+  },
+  {
+    "id": 65,
+    "imdb_id": "tt19406606",
+    "tmdb_id": "1108658",
+    "title": "THE SHIFT",
+    "poster": "https://www.themoviedb.org/t/p/w500/6uDfqwuz8ghI0ku8SYiBAOCOMVC.jpg",
+    "release_date": "12/1/23"
+  },
+  {
+    "id": 66,
+    "imdb_id": "tt9351856",
+    "tmdb_id": "1203695",
+    "title": "HOLIDAY TWIST",
+    "poster": "https://www.themoviedb.org/t/p/w500/yVTTUUJ6KMfVQEexxY4TZ3ptiud.jpg",
+    "release_date": "12/1/23"
+  },
+  {
+    "id": 67,
+    "imdb_id": "tt5198890",
+    "tmdb_id": "664341",
+    "title": "EILEEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/mlYBMEDysGlEcui19a00XMSs4V1.jpg",
+    "release_date": "12/1/23"
+  },
+  {
+    "id": 68,
+    "imdb_id": "tt21328106",
+    "tmdb_id": "1022964",
+    "title": "CANDY CANE LANE",
+    "poster": "https://www.themoviedb.org/t/p/w500/qQLC8iFicw1vVVbGMyyZzeghC4w.jpg",
+    "release_date": "12/1/23"
+  },
+  {
+    "id": 69,
+    "imdb_id": "tt15799866",
+    "tmdb_id": "891699",
+    "title": "SILENT NIGHT",
+    "poster": "https://www.themoviedb.org/t/p/w500/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+    "release_date": "12/1/23"
   }
 ]
