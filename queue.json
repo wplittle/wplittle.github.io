@@ -1,6 +1,6 @@
 [
   {
-    "id": 259,
+    "id": 267,
     "imdb_id": "tt17024450",
     "tmdb_id": "926393",
     "title": "THE EQUALIZER 3",
@@ -8,15 +8,7 @@
     "release_date": "9/1/23"
   },
   {
-    "id": 260,
-    "imdb_id": "tt21222462",
-    "tmdb_id": "996347",
-    "title": "THE GOOD MOTHER",
-    "poster": "https://www.themoviedb.org/t/p/w500/L71mjGG7lGIhWZpyBKNxniWQ9.jpg",
-    "release_date": "9/1/23"
-  },
-  {
-    "id": 261,
+    "id": 268,
     "imdb_id": "tt14051976",
     "tmdb_id": "917594",
     "title": "CAMP HIDEOUT",
@@ -24,7 +16,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 262,
+    "id": 269,
     "imdb_id": "tt8667828",
     "tmdb_id": "889450",
     "title": "OUTLAW JOHNNY BLACK",
@@ -32,7 +24,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 263,
+    "id": 270,
     "imdb_id": "tt14827638",
     "tmdb_id": "866346",
     "title": "THE RETIREMENT PLAN",
@@ -40,15 +32,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 264,
-    "imdb_id": "tt15683734",
-    "tmdb_id": "1024773",
-    "title": "IT LIVES INSIDE",
-    "poster": "https://www.themoviedb.org/t/p/w500/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg",
-    "release_date": "9/22/23"
-  },
-  {
-    "id": 265,
+    "id": 271,
     "imdb_id": "tt3291150",
     "tmdb_id": "299054",
     "title": "EXPEND4BLES",
@@ -56,15 +40,7 @@
     "release_date": "9/22/23"
   },
   {
-    "id": 266,
-    "imdb_id": "tt11908172",
-    "tmdb_id": "958006",
-    "title": "THE KILL ROOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/qKpdy7N6zX05eisopvvviiTwPxb.jpg",
-    "release_date": "9/28/23"
-  },
-  {
-    "id": 267,
+    "id": 272,
     "imdb_id": "tt11858890",
     "tmdb_id": "670292",
     "title": "THE CREATOR",
@@ -72,7 +48,7 @@
     "release_date": "9/29/23"
   },
   {
-    "id": 268,
+    "id": 273,
     "imdb_id": "tt13515258",
     "tmdb_id": "787761",
     "title": "ORACLE",
@@ -80,15 +56,7 @@
     "release_date": "10/1/23"
   },
   {
-    "id": 269,
-    "imdb_id": "tt17202164",
-    "tmdb_id": "1081662",
-    "title": "APPENDAGE",
-    "poster": "https://www.themoviedb.org/t/p/w500/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg",
-    "release_date": "10/2/23"
-  },
-  {
-    "id": 270,
+    "id": 274,
     "imdb_id": "tt14647404",
     "tmdb_id": "843394",
     "title": "CAT PERSON",
@@ -96,7 +64,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 271,
+    "id": 275,
     "imdb_id": "tt14633464",
     "tmdb_id": "1039690",
     "title": "DESPERATION ROAD",
@@ -104,7 +72,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 272,
+    "id": 276,
     "imdb_id": "tt8258502",
     "tmdb_id": "760245",
     "title": "FOE",
@@ -112,7 +80,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 273,
+    "id": 277,
     "imdb_id": "tt26569323",
     "tmdb_id": "1081400",
     "title": "THE MILL",
@@ -120,15 +88,7 @@
     "release_date": "10/9/23"
   },
   {
-    "id": 274,
-    "imdb_id": "tt14592044",
-    "tmdb_id": "1072799",
-    "title": "DOWN LOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/vRJ8gn4lapIhQhZDy1222CWCztc.jpg",
-    "release_date": "10/10/23"
-  },
-  {
-    "id": 275,
+    "id": 278,
     "imdb_id": "tt9204328",
     "tmdb_id": "675531",
     "title": "DARK HARVEST",
@@ -136,7 +96,7 @@
     "release_date": "10/11/23"
   },
   {
-    "id": 276,
+    "id": 279,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
@@ -144,7 +104,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 277,
+    "id": 280,
     "imdb_id": "tt15444046",
     "tmdb_id": "1058619",
     "title": "DIVINITY",
@@ -152,15 +112,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 278,
-    "imdb_id": "tt9288740",
-    "tmdb_id": "609768",
-    "title": "DEAR DAVID",
-    "poster": "https://www.themoviedb.org/t/p/w500/kT5tsoIWnXlLBaeOfkoso11dUgB.jpg",
-    "release_date": "10/13/23"
-  },
-  {
-    "id": 279,
+    "id": 281,
     "imdb_id": "tt5537002",
     "tmdb_id": "466420",
     "title": "KILLERS OF THE FLOWER MOON",
@@ -168,7 +120,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 280,
+    "id": 282,
     "imdb_id": "tt24076146",
     "tmdb_id": "1058620",
     "title": "THE PERSIAN VERSION",
@@ -176,7 +128,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 281,
+    "id": 283,
     "imdb_id": "tt11951276",
     "tmdb_id": "912916",
     "title": "THE OTHER ZOEY",
@@ -184,7 +136,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 282,
+    "id": 284,
     "imdb_id": "tt3701150",
     "tmdb_id": "618165",
     "title": "SICK GIRL",
@@ -192,7 +144,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 283,
+    "id": 285,
     "imdb_id": "tt14849194",
     "tmdb_id": "840430",
     "title": "THE HOLDOVERS",
@@ -200,7 +152,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 284,
+    "id": 286,
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
@@ -208,7 +160,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 285,
+    "id": 287,
     "imdb_id": "tt1136617",
     "tmdb_id": "800158",
     "title": "THE KILLER",
@@ -216,7 +168,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 286,
+    "id": 288,
     "imdb_id": "tt10551654",
     "tmdb_id": "609271",
     "title": "UNDER THE BOARDWALK",
@@ -224,15 +176,15 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 287,
+    "id": 289,
     "imdb_id": "tt15744298",
     "tmdb_id": "897087",
     "title": "FREELANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/zDb5YeHSGGMlS6eqhUXcVU2OzAJ.jpg",
     "release_date": "10/27/23"
   },
   {
-    "id": 288,
+    "id": 290,
     "imdb_id": "tt21397580",
     "tmdb_id": "1006947",
     "title": "SUITABLE FLESH",
@@ -240,7 +192,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 289,
+    "id": 291,
     "imdb_id": "tt22796890",
     "tmdb_id": "1035982",
     "title": "HELL HOUSE LLC ORIGINS: THE CARMICHAEL MANOR",
@@ -248,7 +200,7 @@
     "release_date": "10/30/23"
   },
   {
-    "id": 290,
+    "id": 292,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -256,7 +208,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 291,
+    "id": 293,
     "imdb_id": "tt15791114",
     "tmdb_id": "996740",
     "title": "HELEN'S DEAD",
@@ -264,7 +216,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 292,
+    "id": 294,
     "imdb_id": "tt11534720",
     "tmdb_id": "800227",
     "title": "ALL DIRT ROADS TASTE OF SALT",
@@ -272,7 +224,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 293,
+    "id": 295,
     "imdb_id": "tt10950320",
     "tmdb_id": "844416",
     "title": "RUMBLE THROUGH THE DARK",
@@ -280,7 +232,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 294,
+    "id": 296,
     "imdb_id": "tt19890316",
     "tmdb_id": "970948",
     "title": "WHAT HAPPENS LATER",
@@ -288,7 +240,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 295,
+    "id": 297,
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
@@ -296,28 +248,12 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 296,
-    "imdb_id": "tt13848804",
-    "tmdb_id": "1092329",
-    "title": "JOURNEY TO BETHLEHEM",
-    "poster": "https://www.themoviedb.org/t/p/w500/cJgF1vjiNoRAh5UePmiPfjrw6Iv.jpg",
-    "release_date": "11/10/23"
-  },
-  {
-    "id": 297,
+    "id": 298,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
     "poster": "https://www.themoviedb.org/t/p/w500/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg",
     "release_date": "11/10/23"
-  },
-  {
-    "id": 298,
-    "imdb_id": "tt13651794",
-    "tmdb_id": "839369",
-    "title": "MAY DECEMBER",
-    "poster": "https://www.themoviedb.org/t/p/w500/yibtHDMO70RueiEmtrcJeTiiHFo.jpg",
-    "release_date": "11/17/23"
   },
   {
     "id": 299,
@@ -340,7 +276,7 @@
     "imdb_id": "tt14362112",
     "tmdb_id": "901362",
     "title": "TROLLS BAND TOGETHER",
-    "poster": "https://www.themoviedb.org/t/p/w500/qV4fdXXUm5xNlEJ2jw7af3XxuQB.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/sEaLO9s7CIN3fjz8R3Qksum44en.jpg",
     "release_date": "11/17/23"
   },
   {
@@ -404,7 +340,7 @@
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/hplhTGTmKoz85Z9UBZ9kYOxtzm0.jpg",
     "release_date": "12/8/23"
   },
   {

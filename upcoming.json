@@ -4,7 +4,7 @@
     "imdb_id": "tt7160372",
     "tmdb_id": "467244",
     "title": "THE ZONE OF INTEREST",
-    "poster": "https://www.themoviedb.org/t/p/w500/AbFtI353N2Pggl5TxfsI2VtpUt8.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/ruyeAfmxbNPWZ92dWymqwTc6nWV.jpg",
     "release_date": "12/15/23"
   },
   {
@@ -25,18 +25,18 @@
   },
   {
     "id": 316,
-    "imdb_id": "tt7991508",
-    "tmdb_id": "507532",
-    "title": "FINESTKIND",
-    "poster": "https://www.themoviedb.org/t/p/w500/7GM8qMacBLycMtjx5Ba3gjKZTaW.jpg",
-    "release_date": "12/15/23"
-  },
-  {
-    "id": 317,
     "imdb_id": "tt6166392",
     "tmdb_id": "787699",
     "title": "WONKA",
     "poster": "https://www.themoviedb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 317,
+    "imdb_id": "tt7991508",
+    "tmdb_id": "507532",
+    "title": "FINESTKIND",
+    "poster": "https://www.themoviedb.org/t/p/w500/7GM8qMacBLycMtjx5Ba3gjKZTaW.jpg",
     "release_date": "12/15/23"
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "id": 320,
-    "imdb_id": "tt19864828",
-    "tmdb_id": "979097",
-    "title": "MEMORY",
-    "poster": "https://www.themoviedb.org/t/p/w500/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
+    "imdb_id": "tt20420628",
+    "tmdb_id": "1025491",
+    "title": "FREUD'S LAST SESSION",
+    "poster": "https://www.themoviedb.org/t/p/w500/2JSJMxF7UpdAfMZkjUNOoPqDhl6.jpg",
     "release_date": "12/22/23"
   },
   {
@@ -73,6 +73,14 @@
   },
   {
     "id": 322,
+    "imdb_id": "tt19864828",
+    "tmdb_id": "979097",
+    "title": "MEMORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 323,
     "imdb_id": "tt26047818",
     "tmdb_id": "1072790",
     "title": "ANYONE BUT YOU",
@@ -80,7 +88,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 323,
+    "id": 324,
     "imdb_id": "tt9663764",
     "tmdb_id": "572802",
     "title": "AQUAMAN AND THE LOST KINGDOM",
@@ -88,7 +96,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 324,
+    "id": 325,
     "imdb_id": "tt21064584",
     "tmdb_id": "850165",
     "title": "THE IRON CLAW",
@@ -96,7 +104,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 325,
+    "id": 326,
     "imdb_id": "tt3758542",
     "tmdb_id": "365620",
     "title": "FERRARI",
@@ -104,7 +112,7 @@
     "release_date": "12/25/23"
   },
   {
-    "id": 326,
+    "id": 327,
     "imdb_id": "tt1856080",
     "tmdb_id": "823452",
     "title": "THE BOYS IN THE BOAT",
@@ -112,11 +120,19 @@
     "release_date": "12/25/23"
   },
   {
-    "id": 327,
+    "id": 328,
     "imdb_id": "tt1200263",
     "tmdb_id": "558915",
     "title": "THE COLOR PURPLE",
     "poster": "https://www.themoviedb.org/t/p/w500/dNDc529cX53g6bmKetzAbnWGIB5.jpg",
     "release_date": "12/25/23"
+  },
+  {
+    "id": 329,
+    "imdb_id": "tt19887550",
+    "tmdb_id": "1036619",
+    "title": "GOOD GRIEF",
+    "poster": "https://www.themoviedb.org/t/p/w500/wJFHUglmh7xlY7g9Ql85QAJBZ6n.jpg",
+    "release_date": "12/29/23"
   }
 ]
