@@ -1,6 +1,6 @@
 [
   {
-    "id": 267,
+    "id": 274,
     "imdb_id": "tt17024450",
     "tmdb_id": "926393",
     "title": "THE EQUALIZER 3",
@@ -8,7 +8,7 @@
     "release_date": "9/1/23"
   },
   {
-    "id": 268,
+    "id": 275,
     "imdb_id": "tt14051976",
     "tmdb_id": "917594",
     "title": "CAMP HIDEOUT",
@@ -16,23 +16,7 @@
     "release_date": "9/15/23"
   },
   {
-    "id": 269,
-    "imdb_id": "tt8667828",
-    "tmdb_id": "889450",
-    "title": "OUTLAW JOHNNY BLACK",
-    "poster": "https://www.themoviedb.org/t/p/w500/nnMW6UT0sVwPF02cQf0q5lGMf8Q.jpg",
-    "release_date": "9/15/23"
-  },
-  {
-    "id": 270,
-    "imdb_id": "tt14827638",
-    "tmdb_id": "866346",
-    "title": "THE RETIREMENT PLAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg",
-    "release_date": "9/15/23"
-  },
-  {
-    "id": 271,
+    "id": 276,
     "imdb_id": "tt3291150",
     "tmdb_id": "299054",
     "title": "EXPEND4BLES",
@@ -40,7 +24,7 @@
     "release_date": "9/22/23"
   },
   {
-    "id": 272,
+    "id": 277,
     "imdb_id": "tt11858890",
     "tmdb_id": "670292",
     "title": "THE CREATOR",
@@ -48,15 +32,7 @@
     "release_date": "9/29/23"
   },
   {
-    "id": 273,
-    "imdb_id": "tt13515258",
-    "tmdb_id": "787761",
-    "title": "ORACLE",
-    "poster": "https://www.themoviedb.org/t/p/w500/laOpPREcTlDukttovlUGJ3Wmtb6.jpg",
-    "release_date": "10/1/23"
-  },
-  {
-    "id": 274,
+    "id": 278,
     "imdb_id": "tt14647404",
     "tmdb_id": "843394",
     "title": "CAT PERSON",
@@ -64,7 +40,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 275,
+    "id": 279,
     "imdb_id": "tt14633464",
     "tmdb_id": "1039690",
     "title": "DESPERATION ROAD",
@@ -72,7 +48,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 276,
+    "id": 280,
     "imdb_id": "tt8258502",
     "tmdb_id": "760245",
     "title": "FOE",
@@ -80,23 +56,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 277,
-    "imdb_id": "tt26569323",
-    "tmdb_id": "1081400",
-    "title": "THE MILL",
-    "poster": "https://www.themoviedb.org/t/p/w500/bCga8NK6mzRHTd7t1m8bvLDDvSz.jpg",
-    "release_date": "10/9/23"
-  },
-  {
-    "id": 278,
-    "imdb_id": "tt9204328",
-    "tmdb_id": "675531",
-    "title": "DARK HARVEST",
-    "poster": "https://www.themoviedb.org/t/p/w500/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg",
-    "release_date": "10/11/23"
-  },
-  {
-    "id": 279,
+    "id": 281,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
@@ -104,7 +64,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 280,
+    "id": 282,
     "imdb_id": "tt15444046",
     "tmdb_id": "1058619",
     "title": "DIVINITY",
@@ -112,7 +72,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 281,
+    "id": 283,
     "imdb_id": "tt5537002",
     "tmdb_id": "466420",
     "title": "KILLERS OF THE FLOWER MOON",
@@ -120,7 +80,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 282,
+    "id": 284,
     "imdb_id": "tt24076146",
     "tmdb_id": "1058620",
     "title": "THE PERSIAN VERSION",
@@ -128,7 +88,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 283,
+    "id": 285,
     "imdb_id": "tt11951276",
     "tmdb_id": "912916",
     "title": "THE OTHER ZOEY",
@@ -136,7 +96,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 284,
+    "id": 286,
     "imdb_id": "tt3701150",
     "tmdb_id": "618165",
     "title": "SICK GIRL",
@@ -144,23 +104,15 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 285,
-    "imdb_id": "tt14849194",
-    "tmdb_id": "840430",
-    "title": "THE HOLDOVERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
-    "release_date": "10/27/23"
-  },
-  {
-    "id": 286,
+    "id": 287,
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
-    "poster": "https://www.themoviedb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/2JCATDCP1UQ2TbJ1jNTTf43F2p5.jpg",
     "release_date": "10/27/23"
   },
   {
-    "id": 287,
+    "id": 288,
     "imdb_id": "tt1136617",
     "tmdb_id": "800158",
     "title": "THE KILLER",
@@ -168,19 +120,11 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 288,
-    "imdb_id": "tt10551654",
-    "tmdb_id": "609271",
-    "title": "UNDER THE BOARDWALK",
-    "poster": "https://www.themoviedb.org/t/p/w500/dYubl9T67KKgggQUawHs0xYMWEU.jpg",
-    "release_date": "10/27/23"
-  },
-  {
     "id": 289,
     "imdb_id": "tt15744298",
     "tmdb_id": "897087",
     "title": "FREELANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/zDb5YeHSGGMlS6eqhUXcVU2OzAJ.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
     "release_date": "10/27/23"
   },
   {
@@ -252,7 +196,7 @@
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
-    "poster": "https://www.themoviedb.org/t/p/w500/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
     "release_date": "11/10/23"
   },
   {
@@ -260,7 +204,7 @@
     "imdb_id": "tt10545296",
     "tmdb_id": "695721",
     "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
-    "poster": "https://www.themoviedb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/ePquoeNxJ6vg8U7iSjRAZ2KdztX.jpg",
     "release_date": "11/17/23"
   },
   {
@@ -292,7 +236,7 @@
     "imdb_id": "tt12747748",
     "tmdb_id": "726209",
     "title": "LEAVE THE WORLD BEHIND",
-    "poster": "https://www.themoviedb.org/t/p/w500/l2bqoY9rgPAgugPkOTowIPIv61j.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/5qhtTPWNqzM1eo9QIIf5cyIUeAA.jpg",
     "release_date": "11/22/23"
   },
   {
@@ -329,6 +273,14 @@
   },
   {
     "id": 308,
+    "imdb_id": "tt15531596",
+    "tmdb_id": "967022",
+    "title": "ABIGAIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/ApCAShqKzNkqItDb3sn7WYbDpZJ.jpg",
+    "release_date": "12/5/23"
+  },
+  {
+    "id": 309,
     "imdb_id": "tt15477042",
     "tmdb_id": "1114653",
     "title": "WAITRESS: THE MUSICAL",
@@ -336,7 +288,7 @@
     "release_date": "12/7/23"
   },
   {
-    "id": 309,
+    "id": 310,
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
@@ -344,15 +296,15 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 310,
+    "id": 311,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
-    "poster": "https://www.themoviedb.org/t/p/w500/dqvsXcOmihpmoOO0Vwn8St8aHka.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/qjKK2zBYGCaAfNTyXAvqWY9Qtpf.jpg",
     "release_date": "12/8/23"
   },
   {
-    "id": 311,
+    "id": 312,
     "imdb_id": "tt13321244",
     "tmdb_id": "753336",
     "title": "ORIGIN",
@@ -360,11 +312,67 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 312,
+    "id": 313,
     "imdb_id": "tt18925050",
     "tmdb_id": "1190665",
     "title": "THE OATH",
     "poster": "https://www.themoviedb.org/t/p/w500/jkDACriaR8mr7R1JR1M91UodANT.jpg",
     "release_date": "12/8/23"
+  },
+  {
+    "id": 314,
+    "imdb_id": "tt7160372",
+    "tmdb_id": "467244",
+    "title": "THE ZONE OF INTEREST",
+    "poster": "https://www.themoviedb.org/t/p/w500/ruyeAfmxbNPWZ92dWymqwTc6nWV.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 315,
+    "imdb_id": "tt23561236",
+    "tmdb_id": "1056360",
+    "title": "AMERICAN FICTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/htPScB9pEDmYOT0eCW6kahgv77t.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 316,
+    "imdb_id": "tt8337264",
+    "tmdb_id": "520758",
+    "title": "CHICKEN RUN: DAWN OF THE NUGGET",
+    "poster": "https://www.themoviedb.org/t/p/w500/8hsOpZJvA1FN3XKnzLHb9475Gp6.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 317,
+    "imdb_id": "tt6166392",
+    "tmdb_id": "787699",
+    "title": "WONKA",
+    "poster": "https://www.themoviedb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 318,
+    "imdb_id": "tt14998742",
+    "tmdb_id": "848326",
+    "title": "REBEL MOON: PART ONE - A CHILD OF FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 319,
+    "imdb_id": "tt7991508",
+    "tmdb_id": "507532",
+    "title": "FINESTKIND",
+    "poster": "https://www.themoviedb.org/t/p/w500/w87pGcT0Hxwjxsr4frgyVj6IZik.jpg",
+    "release_date": "12/15/23"
+  },
+  {
+    "id": 320,
+    "imdb_id": "tt16431870",
+    "tmdb_id": "1029575",
+    "title": "THE FAMILY PLAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+    "release_date": "12/15/23"
   }
 ]
