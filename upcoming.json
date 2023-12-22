@@ -1,66 +1,10 @@
 [
   {
-    "id": 321,
-    "imdb_id": "tt12745908",
-    "tmdb_id": "1088572",
-    "title": "CITY OF LOVE",
-    "poster": "https://www.themoviedb.org/t/p/w500/9iYXSpqkWpZGuevL9ww4psLVAPZ.jpg",
-    "release_date": "12/19/23"
-  },
-  {
-    "id": 322,
-    "imdb_id": "tt20420628",
-    "tmdb_id": "1025491",
-    "title": "FREUD'S LAST SESSION",
-    "poster": "https://www.themoviedb.org/t/p/w500/2JSJMxF7UpdAfMZkjUNOoPqDhl6.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 323,
-    "imdb_id": "tt6495056",
-    "tmdb_id": "940551",
-    "title": "MIGRATION",
-    "poster": "https://www.themoviedb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 324,
-    "imdb_id": "tt19864828",
-    "tmdb_id": "979097",
-    "title": "MEMORY",
-    "poster": "https://www.themoviedb.org/t/p/w500/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 325,
-    "imdb_id": "tt26047818",
-    "tmdb_id": "1072790",
-    "title": "ANYONE BUT YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 326,
-    "imdb_id": "tt9663764",
-    "tmdb_id": "572802",
-    "title": "AQUAMAN AND THE LOST KINGDOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 327,
-    "imdb_id": "tt21064584",
-    "tmdb_id": "850165",
-    "title": "THE IRON CLAW",
-    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
-    "release_date": "12/22/23"
-  },
-  {
     "id": 328,
     "imdb_id": "tt3758542",
     "tmdb_id": "365620",
     "title": "FERRARI",
-    "poster": "https://www.themoviedb.org/t/p/w500/dAP9QTLVvglGvtsa0VesaOgHcTW.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg",
     "release_date": "12/25/23"
   },
   {
@@ -76,7 +20,7 @@
     "imdb_id": "tt1200263",
     "tmdb_id": "558915",
     "title": "THE COLOR PURPLE",
-    "poster": "https://www.themoviedb.org/t/p/w500/dNDc529cX53g6bmKetzAbnWGIB5.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
     "release_date": "12/25/23"
   },
   {

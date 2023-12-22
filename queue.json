@@ -1,14 +1,6 @@
 [
   {
-    "id": 280,
-    "imdb_id": "tt14647404",
-    "tmdb_id": "843394",
-    "title": "CAT PERSON",
-    "poster": "https://www.themoviedb.org/t/p/w500/8J1iCl6S7yFVPu4Op3tC855BVyR.jpg",
-    "release_date": "10/6/23"
-  },
-  {
-    "id": 281,
+    "id": 285,
     "imdb_id": "tt8258502",
     "tmdb_id": "760245",
     "title": "FOE",
@@ -16,7 +8,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 282,
+    "id": 286,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
@@ -24,39 +16,15 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 283,
-    "imdb_id": "tt15444046",
-    "tmdb_id": "1058619",
-    "title": "DIVINITY",
-    "poster": "https://www.themoviedb.org/t/p/w500/nDGij5loooxlI66SLVvT4101xEf.jpg",
-    "release_date": "10/13/23"
-  },
-  {
-    "id": 284,
-    "imdb_id": "tt5537002",
-    "tmdb_id": "466420",
-    "title": "KILLERS OF THE FLOWER MOON",
-    "poster": "https://www.themoviedb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
-    "release_date": "10/20/23"
-  },
-  {
-    "id": 285,
+    "id": 287,
     "imdb_id": "tt24076146",
     "tmdb_id": "1058620",
     "title": "THE PERSIAN VERSION",
-    "poster": "https://www.themoviedb.org/t/p/w500/xH4u7U6GIXCZTqB5gKaVaD6OxON.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/tpcUj1h7lB03Bj5UCHeTEY3XH7S.jpg",
     "release_date": "10/20/23"
   },
   {
-    "id": 286,
-    "imdb_id": "tt11951276",
-    "tmdb_id": "912916",
-    "title": "THE OTHER ZOEY",
-    "poster": "https://www.themoviedb.org/t/p/w500/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg",
-    "release_date": "10/20/23"
-  },
-  {
-    "id": 287,
+    "id": 288,
     "imdb_id": "tt3701150",
     "tmdb_id": "618165",
     "title": "SICK GIRL",
@@ -64,7 +32,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 288,
+    "id": 289,
     "imdb_id": "tt22041854",
     "tmdb_id": "1020006",
     "title": "PRISCILLA",
@@ -72,7 +40,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 289,
+    "id": 290,
     "imdb_id": "tt1136617",
     "tmdb_id": "800158",
     "title": "THE KILLER",
@@ -80,7 +48,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 290,
+    "id": 291,
     "imdb_id": "tt15744298",
     "tmdb_id": "897087",
     "title": "FREELANCE",
@@ -88,20 +56,12 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 291,
+    "id": 292,
     "imdb_id": "tt21397580",
     "tmdb_id": "1006947",
     "title": "SUITABLE FLESH",
     "poster": "https://www.themoviedb.org/t/p/w500/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg",
     "release_date": "10/27/23"
-  },
-  {
-    "id": 292,
-    "imdb_id": "tt22796890",
-    "tmdb_id": "1035982",
-    "title": "HELL HOUSE LLC ORIGINS: THE CARMICHAEL MANOR",
-    "poster": "https://www.themoviedb.org/t/p/w500/9YlsIwWATGwT6LL5UZVF5xoBTcC.jpg",
-    "release_date": "10/30/23"
   },
   {
     "id": 293,
@@ -148,7 +108,7 @@
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/h6Yg233bGv5740NPiU9bMFliwW4.jpg",
     "release_date": "11/10/23"
   },
   {
@@ -164,7 +124,7 @@
     "imdb_id": "tt10545296",
     "tmdb_id": "695721",
     "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
-    "poster": "https://www.themoviedb.org/t/p/w500/ePquoeNxJ6vg8U7iSjRAZ2KdztX.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
     "release_date": "11/17/23"
   },
   {
@@ -252,7 +212,7 @@
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/hplhTGTmKoz85Z9UBZ9kYOxtzm0.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/jG4o67eZKlvuL5R6WTysRkPwE75.jpg",
     "release_date": "12/8/23"
   },
   {
@@ -300,7 +260,7 @@
     "imdb_id": "tt8337264",
     "tmdb_id": "520758",
     "title": "CHICKEN RUN: DAWN OF THE NUGGET",
-    "poster": "https://www.themoviedb.org/t/p/w500/zgBW2eNkN0Ez09GgRaWret90C1T.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
     "release_date": "12/15/23"
   },
   {
@@ -326,5 +286,61 @@
     "title": "THE FAMILY PLAN",
     "poster": "https://www.themoviedb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
     "release_date": "12/15/23"
+  },
+  {
+    "id": 321,
+    "imdb_id": "tt12745908",
+    "tmdb_id": "1088572",
+    "title": "CITY OF LOVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/9iYXSpqkWpZGuevL9ww4psLVAPZ.jpg",
+    "release_date": "12/19/23"
+  },
+  {
+    "id": 322,
+    "imdb_id": "tt20420628",
+    "tmdb_id": "1025491",
+    "title": "FREUD'S LAST SESSION",
+    "poster": "https://www.themoviedb.org/t/p/w500/2JSJMxF7UpdAfMZkjUNOoPqDhl6.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 323,
+    "imdb_id": "tt6495056",
+    "tmdb_id": "940551",
+    "title": "MIGRATION",
+    "poster": "https://www.themoviedb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 324,
+    "imdb_id": "tt19864828",
+    "tmdb_id": "979097",
+    "title": "MEMORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 325,
+    "imdb_id": "tt26047818",
+    "tmdb_id": "1072790",
+    "title": "ANYONE BUT YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 326,
+    "imdb_id": "tt9663764",
+    "tmdb_id": "572802",
+    "title": "AQUAMAN AND THE LOST KINGDOM",
+    "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 327,
+    "imdb_id": "tt21064584",
+    "tmdb_id": "850165",
+    "title": "THE IRON CLAW",
+    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+    "release_date": "12/22/23"
   }
 ]

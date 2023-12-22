@@ -172,7 +172,7 @@
     "imdb_id": "tt9378692",
     "tmdb_id": "950538",
     "title": "FREEDOM'S PATH",
-    "poster": "https://www.themoviedb.org/t/p/w500/sGZCJrpZvrNlF7BOhjWGytNXMc8.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/eDzo3kzDDFrvrQ980ZZhUywURDZ.jpg",
     "release_date": "2/3/23"
   },
   {
@@ -260,7 +260,7 @@
     "imdb_id": "tt19623240",
     "tmdb_id": "980078",
     "title": "WINNIE THE POOH: BLOOD AND HONEY",
-    "poster": "https://www.themoviedb.org/t/p/w500/ewF3IlGscc7FjgGEPcQvZsAsgAW.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/fNTtVbqI92abEKAgz2ynurCUne.jpg",
     "release_date": "2/15/23"
   },
   {
@@ -1905,6 +1905,14 @@
   },
   {
     "id": 239,
+    "imdb_id": "tt14647404",
+    "tmdb_id": "843394",
+    "title": "CAT PERSON",
+    "poster": "https://www.themoviedb.org/t/p/w500/8J1iCl6S7yFVPu4Op3tC855BVyR.jpg",
+    "release_date": "10/6/23"
+  },
+  {
+    "id": 240,
     "imdb_id": "tt6689014",
     "tmdb_id": "503417",
     "title": "SHE CAME TO ME",
@@ -1912,7 +1920,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 240,
+    "id": 241,
     "imdb_id": "tt14633464",
     "tmdb_id": "1039690",
     "title": "DESPERATION ROAD",
@@ -1920,7 +1928,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 241,
+    "id": 242,
     "imdb_id": "tt22640398",
     "tmdb_id": "1032948",
     "title": "V/H/S/85",
@@ -1928,7 +1936,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 242,
+    "id": 243,
     "imdb_id": "tt7130916",
     "tmdb_id": "939997",
     "title": "DICKS: THE MUSICAL",
@@ -1936,15 +1944,15 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 243,
+    "id": 244,
     "imdb_id": "tt12921446",
     "tmdb_id": "807172",
     "title": "THE EXORCIST: BELIEVER",
-    "poster": "https://www.themoviedb.org/t/p/w500/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg",
     "release_date": "10/6/23"
   },
   {
-    "id": 244,
+    "id": 245,
     "imdb_id": "tt14145436",
     "tmdb_id": "830764",
     "title": "PET SEMATARY: BLOODLINES",
@@ -1952,7 +1960,7 @@
     "release_date": "10/6/23"
   },
   {
-    "id": 245,
+    "id": 246,
     "imdb_id": "tt26569323",
     "tmdb_id": "1081400",
     "title": "THE MILL",
@@ -1960,7 +1968,7 @@
     "release_date": "10/9/23"
   },
   {
-    "id": 246,
+    "id": 247,
     "imdb_id": "tt14592044",
     "tmdb_id": "1072799",
     "title": "DOWN LOW",
@@ -1968,7 +1976,7 @@
     "release_date": "10/10/23"
   },
   {
-    "id": 247,
+    "id": 248,
     "imdb_id": "tt9204328",
     "tmdb_id": "675531",
     "title": "DARK HARVEST",
@@ -1976,7 +1984,15 @@
     "release_date": "10/11/23"
   },
   {
-    "id": 248,
+    "id": 249,
+    "imdb_id": "tt15444046",
+    "tmdb_id": "1058619",
+    "title": "DIVINITY",
+    "poster": "https://www.themoviedb.org/t/p/w500/nDGij5loooxlI66SLVvT4101xEf.jpg",
+    "release_date": "10/13/23"
+  },
+  {
+    "id": 250,
     "imdb_id": "tt9288740",
     "tmdb_id": "609768",
     "title": "DEAR DAVID",
@@ -1984,7 +2000,7 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 249,
+    "id": 251,
     "imdb_id": "tt17595094",
     "tmdb_id": "946215",
     "title": "IN THE FIRE",
@@ -1992,7 +2008,15 @@
     "release_date": "10/13/23"
   },
   {
-    "id": 250,
+    "id": 252,
+    "imdb_id": "tt5537002",
+    "tmdb_id": "466420",
+    "title": "KILLERS OF THE FLOWER MOON",
+    "poster": "https://www.themoviedb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+    "release_date": "10/20/23"
+  },
+  {
+    "id": 253,
     "imdb_id": "tt5302918",
     "tmdb_id": "895549",
     "title": "NYAD",
@@ -2000,7 +2024,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 251,
+    "id": 254,
     "imdb_id": "tt15257160",
     "tmdb_id": "862968",
     "title": "PAIN HUSTLERS",
@@ -2008,7 +2032,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 252,
+    "id": 255,
     "imdb_id": "tt18394190",
     "tmdb_id": "987917",
     "title": "OLD DADS",
@@ -2016,7 +2040,15 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 253,
+    "id": 256,
+    "imdb_id": "tt11951276",
+    "tmdb_id": "912916",
+    "title": "THE OTHER ZOEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg",
+    "release_date": "10/20/23"
+  },
+  {
+    "id": 257,
     "imdb_id": "tt1462759",
     "tmdb_id": "843846",
     "title": "BUTCHER'S CROSSING",
@@ -2024,7 +2056,7 @@
     "release_date": "10/20/23"
   },
   {
-    "id": 254,
+    "id": 258,
     "imdb_id": "tt14849194",
     "tmdb_id": "840430",
     "title": "THE HOLDOVERS",
@@ -2032,7 +2064,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 255,
+    "id": 259,
     "imdb_id": "tt13968674",
     "tmdb_id": "790459",
     "title": "FINGERNAILS",
@@ -2040,7 +2072,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 256,
+    "id": 260,
     "imdb_id": "tt10551654",
     "tmdb_id": "609271",
     "title": "UNDER THE BOARDWALK",
@@ -2048,7 +2080,7 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 257,
+    "id": 261,
     "imdb_id": "tt4589218",
     "tmdb_id": "507089",
     "title": "FIVE NIGHTS AT FREDDY'S",
@@ -2056,7 +2088,15 @@
     "release_date": "10/27/23"
   },
   {
-    "id": 258,
+    "id": 262,
+    "imdb_id": "tt22796890",
+    "tmdb_id": "1035982",
+    "title": "HELL HOUSE LLC ORIGINS: THE CARMICHAEL MANOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/9YlsIwWATGwT6LL5UZVF5xoBTcC.jpg",
+    "release_date": "10/30/23"
+  },
+  {
+    "id": 263,
     "imdb_id": "tt13405810",
     "tmdb_id": "787781",
     "title": "QUIZ LADY",
@@ -2064,7 +2104,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 259,
+    "id": 264,
     "imdb_id": "tt14160834",
     "tmdb_id": "898713",
     "title": "RUSTIN",
@@ -2072,7 +2112,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 260,
+    "id": 265,
     "imdb_id": "tt8002382",
     "tmdb_id": "798362",
     "title": "THE MARSH KING'S DAUGHTER",
@@ -2080,7 +2120,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 261,
+    "id": 266,
     "imdb_id": "tt13848804",
     "tmdb_id": "1092329",
     "title": "JOURNEY TO BETHLEHEM",
@@ -2088,7 +2128,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 262,
+    "id": 267,
     "imdb_id": "tt16424988",
     "tmdb_id": "923993",
     "title": "YOUR LUCKY DAY",
@@ -2096,7 +2136,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 263,
+    "id": 268,
     "imdb_id": "tt27619382",
     "tmdb_id": "1113278",
     "title": "IT'S A WONDERFUL KNIFE",
@@ -2104,7 +2144,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 264,
+    "id": 269,
     "imdb_id": "tt14813150",
     "tmdb_id": "843942",
     "title": "MANODROME",
@@ -2112,7 +2152,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 265,
+    "id": 270,
     "imdb_id": "tt7038762",
     "tmdb_id": "987490",
     "title": "BEST. CHRISTMAS. EVER!",
@@ -2120,7 +2160,7 @@
     "release_date": "11/16/23"
   },
   {
-    "id": 266,
+    "id": 271,
     "imdb_id": "tt17351924",
     "tmdb_id": "930564",
     "title": "SALTBURN",
@@ -2128,7 +2168,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 267,
+    "id": 272,
     "imdb_id": "tt13651794",
     "tmdb_id": "839369",
     "title": "MAY DECEMBER",
@@ -2136,7 +2176,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 268,
+    "id": 273,
     "imdb_id": "tt1448754",
     "tmdb_id": "1071215",
     "title": "THANKSGIVING",
@@ -2144,7 +2184,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 269,
+    "id": 274,
     "imdb_id": "tt21335356",
     "tmdb_id": "1002315",
     "title": "PLEASE DON'T DESTROY: THE TREASURE OF FOGGY MOUNTAIN",
@@ -2152,7 +2192,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 270,
+    "id": 275,
     "imdb_id": "tt5608166",
     "tmdb_id": "1001884",
     "title": "DASHING THROUGH THE SNOW",
@@ -2160,7 +2200,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 271,
+    "id": 276,
     "imdb_id": "tt5755238",
     "tmdb_id": "1075794",
     "title": "LEO",
@@ -2168,7 +2208,7 @@
     "release_date": "11/21/23"
   },
   {
-    "id": 272,
+    "id": 277,
     "imdb_id": "tt13287846",
     "tmdb_id": "753342",
     "title": "NAPOLEON",
@@ -2176,7 +2216,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 273,
+    "id": 278,
     "imdb_id": "tt24429218",
     "tmdb_id": "1189198",
     "title": "GENIE",
@@ -2184,7 +2224,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 274,
+    "id": 279,
     "imdb_id": "tt25289836",
     "tmdb_id": "1101582",
     "title": "GOOD BURGER 2",
@@ -2192,7 +2232,7 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 275,
+    "id": 280,
     "imdb_id": "tt14227048",
     "tmdb_id": "798021",
     "title": "FAMILY SWITCH",
@@ -2200,7 +2240,7 @@
     "release_date": "11/30/23"
   },
   {
-    "id": 276,
+    "id": 281,
     "imdb_id": "tt15799866",
     "tmdb_id": "891699",
     "title": "SILENT NIGHT",
@@ -2208,15 +2248,15 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 277,
+    "id": 282,
     "imdb_id": "tt21328106",
     "tmdb_id": "1022964",
     "title": "CANDY CANE LANE",
-    "poster": "https://www.themoviedb.org/t/p/w500/2pYgOBtBaFxAELQGj6p86vuIhhG.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",
     "release_date": "12/1/23"
   },
   {
-    "id": 278,
+    "id": 283,
     "imdb_id": "tt29033964",
     "tmdb_id": "1123093",
     "title": "DIARY OF A WIMPY KID CHRISTMAS: CABIN FEVER",
@@ -2224,7 +2264,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 279,
+    "id": 284,
     "imdb_id": "tt6166392",
     "tmdb_id": "787699",
     "title": "WONKA",
