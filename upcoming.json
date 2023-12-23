@@ -9,18 +9,18 @@
   },
   {
     "id": 329,
-    "imdb_id": "tt1856080",
-    "tmdb_id": "823452",
-    "title": "THE BOYS IN THE BOAT",
-    "poster": "https://www.themoviedb.org/t/p/w500/eNOyS9hmdBoP5zpowbU4Kfh1JYB.jpg",
-    "release_date": "12/25/23"
-  },
-  {
-    "id": 330,
     "imdb_id": "tt1200263",
     "tmdb_id": "558915",
     "title": "THE COLOR PURPLE",
     "poster": "https://www.themoviedb.org/t/p/w500/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
+    "release_date": "12/25/23"
+  },
+  {
+    "id": 330,
+    "imdb_id": "tt1856080",
+    "tmdb_id": "823452",
+    "title": "THE BOYS IN THE BOAT",
+    "poster": "https://www.themoviedb.org/t/p/w500/eNOyS9hmdBoP5zpowbU4Kfh1JYB.jpg",
     "release_date": "12/25/23"
   },
   {

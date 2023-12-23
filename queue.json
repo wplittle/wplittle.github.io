@@ -1,35 +1,11 @@
 [
   {
-    "id": 285,
-    "imdb_id": "tt8258502",
-    "tmdb_id": "760245",
-    "title": "FOE",
-    "poster": "https://www.themoviedb.org/t/p/w500/j5B6TQSYgssYdXjA7kYdTJR0tt2.jpg",
-    "release_date": "10/6/23"
-  },
-  {
-    "id": 286,
+    "id": 288,
     "imdb_id": "tt17009710",
     "tmdb_id": "915935",
     "title": "ANATOMY OF A FALL",
     "poster": "https://www.themoviedb.org/t/p/w500/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
     "release_date": "10/13/23"
-  },
-  {
-    "id": 287,
-    "imdb_id": "tt24076146",
-    "tmdb_id": "1058620",
-    "title": "THE PERSIAN VERSION",
-    "poster": "https://www.themoviedb.org/t/p/w500/tpcUj1h7lB03Bj5UCHeTEY3XH7S.jpg",
-    "release_date": "10/20/23"
-  },
-  {
-    "id": 288,
-    "imdb_id": "tt3701150",
-    "tmdb_id": "618165",
-    "title": "SICK GIRL",
-    "poster": "https://www.themoviedb.org/t/p/w500/oBwvNA03OQ2VXbtySYXPWRuWAGx.jpg",
-    "release_date": "10/20/23"
   },
   {
     "id": 289,
@@ -108,7 +84,7 @@
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/h6Yg233bGv5740NPiU9bMFliwW4.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg",
     "release_date": "11/10/23"
   },
   {
@@ -212,7 +188,7 @@
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/jG4o67eZKlvuL5R6WTysRkPwE75.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/mPdeQ1H6IXDAXtwQ2EdQuSCNmwV.jpg",
     "release_date": "12/8/23"
   },
   {
@@ -300,19 +276,27 @@
     "imdb_id": "tt20420628",
     "tmdb_id": "1025491",
     "title": "FREUD'S LAST SESSION",
-    "poster": "https://www.themoviedb.org/t/p/w500/2JSJMxF7UpdAfMZkjUNOoPqDhl6.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/kgeMru3ypLeV09YvifofMQrvwkH.jpg",
     "release_date": "12/22/23"
   },
   {
     "id": 323,
-    "imdb_id": "tt6495056",
-    "tmdb_id": "940551",
-    "title": "MIGRATION",
-    "poster": "https://www.themoviedb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+    "imdb_id": "tt21064584",
+    "tmdb_id": "850165",
+    "title": "THE IRON CLAW",
+    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
     "release_date": "12/22/23"
   },
   {
     "id": 324,
+    "imdb_id": "tt6495056",
+    "tmdb_id": "940551",
+    "title": "MIGRATION",
+    "poster": "https://www.themoviedb.org/t/p/w500/kJG74Y1RxLLjRLYOTrBclWpbvkz.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 325,
     "imdb_id": "tt19864828",
     "tmdb_id": "979097",
     "title": "MEMORY",
@@ -320,27 +304,19 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 325,
+    "id": 326,
     "imdb_id": "tt26047818",
     "tmdb_id": "1072790",
     "title": "ANYONE BUT YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 326,
-    "imdb_id": "tt9663764",
-    "tmdb_id": "572802",
-    "title": "AQUAMAN AND THE LOST KINGDOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg",
     "release_date": "12/22/23"
   },
   {
     "id": 327,
-    "imdb_id": "tt21064584",
-    "tmdb_id": "850165",
-    "title": "THE IRON CLAW",
-    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
+    "imdb_id": "tt9663764",
+    "tmdb_id": "572802",
+    "title": "AQUAMAN AND THE LOST KINGDOM",
+    "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
     "release_date": "12/22/23"
   }
 ]
