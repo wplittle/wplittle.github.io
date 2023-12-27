@@ -1,46 +1,6 @@
 [
   {
-    "id": 288,
-    "imdb_id": "tt17009710",
-    "tmdb_id": "915935",
-    "title": "ANATOMY OF A FALL",
-    "poster": "https://www.themoviedb.org/t/p/w500/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
-    "release_date": "10/13/23"
-  },
-  {
-    "id": 289,
-    "imdb_id": "tt22041854",
-    "tmdb_id": "1020006",
-    "title": "PRISCILLA",
-    "poster": "https://www.themoviedb.org/t/p/w500/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
-    "release_date": "10/27/23"
-  },
-  {
-    "id": 290,
-    "imdb_id": "tt1136617",
-    "tmdb_id": "800158",
-    "title": "THE KILLER",
-    "poster": "https://www.themoviedb.org/t/p/w500/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
-    "release_date": "10/27/23"
-  },
-  {
-    "id": 291,
-    "imdb_id": "tt15744298",
-    "tmdb_id": "897087",
-    "title": "FREELANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg",
-    "release_date": "10/27/23"
-  },
-  {
-    "id": 292,
-    "imdb_id": "tt21397580",
-    "tmdb_id": "1006947",
-    "title": "SUITABLE FLESH",
-    "poster": "https://www.themoviedb.org/t/p/w500/tl3vIpRNKaWyMJiLxkpdT9Q2EWm.jpg",
-    "release_date": "10/27/23"
-  },
-  {
-    "id": 293,
+    "id": 300,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -48,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 294,
+    "id": 301,
     "imdb_id": "tt11534720",
     "tmdb_id": "800227",
     "title": "ALL DIRT ROADS TASTE OF SALT",
@@ -56,23 +16,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 295,
-    "imdb_id": "tt15791114",
-    "tmdb_id": "996740",
-    "title": "HELEN'S DEAD",
-    "poster": "https://www.themoviedb.org/t/p/w500/qtk6f6VlwNkmVxeeXUqOpyw1QVF.jpg",
-    "release_date": "11/3/23"
-  },
-  {
-    "id": 296,
-    "imdb_id": "tt10950320",
-    "tmdb_id": "844416",
-    "title": "RUMBLE THROUGH THE DARK",
-    "poster": "https://www.themoviedb.org/t/p/w500/19UbYIT9WEQS5qSD3BREDxVXk8g.jpg",
-    "release_date": "11/3/23"
-  },
-  {
-    "id": 297,
+    "id": 302,
     "imdb_id": "tt19890316",
     "tmdb_id": "970948",
     "title": "WHAT HAPPENS LATER",
@@ -80,15 +24,15 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 298,
+    "id": 303,
     "imdb_id": "tt21942866",
     "tmdb_id": "823482",
     "title": "DREAM SCENARIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/2RSMu2iMDCdMKmvBWWvcmE8vjMj.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/zhEaG0KQ32KerHEWmImsYLexDix.jpg",
     "release_date": "11/10/23"
   },
   {
-    "id": 299,
+    "id": 304,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
@@ -96,15 +40,15 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 300,
+    "id": 305,
     "imdb_id": "tt10545296",
     "tmdb_id": "695721",
     "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
-    "poster": "https://www.themoviedb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/ePquoeNxJ6vg8U7iSjRAZ2KdztX.jpg",
     "release_date": "11/17/23"
   },
   {
-    "id": 301,
+    "id": 306,
     "imdb_id": "tt10767052",
     "tmdb_id": "621587",
     "title": "NEXT GOAL WINS",
@@ -112,7 +56,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 302,
+    "id": 307,
     "imdb_id": "tt14362112",
     "tmdb_id": "901362",
     "title": "TROLLS BAND TOGETHER",
@@ -120,15 +64,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 303,
-    "imdb_id": "tt5535276",
-    "tmdb_id": "523607",
-    "title": "MAESTRO",
-    "poster": "https://www.themoviedb.org/t/p/w500/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
-    "release_date": "11/22/23"
-  },
-  {
-    "id": 304,
+    "id": 308,
     "imdb_id": "tt12747748",
     "tmdb_id": "726209",
     "title": "LEAVE THE WORLD BEHIND",
@@ -136,23 +72,15 @@
     "release_date": "11/22/23"
   },
   {
-    "id": 305,
+    "id": 309,
     "imdb_id": "tt11304740",
     "tmdb_id": "1022796",
     "title": "WISH",
-    "poster": "https://www.themoviedb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/8QtDhh8mnGUEyrJsaeb3kYgDRaA.jpg",
     "release_date": "11/22/23"
   },
   {
-    "id": 306,
-    "imdb_id": "tt9351856",
-    "tmdb_id": "1203695",
-    "title": "HOLIDAY TWIST",
-    "poster": "https://www.themoviedb.org/t/p/w500/2ZMQpPiPYLxp2MghUghhfNsyalo.jpg",
-    "release_date": "12/1/23"
-  },
-  {
-    "id": 307,
+    "id": 310,
     "imdb_id": "tt5198890",
     "tmdb_id": "664341",
     "title": "EILEEN",
@@ -160,7 +88,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 308,
+    "id": 311,
     "imdb_id": "tt19406606",
     "tmdb_id": "1108658",
     "title": "THE SHIFT",
@@ -168,15 +96,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 309,
-    "imdb_id": "tt15531596",
-    "tmdb_id": "967022",
-    "title": "ABIGAIL",
-    "poster": "https://www.themoviedb.org/t/p/w500/ApCAShqKzNkqItDb3sn7WYbDpZJ.jpg",
-    "release_date": "12/5/23"
-  },
-  {
-    "id": 310,
+    "id": 312,
     "imdb_id": "tt15477042",
     "tmdb_id": "1114653",
     "title": "WAITRESS: THE MUSICAL",
@@ -184,15 +104,15 @@
     "release_date": "12/7/23"
   },
   {
-    "id": 311,
+    "id": 313,
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/mPdeQ1H6IXDAXtwQ2EdQuSCNmwV.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/jV3c2fsBNCJgcesxdNM9O0lwwdT.jpg",
     "release_date": "12/8/23"
   },
   {
-    "id": 312,
+    "id": 314,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -200,7 +120,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 313,
+    "id": 315,
     "imdb_id": "tt13321244",
     "tmdb_id": "753336",
     "title": "ORIGIN",
@@ -208,7 +128,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 314,
+    "id": 316,
     "imdb_id": "tt18925050",
     "tmdb_id": "1190665",
     "title": "THE OATH",
@@ -216,7 +136,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 315,
+    "id": 317,
     "imdb_id": "tt7160372",
     "tmdb_id": "467244",
     "title": "THE ZONE OF INTEREST",
@@ -224,7 +144,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 316,
+    "id": 318,
     "imdb_id": "tt23561236",
     "tmdb_id": "1056360",
     "title": "AMERICAN FICTION",
@@ -232,15 +152,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 317,
-    "imdb_id": "tt8337264",
-    "tmdb_id": "520758",
-    "title": "CHICKEN RUN: DAWN OF THE NUGGET",
-    "poster": "https://www.themoviedb.org/t/p/w500/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",
-    "release_date": "12/15/23"
-  },
-  {
-    "id": 318,
+    "id": 319,
     "imdb_id": "tt14998742",
     "tmdb_id": "848326",
     "title": "REBEL MOON - PART ONE: A CHILD OF FIRE",
@@ -248,7 +160,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 319,
+    "id": 320,
     "imdb_id": "tt7991508",
     "tmdb_id": "507532",
     "title": "FINESTKIND",
@@ -256,7 +168,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 320,
+    "id": 321,
     "imdb_id": "tt16431870",
     "tmdb_id": "1029575",
     "title": "THE FAMILY PLAN",
@@ -264,7 +176,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 321,
+    "id": 322,
     "imdb_id": "tt12745908",
     "tmdb_id": "1088572",
     "title": "CITY OF LOVE",
@@ -272,7 +184,7 @@
     "release_date": "12/19/23"
   },
   {
-    "id": 322,
+    "id": 323,
     "imdb_id": "tt20420628",
     "tmdb_id": "1025491",
     "title": "FREUD'S LAST SESSION",
@@ -280,19 +192,11 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 323,
+    "id": 324,
     "imdb_id": "tt21064584",
     "tmdb_id": "850165",
     "title": "THE IRON CLAW",
-    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 324,
-    "imdb_id": "tt6495056",
-    "tmdb_id": "940551",
-    "title": "MIGRATION",
-    "poster": "https://www.themoviedb.org/t/p/w500/kJG74Y1RxLLjRLYOTrBclWpbvkz.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/ayNhHRfnkHBFTeYpwALAiDtsgFo.jpg",
     "release_date": "12/22/23"
   },
   {
@@ -308,7 +212,7 @@
     "imdb_id": "tt26047818",
     "tmdb_id": "1072790",
     "title": "ANYONE BUT YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
     "release_date": "12/22/23"
   },
   {
@@ -318,5 +222,29 @@
     "title": "AQUAMAN AND THE LOST KINGDOM",
     "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
     "release_date": "12/22/23"
+  },
+  {
+    "id": 328,
+    "imdb_id": "tt1200263",
+    "tmdb_id": "558915",
+    "title": "THE COLOR PURPLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
+    "release_date": "12/25/23"
+  },
+  {
+    "id": 329,
+    "imdb_id": "tt1856080",
+    "tmdb_id": "823452",
+    "title": "THE BOYS IN THE BOAT",
+    "poster": "https://www.themoviedb.org/t/p/w500/eNOyS9hmdBoP5zpowbU4Kfh1JYB.jpg",
+    "release_date": "12/25/23"
+  },
+  {
+    "id": 330,
+    "imdb_id": "tt3758542",
+    "tmdb_id": "365620",
+    "title": "FERRARI",
+    "poster": "https://www.themoviedb.org/t/p/w500/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg",
+    "release_date": "12/25/23"
   }
 ]
