@@ -16,22 +16,6 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 302,
-    "imdb_id": "tt19890316",
-    "tmdb_id": "970948",
-    "title": "WHAT HAPPENS LATER",
-    "poster": "https://www.themoviedb.org/t/p/w500/5TrWftAac3EeMcatyiCdAglWKb6.jpg",
-    "release_date": "11/3/23"
-  },
-  {
-    "id": 303,
-    "imdb_id": "tt21942866",
-    "tmdb_id": "823482",
-    "title": "DREAM SCENARIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/zhEaG0KQ32KerHEWmImsYLexDix.jpg",
-    "release_date": "11/10/23"
-  },
-  {
     "id": 304,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
@@ -144,14 +128,6 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 318,
-    "imdb_id": "tt23561236",
-    "tmdb_id": "1056360",
-    "title": "AMERICAN FICTION",
-    "poster": "https://www.themoviedb.org/t/p/w500/htPScB9pEDmYOT0eCW6kahgv77t.jpg",
-    "release_date": "12/15/23"
-  },
-  {
     "id": 319,
     "imdb_id": "tt14998742",
     "tmdb_id": "848326",
@@ -165,14 +141,6 @@
     "tmdb_id": "507532",
     "title": "FINESTKIND",
     "poster": "https://www.themoviedb.org/t/p/w500/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",
-    "release_date": "12/15/23"
-  },
-  {
-    "id": 321,
-    "imdb_id": "tt16431870",
-    "tmdb_id": "1029575",
-    "title": "THE FAMILY PLAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
     "release_date": "12/15/23"
   },
   {
@@ -205,14 +173,6 @@
     "tmdb_id": "979097",
     "title": "MEMORY",
     "poster": "https://www.themoviedb.org/t/p/w500/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 326,
-    "imdb_id": "tt26047818",
-    "tmdb_id": "1072790",
-    "title": "ANYONE BUT YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
     "release_date": "12/22/23"
   },
   {

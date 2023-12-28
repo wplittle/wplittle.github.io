@@ -2200,6 +2200,22 @@
     "release_date": "11/3/23"
   },
   {
+    "id": 302,
+    "imdb_id": "tt19890316",
+    "tmdb_id": "970948",
+    "title": "WHAT HAPPENS LATER",
+    "poster": "https://www.themoviedb.org/t/p/w500/5TrWftAac3EeMcatyiCdAglWKb6.jpg",
+    "release_date": "11/3/23"
+  },
+  {
+    "id": 303,
+    "imdb_id": "tt21942866",
+    "tmdb_id": "823482",
+    "title": "DREAM SCENARIO",
+    "poster": "https://www.themoviedb.org/t/p/w500/zhEaG0KQ32KerHEWmImsYLexDix.jpg",
+    "release_date": "11/10/23"
+  },
+  {
     "id": 276,
     "imdb_id": "tt13848804",
     "tmdb_id": "1092329",
@@ -2368,6 +2384,14 @@
     "release_date": "12/8/23"
   },
   {
+    "id": 318,
+    "imdb_id": "tt23561236",
+    "tmdb_id": "1056360",
+    "title": "AMERICAN FICTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/htPScB9pEDmYOT0eCW6kahgv77t.jpg",
+    "release_date": "12/15/23"
+  },
+  {
     "id": 297,
     "imdb_id": "tt6166392",
     "tmdb_id": "787699",
@@ -2384,11 +2408,27 @@
     "release_date": "12/15/23"
   },
   {
+    "id": 321,
+    "imdb_id": "tt16431870",
+    "tmdb_id": "1029575",
+    "title": "THE FAMILY PLAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+    "release_date": "12/15/23"
+  },
+  {
     "id": 299,
     "imdb_id": "tt6495056",
     "tmdb_id": "940551",
     "title": "MIGRATION",
     "poster": "https://www.themoviedb.org/t/p/w500/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+    "release_date": "12/22/23"
+  },
+  {
+    "id": 326,
+    "imdb_id": "tt26047818",
+    "tmdb_id": "1072790",
+    "title": "ANYONE BUT YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/xvPCsU1iwAQJpJZOuHyYtFpwV1R.jpg",
     "release_date": "12/22/23"
   }
 ]
