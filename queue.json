@@ -1,6 +1,6 @@
 [
   {
-    "id": 300,
+    "id": 323,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,15 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 301,
-    "imdb_id": "tt11534720",
-    "tmdb_id": "800227",
-    "title": "ALL DIRT ROADS TASTE OF SALT",
-    "poster": "https://www.themoviedb.org/t/p/w500/mP9bXzOmRtklP4EMLbiF1eZlL7U.jpg",
-    "release_date": "11/3/23"
-  },
-  {
-    "id": 304,
+    "id": 324,
     "imdb_id": "tt10676048",
     "tmdb_id": "609681",
     "title": "THE MARVELS",
@@ -24,15 +16,7 @@
     "release_date": "11/10/23"
   },
   {
-    "id": 305,
-    "imdb_id": "tt10545296",
-    "tmdb_id": "695721",
-    "title": "THE HUNGER GAMES: THE BALLAD OF SONGBIRDS & SNAKES",
-    "poster": "https://www.themoviedb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-    "release_date": "11/17/23"
-  },
-  {
-    "id": 306,
+    "id": 325,
     "imdb_id": "tt10767052",
     "tmdb_id": "621587",
     "title": "NEXT GOAL WINS",
@@ -40,7 +24,7 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 307,
+    "id": 326,
     "imdb_id": "tt14362112",
     "tmdb_id": "901362",
     "title": "TROLLS BAND TOGETHER",
@@ -48,31 +32,15 @@
     "release_date": "11/17/23"
   },
   {
-    "id": 308,
-    "imdb_id": "tt12747748",
-    "tmdb_id": "726209",
-    "title": "LEAVE THE WORLD BEHIND",
-    "poster": "https://www.themoviedb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
-    "release_date": "11/22/23"
-  },
-  {
-    "id": 309,
+    "id": 327,
     "imdb_id": "tt11304740",
     "tmdb_id": "1022796",
     "title": "WISH",
-    "poster": "https://www.themoviedb.org/t/p/w500/8QtDhh8mnGUEyrJsaeb3kYgDRaA.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
     "release_date": "11/22/23"
   },
   {
-    "id": 310,
-    "imdb_id": "tt5198890",
-    "tmdb_id": "664341",
-    "title": "EILEEN",
-    "poster": "https://www.themoviedb.org/t/p/w500/gdGKBa3UVS5GMZsayqnfupBB5fb.jpg",
-    "release_date": "12/1/23"
-  },
-  {
-    "id": 311,
+    "id": 328,
     "imdb_id": "tt19406606",
     "tmdb_id": "1108658",
     "title": "THE SHIFT",
@@ -80,23 +48,15 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 312,
-    "imdb_id": "tt15477042",
-    "tmdb_id": "1114653",
-    "title": "WAITRESS: THE MUSICAL",
-    "poster": "https://www.themoviedb.org/t/p/w500/3ZNnOAnbfJoOvnMw2Akd5RWXI5X.jpg",
-    "release_date": "12/7/23"
-  },
-  {
-    "id": 313,
+    "id": 329,
     "imdb_id": "tt14230458",
     "tmdb_id": "792307",
     "title": "POOR THINGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/jV3c2fsBNCJgcesxdNM9O0lwwdT.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
     "release_date": "12/8/23"
   },
   {
-    "id": 314,
+    "id": 330,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -104,7 +64,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 315,
+    "id": 331,
     "imdb_id": "tt13321244",
     "tmdb_id": "753336",
     "title": "ORIGIN",
@@ -112,7 +72,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 316,
+    "id": 332,
     "imdb_id": "tt18925050",
     "tmdb_id": "1190665",
     "title": "THE OATH",
@@ -120,7 +80,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 317,
+    "id": 333,
     "imdb_id": "tt7160372",
     "tmdb_id": "467244",
     "title": "THE ZONE OF INTEREST",
@@ -128,31 +88,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 319,
-    "imdb_id": "tt14998742",
-    "tmdb_id": "848326",
-    "title": "REBEL MOON - PART ONE: A CHILD OF FIRE",
-    "poster": "https://www.themoviedb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",
-    "release_date": "12/15/23"
-  },
-  {
-    "id": 320,
-    "imdb_id": "tt7991508",
-    "tmdb_id": "507532",
-    "title": "FINESTKIND",
-    "poster": "https://www.themoviedb.org/t/p/w500/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg",
-    "release_date": "12/15/23"
-  },
-  {
-    "id": 322,
-    "imdb_id": "tt12745908",
-    "tmdb_id": "1088572",
-    "title": "CITY OF LOVE",
-    "poster": "https://www.themoviedb.org/t/p/w500/9iYXSpqkWpZGuevL9ww4psLVAPZ.jpg",
-    "release_date": "12/19/23"
-  },
-  {
-    "id": 323,
+    "id": 334,
     "imdb_id": "tt20420628",
     "tmdb_id": "1025491",
     "title": "FREUD'S LAST SESSION",
@@ -160,15 +96,15 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 324,
+    "id": 335,
     "imdb_id": "tt21064584",
     "tmdb_id": "850165",
     "title": "THE IRON CLAW",
-    "poster": "https://www.themoviedb.org/t/p/w500/nfs7DCYhgrEIgxKYbITHTzKsggf.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/lsdismtCDga4vsKnmliz0h7CaZT.jpg",
     "release_date": "12/22/23"
   },
   {
-    "id": 325,
+    "id": 336,
     "imdb_id": "tt19864828",
     "tmdb_id": "979097",
     "title": "MEMORY",
@@ -176,23 +112,15 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 327,
-    "imdb_id": "tt9663764",
-    "tmdb_id": "572802",
-    "title": "AQUAMAN AND THE LOST KINGDOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",
-    "release_date": "12/22/23"
-  },
-  {
-    "id": 328,
+    "id": 337,
     "imdb_id": "tt1200263",
     "tmdb_id": "558915",
     "title": "THE COLOR PURPLE",
-    "poster": "https://www.themoviedb.org/t/p/w500/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/3Jc93sCl0DqkePYjw47zHpqj7YS.jpg",
     "release_date": "12/25/23"
   },
   {
-    "id": 329,
+    "id": 338,
     "imdb_id": "tt1856080",
     "tmdb_id": "823452",
     "title": "THE BOYS IN THE BOAT",
@@ -200,11 +128,67 @@
     "release_date": "12/25/23"
   },
   {
-    "id": 330,
-    "imdb_id": "tt3758542",
-    "tmdb_id": "365620",
-    "title": "FERRARI",
-    "poster": "https://www.themoviedb.org/t/p/w500/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg",
-    "release_date": "12/25/23"
+    "id": 339,
+    "imdb_id": "tt28073210",
+    "tmdb_id": "1221596",
+    "title": "THE MUMMY MURDERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/jlBX5ay7e2Oc6eEax6sNWXaus7l.jpg",
+    "release_date": "1/2/24"
+  },
+  {
+    "id": 340,
+    "imdb_id": "tt5613018",
+    "tmdb_id": "1160923",
+    "title": "DARKGAME",
+    "poster": "https://www.themoviedb.org/t/p/w500/h3DxoWWIVZ3xLX8ttQm4XX8ppUk.jpg",
+    "release_date": "1/4/24"
+  },
+  {
+    "id": 341,
+    "imdb_id": "tt2016303",
+    "tmdb_id": "927107",
+    "title": "THE BRICKLAYER",
+    "poster": "https://www.themoviedb.org/t/p/w500/pwOQ9lqLX1OgsJRSybS662wMcu8.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 342,
+    "imdb_id": "tt30253266",
+    "tmdb_id": "1211957",
+    "title": "THE PAINTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/gqzlmjyBej9EJXuB6IsIT9LWqvV.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 343,
+    "imdb_id": "tt22489042",
+    "tmdb_id": "1217379",
+    "title": "HELLHOUND",
+    "poster": "https://www.themoviedb.org/t/p/w500/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 344,
+    "imdb_id": "tt11762114",
+    "tmdb_id": "673593",
+    "title": "MEAN GIRLS",
+    "poster": "https://www.themoviedb.org/t/p/w500/aYonZXaoKkPLFBDczdZHTrTaoZs.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 345,
+    "imdb_id": "tt22866358",
+    "tmdb_id": "976584",
+    "title": "THE BOOK OF CLARENCE",
+    "poster": "https://www.themoviedb.org/t/p/w500/hZuq34U1dWuIIWgTa6wZNPeDinS.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 346,
+    "imdb_id": "tt22868094",
+    "tmdb_id": "1216299",
+    "title": "THE NIGHT THEY CAME HOME",
+    "poster": "https://www.themoviedb.org/t/p/w500/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg",
+    "release_date": "1/12/24"
   }
 ]
