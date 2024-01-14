@@ -438,5 +438,357 @@
     "title": "UNSUNG HERO",
     "poster": "https://www.themoviedb.org/t/p/w500/wKYrat0neU4sHl8aO4BCzxCKFQy.jpg",
     "release_date": "4/26/24"
+  },
+  {
+    "id": 56,
+    "imdb_id": "tt9466114",
+    "tmdb_id": "843527",
+    "title": "THE IDEA OF YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/bGCTehhBz8okAUFPTcLZP3U8KrK.jpg",
+    "release_date": "5/2/24"
+  },
+  {
+    "id": 57,
+    "imdb_id": "tt1684562",
+    "tmdb_id": "746036",
+    "title": "THE FALL GUY",
+    "poster": "https://www.themoviedb.org/t/p/w500/hynoHNqw0eEDNQiIbuDlxaK4dAI.jpg",
+    "release_date": "5/3/24"
+  },
+  {
+    "id": 58,
+    "imdb_id": "tt21261712",
+    "tmdb_id": "998846",
+    "title": "BACK TO BLACK",
+    "poster": "https://www.themoviedb.org/t/p/w500/zZMw9HJr0Bf9KSVLIpZwksjaPhi.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 59,
+    "imdb_id": "tt14088510",
+    "tmdb_id": "719221",
+    "title": "HORRORSCOPE",
+    "poster": "https://www.themoviedb.org/t/p/w500/y6M6az3ZW4NIWtVpEWw5WbZsCza.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 60,
+    "imdb_id": "tt27002073",
+    "tmdb_id": "1094646",
+    "title": "MY EX-FRIEND'S WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/gasWvRTUubYbq3acLT0XjgOkrq.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 61,
+    "imdb_id": "tt11389872",
+    "tmdb_id": "653346",
+    "title": "KINGDOM OF THE PLANET OF THE APES",
+    "poster": "https://www.themoviedb.org/t/p/w500/1cC59k0caVOsC9HkeO9bSIwwHKb.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 62,
+    "imdb_id": "tt11152168",
+    "tmdb_id": "639720",
+    "title": "IF",
+    "poster": "https://www.themoviedb.org/t/p/w500/ylkMYnZUo8LhKN3jGzdOz2JzGnh.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 63,
+    "imdb_id": "tt22050754",
+    "tmdb_id": "1010600",
+    "title": "THE STRANGERS: CHAPTER 1",
+    "poster": "https://www.themoviedb.org/t/p/w500/hXoo46IgvSTbJA6Pj3z0IP1erQO.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 64,
+    "imdb_id": "tt12037194",
+    "tmdb_id": "786892",
+    "title": "FURIOSA: A MAD MAX SAGA",
+    "poster": "https://www.themoviedb.org/t/p/w500/35ISL6KqEeaGfG3xagzUqwa6ijZ.jpg",
+    "release_date": "5/24/24"
+  },
+  {
+    "id": 65,
+    "imdb_id": "tt5779228",
+    "tmdb_id": "748783",
+    "title": "THE GARFIELD MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/wGACDc9iXo5QICWV709agnYcInI.jpg",
+    "release_date": "5/24/24"
+  },
+  {
+    "id": 66,
+    "imdb_id": "tt26736843",
+    "tmdb_id": "1086747",
+    "title": "THE WATCHERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/zbb1Gn0TobLhRDOB4M2UtACrmnB.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 67,
+    "imdb_id": "tt22022452",
+    "tmdb_id": "1022789",
+    "title": "INSIDE OUT 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/q1P71jvmGuHjee9I4PgQKMCB1c9.jpg",
+    "release_date": "6/14/24"
+  },
+  {
+    "id": 68,
+    "imdb_id": "tt4919268",
+    "tmdb_id": "573435",
+    "title": "BAD BOYS 4",
+    "poster": "https://www.themoviedb.org/t/p/w500/rO5S1iIXDx8B2ra1fRKuvXK08FC.jpg",
+    "release_date": "6/14/24"
+  },
+  {
+    "id": 69,
+    "imdb_id": "tt21454134",
+    "tmdb_id": "1008409",
+    "title": "THE BIKERIDERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/oCM37y7RAmJeSEbxiWdjK7lVZzy.jpg",
+    "release_date": "6/21/24"
+  },
+  {
+    "id": 70,
+    "imdb_id": "tt10655524",
+    "tmdb_id": "1079091",
+    "title": "IT ENDS WITH US",
+    "poster": "https://www.themoviedb.org/t/p/w500/vLwfEfk7forppvKaYb4hiFVy9to.jpg",
+    "release_date": "6/21/24"
+  },
+  {
+    "id": 71,
+    "imdb_id": "tt13433802",
+    "tmdb_id": "762441",
+    "title": "A QUIET PLACE: DAY ONE",
+    "poster": "https://www.themoviedb.org/t/p/w500/imuk9lKYJIL75JMd9lck5KHQn3C.jpg",
+    "release_date": "6/28/24"
+  },
+  {
+    "id": 72,
+    "imdb_id": "tt17505010",
+    "tmdb_id": "932086",
+    "title": "HORIZON: AN AMERICAN SAGA",
+    "poster": "https://www.themoviedb.org/t/p/w500/kumfxHTPcPqqFvQltffW2Nl47RL.jpg",
+    "release_date": "6/28/24"
+  },
+  {
+    "id": 73,
+    "imdb_id": "tt7510222",
+    "tmdb_id": "519182",
+    "title": "DESPICABLE ME 4",
+    "poster": "https://www.themoviedb.org/t/p/w500/jUvA71PxFvQgPpNrKrq0J12LwgC.jpg",
+    "release_date": "7/3/24"
+  },
+  {
+    "id": 74,
+    "imdb_id": "tt30816939",
+    "tmdb_id": "1228424",
+    "title": "AMERICAN DREAM: THE 21 SAVAGE STORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/vciu1Fw2aLOdebdQLeOHRnupm7S.jpg",
+    "release_date": "7/4/24"
+  },
+  {
+    "id": 75,
+    "imdb_id": "tt23468450",
+    "tmdb_id": "1226578",
+    "title": "LONGLEGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/xbByCQauthQP70tNw0cNcn44Y7p.jpg",
+    "release_date": "7/12/24"
+  },
+  {
+    "id": 76,
+    "imdb_id": "tt12584954",
+    "tmdb_id": "718821",
+    "title": "TWISTERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/uN6jqf1LvrRublkX9ZoRwGJHMMq.jpg",
+    "release_date": "7/19/24"
+  },
+  {
+    "id": 77,
+    "imdb_id": "tt6263850",
+    "tmdb_id": "533535",
+    "title": "DEADPOOL 3",
+    "poster": "https://www.themoviedb.org/t/p/w500/3e9RToA9tGMl1T994T9T8zLW3CU.jpg",
+    "release_date": "7/26/24"
+  },
+  {
+    "id": 78,
+    "imdb_id": "tt1609486",
+    "tmdb_id": "826510",
+    "title": "HAROLD AND THE PURPLE CRAYON",
+    "poster": "https://www.themoviedb.org/t/p/w500/vw3pqefdVbFcN8aeDb3qX015sft.jpg",
+    "release_date": "8/2/24"
+  },
+  {
+    "id": 79,
+    "imdb_id": "tt4978420",
+    "tmdb_id": "365177",
+    "title": "BORDERLANDS",
+    "poster": "https://www.themoviedb.org/t/p/w500/qXpQBgsasf60CBkevYJReZzbkDU.jpg",
+    "release_date": "8/9/24"
+  },
+  {
+    "id": 80,
+    "imdb_id": "tt6133444",
+    "tmdb_id": "610219",
+    "title": "FLINT STRONG",
+    "poster": "https://www.themoviedb.org/t/p/w500/sBmu93rs1dmoihxjC7WPNtREXQv.jpg",
+    "release_date": "8/9/24"
+  },
+  {
+    "id": 81,
+    "imdb_id": "tt27665778",
+    "tmdb_id": "1120368",
+    "title": "HORIZON: AN AMERICAN SAGA - CHAPTER 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/aCls5vJDBZtu688bbZqHNzTe2Fi.jpg",
+    "release_date": "8/16/24"
+  },
+  {
+    "id": 82,
+    "imdb_id": "tt8790086",
+    "tmdb_id": "539972",
+    "title": "KRAVEN THE HUNTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+    "release_date": "8/30/24"
+  },
+  {
+    "id": 83,
+    "imdb_id": "tt2049403",
+    "tmdb_id": "917496",
+    "title": "BEETLEJUICE 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/r292UnsVQDvLRvEZdjDwjHCi4e1.jpg",
+    "release_date": "9/6/24"
+  },
+  {
+    "id": 84,
+    "imdb_id": "tt8864596",
+    "tmdb_id": "698687",
+    "title": "TRANSFORMERS ONE",
+    "poster": "https://www.themoviedb.org/t/p/w500/nZiA682CX17KExN8XQGCqkSBtmY.jpg",
+    "release_date": "9/13/24"
+  },
+  {
+    "id": 85,
+    "imdb_id": "tt29623480",
+    "tmdb_id": "1184918",
+    "title": "THE WILD ROBOT",
+    "poster": "https://www.themoviedb.org/t/p/w500/5T06ymr0UksTLbxTrSTwcsaT4Fj.jpg",
+    "release_date": "9/20/24"
+  },
+  {
+    "id": 86,
+    "imdb_id": "tt30414742",
+    "tmdb_id": "1207360",
+    "title": "SAW XI",
+    "poster": "https://www.themoviedb.org/t/p/w500/4YdAlOYfgkSzo1lrHhk6lBFV2PJ.jpg",
+    "release_date": "9/27/24"
+  },
+  {
+    "id": 87,
+    "imdb_id": "tt11068094",
+    "tmdb_id": "779816",
+    "title": "WHITE BIRD",
+    "poster": "https://www.themoviedb.org/t/p/w500/1BS7e6MiWlgemAwHCaRCt41Zp3x.jpg",
+    "release_date": "10/4/24"
+  },
+  {
+    "id": 88,
+    "imdb_id": "tt11315808",
+    "tmdb_id": "889737",
+    "title": "JOKER: FOLIE A DEUX",
+    "poster": "https://www.themoviedb.org/t/p/w500/szdiiHs5zlW641FnPLS5D7Gm49F.jpg",
+    "release_date": "10/4/24"
+  },
+  {
+    "id": 89,
+    "imdb_id": "tt27911000",
+    "tmdb_id": "1034541",
+    "title": "TERRIFIER 3",
+    "poster": "https://www.themoviedb.org/t/p/w500/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
+    "release_date": "10/25/24"
+  },
+  {
+    "id": 90,
+    "imdb_id": "tt4216984",
+    "tmdb_id": "710295",
+    "title": "WOLF MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/pHOlIVujI1pjwIDH6il5WO7S0MQ.jpg",
+    "release_date": "10/25/24"
+  },
+  {
+    "id": 91,
+    "imdb_id": "tt16366836",
+    "tmdb_id": "912649",
+    "title": "UNTITLED VENOM SEQUEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
+    "release_date": "11/8/24"
+  },
+  {
+    "id": 92,
+    "imdb_id": "tt21815562",
+    "tmdb_id": "1013601",
+    "title": "ALTO KNIGHTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/r0ZsywyakvtYpQ7S5mnn1YrVmYV.jpg",
+    "release_date": "11/15/24"
+  },
+  {
+    "id": 93,
+    "imdb_id": "tt14948432",
+    "tmdb_id": "845781",
+    "title": "RED ONE",
+    "poster": "https://www.themoviedb.org/t/p/w500/ca7pxBRGeVFATZsgAH4Ks06cOs5.jpg",
+    "release_date": "11/15/24"
+  },
+  {
+    "id": 94,
+    "imdb_id": "tt9218128",
+    "tmdb_id": "558449",
+    "title": "GLADIATOR 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/1HPoY1RyGdBGfHfYB9t9Jrq8Zmx.jpg",
+    "release_date": "11/22/24"
+  },
+  {
+    "id": 95,
+    "imdb_id": "tt1262426",
+    "tmdb_id": "402431",
+    "title": "WICKED",
+    "poster": "https://www.themoviedb.org/t/p/w500/iS46QOZ8uvMRgLMHY22S1GhMwCc.jpg",
+    "release_date": "11/27/24"
+  },
+  {
+    "id": 96,
+    "imdb_id": "tt14824600",
+    "tmdb_id": "839033",
+    "title": "THE LORD OF THE RINGS: THE WAR OF THE ROHIRRIM",
+    "poster": "https://www.themoviedb.org/t/p/w500/3yOyysd9xV7sXW8uyAEqV52JreW.jpg",
+    "release_date": "12/13/24"
+  },
+  {
+    "id": 97,
+    "imdb_id": "tt13186482",
+    "tmdb_id": "762509",
+    "title": "MUFASA: THE LION KING",
+    "poster": "https://www.themoviedb.org/t/p/w500/voZdN8XKo1j9e5A44shYdxXKilE.jpg",
+    "release_date": "12/20/24"
+  },
+  {
+    "id": 98,
+    "imdb_id": "tt18259086",
+    "tmdb_id": "939243",
+    "title": "SONIC THE HEDGEHOG 3",
+    "poster": "https://www.themoviedb.org/t/p/w500/aNSBaYTgPz8QEADi3xiD52X4uVF.jpg",
+    "release_date": "12/20/24"
+  },
+  {
+    "id": 99,
+    "imdb_id": "tt5040012",
+    "tmdb_id": "426063",
+    "title": "NOSFERATU",
+    "poster": "https://www.themoviedb.org/t/p/w500/gVjHF375pdFANPMXUT3aJxoOi0J.jpg",
+    "release_date": "12/25/24"
   }
 ]
