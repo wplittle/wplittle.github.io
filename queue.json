@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 342,
     "imdb_id": "\ufefftt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,15 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 2,
-    "imdb_id": "tt11304740",
-    "tmdb_id": "1022796",
-    "title": "WISH",
-    "poster": "https://www.themoviedb.org/t/p/w500/AcoVfiv1rrWOmAdpnAMnM56ki19.jpg",
-    "release_date": "11/22/23"
-  },
-  {
-    "id": 3,
+    "id": 343,
     "imdb_id": "tt19406606",
     "tmdb_id": "1108658",
     "title": "THE SHIFT",
@@ -24,7 +16,7 @@
     "release_date": "12/1/23"
   },
   {
-    "id": 4,
+    "id": 344,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -32,15 +24,15 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 5,
+    "id": 345,
     "imdb_id": "tt13321244",
     "tmdb_id": "753336",
     "title": "ORIGIN",
-    "poster": "https://www.themoviedb.org/t/p/w500/l3CG9YMfRywp6FyrYpkZS4lThWM.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/jM7PTHpqoeC5ipyDupXP6QLjhGP.jpg",
     "release_date": "12/8/23"
   },
   {
-    "id": 6,
+    "id": 346,
     "imdb_id": "tt18925050",
     "tmdb_id": "1190665",
     "title": "THE OATH",
@@ -48,7 +40,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 7,
+    "id": 347,
     "imdb_id": "tt7160372",
     "tmdb_id": "467244",
     "title": "THE ZONE OF INTEREST",
@@ -56,7 +48,7 @@
     "release_date": "12/15/23"
   },
   {
-    "id": 8,
+    "id": 348,
     "imdb_id": "tt20420628",
     "tmdb_id": "1025491",
     "title": "FREUD'S LAST SESSION",
@@ -64,7 +56,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 9,
+    "id": 349,
     "imdb_id": "tt21064584",
     "tmdb_id": "850165",
     "title": "THE IRON CLAW",
@@ -72,7 +64,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 10,
+    "id": 350,
     "imdb_id": "tt19864828",
     "tmdb_id": "979097",
     "title": "MEMORY",
@@ -80,15 +72,7 @@
     "release_date": "12/22/23"
   },
   {
-    "id": 12,
-    "imdb_id": "tt28073210",
-    "tmdb_id": "1221596",
-    "title": "THE MUMMY MURDERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/jlBX5ay7e2Oc6eEax6sNWXaus7l.jpg",
-    "release_date": "1/2/24"
-  },
-  {
-    "id": 13,
+    "id": 351,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -96,15 +80,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 14,
-    "imdb_id": "tt22489042",
-    "tmdb_id": "1217379",
-    "title": "HELLHOUND",
-    "poster": "https://www.themoviedb.org/t/p/w500/h1BtcTEk0pbe9XhbxrAp2oLKoWb.jpg",
-    "release_date": "1/12/24"
-  },
-  {
-    "id": 15,
+    "id": 352,
     "imdb_id": "tt11762114",
     "tmdb_id": "673593",
     "title": "MEAN GIRLS",
@@ -112,7 +88,7 @@
     "release_date": "1/12/24"
   },
   {
-    "id": 16,
+    "id": 353,
     "imdb_id": "tt22866358",
     "tmdb_id": "976584",
     "title": "THE BOOK OF CLARENCE",
@@ -120,7 +96,7 @@
     "release_date": "1/12/24"
   },
   {
-    "id": 18,
+    "id": 354,
     "imdb_id": "tt3468380",
     "tmdb_id": "975043",
     "title": "WHICH BRINGS ME TO YOU",
@@ -128,15 +104,15 @@
     "release_date": "1/19/24"
   },
   {
-    "id": 19,
+    "id": 355,
     "imdb_id": "tt13655120",
     "tmdb_id": "790462",
     "title": "I.S.S.",
-    "poster": "https://www.themoviedb.org/t/p/w500/1hrlcaU3yMDgIV1UYMsOteglext.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/heKmiVlYRXC1h9by70oUQfsKCeW.jpg",
     "release_date": "1/19/24"
   },
   {
-    "id": 20,
+    "id": 356,
     "imdb_id": "tt23785128",
     "tmdb_id": "1055451",
     "title": "FOUNDERS DAY",
@@ -144,7 +120,7 @@
     "release_date": "1/19/24"
   },
   {
-    "id": 21,
+    "id": 357,
     "imdb_id": "tt26742994",
     "tmdb_id": "1216784",
     "title": "SUNRISE",
@@ -152,11 +128,43 @@
     "release_date": "1/19/24"
   },
   {
-    "id": 22,
+    "id": 358,
     "imdb_id": "tt21151212",
     "tmdb_id": "1059345",
     "title": "CULT KILLER",
     "poster": "https://www.themoviedb.org/t/p/w500/bNJigAvyyrmraLwlGVspAcACuaX.jpg",
     "release_date": "1/19/24"
+  },
+  {
+    "id": 359,
+    "imdb_id": "tt21861620",
+    "tmdb_id": "1222072",
+    "title": "MURDER AND COCKTAILS",
+    "poster": "https://www.themoviedb.org/t/p/w500/6lwjmyJGtHGzRKKhI0LrcFe6fvX.jpg",
+    "release_date": "1/23/24"
+  },
+  {
+    "id": 360,
+    "imdb_id": "tt26546123",
+    "tmdb_id": "1096342",
+    "title": "BEAUTIFUL WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/yA9CO79V0lr9IWEmqQdp2ozvYQE.jpg",
+    "release_date": "1/24/24"
+  },
+  {
+    "id": 361,
+    "imdb_id": "tt8310486",
+    "tmdb_id": "1026436",
+    "title": "MILLER'S GIRL",
+    "poster": "https://www.themoviedb.org/t/p/w500/ieU0zUj7WhE0GrgpgofRH0sNjbI.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 362,
+    "imdb_id": "tt16431966",
+    "tmdb_id": "891933",
+    "title": "SOMETIMES I THINK ABOUT DYING",
+    "poster": "https://www.themoviedb.org/t/p/w500/qy3ebryFg9QOX6F77iv5pG3gfwr.jpg",
+    "release_date": "1/26/24"
   }
 ]
