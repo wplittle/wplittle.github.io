@@ -193,7 +193,7 @@
   },
   {
     "id": 371,
-    "imdb_id": "\ufefftt21188080",
+    "imdb_id": "tt21188080",
     "tmdb_id": "993784",
     "title": "LISA FRANKENSTEIN",
     "poster": "https://www.themoviedb.org/t/p/w500/pCZNvjlXgNkqkJDPb7WdsDlZKzC.jpg",
@@ -238,5 +238,5 @@
     "title": "SUNCOAST",
     "poster": "https://www.themoviedb.org/t/p/w500/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
     "release_date": "2/9/24"
-  },
+  }
 ]
