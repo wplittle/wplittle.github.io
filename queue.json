@@ -190,5 +190,53 @@
     "title": "A NASHVILLE WISH",
     "poster": "https://www.themoviedb.org/t/p/w500/vc71HD6vHYrq8DZjcKL7dRQwCQ6.jpg",
     "release_date": "2/2/24"
-  }
+  },
+  {
+    "id": 371,
+    "imdb_id": "\ufefftt21188080",
+    "tmdb_id": "993784",
+    "title": "LISA FRANKENSTEIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/pCZNvjlXgNkqkJDPb7WdsDlZKzC.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 372,
+    "imdb_id": "tt14375666",
+    "tmdb_id": "818861",
+    "title": "LOLA",
+    "poster": "https://www.themoviedb.org/t/p/w500/pDWcMga4hJ7rG4xtXddgAFfAdoQ.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 373,
+    "imdb_id": "tt21830902",
+    "tmdb_id": "1014590",
+    "title": "UPGRADED",
+    "poster": "https://www.themoviedb.org/t/p/w500/1QR2kAqkcPqKuD1TEny6DjFUMHi.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 374,
+    "imdb_id": "tt21275544",
+    "tmdb_id": "997162",
+    "title": "MARMALADE",
+    "poster": "https://www.themoviedb.org/t/p/w500/5VyR8YGnUKxRzKMynlxxncfVRIo.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 375,
+    "imdb_id": "tt27708700",
+    "tmdb_id": "1124127",
+    "title": "AIR FORCE ONE DOWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/p2THy0Ormn91pHcRrCGmT72yGv4.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 376,
+    "imdb_id": "tt13650742",
+    "tmdb_id": "1014209",
+    "title": "SUNCOAST",
+    "poster": "https://www.themoviedb.org/t/p/w500/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
+    "release_date": "2/9/24"
+  },
 ]
