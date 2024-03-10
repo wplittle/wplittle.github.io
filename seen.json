@@ -32,6 +32,14 @@
     "release_date": "3/1/24"
   },
   {
+    "id": 404,
+    "imdb_id": "tt19364132",
+    "tmdb_id": "1058303",
+    "title": "DRUGSTORE JUNE",
+    "poster": "https://www.themoviedb.org/t/p/w500/zbWcd3e5ooHEmiJnEmRE8sE3bOP.jpg",
+    "release_date": "2/23/24"
+  },
+  {
     "id": 5,
     "imdb_id": "tt14852624",
     "tmdb_id": "840889",
