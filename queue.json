@@ -1,22 +1,14 @@
 [
   {
-    "id": 406,
-    "imdb_id": "tt14636186",
-    "tmdb_id": "828898",
-    "title": "THE VENTURE BROS.: RADIANT IS THE BLOOD OF THE BABOON HEART",
-    "poster": "https://www.themoviedb.org/t/p/w500/u3ZgJfyBpTox5U7RfhCDIXlHnO4.jpg",
-    "release_date": "7/21/23"
-  },
-  {
-    "id": 407,
-    "imdb_id": "tt17372926",
+    "id": 412,
+    "imdb_id": "\ufefftt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
     "poster": "https://www.themoviedb.org/t/p/w500/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg",
     "release_date": "11/3/23"
   },
   {
-    "id": 408,
+    "id": 413,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -24,7 +16,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 409,
+    "id": 414,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -32,7 +24,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 410,
+    "id": 415,
     "imdb_id": "tt23785128",
     "tmdb_id": "1055451",
     "title": "FOUNDERS DAY",
@@ -40,15 +32,7 @@
     "release_date": "1/19/24"
   },
   {
-    "id": 411,
-    "imdb_id": "tt16431966",
-    "tmdb_id": "891933",
-    "title": "SOMETIMES I THINK ABOUT DYING",
-    "poster": "https://www.themoviedb.org/t/p/w500/jpJPlZPnA3D7JHKPwjsBFOXfX9m.jpg",
-    "release_date": "1/26/24"
-  },
-  {
-    "id": 412,
+    "id": 416,
     "imdb_id": "tt23037638",
     "tmdb_id": "1237059",
     "title": "THERE IS A MONSTER",
@@ -56,7 +40,7 @@
     "release_date": "1/30/24"
   },
   {
-    "id": 413,
+    "id": 417,
     "imdb_id": "tt15560314",
     "tmdb_id": "1109237",
     "title": "THE MONK AND THE GUN",
@@ -64,7 +48,7 @@
     "release_date": "2/2/24"
   },
   {
-    "id": 414,
+    "id": 418,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -72,7 +56,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 415,
+    "id": 419,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -80,23 +64,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 416,
-    "imdb_id": "tt15560132",
-    "tmdb_id": "1062528",
-    "title": "LOVELY, DARK, AND DEEP",
-    "poster": "https://www.themoviedb.org/t/p/w500/d4maZqH6a4vOUKuFzUrARZAiNc3.jpg",
-    "release_date": "2/22/24"
-  },
-  {
-    "id": 417,
-    "imdb_id": "tt4996328",
-    "tmdb_id": "974036",
-    "title": "ORDINARY ANGELS",
-    "poster": "https://www.themoviedb.org/t/p/w500/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
-    "release_date": "2/23/24"
-  },
-  {
-    "id": 418,
+    "id": 420,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -104,15 +72,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 419,
-    "imdb_id": "tt5613018",
-    "tmdb_id": "1160923",
-    "title": "DARKGAME",
-    "poster": "https://www.themoviedb.org/t/p/w500/cfWD5eZ2QuGwgtoFJ5GU3YciFED.jpg",
-    "release_date": "2/29/24"
-  },
-  {
-    "id": 420,
+    "id": 421,
     "imdb_id": "tt15078804",
     "tmdb_id": "852247",
     "title": "PROBLEMISTA",
@@ -120,7 +80,7 @@
     "release_date": "3/1/24"
   },
   {
-    "id": 421,
+    "id": 422,
     "imdb_id": "tt10618968",
     "tmdb_id": "1148685",
     "title": "OUTLAW POSSE",
@@ -128,19 +88,11 @@
     "release_date": "3/1/24"
   },
   {
-    "id": 422,
+    "id": 423,
     "imdb_id": "tt9201172",
     "tmdb_id": "1109940",
     "title": "ACCIDENTAL TEXAN",
     "poster": "https://www.themoviedb.org/t/p/w500/bASyCaVcC01CEwfLg2AT9DMsuK6.jpg",
-    "release_date": "3/8/24"
-  },
-  {
-    "id": 423,
-    "imdb_id": "tt13380324",
-    "tmdb_id": "829038",
-    "title": "NIGHT SHIFT",
-    "poster": "https://www.themoviedb.org/t/p/w500/pSjO9vMaxe5gQ5TWTwG092lCEe4.jpg",
     "release_date": "3/8/24"
   },
   {
@@ -164,7 +116,7 @@
     "imdb_id": "tt14351082",
     "tmdb_id": "975056",
     "title": "CABRINI",
-    "poster": "https://www.themoviedb.org/t/p/w500/qJqEC0f51MJvUciRiDUc9Qrrugz.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
     "release_date": "3/8/24"
   },
   {
@@ -225,6 +177,14 @@
   },
   {
     "id": 434,
+    "imdb_id": "tt20857268",
+    "tmdb_id": "1101032",
+    "title": "EARLYBIRD",
+    "poster": "https://www.themoviedb.org/t/p/w500/kzzHnSBhskIqadMz6qo7DAcPICN.jpg",
+    "release_date": "3/21/24"
+  },
+  {
+    "id": 435,
     "imdb_id": "tt14966898",
     "tmdb_id": "938614",
     "title": "LATE NIGHT WITH THE DEVIL",
@@ -232,7 +192,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 435,
+    "id": 436,
     "imdb_id": "tt24806518",
     "tmdb_id": "1063679",
     "title": "FREE TIME",
@@ -240,19 +200,11 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 436,
+    "id": 437,
     "imdb_id": "tt7575046",
     "tmdb_id": "1114873",
     "title": "RIDDLE OF FIRE",
     "poster": "https://www.themoviedb.org/t/p/w500/yjBbl4iLk3Zj5erRq4FjlyyTrWu.jpg",
-    "release_date": "3/22/24"
-  },
-  {
-    "id": 437,
-    "imdb_id": "tt15005606",
-    "tmdb_id": "974878",
-    "title": "PETER FIVE EIGHT",
-    "poster": "https://www.themoviedb.org/t/p/w500/vs2912jaYfRz6hxiZxfsShchlny.jpg",
     "release_date": "3/22/24"
   },
   {
@@ -273,10 +225,42 @@
   },
   {
     "id": 440,
+    "imdb_id": "tt15005606",
+    "tmdb_id": "974878",
+    "title": "PETER FIVE EIGHT",
+    "poster": "https://www.themoviedb.org/t/p/w500/vs2912jaYfRz6hxiZxfsShchlny.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 441,
     "imdb_id": "tt8542964",
     "tmdb_id": "978592",
     "title": "SLEEPING DOGS",
     "poster": "https://www.themoviedb.org/t/p/w500/bLfkXihwzoRrkhlqNs1zcMZsZem.jpg",
     "release_date": "3/22/24"
+  },
+  {
+    "id": 442,
+    "imdb_id": "tt9663896",
+    "tmdb_id": "628922",
+    "title": "BLACK FLIES (fka ASPHALT CITY)",
+    "poster": "https://www.themoviedb.org/t/p/w500/A0tQh6LTRa67sYnM2sm1bvsbHaC.jpg",
+    "release_date": "3/29/24"
+  },
+  {
+    "id": 443,
+    "imdb_id": "tt15669314",
+    "tmdb_id": "914243",
+    "title": "THE LISTENER",
+    "poster": "https://www.themoviedb.org/t/p/w500/qs7V5e2L4GgpTdv9vmxT151xNXR.jpg",
+    "release_date": "3/29/24"
+  },
+  {
+    "id": 444,
+    "imdb_id": "tt14539740",
+    "tmdb_id": "823464",
+    "title": "GODZILLA X KONG: THE NEW EMPIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/gmGK5Gw5CIGMPhOmTO0bNA9Q66c.jpg",
+    "release_date": "3/29/24"
   }
 ]
