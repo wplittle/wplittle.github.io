@@ -1,7 +1,7 @@
 [
   {
     "id": 412,
-    "imdb_id": "\ufefftt17372926",
+    "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
     "poster": "https://www.themoviedb.org/t/p/w500/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg",
@@ -30,14 +30,6 @@
     "title": "FOUNDERS DAY",
     "poster": "https://www.themoviedb.org/t/p/w500/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
     "release_date": "1/19/24"
-  },
-  {
-    "id": 416,
-    "imdb_id": "tt23037638",
-    "tmdb_id": "1237059",
-    "title": "THERE IS A MONSTER",
-    "poster": "https://www.themoviedb.org/t/p/w500/pAAqREPhp2W6rLrJ3zTPFkP2pQV.jpg",
-    "release_date": "1/30/24"
   },
   {
     "id": 417,
