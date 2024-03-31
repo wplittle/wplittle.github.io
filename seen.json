@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imdb_id": "\ufefftt23330554",
+    "imdb_id": "tt23330554",
     "tmdb_id": "1079485",
     "title": "WINNIE THE POOH: BLOOD AND HONEY 2",
     "poster": "https://www.themoviedb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
@@ -374,6 +374,14 @@
     "title": "A NASHVILLE WISH",
     "poster": "https://www.themoviedb.org/t/p/w500/vc71HD6vHYrq8DZjcKL7dRQwCQ6.jpg",
     "release_date": "2/2/24"
+  },
+  {
+    "id": 416,
+    "imdb_id": "tt23037638",
+    "tmdb_id": "1237059",
+    "title": "THERE IS A MONSTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/pAAqREPhp2W6rLrJ3zTPFkP2pQV.jpg",
+    "release_date": "1/30/24"
   },
   {
     "id": 48,
