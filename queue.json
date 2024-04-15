@@ -1,6 +1,6 @@
 [
   {
-    "id": 423,
+    "id": 431,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 424,
+    "id": 432,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -16,7 +16,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 425,
+    "id": 433,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -24,15 +24,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 426,
-    "imdb_id": "tt23785128",
-    "tmdb_id": "1055451",
-    "title": "FOUNDERS DAY",
-    "poster": "https://www.themoviedb.org/t/p/w500/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
-    "release_date": "1/19/24"
-  },
-  {
-    "id": 427,
+    "id": 434,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -40,7 +32,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 428,
+    "id": 435,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -48,7 +40,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 429,
+    "id": 436,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -56,15 +48,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 430,
-    "imdb_id": "tt15078804",
-    "tmdb_id": "852247",
-    "title": "PROBLEMISTA",
-    "poster": "https://www.themoviedb.org/t/p/w500/yiOuLdreveT8Pp5DQ2JQPy5Opu1.jpg",
-    "release_date": "3/1/24"
-  },
-  {
-    "id": 431,
+    "id": 437,
     "imdb_id": "tt16292816",
     "tmdb_id": "1149314",
     "title": "ASLEEP IN MY PALM",
@@ -72,7 +56,15 @@
     "release_date": "3/1/24"
   },
   {
-    "id": 432,
+    "id": 438,
+    "imdb_id": "tt15078804",
+    "tmdb_id": "852247",
+    "title": "PROBLEMISTA",
+    "poster": "https://www.themoviedb.org/t/p/w500/yiOuLdreveT8Pp5DQ2JQPy5Opu1.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 439,
     "imdb_id": "tt9201172",
     "tmdb_id": "1109940",
     "title": "ACCIDENTAL TEXAN",
@@ -80,7 +72,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 433,
+    "id": 440,
     "imdb_id": "tt14351082",
     "tmdb_id": "975056",
     "title": "CABRINI",
@@ -88,7 +80,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 434,
+    "id": 441,
     "imdb_id": "tt14304018",
     "tmdb_id": "879972",
     "title": "GLITTER & DOOM",
@@ -96,7 +88,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 435,
+    "id": 442,
     "imdb_id": "tt19637052",
     "tmdb_id": "948549",
     "title": "LOVE LIES BLEEDING",
@@ -104,15 +96,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 436,
-    "imdb_id": "tt21692408",
-    "tmdb_id": "1011985",
-    "title": "KUNG FU PANDA 4",
-    "poster": "https://www.themoviedb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
-    "release_date": "3/8/24"
-  },
-  {
-    "id": 437,
+    "id": 443,
     "imdb_id": "tt9352178",
     "tmdb_id": "632995",
     "title": "THE PRIMEVALS",
@@ -120,15 +104,7 @@
     "release_date": "3/11/24"
   },
   {
-    "id": 438,
-    "imdb_id": "tt20115766",
-    "tmdb_id": "972614",
-    "title": "KNOX GOES AWAY",
-    "poster": "https://www.themoviedb.org/t/p/w500/w39qKYjltCix18BwtoZ1e45usdb.jpg",
-    "release_date": "3/15/24"
-  },
-  {
-    "id": 439,
+    "id": 444,
     "imdb_id": "tt30486099",
     "tmdb_id": "1241933",
     "title": "BARDEJOV",
@@ -136,7 +112,7 @@
     "release_date": "3/19/24"
   },
   {
-    "id": 440,
+    "id": 445,
     "imdb_id": "tt20857268",
     "tmdb_id": "1101032",
     "title": "EARLYBIRD",
@@ -144,7 +120,7 @@
     "release_date": "3/21/24"
   },
   {
-    "id": 441,
+    "id": 446,
     "imdb_id": "tt14966898",
     "tmdb_id": "938614",
     "title": "LATE NIGHT WITH THE DEVIL",
@@ -152,7 +128,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 442,
+    "id": 447,
     "imdb_id": "tt24806518",
     "tmdb_id": "1063679",
     "title": "FREE TIME",
@@ -160,7 +136,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 443,
+    "id": 448,
     "imdb_id": "tt7575046",
     "tmdb_id": "1114873",
     "title": "RIDDLE OF FIRE",
@@ -168,7 +144,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 444,
+    "id": 449,
     "imdb_id": "tt15005606",
     "tmdb_id": "974878",
     "title": "PETER FIVE EIGHT",
@@ -176,7 +152,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 445,
+    "id": 450,
     "imdb_id": "tt21235248",
     "tmdb_id": "967847",
     "title": "GHOSTBUSTERS: FROZEN EMPIRE",
@@ -184,23 +160,15 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 446,
-    "imdb_id": "tt8542964",
-    "tmdb_id": "978592",
-    "title": "SLEEPING DOGS",
-    "poster": "https://www.themoviedb.org/t/p/w500/bLfkXihwzoRrkhlqNs1zcMZsZem.jpg",
-    "release_date": "3/22/24"
-  },
-  {
-    "id": 447,
+    "id": 451,
     "imdb_id": "tt14539740",
     "tmdb_id": "823464",
     "title": "GODZILLA X KONG: THE NEW EMPIRE",
-    "poster": "https://www.themoviedb.org/t/p/w500/1hUTqPnfTvuupk7XW7WCkWYW4M1.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg",
     "release_date": "3/29/24"
   },
   {
-    "id": 448,
+    "id": 452,
     "imdb_id": "tt9663896",
     "tmdb_id": "628922",
     "title": "BLACK FLIES (fka ASPHALT CITY)",
@@ -208,51 +176,19 @@
     "release_date": "3/29/24"
   },
   {
-    "id": 449,
+    "id": 453,
     "imdb_id": "tt15669314",
     "tmdb_id": "914243",
     "title": "THE LISTENER",
-    "poster": "https://www.themoviedb.org/t/p/w500/qs7V5e2L4GgpTdv9vmxT151xNXR.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/6ldRGB2xBeXJKxo5KqUOZcq35rW.jpg",
     "release_date": "3/29/24"
   },
   {
-    "id": 450,
-    "imdb_id": "tt19853698",
-    "tmdb_id": "968441",
-    "title": "M\u00daSICA",
-    "poster": "https://www.themoviedb.org/t/p/w500/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
-    "release_date": "4/4/24"
-  },
-  {
-    "id": 451,
+    "id": 454,
     "imdb_id": "tt24244436",
     "tmdb_id": "1081593",
     "title": "HOUSEKEEPING FOR BEGINNERS",
     "poster": "https://www.themoviedb.org/t/p/w500/vf8JlpSXEcB5glI2Iw8cjzdrg8l.jpg",
-    "release_date": "4/5/24"
-  },
-  {
-    "id": 452,
-    "imdb_id": "tt21057800",
-    "tmdb_id": "953713",
-    "title": "PARACHUTE",
-    "poster": "https://www.themoviedb.org/t/p/w500/nChooTnOjipBalKd0wgnacxis55.jpg",
-    "release_date": "4/5/24"
-  },
-  {
-    "id": 453,
-    "imdb_id": "tt21651430",
-    "tmdb_id": "808482",
-    "title": "THE PEOPLE'S JOKER",
-    "poster": "https://www.themoviedb.org/t/p/w500/9mPoxHqonXXeQnwscNEd73Z0Ik3.jpg",
-    "release_date": "4/5/24"
-  },
-  {
-    "id": 454,
-    "imdb_id": "tt15662700",
-    "tmdb_id": "952869",
-    "title": "A BIT OF LIGHT",
-    "poster": "https://www.themoviedb.org/t/p/w500/aDq9jqXr9WCl9U0Srfj1JObvJUv.jpg",
     "release_date": "4/5/24"
   },
   {
@@ -273,18 +209,106 @@
   },
   {
     "id": 457,
-    "imdb_id": "tt22805652",
-    "tmdb_id": "1182297",
-    "title": "STRICTLY CONFIDENTIAL",
-    "poster": "https://www.themoviedb.org/t/p/w500/z7HYUG9osY4Y1i3tuZnfjIqY7qP.jpg",
+    "imdb_id": "tt2015349",
+    "tmdb_id": "1011082",
+    "title": "THE GREATEST HITS",
+    "poster": "https://www.themoviedb.org/t/p/w500/cve12HkI9psBUfmkx7FeBciaQN7.jpg",
     "release_date": "4/5/24"
   },
   {
     "id": 458,
-    "imdb_id": "tt2015349",
-    "tmdb_id": "1011082",
-    "title": "THE GREATEST HITS",
-    "poster": "https://www.themoviedb.org/t/p/w500/10EYSdYhkD1anNevdXfFFtBihAo.jpg",
+    "imdb_id": "tt21057800",
+    "tmdb_id": "953713",
+    "title": "PARACHUTE",
+    "poster": "https://www.themoviedb.org/t/p/w500/vv0YaKfXVIX1heRGXlYYZDdlO38.jpg",
     "release_date": "4/5/24"
+  },
+  {
+    "id": 459,
+    "imdb_id": "tt21651430",
+    "tmdb_id": "808482",
+    "title": "THE PEOPLE'S JOKER",
+    "poster": "https://www.themoviedb.org/t/p/w500/9mPoxHqonXXeQnwscNEd73Z0Ik3.jpg",
+    "release_date": "4/5/24"
+  },
+  {
+    "id": 460,
+    "imdb_id": "tt15662700",
+    "tmdb_id": "952869",
+    "title": "A BIT OF LIGHT",
+    "poster": "https://www.themoviedb.org/t/p/w500/aDq9jqXr9WCl9U0Srfj1JObvJUv.jpg",
+    "release_date": "4/5/24"
+  },
+  {
+    "id": 461,
+    "imdb_id": "tt10353588",
+    "tmdb_id": "639857",
+    "title": "THE ABSENCE OF EDEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/3fq1fOxOV64O0tKm71beg9WhFCK.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 462,
+    "imdb_id": "tt20102596",
+    "tmdb_id": "1001783",
+    "title": "LAROY",
+    "poster": "https://www.themoviedb.org/t/p/w500/eKrj4bpbDG3xumZDJKptMpYHJL.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 463,
+    "imdb_id": "tt30180830",
+    "tmdb_id": "1015634",
+    "title": "SASQUATCH SUNSET",
+    "poster": "https://www.themoviedb.org/t/p/w500/s43rgDGRDOB12prgK9YfWPEIyAh.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 464,
+    "imdb_id": "tt22939186",
+    "tmdb_id": "1051896",
+    "title": "ARCADIAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 465,
+    "imdb_id": "tt27304026",
+    "tmdb_id": "1105407",
+    "title": "DAMAGED",
+    "poster": "https://www.themoviedb.org/t/p/w500/tMO0YLXgJZBnIAjoTSz26zE33YN.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 466,
+    "imdb_id": "tt12444168",
+    "tmdb_id": "1251687",
+    "title": "DON'T TELL MOM THE BABYSITTER'S DEAD",
+    "poster": "https://www.themoviedb.org/t/p/w500/jRhyL0c6E06nX5RZxrk9w5kzord.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 467,
+    "imdb_id": "tt20112746",
+    "tmdb_id": "1087388",
+    "title": "STING",
+    "poster": "https://www.themoviedb.org/t/p/w500/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 468,
+    "imdb_id": "tt22399738",
+    "tmdb_id": "1062421",
+    "title": "SWEET DREAMS",
+    "poster": "https://www.themoviedb.org/t/p/w500/p577aGRj4HyBr77tfajD7C2M4Ao.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 469,
+    "imdb_id": "tt7738330",
+    "tmdb_id": "1079810",
+    "title": "THE LONG GAME",
+    "poster": "https://www.themoviedb.org/t/p/w500/eVWHzm6bL4ybAuRLqA10Qo7ACfN.jpg",
+    "release_date": "4/12/24"
   }
 ]
