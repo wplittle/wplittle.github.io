@@ -1,6 +1,6 @@
 [
   {
-    "id": 987,
+    "id": 988,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 988,
+    "id": 989,
     "imdb_id": "tt15824990",
     "tmdb_id": "896250",
     "title": "THE CELLO",
@@ -16,7 +16,7 @@
     "release_date": "12/8/23"
   },
   {
-    "id": 989,
+    "id": 990,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -24,7 +24,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 990,
+    "id": 991,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -32,7 +32,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 991,
+    "id": 992,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -40,7 +40,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 992,
+    "id": 993,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -48,7 +48,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 993,
+    "id": 994,
     "imdb_id": "tt16292816",
     "tmdb_id": "1149314",
     "title": "ASLEEP IN MY PALM",
@@ -56,7 +56,7 @@
     "release_date": "3/1/24"
   },
   {
-    "id": 994,
+    "id": 995,
     "imdb_id": "tt9201172",
     "tmdb_id": "1109940",
     "title": "ACCIDENTAL TEXAN",
@@ -64,7 +64,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 995,
+    "id": 996,
     "imdb_id": "tt14351082",
     "tmdb_id": "975056",
     "title": "CABRINI",
@@ -72,7 +72,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 996,
+    "id": 997,
     "imdb_id": "tt14304018",
     "tmdb_id": "879972",
     "title": "GLITTER & DOOM",
@@ -80,7 +80,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 997,
+    "id": 998,
     "imdb_id": "tt19637052",
     "tmdb_id": "948549",
     "title": "LOVE LIES BLEEDING",
@@ -88,7 +88,7 @@
     "release_date": "3/8/24"
   },
   {
-    "id": 998,
+    "id": 999,
     "imdb_id": "tt9352178",
     "tmdb_id": "632995",
     "title": "THE PRIMEVALS",
@@ -96,20 +96,12 @@
     "release_date": "3/11/24"
   },
   {
-    "id": 999,
+    "id": 1000,
     "imdb_id": "tt20857268",
     "tmdb_id": "1101032",
     "title": "EARLYBIRD",
     "poster": "https://www.themoviedb.org/t/p/w500/kzzHnSBhskIqadMz6qo7DAcPICN.jpg",
     "release_date": "3/21/24"
-  },
-  {
-    "id": 1000,
-    "imdb_id": "tt14966898",
-    "tmdb_id": "938614",
-    "title": "LATE NIGHT WITH THE DEVIL",
-    "poster": "https://www.themoviedb.org/t/p/w500/u3YQJctMzFN2wAvnkmXy41bXhFv.jpg",
-    "release_date": "3/22/24"
   },
   {
     "id": 1001,
@@ -148,7 +140,7 @@
     "imdb_id": "tt9663896",
     "tmdb_id": "628922",
     "title": "BLACK FLIES (fka ASPHALT CITY)",
-    "poster": "https://www.themoviedb.org/t/p/w500/lYXbekqKC3sMLOyb2r5KixkGny1.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg",
     "release_date": "3/29/24"
   },
   {
@@ -292,7 +284,7 @@
     "imdb_id": "tt23137904",
     "tmdb_id": "934632",
     "title": "REBEL MOON - PART TWO: THE SCARGIVER",
-    "poster": "https://www.themoviedb.org/t/p/w500/cxevDYdeFkiixRShbObdwAHBZry.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/7vBXZz3HwaXby1ccYmVfp33zdEo.jpg",
     "release_date": "4/12/24"
   },
   {
@@ -300,7 +292,7 @@
     "imdb_id": "tt15353574",
     "tmdb_id": "1009679",
     "title": "HARD MILES",
-    "poster": "https://www.themoviedb.org/t/p/w500/mlP8NJiZF0ZpGw3XxBWnQYogcqJ.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/pU50LpVZ7doTyJeC9JaqcbeH4ef.jpg",
     "release_date": "4/19/24"
   },
   {
