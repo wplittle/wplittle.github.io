@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1898,
+    "imdb_id": "tt0052618",
+    "tmdb_id": "665",
+    "title": "BEN-HUR",
+    "poster": "https://www.themoviedb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+    "release_date": "11/24/1959"
+  },
+  {
+    "id": 1899,
+    "imdb_id": "tt0053125",
+    "tmdb_id": "213",
+    "title": "NORTH BY NORTHWEST",
+    "poster": "https://www.themoviedb.org/t/p/w500/i3g0KIoXYx5RvyVaraYx9n2LCli.jpg",
+    "release_date": "8/6/1959"
+  },
+  {
+    "id": 1900,
+    "imdb_id": "tt0052561",
+    "tmdb_id": "93",
+    "title": "ANATOMY OF A MURDER",
+    "poster": "https://www.themoviedb.org/t/p/w500/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+    "release_date": "7/1/1959"
+  },
+  {
+    "id": 1901,
+    "imdb_id": "tt0053291",
+    "tmdb_id": "239",
+    "title": "SOME LIKE IT HOT",
+    "poster": "https://www.themoviedb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "release_date": "3/19/1959"
+  },
+  {
+    "id": 1902,
+    "imdb_id": "tt0053285",
+    "tmdb_id": "10882",
+    "title": "SLEEPING BEAUTY",
+    "poster": "https://www.themoviedb.org/t/p/w500/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
+    "release_date": "2/17/1959"
+  }
+]

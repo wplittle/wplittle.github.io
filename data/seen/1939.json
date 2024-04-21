@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1953,
+    "imdb_id": "tt0031381",
+    "tmdb_id": "770",
+    "title": "GONE WITH THE WIND",
+    "poster": "https://www.themoviedb.org/t/p/w500/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+    "release_date": "12/15/1939"
+  },
+  {
+    "id": 1954,
+    "imdb_id": "tt0031679",
+    "tmdb_id": "3083",
+    "title": "MR. SMITH GOES TO WASHINGTON",
+    "poster": "https://www.themoviedb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+    "release_date": "10/19/1939"
+  },
+  {
+    "id": 1955,
+    "imdb_id": "tt0032138",
+    "tmdb_id": "630",
+    "title": "THE WIZARD OF OZ",
+    "poster": "https://www.themoviedb.org/t/p/w500/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg",
+    "release_date": "8/25/1939"
+  },
+  {
+    "id": 1956,
+    "imdb_id": "tt0032145",
+    "tmdb_id": "3084",
+    "title": "WUTHERING HEIGHTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg",
+    "release_date": "4/7/1939"
+  },
+  {
+    "id": 1957,
+    "imdb_id": "tt0031971",
+    "tmdb_id": "995",
+    "title": "STAGECOACH",
+    "poster": "https://www.themoviedb.org/t/p/w500/b4RUzWOalyPbUu66TT147b5iR0M.jpg",
+    "release_date": "3/3/1939"
+  },
+  {
+    "id": 1958,
+    "imdb_id": "tt0031398",
+    "tmdb_id": "24965",
+    "title": "GUNGA DIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/sORSoVVed7MuKUmebUbQv6AxMUx.jpg",
+    "release_date": "1/26/1939"
+  }
+]

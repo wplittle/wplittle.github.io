@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1734,
+    "imdb_id": "tt0087800",
+    "tmdb_id": "377",
+    "title": "A NIGHTMARE ON ELM STREET",
+    "poster": "https://www.themoviedb.org/t/p/w500/wGTpGGRMZmyFCcrY2YoxVTIBlli.jpg",
+    "release_date": "11/9/1984"
+  },
+  {
+    "id": 1735,
+    "imdb_id": "tt0088247",
+    "tmdb_id": "218",
+    "title": "THE TERMINATOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+    "release_date": "10/26/1984"
+  },
+  {
+    "id": 1736,
+    "imdb_id": "tt0086879",
+    "tmdb_id": "279",
+    "title": "AMADEUS",
+    "poster": "https://www.themoviedb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+    "release_date": "9/19/1984"
+  },
+  {
+    "id": 1737,
+    "imdb_id": "tt0087921",
+    "tmdb_id": "13681",
+    "title": "PLACES IN THE HEART",
+    "poster": "https://www.themoviedb.org/t/p/w500/bmWg3uVn700inqOiadxeFTmiqmV.jpg",
+    "release_date": "9/11/1984"
+  },
+  {
+    "id": 1738,
+    "imdb_id": "tt0087015",
+    "tmdb_id": "23730",
+    "title": "C.H.U.D.",
+    "poster": "https://www.themoviedb.org/t/p/w500/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+    "release_date": "8/31/1984"
+  },
+  {
+    "id": 1739,
+    "imdb_id": "tt0087755",
+    "tmdb_id": "11899",
+    "title": "THE MUPPETS TAKE MANHATTAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/lxOQEr3wOrDEy0VINfSoEZlIYEO.jpg",
+    "release_date": "7/13/1984"
+  },
+  {
+    "id": 1740,
+    "imdb_id": "tt0087538",
+    "tmdb_id": "1885",
+    "title": "THE KARATE KID",
+    "poster": "https://www.themoviedb.org/t/p/w500/jHaigBR6Zg7paCeRpTryjJHle1u.jpg",
+    "release_date": "6/22/1984"
+  },
+  {
+    "id": 1741,
+    "imdb_id": "tt0087332",
+    "tmdb_id": "620",
+    "title": "GHOSTBUSTERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+    "release_date": "6/8/1984"
+  },
+  {
+    "id": 1742,
+    "imdb_id": "tt0087363",
+    "tmdb_id": "927",
+    "title": "GREMLINS",
+    "poster": "https://www.themoviedb.org/t/p/w500/sl3I9KD35GqWAI4NXBQ38mLEXEe.jpg",
+    "release_date": "6/8/1984"
+  },
+  {
+    "id": 1743,
+    "imdb_id": "tt0087843",
+    "tmdb_id": "311",
+    "title": "ONCE UPON A TIME IN AMERICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+    "release_date": "6/1/1984"
+  },
+  {
+    "id": 1744,
+    "imdb_id": "tt0088170",
+    "tmdb_id": "157",
+    "title": "STAR TREK III: THE SEARCH FOR SPOCK",
+    "poster": "https://www.themoviedb.org/t/p/w500/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg",
+    "release_date": "6/1/1984"
+  },
+  {
+    "id": 1745,
+    "imdb_id": "tt0088194",
+    "tmdb_id": "14746",
+    "title": "STREETS OF FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+    "release_date": "6/1/1984"
+  },
+  {
+    "id": 1746,
+    "imdb_id": "tt0087781",
+    "tmdb_id": "11393",
+    "title": "THE NATURAL",
+    "poster": "https://www.themoviedb.org/t/p/w500/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+    "release_date": "5/11/1984"
+  },
+  {
+    "id": 1747,
+    "imdb_id": "tt0088128",
+    "tmdb_id": "15144",
+    "title": "SIXTEEN CANDLES",
+    "poster": "https://www.themoviedb.org/t/p/w500/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg",
+    "release_date": "5/4/1984"
+  },
+  {
+    "id": 1748,
+    "imdb_id": "tt0086896",
+    "tmdb_id": "1803",
+    "title": "ANGEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/yc00EFOHTzvH5ww1ywqVszQI0Cd.jpg",
+    "release_date": "4/27/1984"
+  },
+  {
+    "id": 1749,
+    "imdb_id": "tt0087298",
+    "tmdb_id": "9730",
+    "title": "FRIDAY THE 13TH: THE FINAL CHAPTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/5KRBkaF6PdorcFjWiDY4tJy67Jf.jpg",
+    "release_date": "4/13/1984"
+  },
+  {
+    "id": 1750,
+    "imdb_id": "tt0087050",
+    "tmdb_id": "10823",
+    "title": "CHILDREN OF THE CORN",
+    "poster": "https://www.themoviedb.org/t/p/w500/jJTrFHu3rjAgP1lryKGEsC9hqyM.jpg",
+    "release_date": "3/9/1984"
+  },
+  {
+    "id": 1751,
+    "imdb_id": "tt0088258",
+    "tmdb_id": "11031",
+    "title": "THIS IS SPINAL TAP",
+    "poster": "https://www.themoviedb.org/t/p/w500/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+    "release_date": "3/2/1984"
+  },
+  {
+    "id": 1752,
+    "imdb_id": "tt0087277",
+    "tmdb_id": "1788",
+    "title": "FOOTLOOSE",
+    "poster": "https://www.themoviedb.org/t/p/w500/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+    "release_date": "2/17/1984"
+  }
+]

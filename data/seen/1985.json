@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1728,
+    "imdb_id": "tt0089755",
+    "tmdb_id": "606",
+    "title": "OUT OF AFRICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/3ao9wNPTdpFDWVMyqDZGZnSGpz5.jpg",
+    "release_date": "12/20/1985"
+  },
+  {
+    "id": 1729,
+    "imdb_id": "tt0088930",
+    "tmdb_id": "15196",
+    "title": "CLUE",
+    "poster": "https://www.themoviedb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+    "release_date": "12/13/1985"
+  },
+  {
+    "id": 1730,
+    "imdb_id": "tt0089686",
+    "tmdb_id": "10014",
+    "title": "A NIGHTMARE ON ELM STREET 2: FREDDY'S REVENGE",
+    "poster": "https://www.themoviedb.org/t/p/w500/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg",
+    "release_date": "11/1/1985"
+  },
+  {
+    "id": 1731,
+    "imdb_id": "tt0089974",
+    "tmdb_id": "77850",
+    "title": "SCHOOL SPIRIT",
+    "poster": "https://www.themoviedb.org/t/p/w500/e32ycfsGllbghXstP3PMvDZfm6M.jpg",
+    "release_date": "10/30/1985"
+  },
+  {
+    "id": 1732,
+    "imdb_id": "tt0088763",
+    "tmdb_id": "105",
+    "title": "BACK TO THE FUTURE",
+    "poster": "https://www.themoviedb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+    "release_date": "7/3/1985"
+  },
+  {
+    "id": 1733,
+    "imdb_id": "tt0088847",
+    "tmdb_id": "2108",
+    "title": "THE BREAKFAST CLUB",
+    "poster": "https://www.themoviedb.org/t/p/w500/vSqk5BeQ1HvP9wq0rWZyWqiwXeF.jpg",
+    "release_date": "2/15/1985"
+  }
+]

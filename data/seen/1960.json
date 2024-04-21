@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1892,
+    "imdb_id": "tt0054331",
+    "tmdb_id": "967",
+    "title": "SPARTACUS",
+    "poster": "https://www.themoviedb.org/t/p/w500/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+    "release_date": "10/13/1960"
+  },
+  {
+    "id": 1893,
+    "imdb_id": "tt0054047",
+    "tmdb_id": "966",
+    "title": "THE MAGNIFICENT SEVEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+    "release_date": "10/12/1960"
+  },
+  {
+    "id": 1894,
+    "imdb_id": "tt0054387",
+    "tmdb_id": "2134",
+    "title": "TIME MACHINE",
+    "poster": "https://www.themoviedb.org/t/p/w500/x3BOzx2rUc5c3gG9UCelzSxv8n4.jpg",
+    "release_date": "8/17/1960"
+  },
+  {
+    "id": 1895,
+    "imdb_id": "tt0054215",
+    "tmdb_id": "539",
+    "title": "PSYCHO",
+    "poster": "https://www.themoviedb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "release_date": "6/22/1960"
+  },
+  {
+    "id": 1896,
+    "imdb_id": "tt0053604",
+    "tmdb_id": "284",
+    "title": "THE APARTMENT",
+    "poster": "https://www.themoviedb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+    "release_date": "6/21/1960"
+  },
+  {
+    "id": 1897,
+    "imdb_id": "tt0054195",
+    "tmdb_id": "31102",
+    "title": "POLLYANNA",
+    "poster": "https://www.themoviedb.org/t/p/w500/9lWkRXg35SjUZXLr10ez8DERvRv.jpg",
+    "release_date": "5/19/1960"
+  }
+]

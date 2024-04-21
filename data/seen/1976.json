@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1818,
+    "imdb_id": "tt0075148",
+    "tmdb_id": "1366",
+    "title": "ROCKY",
+    "poster": "https://www.themoviedb.org/t/p/w500/cqxg1CihGR5ge0i1wYXr4Rdeppu.jpg",
+    "release_date": "11/21/1976"
+  },
+  {
+    "id": 1819,
+    "imdb_id": "tt0074958",
+    "tmdb_id": "10774",
+    "title": "NETWORK",
+    "poster": "https://www.themoviedb.org/t/p/w500/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+    "release_date": "11/14/1976"
+  },
+  {
+    "id": 1820,
+    "imdb_id": "tt0074285",
+    "tmdb_id": "7340",
+    "title": "CARRIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/uc3OvgmbnYaS5Y0BOjSmC1EmSz1.jpg",
+    "release_date": "11/3/1976"
+  },
+  {
+    "id": 1821,
+    "imdb_id": "tt0074860",
+    "tmdb_id": "10518",
+    "title": "MARATHON MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+    "release_date": "10/8/1976"
+  },
+  {
+    "id": 1822,
+    "imdb_id": "tt0074119",
+    "tmdb_id": "891",
+    "title": "ALL THE PRESIDENT'S MEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/qwdcIdiTAk8iANsJEK2JmrYQx5o.jpg",
+    "release_date": "4/9/1976"
+  },
+  {
+    "id": 1823,
+    "imdb_id": "tt0075314",
+    "tmdb_id": "103",
+    "title": "TAXI DRIVER",
+    "poster": "https://www.themoviedb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "release_date": "2/9/1976"
+  }
+]

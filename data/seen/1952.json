@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1923,
+    "imdb_id": "tt0044706",
+    "tmdb_id": "288",
+    "title": "HIGH NOON",
+    "poster": "https://www.themoviedb.org/t/p/w500/jUckD9kq8yi2MPzDHvhaGmD6XJk.jpg",
+    "release_date": "7/30/1952"
+  },
+  {
+    "id": 1924,
+    "imdb_id": "tt0045152",
+    "tmdb_id": "872",
+    "title": "SINGIN' IN THE RAIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+    "release_date": "4/9/1952"
+  }
+]

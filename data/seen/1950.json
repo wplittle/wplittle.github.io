@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1929,
+    "imdb_id": "tt0042192",
+    "tmdb_id": "705",
+    "title": "ALL ABOUT EVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+    "release_date": "11/9/1950"
+  },
+  {
+    "id": 1930,
+    "imdb_id": "tt0043014",
+    "tmdb_id": "599",
+    "title": "SUNSET BLVD.",
+    "poster": "https://www.themoviedb.org/t/p/w500/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+    "release_date": "8/10/1950"
+  },
+  {
+    "id": 1931,
+    "imdb_id": "tt0042332",
+    "tmdb_id": "11224",
+    "title": "CINDERELLA",
+    "poster": "https://www.themoviedb.org/t/p/w500/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+    "release_date": "2/22/1950"
+  }
+]

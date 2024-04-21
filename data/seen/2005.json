@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1572,
+    "imdb_id": "tt0433383",
+    "tmdb_id": "3291",
+    "title": "GOOD NIGHT, AND GOOD LUCK",
+    "poster": "https://www.themoviedb.org/t/p/w500/oFGXIoxB3NOAZXwKl8wYnZR1vAu.jpg",
+    "release_date": "10/7/2005"
+  },
+  {
+    "id": 1573,
+    "imdb_id": "tt0405422",
+    "tmdb_id": "6957",
+    "title": "THE 40-YEAR-OLD VIRGIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+    "release_date": "8/11/2005"
+  },
+  {
+    "id": 1574,
+    "imdb_id": "tt0395584",
+    "tmdb_id": "1696",
+    "title": "THE DEVIL'S REJECTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/yAmK6Ev2IeI8VqNbagpF3yxPOSD.jpg",
+    "release_date": "7/22/2005"
+  },
+  {
+    "id": 1575,
+    "imdb_id": "tt0365485",
+    "tmdb_id": "9515",
+    "title": "THE MATADOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/oJnlAGmrhsg4QrlVKGgP91J6WPu.jpg",
+    "release_date": "5/12/2005"
+  },
+  {
+    "id": 1576,
+    "imdb_id": "tt0375679",
+    "tmdb_id": "1640",
+    "title": "CRASH",
+    "poster": "https://www.themoviedb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+    "release_date": "5/6/2005"
+  },
+  {
+    "id": 1577,
+    "imdb_id": "tt0384806",
+    "tmdb_id": "10065",
+    "title": "THE AMITYVILLE HORROR",
+    "poster": "https://www.themoviedb.org/t/p/w500/4QK3JsMlA5uLZzSsh2Ld4kiQFPs.jpg",
+    "release_date": "4/15/2005"
+  }
+]

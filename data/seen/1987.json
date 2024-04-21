@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1711,
+    "imdb_id": "tt0094291",
+    "tmdb_id": "10673",
+    "title": "WALL STREET",
+    "poster": "https://www.themoviedb.org/t/p/w500/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+    "release_date": "12/10/1987"
+  },
+  {
+    "id": 1712,
+    "imdb_id": "tt0093779",
+    "tmdb_id": "2493",
+    "title": "THE PRINCESS BRIDE",
+    "poster": "https://www.themoviedb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+    "release_date": "9/25/1987"
+  },
+  {
+    "id": 1713,
+    "imdb_id": "tt0093010",
+    "tmdb_id": "10998",
+    "title": "FATAL ATTRACTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+    "release_date": "9/18/1987"
+  },
+  {
+    "id": 1714,
+    "imdb_id": "tt0093177",
+    "tmdb_id": "9003",
+    "title": "HELLRAISER",
+    "poster": "https://www.themoviedb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+    "release_date": "9/18/1987"
+  },
+  {
+    "id": 1715,
+    "imdb_id": "tt0092690",
+    "tmdb_id": "19324",
+    "title": "BORN IN EAST LA",
+    "poster": "https://www.themoviedb.org/t/p/w500/fkRqsMOCkSu7l3F3JIcgyqV69lW.jpg",
+    "release_date": "8/21/1987"
+  },
+  {
+    "id": 1716,
+    "imdb_id": "tt0092890",
+    "tmdb_id": "88",
+    "title": "DIRTY DANCING",
+    "poster": "https://www.themoviedb.org/t/p/w500/47sA6jDlm8NgbWgS9lB9EXNrTZ6.jpg",
+    "release_date": "8/21/1987"
+  },
+  {
+    "id": 1717,
+    "imdb_id": "tt0092796",
+    "tmdb_id": "16288",
+    "title": "CREEPSHOW 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/x8vMzaVwjlVuf7eI0gTgf5i2Rfh.jpg",
+    "release_date": "5/1/1987"
+  },
+  {
+    "id": 1718,
+    "imdb_id": "tt0092991",
+    "tmdb_id": "765",
+    "title": "EVIL DEAD II",
+    "poster": "https://www.themoviedb.org/t/p/w500/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+    "release_date": "3/13/1987"
+  },
+  {
+    "id": 1719,
+    "imdb_id": "tt0093629",
+    "tmdb_id": "10072",
+    "title": "A NIGHTMARE ON ELM STREET 3: DREAM WARRIORS",
+    "poster": "https://www.themoviedb.org/t/p/w500/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+    "release_date": "2/27/1987"
+  }
+]

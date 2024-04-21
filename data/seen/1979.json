@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1793,
+    "imdb_id": "tt0079417",
+    "tmdb_id": "12102",
+    "title": "KRAMER VS KRAMER",
+    "poster": "https://www.themoviedb.org/t/p/w500/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+    "release_date": "12/19/1979"
+  },
+  {
+    "id": 1794,
+    "imdb_id": "tt0079470",
+    "tmdb_id": "583",
+    "title": "LIFE OF BRIAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+    "release_date": "8/17/1979"
+  },
+  {
+    "id": 1795,
+    "imdb_id": "tt0078788",
+    "tmdb_id": "28",
+    "title": "APOCALYPSE NOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/8LHWi5GWEWKL2adSlNI6bZ4wpUW.jpg",
+    "release_date": "8/15/1979"
+  },
+  {
+    "id": 1796,
+    "imdb_id": "tt0079116",
+    "tmdb_id": "10734",
+    "title": "ESCAPE FROM ALCATRAZ",
+    "poster": "https://www.themoviedb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+    "release_date": "6/22/1979"
+  },
+  {
+    "id": 1797,
+    "imdb_id": "tt0079588",
+    "tmdb_id": "11176",
+    "title": "THE MUPPET MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+    "release_date": "6/22/1979"
+  },
+  {
+    "id": 1798,
+    "imdb_id": "tt0079688",
+    "tmdb_id": "23957",
+    "title": "OVER THE EDGE",
+    "poster": "https://www.themoviedb.org/t/p/w500/aFJJF4GLQTEcg9qwW0deRJFhskU.jpg",
+    "release_date": "5/18/1979"
+  },
+  {
+    "id": 1799,
+    "imdb_id": "tt0079522",
+    "tmdb_id": "696",
+    "title": "MANHATTAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+    "release_date": "4/25/1979"
+  },
+  {
+    "id": 1800,
+    "imdb_id": "tt0363547",
+    "tmdb_id": "923",
+    "title": "DAWN OF THE DEAD",
+    "poster": "https://www.themoviedb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",
+    "release_date": "4/20/1979"
+  },
+  {
+    "id": 1801,
+    "imdb_id": "tt0079714",
+    "tmdb_id": "9638",
+    "title": "PHANTASM",
+    "poster": "https://www.themoviedb.org/t/p/w500/eR0uJ0Wje1lYJ4aHEpkcjgIM8d7.jpg",
+    "release_date": "3/28/1979"
+  },
+  {
+    "id": 1802,
+    "imdb_id": "tt0078966",
+    "tmdb_id": "988",
+    "title": "THE CHINA SYNDROME",
+    "poster": "https://www.themoviedb.org/t/p/w500/uHwwQIlt4XwpTFhX9ZT1A8xSW7F.jpg",
+    "release_date": "3/16/1979"
+  },
+  {
+    "id": 1803,
+    "imdb_id": "tt0079261",
+    "tmdb_id": "10654",
+    "title": "HAIR",
+    "poster": "https://www.themoviedb.org/t/p/w500/z0ctToyPWCB2RgIkMpD6RhRKAeH.jpg",
+    "release_date": "3/15/1979"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1660,
+    "imdb_id": "tt0108052",
+    "tmdb_id": "424",
+    "title": "SCHINDLER'S LIST",
+    "poster": "https://www.themoviedb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "release_date": "12/15/1993"
+  },
+  {
+    "id": 1661,
+    "imdb_id": "tt0107614",
+    "tmdb_id": "788",
+    "title": "MRS. DOUBTFIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+    "release_date": "11/24/1993"
+  },
+  {
+    "id": 1662,
+    "imdb_id": "tt0107688",
+    "tmdb_id": "9479",
+    "title": "THE NIGHTMARE BEFORE CHRISTMAS",
+    "poster": "https://www.themoviedb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "release_date": "10/29/1993"
+  },
+  {
+    "id": 1663,
+    "imdb_id": "tt0107254",
+    "tmdb_id": "10285",
+    "title": "JASON GOES TO HELL: THE FINAL FRIDAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/uZNsMWE5o1PaBEUjfRYaeZga08q.jpg",
+    "release_date": "8/13/1993"
+  },
+  {
+    "id": 1664,
+    "imdb_id": "tt0108065",
+    "tmdb_id": "14291",
+    "title": "SEARCHING FOR BOBBY FISCHER",
+    "poster": "https://www.themoviedb.org/t/p/w500/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+    "release_date": "8/13/1993"
+  },
+  {
+    "id": 1665,
+    "imdb_id": "tt0107206",
+    "tmdb_id": "9386",
+    "title": "IN THE LINE OF FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+    "release_date": "7/8/1993"
+  },
+  {
+    "id": 1666,
+    "imdb_id": "tt0108160",
+    "tmdb_id": "858",
+    "title": "SLEEPLESS IN SEATTLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/iLWsLVrfkFvOXOG9PbUAYg7AK3E.jpg",
+    "release_date": "6/24/1993"
+  },
+  {
+    "id": 1667,
+    "imdb_id": "tt0107290",
+    "tmdb_id": "329",
+    "title": "JURASSIC PARK",
+    "poster": "https://www.themoviedb.org/t/p/w500/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+    "release_date": "6/11/1993"
+  },
+  {
+    "id": 1668,
+    "imdb_id": "tt0108551",
+    "tmdb_id": "15765",
+    "title": "WHAT'S LOVE GOT TO DO WITH IT",
+    "poster": "https://www.themoviedb.org/t/p/w500/vNAYuA26Wtf7VfzZEaxZQmJTE4Z.jpg",
+    "release_date": "6/9/1993"
+  }
+]

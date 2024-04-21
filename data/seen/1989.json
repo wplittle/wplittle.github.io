@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1692,
+    "imdb_id": "tt0097239",
+    "tmdb_id": "403",
+    "title": "DRIVING MISS DAISY",
+    "poster": "https://www.themoviedb.org/t/p/w500/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+    "release_date": "12/13/1989"
+  },
+  {
+    "id": 1693,
+    "imdb_id": "tt0096874",
+    "tmdb_id": "165",
+    "title": "BACK TO THE FUTURE PART II",
+    "poster": "https://www.themoviedb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+    "release_date": "11/22/1989"
+  },
+  {
+    "id": 1694,
+    "imdb_id": "tt0097757",
+    "tmdb_id": "10144",
+    "title": "THE LITTLE MERMAID",
+    "poster": "https://www.themoviedb.org/t/p/w500/9nJ9rm6RwYgIggnGVy8Dej4olef.jpg",
+    "release_date": "11/17/1989"
+  },
+  {
+    "id": 1695,
+    "imdb_id": "tt0097981",
+    "tmdb_id": "10160",
+    "title": "A NIGHTMARE ON ELM STREET 5: THE DREAM CHILD",
+    "poster": "https://www.themoviedb.org/t/p/w500/6Mrk5SK017PjjOIokUbmX8Qkzf1.jpg",
+    "release_date": "8/11/1989"
+  },
+  {
+    "id": 1696,
+    "imdb_id": "tt0098536",
+    "tmdb_id": "6951",
+    "title": "TURNER AND HOOCH",
+    "poster": "https://www.themoviedb.org/t/p/w500/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg",
+    "release_date": "7/28/1989"
+  },
+  {
+    "id": 1697,
+    "imdb_id": "tt0097216",
+    "tmdb_id": "925",
+    "title": "DO THE RIGHT THING",
+    "poster": "https://www.themoviedb.org/t/p/w500/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+    "release_date": "6/30/1989"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1959,
+    "imdb_id": "tt0030993",
+    "tmdb_id": "34106",
+    "title": "YOU CAN'T TAKE IT WITH YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg",
+    "release_date": "9/1/1938"
+  },
+  {
+    "id": 1960,
+    "imdb_id": "tt0029843",
+    "tmdb_id": "10907",
+    "title": "THE ADVENTURES OF ROBIN HOOD",
+    "poster": "https://www.themoviedb.org/t/p/w500/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+    "release_date": "5/13/1938"
+  },
+  {
+    "id": 1961,
+    "imdb_id": "tt0029947",
+    "tmdb_id": "900",
+    "title": "BRINGING UP BABY",
+    "poster": "https://www.themoviedb.org/t/p/w500/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+    "release_date": "2/18/1938"
+  }
+]

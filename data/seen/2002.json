@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1589,
+    "imdb_id": "tt0257360",
+    "tmdb_id": "2755",
+    "title": "ABOUT SCHMIDT",
+    "poster": "https://www.themoviedb.org/t/p/w500/tstvsrJHY57hc951lb190alXRQm.jpg",
+    "release_date": "12/13/2002"
+  },
+  {
+    "id": 1590,
+    "imdb_id": "tt0272338",
+    "tmdb_id": "8051",
+    "title": "PUNCH-DRUNK LOVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/vT2CXIsVKoGl0DZ8USwLWzEFznI.jpg",
+    "release_date": "10/11/2002"
+  },
+  {
+    "id": 1591,
+    "imdb_id": "tt0280590",
+    "tmdb_id": "2022",
+    "title": "MR. DEEDS",
+    "poster": "https://www.themoviedb.org/t/p/w500/rtUGG5gfpsF3uI52pgkzwsSfVlB.jpg",
+    "release_date": "6/28/2002"
+  }
+]

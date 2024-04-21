@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1938,
+    "imdb_id": "tt0035937",
+    "tmdb_id": "40765",
+    "title": "THE GHOST SHIP",
+    "poster": "https://www.themoviedb.org/t/p/w500/ix6GofmJIfZYUk3uw9OK0JrpXeB.jpg",
+    "release_date": "12/16/1943"
+  },
+  {
+    "id": 1939,
+    "imdb_id": "tt0036104",
+    "tmdb_id": "28438",
+    "title": "THE LEOPARD MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/UgOiYLMpFjsecN8Pyy2HFlRgL4.jpg",
+    "release_date": "5/19/1943"
+  },
+  {
+    "id": 1940,
+    "imdb_id": "tt0035703",
+    "tmdb_id": "59964",
+    "title": "CABIN IN THE SKY",
+    "poster": "https://www.themoviedb.org/t/p/w500/6MSTz2fS8P7ufuCXIHBFpjqW9tr.jpg",
+    "release_date": "4/9/1943"
+  },
+  {
+    "id": 1941,
+    "imdb_id": "tt0034583",
+    "tmdb_id": "289",
+    "title": "CASABLANCA",
+    "poster": "https://www.themoviedb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+    "release_date": "1/23/1943"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1770,
+    "imdb_id": "tt0082495",
+    "tmdb_id": "11281",
+    "title": "HALLOWEEN II",
+    "poster": "https://www.themoviedb.org/t/p/w500/gL3dPbbZInWn4U9jd87uoFGOdot.jpg",
+    "release_date": "10/30/1981"
+  },
+  {
+    "id": 1771,
+    "imdb_id": "tt0082158",
+    "tmdb_id": "9443",
+    "title": "CHARIOTS OF FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+    "release_date": "9/25/1981"
+  },
+  {
+    "id": 1772,
+    "imdb_id": "tt0082766",
+    "tmdb_id": "15660",
+    "title": "MOMMIE DEAREST",
+    "poster": "https://www.themoviedb.org/t/p/w500/jsGJWTcoKzr6iL07KZsUDX96Gu7.jpg",
+    "release_date": "9/16/1981"
+  },
+  {
+    "id": 1773,
+    "imdb_id": "tt0082089",
+    "tmdb_id": "14412",
+    "title": "BODY HEAT",
+    "poster": "https://www.themoviedb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+    "release_date": "8/28/1981"
+  },
+  {
+    "id": 1774,
+    "imdb_id": "tt0082163",
+    "tmdb_id": "20075",
+    "title": "NICE DREAMS",
+    "poster": "https://www.themoviedb.org/t/p/w500/r9rsnbe3R9WtjzIhwajHVft9Fp3.jpg",
+    "release_date": "7/24/1981"
+  },
+  {
+    "id": 1775,
+    "imdb_id": "tt0082031",
+    "tmdb_id": "13665",
+    "title": "ARTHUR",
+    "poster": "https://www.themoviedb.org/t/p/w500/m8yOFRDVZPxtsr4D2hVdzls6q6t.jpg",
+    "release_date": "7/17/1981"
+  },
+  {
+    "id": 1776,
+    "imdb_id": "tt0082971",
+    "tmdb_id": "85",
+    "title": "RAIDERS OF THE LOST ARK",
+    "poster": "https://www.themoviedb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+    "release_date": "6/12/1981"
+  },
+  {
+    "id": 1777,
+    "imdb_id": "tt0082418",
+    "tmdb_id": "9725",
+    "title": "FRIDAY THE 13TH PART 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/6s3Fl0rGf1G2MZm97rhqZ3yS82d.jpg",
+    "release_date": "5/1/1981"
+  }
+]

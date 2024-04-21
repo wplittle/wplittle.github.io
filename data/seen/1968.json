@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1860,
+    "imdb_id": "tt0063350",
+    "tmdb_id": "10331",
+    "title": "NIGHT OF THE LIVING DEAD",
+    "poster": "https://www.themoviedb.org/t/p/w500/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+    "release_date": "10/4/1968"
+  },
+  {
+    "id": 1861,
+    "imdb_id": "tt0063374",
+    "tmdb_id": "11356",
+    "title": "THE ODD COUPLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+    "release_date": "5/16/1968"
+  },
+  {
+    "id": 1862,
+    "imdb_id": "tt0062622",
+    "tmdb_id": "62",
+    "title": "2001: A SPACE ODYSSEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "release_date": "4/10/1968"
+  }
+]

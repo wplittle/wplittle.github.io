@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1872,
+    "imdb_id": "tt0059800",
+    "tmdb_id": "660",
+    "title": "THUNDERBALL",
+    "poster": "https://www.themoviedb.org/t/p/w500/xqwIF0mOCoXUr5HAGXSOLisrMUj.jpg",
+    "release_date": "12/29/1965"
+  },
+  {
+    "id": 1873,
+    "imdb_id": "tt0059043",
+    "tmdb_id": "42740",
+    "title": "THE COLLECTOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+    "release_date": "6/17/1965"
+  },
+  {
+    "id": 1874,
+    "imdb_id": "tt0059742",
+    "tmdb_id": "15121",
+    "title": "THE SOUND OF MUSIC",
+    "poster": "https://www.themoviedb.org/t/p/w500/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+    "release_date": "4/1/1965"
+  }
+]

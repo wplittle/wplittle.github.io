@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1804,
+    "imdb_id": "tt0077416",
+    "tmdb_id": "11778",
+    "title": "THE DEER HUNTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+    "release_date": "12/8/1978"
+  },
+  {
+    "id": 1805,
+    "imdb_id": "tt0077651",
+    "tmdb_id": "948",
+    "title": "HALLOWEEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+    "release_date": "10/25/1978"
+  },
+  {
+    "id": 1806,
+    "imdb_id": "tt0078446",
+    "tmdb_id": "11455",
+    "title": "UP IN SMOKE",
+    "poster": "https://www.themoviedb.org/t/p/w500/lKXINU3ApbhFPQJ3pqgMzGPCYnH.jpg",
+    "release_date": "9/15/1978"
+  },
+  {
+    "id": 1807,
+    "imdb_id": "tt0077405",
+    "tmdb_id": "16642",
+    "title": "DAYS OF HEAVEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/siE1XQ544MLO27geLYDbUDy3oTt.jpg",
+    "release_date": "9/13/1978"
+  },
+  {
+    "id": 1808,
+    "imdb_id": "tt0077975",
+    "tmdb_id": "8469",
+    "title": "NATIONAL LAMPOON'S ANIMAL HOUSE",
+    "poster": "https://www.themoviedb.org/t/p/w500/1iYG1mu8dPIXPzUBZF4OE1KUMMl.jpg",
+    "release_date": "7/28/1978"
+  },
+  {
+    "id": 1809,
+    "imdb_id": "tt0078239",
+    "tmdb_id": "36759",
+    "title": "SGT. PEPPER'S LONELY HEARTS CLUB BAND",
+    "poster": "https://www.themoviedb.org/t/p/w500/Ben7ogJNNjWhzwVeo7LZYgiHPH.jpg",
+    "release_date": "7/24/1978"
+  },
+  {
+    "id": 1810,
+    "imdb_id": "tt0077369",
+    "tmdb_id": "9584",
+    "title": "CONVOY",
+    "poster": "https://www.themoviedb.org/t/p/w500/fhjLa7wysN5kII0AaWmbM6SbUpL.jpg",
+    "release_date": "6/28/1978"
+  },
+  {
+    "id": 1811,
+    "imdb_id": "tt0077663",
+    "tmdb_id": "12185",
+    "title": "HEAVEN CAN WAIT",
+    "poster": "https://www.themoviedb.org/t/p/w500/8rq1hQDOSZbU9J3EHlHnp12Rl3w.jpg",
+    "release_date": "6/28/1978"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1454,
+    "imdb_id": "tt7959026",
+    "tmdb_id": "504172",
+    "title": "THE MULE",
+    "poster": "https://www.themoviedb.org/t/p/w500/vkOfx5meJvFb4qmAJU7j6v8IIpZ.jpg",
+    "release_date": "12/14/2018"
+  },
+  {
+    "id": 1455,
+    "imdb_id": "tt8361028",
+    "tmdb_id": "521935",
+    "title": "CAM",
+    "poster": "https://www.themoviedb.org/t/p/w500/quwWODOHhwC3gGlLIRSKjPy8d9u.jpg",
+    "release_date": "11/16/2018"
+  },
+  {
+    "id": 1456,
+    "imdb_id": "tt6966692",
+    "tmdb_id": "490132",
+    "title": "GREEN BOOK",
+    "poster": "https://www.themoviedb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+    "release_date": "11/16/2018"
+  },
+  {
+    "id": 1457,
+    "imdb_id": "tt8954732",
+    "tmdb_id": "556803",
+    "title": "THE PRINCESS SWITCH",
+    "poster": "https://www.themoviedb.org/t/p/w500/A8XgZE8CsHiYN243MEd07GLCep.jpg",
+    "release_date": "11/16/2018"
+  },
+  {
+    "id": 1458,
+    "imdb_id": "tt1502407",
+    "tmdb_id": "424139",
+    "title": "HALLOWEEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+    "release_date": "10/19/2018"
+  },
+  {
+    "id": 1459,
+    "imdb_id": "tt3104988",
+    "tmdb_id": "455207",
+    "title": "CRAZY RICH ASIANS",
+    "poster": "https://www.themoviedb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+    "release_date": "8/15/2018"
+  },
+  {
+    "id": 1460,
+    "imdb_id": "tt5095030",
+    "tmdb_id": "363088",
+    "title": "ANT-MAN AND THE WASP",
+    "poster": "https://www.themoviedb.org/t/p/w500/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+    "release_date": "7/6/2018"
+  },
+  {
+    "id": 1461,
+    "imdb_id": "tt1137450",
+    "tmdb_id": "395990",
+    "title": "DEATH WISH",
+    "poster": "https://www.themoviedb.org/t/p/w500/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+    "release_date": "3/2/2018"
+  },
+  {
+    "id": 1462,
+    "imdb_id": "tt4281724",
+    "tmdb_id": "420634",
+    "title": "TERRIFIER",
+    "poster": "https://www.themoviedb.org/t/p/w500/nfRlQCl590F30L37aihuqBGBvaO.jpg",
+    "release_date": "1/25/2018"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1812,
+    "imdb_id": "tt0076666",
+    "tmdb_id": "11009",
+    "title": "SATURDAY NIGHT FEVER",
+    "poster": "https://www.themoviedb.org/t/p/w500/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+    "release_date": "12/16/1977"
+  },
+  {
+    "id": 1813,
+    "imdb_id": "tt0075860",
+    "tmdb_id": "840",
+    "title": "CLOSE ENCOUNTERS OF THE THIRD KIND",
+    "poster": "https://www.themoviedb.org/t/p/w500/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+    "release_date": "12/14/1977"
+  },
+  {
+    "id": 1814,
+    "imdb_id": "tt0076752",
+    "tmdb_id": "691",
+    "title": "THE SPY WHO LOVED ME",
+    "poster": "https://www.themoviedb.org/t/p/w500/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+    "release_date": "8/3/1977"
+  },
+  {
+    "id": 1815,
+    "imdb_id": "tt0076729",
+    "tmdb_id": "11006",
+    "title": "SMOKEY AND THE BANDIT",
+    "poster": "https://www.themoviedb.org/t/p/w500/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+    "release_date": "5/27/1977"
+  },
+  {
+    "id": 1816,
+    "imdb_id": "tt0076759",
+    "tmdb_id": "11",
+    "title": "STAR WARS",
+    "poster": "https://www.themoviedb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+    "release_date": "5/25/1977"
+  },
+  {
+    "id": 1817,
+    "imdb_id": "tt0075686",
+    "tmdb_id": "703",
+    "title": "ANNIE HALL",
+    "poster": "https://www.themoviedb.org/t/p/w500/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg",
+    "release_date": "4/20/1977"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1974,
+    "imdb_id": "tt0021884",
+    "tmdb_id": "3035",
+    "title": "FRANKENSTEIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+    "release_date": "11/21/1931"
+  },
+  {
+    "id": 1975,
+    "imdb_id": "tt0022158",
+    "tmdb_id": "13911",
+    "title": "MONKEY BUSINESS",
+    "poster": "https://www.themoviedb.org/t/p/w500/9iZpFKpp6ZaTahbprypM7ek4HVt.jpg",
+    "release_date": "9/19/1931"
+  },
+  {
+    "id": 1976,
+    "imdb_id": "tt0022286",
+    "tmdb_id": "17687",
+    "title": "THE PUBLIC ENEMY",
+    "poster": "https://www.themoviedb.org/t/p/w500/vVxdaRMprQO2DM4AFyJ6C4qZSFO.jpg",
+    "release_date": "4/23/1931"
+  },
+  {
+    "id": 1977,
+    "imdb_id": "tt0021749",
+    "tmdb_id": "901",
+    "title": "CITY LIGHTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
+    "release_date": "3/7/1931"
+  },
+  {
+    "id": 1978,
+    "imdb_id": "tt0021079",
+    "tmdb_id": "27899",
+    "title": "LITTLE CAESAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/1K3Q1tAHHA5Sdtja2pPALBQevA7.jpg",
+    "release_date": "1/25/1931"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1565,
+    "imdb_id": "tt0449467",
+    "tmdb_id": "1164",
+    "title": "BABEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/cDy5iZL2C01jiT5wDSE4jOvoT52.jpg",
+    "release_date": "10/27/2006"
+  },
+  {
+    "id": 1566,
+    "imdb_id": "tt0415306",
+    "tmdb_id": "9718",
+    "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY",
+    "poster": "https://www.themoviedb.org/t/p/w500/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+    "release_date": "8/4/2006"
+  },
+  {
+    "id": 1567,
+    "imdb_id": "tt0449059",
+    "tmdb_id": "773",
+    "title": "LITTLE MISS SUNSHINE",
+    "poster": "https://www.themoviedb.org/t/p/w500/wKn7AJw730emlmzLSmJtzquwaeW.jpg",
+    "release_date": "7/26/2006"
+  },
+  {
+    "id": 1568,
+    "imdb_id": "tt0439815",
+    "tmdb_id": "9035",
+    "title": "SLITHER",
+    "poster": "https://www.themoviedb.org/t/p/w500/7D4ZS7LUnc89ptIt0yW7L4SYPOG.jpg",
+    "release_date": "3/31/2006"
+  },
+  {
+    "id": 1569,
+    "imdb_id": "tt0472458",
+    "tmdb_id": "9060",
+    "title": "DUMPLINGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/97Rb3JJl343B1AVdhQdHohsFBT4.jpg",
+    "release_date": "2/28/2006"
+  },
+  {
+    "id": 1570,
+    "imdb_id": "tt0475293",
+    "tmdb_id": "10947",
+    "title": "HIGH SCHOOL MUSICAL",
+    "poster": "https://www.themoviedb.org/t/p/w500/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
+    "release_date": "1/20/2006"
+  },
+  {
+    "id": 1571,
+    "imdb_id": "tt0450278",
+    "tmdb_id": "1690",
+    "title": "HOSTEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+    "release_date": "1/6/2006"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1908,
+    "imdb_id": "tt0049261",
+    "tmdb_id": "1712",
+    "title": "GIANT",
+    "poster": "https://www.themoviedb.org/t/p/w500/oQ1Arue52pFLSvvwfcNTy16hTCG.jpg",
+    "release_date": "11/24/1956"
+  },
+  {
+    "id": 1909,
+    "imdb_id": "tt0049730",
+    "tmdb_id": "3114",
+    "title": "THE SEARCHERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+    "release_date": "5/26/1956"
+  }
+]

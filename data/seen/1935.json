@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1967,
+    "imdb_id": "tt0026778",
+    "tmdb_id": "37719",
+    "title": "A NIGHT AT THE OPERA",
+    "poster": "https://www.themoviedb.org/t/p/w500/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+    "release_date": "11/15/1935"
+  },
+  {
+    "id": 1968,
+    "imdb_id": "tt0026138",
+    "tmdb_id": "229",
+    "title": "THE BRIDE OF FRANKENSTEIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+    "release_date": "4/20/1935"
+  }
+]

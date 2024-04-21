@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1000,
+    "imdb_id": "tt27489557",
+    "tmdb_id": "1111873",
+    "title": "ABIGAIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/rx0Sg4cK5gO6QKkyI0JAGT5tLJb.jpg",
+    "release_date": "4/19/24"
+  },
+  {
+    "id": 1001,
+    "imdb_id": "tt5177120",
+    "tmdb_id": "799583",
+    "title": "THE MINISTRY OF UNGENTLEMANLY WARFARE",
+    "poster": "https://www.themoviedb.org/t/p/w500/x8Od47ZMDDT3ho3IRdXNmcjHknX.jpg",
+    "release_date": "4/19/24"
+  },
+  {
+    "id": 1002,
+    "imdb_id": "tt17279496",
+    "tmdb_id": "929590",
+    "title": "CIVIL WAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 1003,
+    "imdb_id": "tt20221690",
+    "tmdb_id": "1239146",
+    "title": "WOODY WOODPECKER GOES TO CAMP",
+    "poster": "https://www.themoviedb.org/t/p/w500/mMnzNYvpqLLLdgF5TMmXfuy6wzx.jpg",
+    "release_date": "4/12/24"
+  },
+  {
+    "id": 1004,
+    "imdb_id": "tt5672290",
+    "tmdb_id": "437342",
+    "title": "THE FIRST OMEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/hil2ResSCwP95JweZVJsZ5CbZdc.jpg",
+    "release_date": "4/5/24"
+  },
+  {
+    "id": 1005,
+    "imdb_id": "tt22805652",
+    "tmdb_id": "1182297",
+    "title": "STRICTLY CONFIDENTIAL",
+    "poster": "https://www.themoviedb.org/t/p/w500/z7HYUG9osY4Y1i3tuZnfjIqY7qP.jpg",
+    "release_date": "4/5/24"
+  },
+  {
+    "id": 1006,
+    "imdb_id": "tt19853698",
+    "tmdb_id": "968441",
+    "title": "M\u00daSICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+    "release_date": "4/4/24"
+  },
+  {
+    "id": 1007,
+    "imdb_id": "tt27774989",
+    "tmdb_id": "1147351",
+    "title": "LOUSY CARTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/leL5Ri7CSaThIlY0U55Iu4KXxPn.jpg",
+    "release_date": "3/29/24"
+  },
+  {
+    "id": 1008,
+    "imdb_id": "tt23330554",
+    "tmdb_id": "1079485",
+    "title": "WINNIE THE POOH: BLOOD AND HONEY 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+    "release_date": "3/26/24"
+  },
+  {
+    "id": 1009,
+    "imdb_id": "tt29372176",
+    "tmdb_id": "1201176",
+    "title": "EASTER BLOODY EASTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+    "release_date": "3/26/24"
+  },
+  {
+    "id": 1010,
+    "imdb_id": "tt14966898",
+    "tmdb_id": "938614",
+    "title": "LATE NIGHT WITH THE DEVIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/zvunKmAOoBHRSNBpM5oWRNlv3Gg.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 1011,
+    "imdb_id": "tt7575046",
+    "tmdb_id": "1114873",
+    "title": "RIDDLE OF FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/yjBbl4iLk3Zj5erRq4FjlyyTrWu.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 1012,
+    "imdb_id": "tt8542964",
+    "tmdb_id": "978592",
+    "title": "SLEEPING DOGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/5DwQhh1HvTo7edaOeMX49NUyZqy.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 1013,
+    "imdb_id": "tt23137390",
+    "tmdb_id": "1041613",
+    "title": "IMMACULATE",
+    "poster": "https://www.themoviedb.org/t/p/w500/t5iVTntmQ6BJQLzESa5ke9oRu2A.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 1014,
+    "imdb_id": "tt31123288",
+    "tmdb_id": "1216512",
+    "title": "THE CASAGRANDES MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg",
+    "release_date": "3/22/24"
+  },
+  {
+    "id": 1015,
+    "imdb_id": "tt3359350",
+    "tmdb_id": "359410",
+    "title": "ROAD HOUSE",
+    "poster": "https://www.themoviedb.org/t/p/w500/bXi6IQiQDHD00JFio5ZSZOeRSBh.jpg",
+    "release_date": "3/21/24"
+  },
+  {
+    "id": 1016,
+    "imdb_id": "tt30486099",
+    "tmdb_id": "1241933",
+    "title": "BARDEJOV",
+    "poster": "https://www.themoviedb.org/t/p/w500/qPPULYXqMpBD6Rd3kuWMLq2FM60.jpg",
+    "release_date": "3/19/24"
+  },
+  {
+    "id": 1017,
+    "imdb_id": "tt20115766",
+    "tmdb_id": "972614",
+    "title": "KNOX GOES AWAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1018,
+    "imdb_id": "tt22004344",
+    "tmdb_id": "1037113",
+    "title": "SNACK SHACK",
+    "poster": "https://www.themoviedb.org/t/p/w500/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1019,
+    "imdb_id": "tt10720352",
+    "tmdb_id": "618588",
+    "title": "ARTHUR THE KING",
+    "poster": "https://www.themoviedb.org/t/p/w500/gxVcBc4VM0kAg9wX4HVg6KJHG46.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1020,
+    "imdb_id": "tt14077516",
+    "tmdb_id": "798612",
+    "title": "SHIRLEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1021,
+    "imdb_id": "tt21957774",
+    "tmdb_id": "1019420",
+    "title": "IRISH WISH",
+    "poster": "https://www.themoviedb.org/t/p/w500/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1022,
+    "imdb_id": "tt30007864",
+    "tmdb_id": "1039773",
+    "title": "THE AMERICAN SOCIETY OF MAGICAL NEGROES",
+    "poster": "https://www.themoviedb.org/t/p/w500/uZfxNBZam3VJxen7XTVzd4FVJZ8.jpg",
+    "release_date": "3/15/24"
+  },
+  {
+    "id": 1023,
+    "imdb_id": "tt27550567",
+    "tmdb_id": "1170000",
+    "title": "LITTLE WING",
+    "poster": "https://www.themoviedb.org/t/p/w500/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg",
+    "release_date": "3/13/24"
+  },
+  {
+    "id": 1024,
+    "imdb_id": "tt13380324",
+    "tmdb_id": "829038",
+    "title": "NIGHT SHIFT",
+    "poster": "https://www.themoviedb.org/t/p/w500/pSjO9vMaxe5gQ5TWTwG092lCEe4.jpg",
+    "release_date": "3/8/24"
+  },
+  {
+    "id": 1025,
+    "imdb_id": "tt13884444",
+    "tmdb_id": "931461",
+    "title": "AMERICAN DREAMER",
+    "poster": "https://www.themoviedb.org/t/p/w500/9bUsa318eCnztKZlcG86s8xk9Rk.jpg",
+    "release_date": "3/8/24"
+  },
+  {
+    "id": 1026,
+    "imdb_id": "tt21692408",
+    "tmdb_id": "1011985",
+    "title": "KUNG FU PANDA 4",
+    "poster": "https://www.themoviedb.org/t/p/w500/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+    "release_date": "3/8/24"
+  },
+  {
+    "id": 1027,
+    "imdb_id": "tt13452446",
+    "tmdb_id": "763215",
+    "title": "DAMSEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
+    "release_date": "3/8/24"
+  },
+  {
+    "id": 1028,
+    "imdb_id": "tt26658104",
+    "tmdb_id": "1125311",
+    "title": "IMAGINARY",
+    "poster": "https://www.themoviedb.org/t/p/w500/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+    "release_date": "3/8/24"
+  },
+  {
+    "id": 1029,
+    "imdb_id": "tt26943420",
+    "tmdb_id": "1094556",
+    "title": "THE THUNDERMANS RETURN",
+    "poster": "https://www.themoviedb.org/t/p/w500/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg",
+    "release_date": "3/7/24"
+  },
+  {
+    "id": 1030,
+    "imdb_id": "tt1660648",
+    "tmdb_id": "1022690",
+    "title": "RICKY STANICKY",
+    "poster": "https://www.themoviedb.org/t/p/w500/cEuX73Q1wpMypB1cr4l3MoMGpL4.jpg",
+    "release_date": "3/7/24"
+  },
+  {
+    "id": 1031,
+    "imdb_id": "tt15239678",
+    "tmdb_id": "693134",
+    "title": "DUNE: PART TWO",
+    "poster": "https://www.themoviedb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 1032,
+    "imdb_id": "tt15078804",
+    "tmdb_id": "852247",
+    "title": "PROBLEMISTA",
+    "poster": "https://www.themoviedb.org/t/p/w500/8R5s0optPNlTncP876bK8gWGkRK.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 1033,
+    "imdb_id": "tt10618968",
+    "tmdb_id": "1148685",
+    "title": "OUTLAW POSSE",
+    "poster": "https://www.themoviedb.org/t/p/w500/hx50kyVWreLuQiUUBlAviDyIhVi.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 1034,
+    "imdb_id": "tt11097384",
+    "tmdb_id": "636706",
+    "title": "SPACEMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/5hnFFOWEchErNVr0wMLWFEob3q1.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 1035,
+    "imdb_id": "tt31122323",
+    "tmdb_id": "1239251",
+    "title": "MEGAMIND VS. THE DOOM SYNDICATE",
+    "poster": "https://www.themoviedb.org/t/p/w500/fko8CPrnspewLXgFUlUkivyvpHX.jpg",
+    "release_date": "3/1/24"
+  },
+  {
+    "id": 1036,
+    "imdb_id": "tt4996328",
+    "tmdb_id": "974036",
+    "title": "ORDINARY ANGELS",
+    "poster": "https://www.themoviedb.org/t/p/w500/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1037,
+    "imdb_id": "tt19364132",
+    "tmdb_id": "1058303",
+    "title": "DRUGSTORE JUNE",
+    "poster": "https://www.themoviedb.org/t/p/w500/zbWcd3e5ooHEmiJnEmRE8sE3bOP.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1038,
+    "imdb_id": "tt14852624",
+    "tmdb_id": "840889",
+    "title": "STOPMOTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1039,
+    "imdb_id": "tt19356262",
+    "tmdb_id": "957304",
+    "title": "DRIVE-AWAY DOLLS",
+    "poster": "https://www.themoviedb.org/t/p/w500/gavGnAMTXPkpoFgG0stwgIgKb64.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1040,
+    "imdb_id": "tt19244260",
+    "tmdb_id": "1227816",
+    "title": "RED RIGHT HAND",
+    "poster": "https://www.themoviedb.org/t/p/w500/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1041,
+    "imdb_id": "tt14637386",
+    "tmdb_id": "876911",
+    "title": "PARALLEL",
+    "poster": "https://www.themoviedb.org/t/p/w500/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1042,
+    "imdb_id": "tt26861992",
+    "tmdb_id": "1090874",
+    "title": "MEA CULPA",
+    "poster": "https://www.themoviedb.org/t/p/w500/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
+    "release_date": "2/23/24"
+  },
+  {
+    "id": 1043,
+    "imdb_id": "tt15560132",
+    "tmdb_id": "1062528",
+    "title": "LOVELY, DARK, AND DEEP",
+    "poster": "https://www.themoviedb.org/t/p/w500/d4maZqH6a4vOUKuFzUrARZAiNc3.jpg",
+    "release_date": "2/22/24"
+  },
+  {
+    "id": 1044,
+    "imdb_id": "tt5613018",
+    "tmdb_id": "1160923",
+    "title": "DARKGAME",
+    "poster": "https://www.themoviedb.org/t/p/w500/kaARRhlsuJGnpOGeDmIhraxmOxi.jpg",
+    "release_date": "2/20/24"
+  },
+  {
+    "id": 1045,
+    "imdb_id": "tt19864802",
+    "tmdb_id": "969492",
+    "title": "LAND OF BAD",
+    "poster": "https://www.themoviedb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+    "release_date": "2/16/24"
+  },
+  {
+    "id": 1046,
+    "imdb_id": "tt15678810",
+    "tmdb_id": "1000780",
+    "title": "BLEEDING LOVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/i3s6n7XtZqepNA1Mv32cvwSfGX8.jpg",
+    "release_date": "2/16/24"
+  },
+  {
+    "id": 1047,
+    "imdb_id": "tt30215084",
+    "tmdb_id": "1217343",
+    "title": "THIS IS ME... NOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/zxx0krg13e0k2c2RLoOvxJCEQQy.jpg",
+    "release_date": "2/16/24"
+  },
+  {
+    "id": 1048,
+    "imdb_id": "tt16368898",
+    "tmdb_id": "931642",
+    "title": "LIGHTS OUT",
+    "poster": "https://www.themoviedb.org/t/p/w500/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+    "release_date": "2/16/24"
+  },
+  {
+    "id": 1049,
+    "imdb_id": "tt16253418",
+    "tmdb_id": "1096197",
+    "title": "NO WAY UP",
+    "poster": "https://www.themoviedb.org/t/p/w500/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+    "release_date": "2/16/24"
+  },
+  {
+    "id": 1050,
+    "imdb_id": "tt8521778",
+    "tmdb_id": "802219",
+    "title": "BOB MARLEY: ONE LOVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
+    "release_date": "2/14/24"
+  },
+  {
+    "id": 1051,
+    "imdb_id": "tt19316408",
+    "tmdb_id": "1175038",
+    "title": "STRANGER IN THE WOODS",
+    "poster": "https://www.themoviedb.org/t/p/w500/qcrbiVMOkAaOyha8BqyVDQCTwh6.jpg",
+    "release_date": "2/14/24"
+  },
+  {
+    "id": 1052,
+    "imdb_id": "tt14833464",
+    "tmdb_id": "843617",
+    "title": "PLAYERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/eA94hAGntLm7Lfol5FQJNxd53Hw.jpg",
+    "release_date": "2/14/24"
+  },
+  {
+    "id": 1053,
+    "imdb_id": "tt11057302",
+    "tmdb_id": "634492",
+    "title": "MADAME WEB",
+    "poster": "https://www.themoviedb.org/t/p/w500/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+    "release_date": "2/14/24"
+  },
+  {
+    "id": 1054,
+    "imdb_id": "tt23219096",
+    "tmdb_id": "1230522",
+    "title": "ELEMENTORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/oH7GtcoJ1oGFGq3iGUKCKx3UTZz.jpg",
+    "release_date": "2/13/24"
+  },
+  {
+    "id": 1055,
+    "imdb_id": "tt21188080",
+    "tmdb_id": "993784",
+    "title": "LISA FRANKENSTEIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 1056,
+    "imdb_id": "tt21830902",
+    "tmdb_id": "1014590",
+    "title": "UPGRADED",
+    "poster": "https://www.themoviedb.org/t/p/w500/4fKjh7zJrlAcZfIfNQCDvvrT5vN.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 1057,
+    "imdb_id": "tt21275544",
+    "tmdb_id": "997162",
+    "title": "MARMALADE",
+    "poster": "https://www.themoviedb.org/t/p/w500/6mjEcTvrwddcYPYeRcbdtozUIfU.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 1058,
+    "imdb_id": "tt14375666",
+    "tmdb_id": "818861",
+    "title": "LOLA",
+    "poster": "https://www.themoviedb.org/t/p/w500/mCc3u1NXeHIgT8NyIOoZuoPUIxg.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 1059,
+    "imdb_id": "tt27708700",
+    "tmdb_id": "1124127",
+    "title": "AIR FORCE ONE DOWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg",
+    "release_date": "2/9/24"
+  },
+  {
+    "id": 1060,
+    "imdb_id": "tt15560314",
+    "tmdb_id": "1109237",
+    "title": "THE MONK AND THE GUN",
+    "poster": "https://www.themoviedb.org/t/p/w500/nhGaCXeBvFo7495aIZr261l6kb0.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1061,
+    "imdb_id": "tt21270966",
+    "tmdb_id": "1073087",
+    "title": "SCRAMBLED",
+    "poster": "https://www.themoviedb.org/t/p/w500/yzwERLkcxNh9uve42IAUBHckU0s.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1062,
+    "imdb_id": "tt13650742",
+    "tmdb_id": "1014209",
+    "title": "SUNCOAST",
+    "poster": "https://www.themoviedb.org/t/p/w500/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1063,
+    "imdb_id": "tt28066777",
+    "tmdb_id": "1139829",
+    "title": "ORION AND THE DARK",
+    "poster": "https://www.themoviedb.org/t/p/w500/oT53tpbp12PfJ0ifCs71Viue8R8.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1064,
+    "imdb_id": "tt15009428",
+    "tmdb_id": "848538",
+    "title": "ARGYLLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1065,
+    "imdb_id": "tt5834410",
+    "tmdb_id": "598387",
+    "title": "THE TIGER'S APPRENTICE",
+    "poster": "https://www.themoviedb.org/t/p/w500/iiid1xMhoAcW83VJ9LdAqf4Vtbr.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1066,
+    "imdb_id": "tt15479438",
+    "tmdb_id": "1114922",
+    "title": "SOMEWHERE QUIET",
+    "poster": "https://www.themoviedb.org/t/p/w500/evExphB7F7PpCHx06dMCwePArfH.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1067,
+    "imdb_id": "tt17633634",
+    "tmdb_id": "1175351",
+    "title": "BOSCO",
+    "poster": "https://www.themoviedb.org/t/p/w500/dXjSeS3w97setnrNv4m6tlqqXzn.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1068,
+    "imdb_id": "tt7018422",
+    "tmdb_id": "978993",
+    "title": "A NASHVILLE WISH",
+    "poster": "https://www.themoviedb.org/t/p/w500/vc71HD6vHYrq8DZjcKL7dRQwCQ6.jpg",
+    "release_date": "2/2/24"
+  },
+  {
+    "id": 1069,
+    "imdb_id": "tt23037638",
+    "tmdb_id": "1237059",
+    "title": "THERE IS A MONSTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/pAAqREPhp2W6rLrJ3zTPFkP2pQV.jpg",
+    "release_date": "1/30/24"
+  },
+  {
+    "id": 1070,
+    "imdb_id": "tt9046896",
+    "tmdb_id": "955179",
+    "title": "JUNCTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/yg2ihSPbqy7B7V74VXBBTY1MVmu.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1071,
+    "imdb_id": "tt22392694",
+    "tmdb_id": "1029654",
+    "title": "COLD COPY",
+    "poster": "https://www.themoviedb.org/t/p/w500/6uvjR7tiSycXeDiOu5uXYvXML4X.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1072,
+    "imdb_id": "tt16431966",
+    "tmdb_id": "891933",
+    "title": "SOMETIMES I THINK ABOUT DYING",
+    "poster": "https://www.themoviedb.org/t/p/w500/vpcjCTzVoxoxIBmBGpjGrWL4JIV.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1073,
+    "imdb_id": "tt21434318",
+    "tmdb_id": "1007826",
+    "title": "THE UNDERDOGGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/wj1VRcVsh39nkxLkZP8tuGd96tc.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1074,
+    "imdb_id": "tt8310486",
+    "tmdb_id": "1026436",
+    "title": "MILLER'S GIRL",
+    "poster": "https://www.themoviedb.org/t/p/w500/y9zzaN65LOO56nUGC31x9mWQzoi.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1075,
+    "imdb_id": "tt19984386",
+    "tmdb_id": "1170824",
+    "title": "AMERICAN STAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/aFjxI9yMd142au1O74JlUttG4Ki.jpg",
+    "release_date": "1/26/24"
+  },
+  {
+    "id": 1076,
+    "imdb_id": "tt26546123",
+    "tmdb_id": "1096342",
+    "title": "BEAUTIFUL WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/cmeYlRD628KrijyY7thzwlV2KPT.jpg",
+    "release_date": "1/24/24"
+  },
+  {
+    "id": 1077,
+    "imdb_id": "tt21861620",
+    "tmdb_id": "1222072",
+    "title": "MURDER AND COCKTAILS",
+    "poster": "https://www.themoviedb.org/t/p/w500/6lwjmyJGtHGzRKKhI0LrcFe6fvX.jpg",
+    "release_date": "1/23/24"
+  },
+  {
+    "id": 1078,
+    "imdb_id": "tt3468380",
+    "tmdb_id": "975043",
+    "title": "WHICH BRINGS ME TO YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/gspoAZ5p7G7D83OU9UFOmKICejw.jpg",
+    "release_date": "1/19/24"
+  },
+  {
+    "id": 1079,
+    "imdb_id": "tt13655120",
+    "tmdb_id": "790462",
+    "title": "I.S.S.",
+    "poster": "https://www.themoviedb.org/t/p/w500/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+    "release_date": "1/19/24"
+  },
+  {
+    "id": 1080,
+    "imdb_id": "tt23785128",
+    "tmdb_id": "1055451",
+    "title": "FOUNDERS DAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
+    "release_date": "1/19/24"
+  },
+  {
+    "id": 1081,
+    "imdb_id": "tt21151212",
+    "tmdb_id": "1059345",
+    "title": "CULT KILLER",
+    "poster": "https://www.themoviedb.org/t/p/w500/jSR06FpV1H36OmW0jfEmvG73l2r.jpg",
+    "release_date": "1/19/24"
+  },
+  {
+    "id": 1082,
+    "imdb_id": "tt26742994",
+    "tmdb_id": "1216784",
+    "title": "SUNRISE",
+    "poster": "https://www.themoviedb.org/t/p/w500/4aRvg2ybz646gciX5M6qaclunC2.jpg",
+    "release_date": "1/19/24"
+  },
+  {
+    "id": 1083,
+    "imdb_id": "tt15791574",
+    "tmdb_id": "666035",
+    "title": "WANTED MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+    "release_date": "1/17/24"
+  },
+  {
+    "id": 1084,
+    "imdb_id": "tt15314262",
+    "tmdb_id": "866398",
+    "title": "THE BEEKEEPER",
+    "poster": "https://www.themoviedb.org/t/p/w500/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1085,
+    "imdb_id": "tt11762114",
+    "tmdb_id": "673593",
+    "title": "MEAN GIRLS",
+    "poster": "https://www.themoviedb.org/t/p/w500/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1086,
+    "imdb_id": "tt22866358",
+    "tmdb_id": "976584",
+    "title": "THE BOOK OF CLARENCE",
+    "poster": "https://www.themoviedb.org/t/p/w500/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1087,
+    "imdb_id": "tt14371878",
+    "tmdb_id": "955916",
+    "title": "LIFT",
+    "poster": "https://www.themoviedb.org/t/p/w500/46sp1Z9b2PPTgCMyA87g9aTLUXi.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1088,
+    "imdb_id": "tt12964320",
+    "tmdb_id": "848187",
+    "title": "ROLE PLAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/7MhXiTmTl16LwXNPbWCmqxj7UxH.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1089,
+    "imdb_id": "tt22489042",
+    "tmdb_id": "1217379",
+    "title": "HELLHOUND",
+    "poster": "https://www.themoviedb.org/t/p/w500/wIQHlttOBAd4aApLA3JrTcOAgUx.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1090,
+    "imdb_id": "tt22868094",
+    "tmdb_id": "1216299",
+    "title": "THE NIGHT THEY CAME HOME",
+    "poster": "https://www.themoviedb.org/t/p/w500/6Bd17axAG0qJ6YIU3SoootXV0Cz.jpg",
+    "release_date": "1/12/24"
+  },
+  {
+    "id": 1091,
+    "imdb_id": "tt7551844",
+    "tmdb_id": "723178",
+    "title": "FUGITIVE DREAMS",
+    "poster": "https://www.themoviedb.org/t/p/w500/434blVQ9irhsZaNU6QwOtzVqqaY.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 1092,
+    "imdb_id": "tt14772014",
+    "tmdb_id": "836972",
+    "title": "HE WENT THAT WAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 1093,
+    "imdb_id": "tt2016303",
+    "tmdb_id": "927107",
+    "title": "THE BRICKLAYER",
+    "poster": "https://www.themoviedb.org/t/p/w500/36pYugctLa70NmwMEgXTR1G31Kq.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 1094,
+    "imdb_id": "tt9682428",
+    "tmdb_id": "1072342",
+    "title": "NIGHT SWIM",
+    "poster": "https://www.themoviedb.org/t/p/w500/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 1095,
+    "imdb_id": "tt30253266",
+    "tmdb_id": "1211957",
+    "title": "THE PAINTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg",
+    "release_date": "1/5/24"
+  },
+  {
+    "id": 1096,
+    "imdb_id": "tt16277242",
+    "tmdb_id": "906126",
+    "title": "SOCIETY OF THE SNOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/2e853FDVSIso600RqAMunPxiZjq.jpg",
+    "release_date": "1/4/24"
+  },
+  {
+    "id": 1097,
+    "imdb_id": "tt26084002",
+    "tmdb_id": "1072876",
+    "title": "SELF RELIANCE",
+    "poster": "https://www.themoviedb.org/t/p/w500/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+    "release_date": "1/3/24"
+  },
+  {
+    "id": 1098,
+    "imdb_id": "tt28073210",
+    "tmdb_id": "1221596",
+    "title": "THE MUMMY MURDERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/jlBX5ay7e2Oc6eEax6sNWXaus7l.jpg",
+    "release_date": "1/2/24"
+  }
+]

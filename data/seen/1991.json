@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1676,
+    "imdb_id": "tt0101921",
+    "tmdb_id": "1633",
+    "title": "FRIED GREEN TOMATOES",
+    "poster": "https://www.themoviedb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+    "release_date": "12/27/1991"
+  },
+  {
+    "id": 1677,
+    "imdb_id": "tt0102975",
+    "tmdb_id": "174",
+    "title": "STAR TREK VI: THE UNDISCOVERED COUNTRY",
+    "poster": "https://www.themoviedb.org/t/p/w500/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+    "release_date": "12/6/1991"
+  },
+  {
+    "id": 1678,
+    "imdb_id": "tt0101414",
+    "tmdb_id": "10020",
+    "title": "BEAUTY AND THE BEAST",
+    "poster": "https://www.themoviedb.org/t/p/w500/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "release_date": "11/22/1991"
+  },
+  {
+    "id": 1679,
+    "imdb_id": "tt0101917",
+    "tmdb_id": "11284",
+    "title": "FREDDY'S DEAD: THE FINAL NIGHTMARE",
+    "poster": "https://www.themoviedb.org/t/p/w500/doyiGwpxbBs4G2og9G8gV7ZKoih.jpg",
+    "release_date": "9/13/1991"
+  },
+  {
+    "id": 1680,
+    "imdb_id": "tt0103956",
+    "tmdb_id": "11187",
+    "title": "CHILD'S PLAY 3",
+    "poster": "https://www.themoviedb.org/t/p/w500/rHUOQShfzQTdE625cqwZoIOTvik.jpg",
+    "release_date": "8/30/1991"
+  },
+  {
+    "id": 1681,
+    "imdb_id": "tt0101507",
+    "tmdb_id": "650",
+    "title": "BOYZ N THE HOOD",
+    "poster": "https://www.themoviedb.org/t/p/w500/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+    "release_date": "7/12/1991"
+  },
+  {
+    "id": 1682,
+    "imdb_id": "tt0102768",
+    "tmdb_id": "11364",
+    "title": "REGARDING HENRY",
+    "poster": "https://www.themoviedb.org/t/p/w500/1gyViKAIpy1jAcM3B17iXNbiHrh.jpg",
+    "release_date": "7/10/1991"
+  },
+  {
+    "id": 1683,
+    "imdb_id": "tt0103074",
+    "tmdb_id": "1541",
+    "title": "THELMA & LOUISE",
+    "poster": "https://www.themoviedb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+    "release_date": "5/24/1991"
+  },
+  {
+    "id": 1684,
+    "imdb_id": "tt0102926",
+    "tmdb_id": "274",
+    "title": "THE SILENCE OF THE LAMBS",
+    "poster": "https://www.themoviedb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "release_date": "2/14/1991"
+  },
+  {
+    "id": 1685,
+    "imdb_id": "tt0102250",
+    "tmdb_id": "2107",
+    "title": "L.A. STORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/At97val6UZyQoQtmH1b2Pe7bWqG.jpg",
+    "release_date": "2/8/1991"
+  }
+]
