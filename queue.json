@@ -206,5 +206,53 @@
     "title": "CHIEF OF STATION",
     "poster": "https://www.themoviedb.org/t/p/w500/uuA01PTtPombRPvL9dvsBqOBJWm.jpg",
     "release_date": "5/3/24"
+  },
+  {
+    "id": 1053,
+    "imdb_id": "tt11674730",
+    "tmdb_id": "1047020",
+    "title": "THE LAST STOP IN YUMA COUNTY",
+    "poster": "https://www.themoviedb.org/t/p/w500/u6ae2MMh8PpSamO3cIttLM5B18v.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1054,
+    "imdb_id": "tt28494031",
+    "tmdb_id": "1156110",
+    "title": "GASOLINE RAINBOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/3wZPMKCrL4jwpAMWgQQoV75VaU.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1055,
+    "imdb_id": "tt18077924",
+    "tmdb_id": "834562",
+    "title": "POOLMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/6MHnkm1nQpq40ZvCcdSUpvux2wU.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1056,
+    "imdb_id": "tt11389872",
+    "tmdb_id": "653346",
+    "title": "KINGDOM OF THE PLANET OF THE APES",
+    "poster": "https://www.themoviedb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1057,
+    "imdb_id": "tt19358036",
+    "tmdb_id": "1045467",
+    "title": "NOT ANOTHER CHURCH MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/1EJ3MhWGnWNXLgmWXb4e3QGb1m1.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1058,
+    "imdb_id": "tt28332336",
+    "tmdb_id": "1183002",
+    "title": "THE IMAGE OF YOU",
+    "poster": "https://www.themoviedb.org/t/p/w500/2tpaQri7veZbXvYwXXC7VrziPS5.jpg",
+    "release_date": "5/10/24"
   }
 ]
