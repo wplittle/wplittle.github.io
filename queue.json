@@ -1,6 +1,6 @@
 [
   {
-    "id": 1022,
+    "id": 1043,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 1023,
+    "id": 1044,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -16,7 +16,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 1024,
+    "id": 1045,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -24,7 +24,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 1025,
+    "id": 1046,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -32,7 +32,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 1026,
+    "id": 1047,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -40,15 +40,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 1027,
-    "imdb_id": "tt14304018",
-    "tmdb_id": "879972",
-    "title": "GLITTER & DOOM",
-    "poster": "https://www.themoviedb.org/t/p/w500/ptZ8YiYZdCFESDfrcFnA7hk5MPl.jpg",
-    "release_date": "3/8/24"
-  },
-  {
-    "id": 1028,
+    "id": 1048,
     "imdb_id": "tt9352178",
     "tmdb_id": "632995",
     "title": "THE PRIMEVALS",
@@ -56,7 +48,7 @@
     "release_date": "3/11/24"
   },
   {
-    "id": 1030,
+    "id": 1049,
     "imdb_id": "tt24806518",
     "tmdb_id": "1063679",
     "title": "FREE TIME",
@@ -64,23 +56,15 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 1032,
-    "imdb_id": "tt15669314",
-    "tmdb_id": "914243",
-    "title": "THE LISTENER",
-    "poster": "https://www.themoviedb.org/t/p/w500/6ldRGB2xBeXJKxo5KqUOZcq35rW.jpg",
-    "release_date": "3/29/24"
-  },
-  {
-    "id": 1033,
+    "id": 1050,
     "imdb_id": "tt24244436",
     "tmdb_id": "1081593",
     "title": "HOUSEKEEPING FOR BEGINNERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/vf8JlpSXEcB5glI2Iw8cjzdrg8l.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg",
     "release_date": "4/5/24"
   },
   {
-    "id": 1034,
+    "id": 1051,
     "imdb_id": "tt21651430",
     "tmdb_id": "808482",
     "title": "THE PEOPLE'S JOKER",
@@ -88,15 +72,7 @@
     "release_date": "4/5/24"
   },
   {
-    "id": 1035,
-    "imdb_id": "tt10353588",
-    "tmdb_id": "639857",
-    "title": "THE ABSENCE OF EDEN",
-    "poster": "https://www.themoviedb.org/t/p/w500/vbkxza3vqw1KG010Q8b009quJxK.jpg",
-    "release_date": "4/12/24"
-  },
-  {
-    "id": 1036,
+    "id": 1052,
     "imdb_id": "tt30180830",
     "tmdb_id": "1015634",
     "title": "SASQUATCH SUNSET",
@@ -104,7 +80,7 @@
     "release_date": "4/12/24"
   },
   {
-    "id": 1037,
+    "id": 1053,
     "imdb_id": "tt20112746",
     "tmdb_id": "1087388",
     "title": "STING",
@@ -112,7 +88,7 @@
     "release_date": "4/12/24"
   },
   {
-    "id": 1038,
+    "id": 1054,
     "imdb_id": "tt12444168",
     "tmdb_id": "1251687",
     "title": "DON'T TELL MOM THE BABYSITTER'S DEAD",
@@ -120,7 +96,7 @@
     "release_date": "4/12/24"
   },
   {
-    "id": 1039,
+    "id": 1055,
     "imdb_id": "tt15353574",
     "tmdb_id": "1009679",
     "title": "HARD MILES",
@@ -128,7 +104,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1040,
+    "id": 1056,
     "imdb_id": "tt28639049",
     "tmdb_id": "1163186",
     "title": "WE GROWN NOW",
@@ -136,7 +112,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1041,
+    "id": 1057,
     "imdb_id": "tt30319533",
     "tmdb_id": "1214474",
     "title": "STRESS POSITIONS",
@@ -144,7 +120,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1043,
+    "id": 1058,
     "imdb_id": "tt23638614",
     "tmdb_id": "1115009",
     "title": "UNSUNG HERO",
@@ -152,7 +128,7 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1044,
+    "id": 1059,
     "imdb_id": "tt16426418",
     "tmdb_id": "937287",
     "title": "CHALLENGERS",
@@ -160,7 +136,7 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1045,
+    "id": 1060,
     "imdb_id": "tt27722061",
     "tmdb_id": "1059319",
     "title": "THE FEELING THAT THE TIME FOR DOING SOMETHING HAS PASSED",
@@ -168,7 +144,7 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1046,
+    "id": 1061,
     "imdb_id": "tt27507837",
     "tmdb_id": "1115579",
     "title": "LOST SOULZ",
@@ -176,15 +152,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1047,
-    "imdb_id": "tt1684562",
-    "tmdb_id": "746036",
-    "title": "THE FALL GUY",
-    "poster": "https://www.themoviedb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
-    "release_date": "5/3/24"
-  },
-  {
-    "id": 1048,
+    "id": 1062,
     "imdb_id": "tt15574270",
     "tmdb_id": "858017",
     "title": "I SAW THE TV GLOW",
@@ -192,7 +160,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1049,
+    "id": 1063,
     "imdb_id": "tt26442871",
     "tmdb_id": "1076101",
     "title": "WILDCAT",
@@ -200,39 +168,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1051,
-    "imdb_id": "tt21301418",
-    "tmdb_id": "1093995",
-    "title": "CHIEF OF STATION",
-    "poster": "https://www.themoviedb.org/t/p/w500/uuA01PTtPombRPvL9dvsBqOBJWm.jpg",
-    "release_date": "5/3/24"
-  },
-  {
-    "id": 1053,
-    "imdb_id": "tt11674730",
-    "tmdb_id": "1047020",
-    "title": "THE LAST STOP IN YUMA COUNTY",
-    "poster": "https://www.themoviedb.org/t/p/w500/u6ae2MMh8PpSamO3cIttLM5B18v.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1054,
-    "imdb_id": "tt28494031",
-    "tmdb_id": "1156110",
-    "title": "GASOLINE RAINBOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/3wZPMKCrL4jwpAMWgQQoV75VaU.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1055,
-    "imdb_id": "tt18077924",
-    "tmdb_id": "834562",
-    "title": "POOLMAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/6MHnkm1nQpq40ZvCcdSUpvux2wU.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1056,
+    "id": 1064,
     "imdb_id": "tt11389872",
     "tmdb_id": "653346",
     "title": "KINGDOM OF THE PLANET OF THE APES",
@@ -240,7 +176,15 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1057,
+    "id": 1065,
+    "imdb_id": "tt28494031",
+    "tmdb_id": "1156110",
+    "title": "GASOLINE RAINBOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/3wZPMKCrL4jwpAMWgQQoV75VaU.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1066,
     "imdb_id": "tt19358036",
     "tmdb_id": "1045467",
     "title": "NOT ANOTHER CHURCH MOVIE",
@@ -248,11 +192,19 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1058,
+    "id": 1067,
+    "imdb_id": "tt18077924",
+    "tmdb_id": "834562",
+    "title": "POOLMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/vVz4Rh4j6FQTq9eva3xEvCMumAh.jpg",
+    "release_date": "5/10/24"
+  },
+  {
+    "id": 1068,
     "imdb_id": "tt28332336",
     "tmdb_id": "1183002",
     "title": "THE IMAGE OF YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/2tpaQri7veZbXvYwXXC7VrziPS5.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/gboq2oB6QNBcW32V0A8uOajTwXU.jpg",
     "release_date": "5/10/24"
   }
 ]
