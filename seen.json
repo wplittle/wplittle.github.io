@@ -28,7 +28,7 @@
     "imdb_id": "tt1684562",
     "tmdb_id": "746036",
     "title": "THE FALL GUY",
-    "poster": "https://www.themoviedb.org/t/p/w500/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/aBkqu7EddWK7qmY4grL4I6edx2h.jpg",
     "release_date": "5/3/24"
   },
   {
@@ -3929,6 +3929,14 @@
   },
   {
     "id": 492,
+    "imdb_id": "tt6467266",
+    "tmdb_id": "438695",
+    "title": "SING 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+    "release_date": "12/22/2021"
+  },
+  {
+    "id": 493,
     "imdb_id": "tt10665338",
     "tmdb_id": "610253",
     "title": "HALLOWEEN KILLS",
@@ -3936,7 +3944,7 @@
     "release_date": "10/15/2021"
   },
   {
-    "id": 493,
+    "id": 494,
     "imdb_id": "tt9115530",
     "tmdb_id": "601470",
     "title": "THE EYES OF TAMMY FAYE",
@@ -3944,7 +3952,7 @@
     "release_date": "9/17/2021"
   },
   {
-    "id": 494,
+    "id": 495,
     "imdb_id": "tt10366460",
     "tmdb_id": "776503",
     "title": "CODA",
@@ -3952,7 +3960,15 @@
     "release_date": "8/13/2021"
   },
   {
-    "id": 495,
+    "id": 496,
+    "imdb_id": "tt6802400",
+    "tmdb_id": "484718",
+    "title": "COMING 2 AMERICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",
+    "release_date": "3/4/2021"
+  },
+  {
+    "id": 497,
     "imdb_id": "tt9770150",
     "tmdb_id": "581734",
     "title": "NOMADLAND",
@@ -3960,7 +3976,7 @@
     "release_date": "1/29/2021"
   },
   {
-    "id": 496,
+    "id": 498,
     "imdb_id": "tt10060094",
     "tmdb_id": "611207",
     "title": "THE KNIGHT BEFORE CHRISTMAS",
@@ -3968,7 +3984,7 @@
     "release_date": "11/21/2019"
   },
   {
-    "id": 497,
+    "id": 499,
     "imdb_id": "tt8096832",
     "tmdb_id": "512895",
     "title": "LADY AND THE TRAMP",
@@ -3976,7 +3992,7 @@
     "release_date": "11/12/2019"
   },
   {
-    "id": 498,
+    "id": 500,
     "imdb_id": "tt6105098",
     "tmdb_id": "420818",
     "title": "THE LION KING",
@@ -3984,7 +4000,15 @@
     "release_date": "7/19/2019"
   },
   {
-    "id": 499,
+    "id": 501,
+    "imdb_id": "tt8663516",
+    "tmdb_id": "533642",
+    "title": "CHILD'S PLAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/rpS7ROczWulqfaXG2klYapULXKm.jpg",
+    "release_date": "6/21/2019"
+  },
+  {
+    "id": 502,
     "imdb_id": "tt1979376",
     "tmdb_id": "301528",
     "title": "TOY STORY 4",
@@ -3992,7 +4016,7 @@
     "release_date": "6/21/2019"
   },
   {
-    "id": 500,
+    "id": 503,
     "imdb_id": "tt6146586",
     "tmdb_id": "458156",
     "title": "JOHN WICK: CHAPTER 3 - PARABELLUM",
@@ -4000,7 +4024,7 @@
     "release_date": "5/17/2019"
   },
   {
-    "id": 501,
+    "id": 504,
     "imdb_id": "tt6857112",
     "tmdb_id": "458723",
     "title": "US",
@@ -4008,7 +4032,7 @@
     "release_date": "3/22/2019"
   },
   {
-    "id": 502,
+    "id": 505,
     "imdb_id": "tt6566768",
     "tmdb_id": "512199",
     "title": "NATIVE SON",
@@ -4016,7 +4040,7 @@
     "release_date": "1/24/2019"
   },
   {
-    "id": 503,
+    "id": 506,
     "imdb_id": "tt5886046",
     "tmdb_id": "522681",
     "title": "ESCAPE ROOM",
@@ -4024,7 +4048,7 @@
     "release_date": "1/4/2019"
   },
   {
-    "id": 504,
+    "id": 507,
     "imdb_id": "tt7959026",
     "tmdb_id": "504172",
     "title": "THE MULE",
@@ -4032,7 +4056,7 @@
     "release_date": "12/14/2018"
   },
   {
-    "id": 505,
+    "id": 508,
     "imdb_id": "tt8361028",
     "tmdb_id": "521935",
     "title": "CAM",
@@ -4040,7 +4064,7 @@
     "release_date": "11/16/2018"
   },
   {
-    "id": 506,
+    "id": 509,
     "imdb_id": "tt6966692",
     "tmdb_id": "490132",
     "title": "GREEN BOOK",
@@ -4048,7 +4072,7 @@
     "release_date": "11/16/2018"
   },
   {
-    "id": 507,
+    "id": 510,
     "imdb_id": "tt8954732",
     "tmdb_id": "556803",
     "title": "THE PRINCESS SWITCH",
@@ -4056,7 +4080,7 @@
     "release_date": "11/16/2018"
   },
   {
-    "id": 508,
+    "id": 511,
     "imdb_id": "tt1502407",
     "tmdb_id": "424139",
     "title": "HALLOWEEN",
@@ -4064,7 +4088,7 @@
     "release_date": "10/19/2018"
   },
   {
-    "id": 509,
+    "id": 512,
     "imdb_id": "tt3104988",
     "tmdb_id": "455207",
     "title": "CRAZY RICH ASIANS",
@@ -4072,7 +4096,7 @@
     "release_date": "8/15/2018"
   },
   {
-    "id": 510,
+    "id": 513,
     "imdb_id": "tt5095030",
     "tmdb_id": "363088",
     "title": "ANT-MAN AND THE WASP",
@@ -4080,7 +4104,7 @@
     "release_date": "7/6/2018"
   },
   {
-    "id": 511,
+    "id": 514,
     "imdb_id": "tt1137450",
     "tmdb_id": "395990",
     "title": "DEATH WISH",
@@ -4088,7 +4112,7 @@
     "release_date": "3/2/2018"
   },
   {
-    "id": 512,
+    "id": 515,
     "imdb_id": "tt4281724",
     "tmdb_id": "420634",
     "title": "TERRIFIER",
@@ -4096,7 +4120,7 @@
     "release_date": "1/25/2018"
   },
   {
-    "id": 513,
+    "id": 516,
     "imdb_id": "tt5580390",
     "tmdb_id": "399055",
     "title": "THE SHAPE OF WATER",
@@ -4104,7 +4128,7 @@
     "release_date": "12/1/2017"
   },
   {
-    "id": 514,
+    "id": 517,
     "imdb_id": "tt3280262",
     "tmdb_id": "393345",
     "title": "CULT OF CHUCKY",
@@ -4112,7 +4136,7 @@
     "release_date": "10/3/2017"
   },
   {
-    "id": 515,
+    "id": 518,
     "imdb_id": "tt5052448",
     "tmdb_id": "419430",
     "title": "GET OUT",
@@ -4120,7 +4144,7 @@
     "release_date": "2/24/2017"
   },
   {
-    "id": 516,
+    "id": 519,
     "imdb_id": "tt4425200",
     "tmdb_id": "324552",
     "title": "JOHN WICK: CHAPTER 2",
@@ -4128,7 +4152,7 @@
     "release_date": "2/10/2017"
   },
   {
-    "id": 517,
+    "id": 520,
     "imdb_id": "tt1753383",
     "tmdb_id": "381289",
     "title": "A DOG'S PURPOSE",
@@ -4136,7 +4160,7 @@
     "release_date": "1/27/2017"
   },
   {
-    "id": 518,
+    "id": 521,
     "imdb_id": "tt4276820",
     "tmdb_id": "310307",
     "title": "THE FOUNDER",
@@ -4144,7 +4168,15 @@
     "release_date": "1/20/2017"
   },
   {
-    "id": 519,
+    "id": 522,
+    "imdb_id": "tt3470600",
+    "tmdb_id": "335797",
+    "title": "SING",
+    "poster": "https://www.themoviedb.org/t/p/w500/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg",
+    "release_date": "12/21/2016"
+  },
+  {
+    "id": 523,
     "imdb_id": "tt4975722",
     "tmdb_id": "376867",
     "title": "MOONLIGHT",
@@ -4152,7 +4184,15 @@
     "release_date": "10/21/2016"
   },
   {
-    "id": 520,
+    "id": 524,
+    "imdb_id": "tt2709768",
+    "tmdb_id": "328111",
+    "title": "THE SECRET LIFE OF PETS",
+    "poster": "https://www.themoviedb.org/t/p/w500/g3Hms6AE174doeGR1gz5zX5sVsv.jpg",
+    "release_date": "7/8/2016"
+  },
+  {
+    "id": 525,
     "imdb_id": "tt0837156",
     "tmdb_id": "347689",
     "title": "PEE WEE'S BIG HOLIDAY",
@@ -4160,7 +4200,15 @@
     "release_date": "3/18/2016"
   },
   {
-    "id": 521,
+    "id": 526,
+    "imdb_id": "tt3460252",
+    "tmdb_id": "273248",
+    "title": "THE HATEFUL EIGHT",
+    "poster": "https://www.themoviedb.org/t/p/w500/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+    "release_date": "12/25/2015"
+  },
+  {
+    "id": 527,
     "imdb_id": "tt1895587",
     "tmdb_id": "314365",
     "title": "SPOTLIGHT",
@@ -4168,7 +4216,7 @@
     "release_date": "11/6/2015"
   },
   {
-    "id": 522,
+    "id": 528,
     "imdb_id": "tt0478970",
     "tmdb_id": "102899",
     "title": "ANT-MAN",
@@ -4176,7 +4224,39 @@
     "release_date": "7/17/2015"
   },
   {
-    "id": 523,
+    "id": 529,
+    "imdb_id": "tt2637276",
+    "tmdb_id": "214756",
+    "title": "TED 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/qMOt0uy1x49OBW0jzodgRM9waW0.jpg",
+    "release_date": "6/26/2015"
+  },
+  {
+    "id": 530,
+    "imdb_id": "tt2179136",
+    "tmdb_id": "190859",
+    "title": "AMERICAN SNIPER",
+    "poster": "https://www.themoviedb.org/t/p/w500/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+    "release_date": "12/25/2014"
+  },
+  {
+    "id": 531,
+    "imdb_id": "tt2788710",
+    "tmdb_id": "228967",
+    "title": "THE INTERVIEW",
+    "poster": "https://www.themoviedb.org/t/p/w500/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg",
+    "release_date": "12/25/2014"
+  },
+  {
+    "id": 532,
+    "imdb_id": "tt3125324",
+    "tmdb_id": "241771",
+    "title": "BEYOND THE LIGHTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/5Di9UXTa2bDec68WOFcZzgB1ot3.jpg",
+    "release_date": "11/14/2014"
+  },
+  {
+    "id": 533,
     "imdb_id": "tt2911666",
     "tmdb_id": "245891",
     "title": "JOHN WICK",
@@ -4184,7 +4264,7 @@
     "release_date": "10/24/2014"
   },
   {
-    "id": 524,
+    "id": 534,
     "imdb_id": "tt2582802",
     "tmdb_id": "244786",
     "title": "WHIPLASH",
@@ -4192,7 +4272,7 @@
     "release_date": "10/10/2014"
   },
   {
-    "id": 525,
+    "id": 535,
     "imdb_id": "tt0993846",
     "tmdb_id": "106646",
     "title": "THE WOLF OF WALL STREET",
@@ -4200,7 +4280,7 @@
     "release_date": "12/25/2013"
   },
   {
-    "id": 526,
+    "id": 536,
     "imdb_id": "tt1798709",
     "tmdb_id": "152601",
     "title": "HER",
@@ -4208,7 +4288,15 @@
     "release_date": "12/18/2013"
   },
   {
-    "id": 527,
+    "id": 537,
+    "imdb_id": "tt2042568",
+    "tmdb_id": "86829",
+    "title": "INSIDE LLEWYN DAVIS",
+    "poster": "https://www.themoviedb.org/t/p/w500/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+    "release_date": "12/6/2013"
+  },
+  {
+    "id": 538,
     "imdb_id": "tt1800241",
     "tmdb_id": "168672",
     "title": "AMERICAN HUSTLE",
@@ -4216,7 +4304,7 @@
     "release_date": "12/3/2013"
   },
   {
-    "id": 528,
+    "id": 539,
     "imdb_id": "tt2431286",
     "tmdb_id": "205220",
     "title": "PHILOMENA",
@@ -4224,7 +4312,7 @@
     "release_date": "11/27/2013"
   },
   {
-    "id": 529,
+    "id": 540,
     "imdb_id": "tt0790636",
     "tmdb_id": "152532",
     "title": "DALLAS BUYERS CLUB",
@@ -4232,7 +4320,7 @@
     "release_date": "11/22/2013"
   },
   {
-    "id": 530,
+    "id": 541,
     "imdb_id": "tt1821549",
     "tmdb_id": "129670",
     "title": "NEBRASKA",
@@ -4240,7 +4328,7 @@
     "release_date": "11/15/2013"
   },
   {
-    "id": 531,
+    "id": 542,
     "imdb_id": "tt1981115",
     "tmdb_id": "76338",
     "title": "THOR: THE DARK WORLD",
@@ -4248,7 +4336,7 @@
     "release_date": "11/8/2013"
   },
   {
-    "id": 532,
+    "id": 543,
     "imdb_id": "tt2900624",
     "tmdb_id": "231001",
     "title": "ALL HALLOWS' EVE",
@@ -4256,7 +4344,7 @@
     "release_date": "10/29/2013"
   },
   {
-    "id": 533,
+    "id": 544,
     "imdb_id": "tt3063516",
     "tmdb_id": "208134",
     "title": "JACKASS PRESENTS: BAD GRANDPA",
@@ -4264,7 +4352,7 @@
     "release_date": "10/25/2013"
   },
   {
-    "id": 534,
+    "id": 545,
     "imdb_id": "tt1939659",
     "tmdb_id": "133805",
     "title": "CARRIE",
@@ -4272,7 +4360,7 @@
     "release_date": "10/18/2013"
   },
   {
-    "id": 535,
+    "id": 546,
     "imdb_id": "tt1535109",
     "tmdb_id": "109424",
     "title": "CAPTAIN PHILLIPS",
@@ -4280,7 +4368,7 @@
     "release_date": "10/11/2013"
   },
   {
-    "id": 536,
+    "id": 547,
     "imdb_id": "tt2230358",
     "tmdb_id": "167032",
     "title": "CURSE OF CHUCKY",
@@ -4288,7 +4376,7 @@
     "release_date": "10/8/2013"
   },
   {
-    "id": 537,
+    "id": 548,
     "imdb_id": "tt1454468",
     "tmdb_id": "49047",
     "title": "GRAVITY",
@@ -4296,7 +4384,7 @@
     "release_date": "10/4/2013"
   },
   {
-    "id": 538,
+    "id": 549,
     "imdb_id": "tt2390361",
     "tmdb_id": "209263",
     "title": "ENOUGH SAID",
@@ -4304,7 +4392,7 @@
     "release_date": "9/18/2013"
   },
   {
-    "id": 539,
+    "id": 550,
     "imdb_id": "tt2226417",
     "tmdb_id": "91586",
     "title": "INSIDIOUS: CHAPTER 2",
@@ -4312,7 +4400,7 @@
     "release_date": "9/13/2013"
   },
   {
-    "id": 540,
+    "id": 551,
     "imdb_id": "tt2318527",
     "tmdb_id": "159092",
     "title": "HELL BABY",
@@ -4320,7 +4408,7 @@
     "release_date": "9/6/2013"
   },
   {
-    "id": 541,
+    "id": 552,
     "imdb_id": "tt2279864",
     "tmdb_id": "133790",
     "title": "CLEAR HISTORY",
@@ -4328,7 +4416,7 @@
     "release_date": "8/10/2013"
   },
   {
-    "id": 542,
+    "id": 553,
     "imdb_id": "tt2184339",
     "tmdb_id": "158015",
     "title": "THE PURGE",
@@ -4336,7 +4424,7 @@
     "release_date": "6/6/2013"
   },
   {
-    "id": 543,
+    "id": 554,
     "imdb_id": "tt2348394",
     "tmdb_id": "195796",
     "title": "HOME SWEET HOME",
@@ -4344,7 +4432,7 @@
     "release_date": "5/14/2013"
   },
   {
-    "id": 544,
+    "id": 555,
     "imdb_id": "tt1343092",
     "tmdb_id": "64682",
     "title": "THE GREAT GATSBY",
@@ -4352,7 +4440,7 @@
     "release_date": "5/10/2013"
   },
   {
-    "id": 545,
+    "id": 556,
     "imdb_id": "tt1300854",
     "tmdb_id": "68721",
     "title": "IRON MAN 3",
@@ -4360,7 +4448,7 @@
     "release_date": "5/3/2013"
   },
   {
-    "id": 546,
+    "id": 557,
     "imdb_id": "tt0453562",
     "tmdb_id": "109410",
     "title": "42",
@@ -4368,7 +4456,7 @@
     "release_date": "4/12/2013"
   },
   {
-    "id": 547,
+    "id": 558,
     "imdb_id": "tt2101441",
     "tmdb_id": "122081",
     "title": "SPRING BREAKERS",
@@ -4376,7 +4464,7 @@
     "release_date": "3/10/2013"
   },
   {
-    "id": 548,
+    "id": 559,
     "imdb_id": "tt1682180",
     "tmdb_id": "86825",
     "title": "STOKER",
@@ -4384,7 +4472,7 @@
     "release_date": "3/1/2013"
   },
   {
-    "id": 549,
+    "id": 560,
     "imdb_id": "tt2023587",
     "tmdb_id": "132232",
     "title": "MAMA",
@@ -4392,15 +4480,15 @@
     "release_date": "1/18/2013"
   },
   {
-    "id": 550,
+    "id": 561,
     "imdb_id": "tt1572315",
     "tmdb_id": "76617",
-    "title": "TEXAS CHAINSAW",
+    "title": "TEXAS CHAINSAW 3D",
     "poster": "https://www.themoviedb.org/t/p/w500/qaPvvHP1kKlQaUAXQZQAWitqBOT.jpg",
     "release_date": "1/4/2013"
   },
   {
-    "id": 551,
+    "id": 562,
     "imdb_id": "tt1853728",
     "tmdb_id": "68718",
     "title": "DJANGO UNCHAINED",
@@ -4408,7 +4496,7 @@
     "release_date": "12/25/2012"
   },
   {
-    "id": 552,
+    "id": 563,
     "imdb_id": "tt1790885",
     "tmdb_id": "97630",
     "title": "ZERO DARK THIRTY",
@@ -4416,7 +4504,7 @@
     "release_date": "12/19/2012"
   },
   {
-    "id": 553,
+    "id": 564,
     "imdb_id": "tt0903624",
     "tmdb_id": "49051",
     "title": "THE HOBBIT: AN UNEXPECTED JOURNEY",
@@ -4424,7 +4512,7 @@
     "release_date": "12/14/2012"
   },
   {
-    "id": 554,
+    "id": 565,
     "imdb_id": "tt1477855",
     "tmdb_id": "87504",
     "title": "HYDE PARK ON HUDSON",
@@ -4432,7 +4520,7 @@
     "release_date": "12/7/2012"
   },
   {
-    "id": 555,
+    "id": 566,
     "imdb_id": "tt1748227",
     "tmdb_id": "134597",
     "title": "THE COLLECTION",
@@ -4440,7 +4528,7 @@
     "release_date": "11/30/2012"
   },
   {
-    "id": 556,
+    "id": 567,
     "imdb_id": "tt0975645",
     "tmdb_id": "112336",
     "title": "HITCHCOCK",
@@ -4448,7 +4536,7 @@
     "release_date": "11/23/2012"
   },
   {
-    "id": 557,
+    "id": 568,
     "imdb_id": "tt0454876",
     "tmdb_id": "87827",
     "title": "LIFE OF PI",
@@ -4456,7 +4544,7 @@
     "release_date": "11/21/2012"
   },
   {
-    "id": 558,
+    "id": 569,
     "imdb_id": "tt0443272",
     "tmdb_id": "72976",
     "title": "LINCOLN",
@@ -4464,7 +4552,7 @@
     "release_date": "11/16/2012"
   },
   {
-    "id": 559,
+    "id": 570,
     "imdb_id": "tt1045658",
     "tmdb_id": "82693",
     "title": "SILVER LININGS PLAYBOOK",
@@ -4472,7 +4560,7 @@
     "release_date": "11/16/2012"
   },
   {
-    "id": 560,
+    "id": 571,
     "imdb_id": "tt1074638",
     "tmdb_id": "37724",
     "title": "SKYFALL",
@@ -4480,7 +4568,7 @@
     "release_date": "11/9/2012"
   },
   {
-    "id": 561,
+    "id": 572,
     "imdb_id": "tt0938330",
     "tmdb_id": "61012",
     "title": "SILENT HILL: REVELATION",
@@ -4488,7 +4576,7 @@
     "release_date": "10/26/2012"
   },
   {
-    "id": 562,
+    "id": 573,
     "imdb_id": "tt1024648",
     "tmdb_id": "68734",
     "title": "ARGO",
@@ -4496,7 +4584,7 @@
     "release_date": "10/12/2012"
   },
   {
-    "id": 563,
+    "id": 574,
     "imdb_id": "tt1931533",
     "tmdb_id": "86838",
     "title": "SEVEN PSYCHOPATHS",
@@ -4504,7 +4592,7 @@
     "release_date": "10/12/2012"
   },
   {
-    "id": 564,
+    "id": 575,
     "imdb_id": "tt2125435",
     "tmdb_id": "84175",
     "title": "BEASTS OF THE SOUTHERN WILD",
@@ -4512,7 +4600,7 @@
     "release_date": "6/29/2012"
   },
   {
-    "id": 565,
+    "id": 576,
     "imdb_id": "tt1637725",
     "tmdb_id": "72105",
     "title": "TED",
@@ -4520,7 +4608,7 @@
     "release_date": "6/29/2012"
   },
   {
-    "id": 566,
+    "id": 577,
     "imdb_id": "tt1232200",
     "tmdb_id": "87428",
     "title": "THAT'S MY BOY",
@@ -4528,7 +4616,7 @@
     "release_date": "6/15/2012"
   },
   {
-    "id": 567,
+    "id": 578,
     "imdb_id": "tt1748122",
     "tmdb_id": "83666",
     "title": "MOONRISE KINGDOM",
@@ -4536,7 +4624,7 @@
     "release_date": "5/25/2012"
   },
   {
-    "id": 568,
+    "id": 579,
     "imdb_id": "tt0848228",
     "tmdb_id": "24428",
     "title": "MARVEL'S THE AVENGERS",
@@ -4544,7 +4632,7 @@
     "release_date": "5/4/2012"
   },
   {
-    "id": 569,
+    "id": 580,
     "imdb_id": "tt1655442",
     "tmdb_id": "74643",
     "title": "THE ARTIST",
@@ -4552,7 +4640,7 @@
     "release_date": "1/20/2012"
   },
   {
-    "id": 570,
+    "id": 581,
     "imdb_id": "tt0477302",
     "tmdb_id": "64685",
     "title": "EXTREMELY LOUD & INCREDIBLY CLOSE",
@@ -4560,7 +4648,7 @@
     "release_date": "12/25/2011"
   },
   {
-    "id": 571,
+    "id": 582,
     "imdb_id": "tt0970179",
     "tmdb_id": "44826",
     "title": "HUGO",
@@ -4568,7 +4656,15 @@
     "release_date": "11/23/2011"
   },
   {
-    "id": 572,
+    "id": 583,
+    "imdb_id": "tt1640548",
+    "tmdb_id": "75622",
+    "title": "RAMPART",
+    "poster": "https://www.themoviedb.org/t/p/w500/wUlYwDmkytszsDvyIPn66pdqgZe.jpg",
+    "release_date": "11/23/2011"
+  },
+  {
+    "id": 584,
     "imdb_id": "tt1033575",
     "tmdb_id": "65057",
     "title": "THE DESCENDANTS",
@@ -4576,7 +4672,7 @@
     "release_date": "11/18/2011"
   },
   {
-    "id": 573,
+    "id": 585,
     "imdb_id": "tt1748197",
     "tmdb_id": "70586",
     "title": "SETUP",
@@ -4584,7 +4680,7 @@
     "release_date": "11/4/2011"
   },
   {
-    "id": 574,
+    "id": 586,
     "imdb_id": "tt1210166",
     "tmdb_id": "60308",
     "title": "MONEYBALL",
@@ -4592,7 +4688,7 @@
     "release_date": "9/23/2011"
   },
   {
-    "id": 575,
+    "id": 587,
     "imdb_id": "tt1454029",
     "tmdb_id": "50014",
     "title": "THE HELP",
@@ -4600,7 +4696,7 @@
     "release_date": "8/11/2011"
   },
   {
-    "id": 576,
+    "id": 588,
     "imdb_id": "tt0458339",
     "tmdb_id": "1771",
     "title": "CAPTAIN AMERICA: THE FIRST AVENGER",
@@ -4608,7 +4704,15 @@
     "release_date": "7/22/2011"
   },
   {
-    "id": 577,
+    "id": 589,
+    "imdb_id": "tt1632708",
+    "tmdb_id": "50544",
+    "title": "FRIENDS WITH BENEFITS",
+    "poster": "https://www.themoviedb.org/t/p/w500/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg",
+    "release_date": "7/21/2011"
+  },
+  {
+    "id": 590,
     "imdb_id": "tt0478304",
     "tmdb_id": "8967",
     "title": "THE TREE OF LIFE",
@@ -4616,7 +4720,7 @@
     "release_date": "5/27/2011"
   },
   {
-    "id": 578,
+    "id": 591,
     "imdb_id": "tt1605783",
     "tmdb_id": "59436",
     "title": "MIDNIGHT IN PARIS",
@@ -4624,7 +4728,7 @@
     "release_date": "5/20/2011"
   },
   {
-    "id": 579,
+    "id": 592,
     "imdb_id": "tt0800369",
     "tmdb_id": "10195",
     "title": "THOR",
@@ -4632,7 +4736,7 @@
     "release_date": "5/6/2011"
   },
   {
-    "id": 580,
+    "id": 593,
     "imdb_id": "tt1596343",
     "tmdb_id": "51497",
     "title": "FAST FIVE",
@@ -4640,7 +4744,7 @@
     "release_date": "4/28/2011"
   },
   {
-    "id": 581,
+    "id": 594,
     "imdb_id": "tt1262416",
     "tmdb_id": "41446",
     "title": "SCREAM 4",
@@ -4648,7 +4752,7 @@
     "release_date": "4/15/2011"
   },
   {
-    "id": 582,
+    "id": 595,
     "imdb_id": "tt1591095",
     "tmdb_id": "49018",
     "title": "INSIDIOUS",
@@ -4656,7 +4760,15 @@
     "release_date": "4/1/2011"
   },
   {
-    "id": 583,
+    "id": 596,
+    "imdb_id": "tt1411238",
+    "tmdb_id": "41630",
+    "title": "NO STRINGS ATTACHED",
+    "poster": "https://www.themoviedb.org/t/p/w500/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg",
+    "release_date": "1/21/2011"
+  },
+  {
+    "id": 597,
     "imdb_id": "tt1341188",
     "tmdb_id": "42888",
     "title": "HOW DO YOU KNOW",
@@ -4664,7 +4776,7 @@
     "release_date": "12/17/2010"
   },
   {
-    "id": 584,
+    "id": 598,
     "imdb_id": "tt1504320",
     "tmdb_id": "45269",
     "title": "THE KING'S SPEECH",
@@ -4672,7 +4784,7 @@
     "release_date": "11/26/2010"
   },
   {
-    "id": 585,
+    "id": 599,
     "imdb_id": "tt1126618",
     "tmdb_id": "38357",
     "title": "MORNING GLORY",
@@ -4680,7 +4792,23 @@
     "release_date": "11/10/2010"
   },
   {
-    "id": 586,
+    "id": 600,
+    "imdb_id": "tt1116184",
+    "tmdb_id": "16290",
+    "title": "JACKASS 3D",
+    "poster": "https://www.themoviedb.org/t/p/w500/rqK0MkfpWT2DpFjNzkvjHf0vxZ4.jpg",
+    "release_date": "10/15/2010"
+  },
+  {
+    "id": 601,
+    "imdb_id": "tt1285016",
+    "tmdb_id": "37799",
+    "title": "THE SOCIAL NETWORK",
+    "poster": "https://www.themoviedb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "release_date": "10/1/2010"
+  },
+  {
+    "id": 602,
     "imdb_id": "tt0842926",
     "tmdb_id": "39781",
     "title": "THE KIDS ARE ALL RIGHT",
@@ -4688,7 +4816,15 @@
     "release_date": "7/9/2010"
   },
   {
-    "id": 587,
+    "id": 603,
+    "imdb_id": "tt0435761",
+    "tmdb_id": "10193",
+    "title": "TOY STORY 3",
+    "poster": "https://www.themoviedb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+    "release_date": "6/18/2010"
+  },
+  {
+    "id": 604,
     "imdb_id": "tt1399683",
     "tmdb_id": "39013",
     "title": "WINTER'S BONE",
@@ -4696,7 +4832,7 @@
     "release_date": "6/11/2010"
   },
   {
-    "id": 588,
+    "id": 605,
     "imdb_id": "tt1228705",
     "tmdb_id": "10138",
     "title": "IRON MAN 2",
@@ -4704,7 +4840,7 @@
     "release_date": "5/7/2010"
   },
   {
-    "id": 589,
+    "id": 606,
     "imdb_id": "tt1179056",
     "tmdb_id": "23437",
     "title": "A NIGHTMARE ON ELM STREET",
@@ -4712,7 +4848,7 @@
     "release_date": "4/30/2010"
   },
   {
-    "id": 590,
+    "id": 607,
     "imdb_id": "tt1467304",
     "tmdb_id": "37169",
     "title": "HUMAN CENTIPEDE (FIRST SEQUENCE)",
@@ -4720,7 +4856,7 @@
     "release_date": "4/26/2010"
   },
   {
-    "id": 591,
+    "id": 608,
     "imdb_id": "tt1017451",
     "tmdb_id": "27586",
     "title": "THE RUNAWAYS",
@@ -4728,7 +4864,7 @@
     "release_date": "3/19/2010"
   },
   {
-    "id": 592,
+    "id": 609,
     "imdb_id": "tt0815236",
     "tmdb_id": "34016",
     "title": "SHE'S OUT OF MY LEAGUE",
@@ -4736,7 +4872,7 @@
     "release_date": "3/12/2010"
   },
   {
-    "id": 593,
+    "id": 610,
     "imdb_id": "tt1263670",
     "tmdb_id": "25196",
     "title": "CRAZY HEART",
@@ -4744,7 +4880,7 @@
     "release_date": "12/16/2009"
   },
   {
-    "id": 594,
+    "id": 611,
     "imdb_id": "tt0929632",
     "tmdb_id": "25793",
     "title": "PRECIOUS: BASED ON THE NOVEL 'PUSH' BY SAPPHIRE",
@@ -4752,15 +4888,23 @@
     "release_date": "11/6/2009"
   },
   {
-    "id": 595,
-    "imdb_id": "tt0068833",
+    "id": 612,
+    "imdb_id": "tt1197624",
     "tmdb_id": "22803",
     "title": "LAW ABIDING CITIZEN",
     "poster": "https://www.themoviedb.org/t/p/w500/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
     "release_date": "10/15/2009"
   },
   {
-    "id": 596,
+    "id": 613,
+    "imdb_id": "tt1190080",
+    "tmdb_id": "14161",
+    "title": "2012",
+    "poster": "https://www.themoviedb.org/t/p/w500/zaqam2RNscH5ooYFWInV6hjx6y5.jpg",
+    "release_date": "10/10/2009"
+  },
+  {
+    "id": 614,
     "imdb_id": "tt1131734",
     "tmdb_id": "19994",
     "title": "JENNIFER'S BODY",
@@ -4768,7 +4912,7 @@
     "release_date": "9/18/2009"
   },
   {
-    "id": 597,
+    "id": 615,
     "imdb_id": "tt1311067",
     "tmdb_id": "24150",
     "title": "HALLOWEEN II",
@@ -4776,7 +4920,7 @@
     "release_date": "8/28/2009"
   },
   {
-    "id": 598,
+    "id": 616,
     "imdb_id": "tt0361748",
     "tmdb_id": "16869",
     "title": "INGLOURIOUS BASTERDS",
@@ -4784,7 +4928,7 @@
     "release_date": "8/21/2009"
   },
   {
-    "id": 599,
+    "id": 617,
     "imdb_id": "tt1136608",
     "tmdb_id": "17654",
     "title": "DISTRICT 9",
@@ -4792,7 +4936,7 @@
     "release_date": "8/14/2009"
   },
   {
-    "id": 600,
+    "id": 618,
     "imdb_id": "tt0844479",
     "tmdb_id": "21407",
     "title": "THE COLLECTOR",
@@ -4800,7 +4944,23 @@
     "release_date": "7/31/2009"
   },
   {
-    "id": 601,
+    "id": 619,
+    "imdb_id": "tt0844708",
+    "tmdb_id": "18405",
+    "title": "THE LAST HOUSE ON THE LEFT",
+    "poster": "https://www.themoviedb.org/t/p/w500/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+    "release_date": "3/13/2009"
+  },
+  {
+    "id": 620,
+    "imdb_id": "tt1142800",
+    "tmdb_id": "15670",
+    "title": "MADEA GOES TO JAIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/qiXNNmSFXsfUdKDkylBF2LfX0DR.jpg",
+    "release_date": "2/16/2009"
+  },
+  {
+    "id": 621,
     "imdb_id": "tt0421715",
     "tmdb_id": "4922",
     "title": "THE CURIOUS CASE OF BENJAMIN BUTTON",
@@ -4808,7 +4968,7 @@
     "release_date": "12/25/2008"
   },
   {
-    "id": 602,
+    "id": 622,
     "imdb_id": "tt1068680",
     "tmdb_id": "10201",
     "title": "YES MAN",
@@ -4816,7 +4976,15 @@
     "release_date": "12/19/2008"
   },
   {
-    "id": 603,
+    "id": 623,
+    "imdb_id": "tt1205489",
+    "tmdb_id": "13223",
+    "title": "GRAN TORINO",
+    "poster": "https://www.themoviedb.org/t/p/w500/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+    "release_date": "12/12/2008"
+  },
+  {
+    "id": 624,
     "imdb_id": "tt0870111",
     "tmdb_id": "11499",
     "title": "FROST/NIXON",
@@ -4824,7 +4992,7 @@
     "release_date": "12/5/2008"
   },
   {
-    "id": 604,
+    "id": 625,
     "imdb_id": "tt1010048",
     "tmdb_id": "12405",
     "title": "SLUMDOG MILLIONAIRE",
@@ -4832,7 +5000,15 @@
     "release_date": "11/12/2008"
   },
   {
-    "id": 605,
+    "id": 626,
+    "imdb_id": "tt1135985",
+    "tmdb_id": "13523",
+    "title": "SEX DRIVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/pKaFgIpPtkiYTEqytKPaHzlz4Tn.jpg",
+    "release_date": "10/17/2008"
+  },
+  {
+    "id": 627,
     "imdb_id": "tt0947802",
     "tmdb_id": "13279",
     "title": "LAKEVIEW TERRACE",
@@ -4840,7 +5016,7 @@
     "release_date": "9/19/2008"
   },
   {
-    "id": 606,
+    "id": 628,
     "imdb_id": "tt1046163",
     "tmdb_id": "13596",
     "title": "MY BEST FRIEND'S GIRL",
@@ -4848,7 +5024,15 @@
     "release_date": "9/19/2008"
   },
   {
-    "id": 607,
+    "id": 629,
+    "imdb_id": "tt0795421",
+    "tmdb_id": "11631",
+    "title": "MAMMA MIA!",
+    "poster": "https://www.themoviedb.org/t/p/w500/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+    "release_date": "7/18/2008"
+  },
+  {
+    "id": 630,
     "imdb_id": "tt0800080",
     "tmdb_id": "1724",
     "title": "THE INCREDIBLE HULK",
@@ -4856,7 +5040,7 @@
     "release_date": "6/12/2008"
   },
   {
-    "id": 608,
+    "id": 631,
     "imdb_id": "tt0371746",
     "tmdb_id": "1726",
     "title": "IRON MAN",
@@ -4864,7 +5048,23 @@
     "release_date": "5/2/2008"
   },
   {
-    "id": 609,
+    "id": 632,
+    "imdb_id": "tt0800039",
+    "tmdb_id": "9870",
+    "title": "FORGETTING SARAH MARSHALL",
+    "poster": "https://www.themoviedb.org/t/p/w500/d4elOzyhNWVlxpG7BwigrumkFTe.jpg",
+    "release_date": "4/17/2008"
+  },
+  {
+    "id": 633,
+    "imdb_id": "tt1023481",
+    "tmdb_id": "8328",
+    "title": "STEP UP 2: THE STREETS",
+    "poster": "https://www.themoviedb.org/t/p/w500/7YGUxMoQIysZCRMk3r1sza0EX4t.jpg",
+    "release_date": "2/14/2008"
+  },
+  {
+    "id": 634,
     "imdb_id": "tt0469494",
     "tmdb_id": "7345",
     "title": "THERE WILL BE BLOOD",
@@ -4872,7 +5072,7 @@
     "release_date": "12/26/2007"
   },
   {
-    "id": 610,
+    "id": 635,
     "imdb_id": "tt0825232",
     "tmdb_id": "7350",
     "title": "THE BUCKET LIST",
@@ -4880,7 +5080,7 @@
     "release_date": "12/25/2007"
   },
   {
-    "id": 611,
+    "id": 636,
     "imdb_id": "tt0467406",
     "tmdb_id": "7326",
     "title": "JUNO",
@@ -4888,7 +5088,7 @@
     "release_date": "12/5/2007"
   },
   {
-    "id": 612,
+    "id": 637,
     "imdb_id": "tt0477348",
     "tmdb_id": "6977",
     "title": "NO COUNTRY FOR OLD MEN",
@@ -4896,7 +5096,7 @@
     "release_date": "11/8/2007"
   },
   {
-    "id": 613,
+    "id": 638,
     "imdb_id": "tt0465538",
     "tmdb_id": "4566",
     "title": "MICHAEL CLAYTON",
@@ -4904,7 +5104,7 @@
     "release_date": "10/5/2007"
   },
   {
-    "id": 614,
+    "id": 639,
     "imdb_id": "tt0452625",
     "tmdb_id": "10030",
     "title": "GOOD LUCK CHUCK",
@@ -4912,7 +5112,7 @@
     "release_date": "9/21/2007"
   },
   {
-    "id": 615,
+    "id": 640,
     "imdb_id": "tt0445922",
     "tmdb_id": "4688",
     "title": "ACROSS THE UNIVERSE",
@@ -4920,7 +5120,7 @@
     "release_date": "9/14/2007"
   },
   {
-    "id": 616,
+    "id": 641,
     "imdb_id": "tt0373883",
     "tmdb_id": "2082",
     "title": "HALLOWEEN",
@@ -4928,7 +5128,63 @@
     "release_date": "8/31/2007"
   },
   {
-    "id": 617,
+    "id": 642,
+    "imdb_id": "tt0829482",
+    "tmdb_id": "8363",
+    "title": "SUPERBAD",
+    "poster": "https://www.themoviedb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "release_date": "8/17/2007"
+  },
+  {
+    "id": 643,
+    "imdb_id": "tt0462538",
+    "tmdb_id": "35",
+    "title": "THE SIMPSONS MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+    "release_date": "7/27/2007"
+  },
+  {
+    "id": 644,
+    "imdb_id": "tt0413099",
+    "tmdb_id": "2698",
+    "title": "EVAN ALMIGHTY",
+    "poster": "https://www.themoviedb.org/t/p/w500/5vjH8oQFZXJ0gTOPsJKWidVsWmg.jpg",
+    "release_date": "6/9/2007"
+  },
+  {
+    "id": 645,
+    "imdb_id": "tt0498353",
+    "tmdb_id": "1691",
+    "title": "HOSTEL: PART II",
+    "poster": "https://www.themoviedb.org/t/p/w500/qB20aiY8Ah3pQikkBxm3j7jQVc8.jpg",
+    "release_date": "6/8/2007"
+  },
+  {
+    "id": 646,
+    "imdb_id": "tt0478311",
+    "tmdb_id": "4964",
+    "title": "KNOCKED UP",
+    "poster": "https://www.themoviedb.org/t/p/w500/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
+    "release_date": "6/1/2007"
+  },
+  {
+    "id": 647,
+    "imdb_id": "tt0477347",
+    "tmdb_id": "1593",
+    "title": "NIGHT AT THE MUSEUM",
+    "poster": "https://www.themoviedb.org/t/p/w500/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg",
+    "release_date": "12/21/2006"
+  },
+  {
+    "id": 648,
+    "imdb_id": "tt0365830",
+    "tmdb_id": "2179",
+    "title": "TENACIOUS D IN THE PICK OF DESTINY",
+    "poster": "https://www.themoviedb.org/t/p/w500/kYo7TWASMC3YG3dJVsEsE4CNkd7.jpg",
+    "release_date": "11/22/2006"
+  },
+  {
+    "id": 649,
     "imdb_id": "tt0449467",
     "tmdb_id": "1164",
     "title": "BABEL",
@@ -4936,7 +5192,31 @@
     "release_date": "10/27/2006"
   },
   {
-    "id": 618,
+    "id": 650,
+    "imdb_id": "tt0493430",
+    "tmdb_id": "12094",
+    "title": "JACKASS NUMBER TWO",
+    "poster": "https://www.themoviedb.org/t/p/w500/u73V8dMqUwjtPL6gWesCE7ji9GU.jpg",
+    "release_date": "9/22/2006"
+  },
+  {
+    "id": 651,
+    "imdb_id": "tt0443543",
+    "tmdb_id": "1491",
+    "title": "THE ILLUSIONIST",
+    "poster": "https://www.themoviedb.org/t/p/w500/4I1oOPHNrHLcvz3wTMuETJLws9z.jpg",
+    "release_date": "8/18/2006"
+  },
+  {
+    "id": 652,
+    "imdb_id": "tt0462590",
+    "tmdb_id": "9762",
+    "title": "STEP UP",
+    "poster": "https://www.themoviedb.org/t/p/w500/9Y2i54Etpx7JvCxj6D8P3VAH152.jpg",
+    "release_date": "8/11/2006"
+  },
+  {
+    "id": 653,
     "imdb_id": "tt0415306",
     "tmdb_id": "9718",
     "title": "TALLADEGA NIGHTS: THE BALLAD OF RICKY BOBBY",
@@ -4944,7 +5224,7 @@
     "release_date": "8/4/2006"
   },
   {
-    "id": 619,
+    "id": 654,
     "imdb_id": "tt0449059",
     "tmdb_id": "773",
     "title": "LITTLE MISS SUNSHINE",
@@ -4952,7 +5232,7 @@
     "release_date": "7/26/2006"
   },
   {
-    "id": 620,
+    "id": 655,
     "imdb_id": "tt0439815",
     "tmdb_id": "9035",
     "title": "SLITHER",
@@ -4960,7 +5240,15 @@
     "release_date": "3/31/2006"
   },
   {
-    "id": 621,
+    "id": 656,
+    "imdb_id": "tt0427944",
+    "tmdb_id": "9388",
+    "title": "THANK YOU FOR SMOKING",
+    "poster": "https://www.themoviedb.org/t/p/w500/xIlQYkRjpGBMXDkZoS3IRcckScA.jpg",
+    "release_date": "3/17/2006"
+  },
+  {
+    "id": 657,
     "imdb_id": "tt0472458",
     "tmdb_id": "9060",
     "title": "DUMPLINGS",
@@ -4968,7 +5256,7 @@
     "release_date": "2/28/2006"
   },
   {
-    "id": 622,
+    "id": 658,
     "imdb_id": "tt0475293",
     "tmdb_id": "10947",
     "title": "HIGH SCHOOL MUSICAL",
@@ -4976,7 +5264,7 @@
     "release_date": "1/20/2006"
   },
   {
-    "id": 623,
+    "id": 659,
     "imdb_id": "tt0450278",
     "tmdb_id": "1690",
     "title": "HOSTEL",
@@ -4984,7 +5272,23 @@
     "release_date": "1/6/2006"
   },
   {
-    "id": 624,
+    "id": 660,
+    "imdb_id": "tt0358273",
+    "tmdb_id": "69",
+    "title": "WALK THE LINE",
+    "poster": "https://www.themoviedb.org/t/p/w500/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+    "release_date": "11/18/2005"
+  },
+  {
+    "id": 661,
+    "imdb_id": "tt0421054",
+    "tmdb_id": "9923",
+    "title": "DOMINO",
+    "poster": "https://www.themoviedb.org/t/p/w500/yLjQ7QIdUt3qZY0d9FPxDT40BD1.jpg",
+    "release_date": "10/14/2005"
+  },
+  {
+    "id": 662,
     "imdb_id": "tt0433383",
     "tmdb_id": "3291",
     "title": "GOOD NIGHT, AND GOOD LUCK",
@@ -4992,7 +5296,23 @@
     "release_date": "10/7/2005"
   },
   {
-    "id": 625,
+    "id": 663,
+    "imdb_id": "tt0451094",
+    "tmdb_id": "4550",
+    "title": "LADY VENGEANCE",
+    "poster": "https://www.themoviedb.org/t/p/w500/3Oy3iLMqD79us2iAUD6fKqWebYU.jpg",
+    "release_date": "9/30/2005"
+  },
+  {
+    "id": 664,
+    "imdb_id": "tt0397101",
+    "tmdb_id": "9913",
+    "title": "THE SKELETON KEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/sH7mDPlWwFTqVUg6yKRvToCMH3B.jpg",
+    "release_date": "8/12/2005"
+  },
+  {
+    "id": 665,
     "imdb_id": "tt0405422",
     "tmdb_id": "6957",
     "title": "THE 40-YEAR-OLD VIRGIN",
@@ -5000,7 +5320,15 @@
     "release_date": "8/11/2005"
   },
   {
-    "id": 626,
+    "id": 666,
+    "imdb_id": "tt0405325",
+    "tmdb_id": "11459",
+    "title": "SKY HIGH",
+    "poster": "https://www.themoviedb.org/t/p/w500/yk51E2OxA9zUdRqK0YvPTx6lfa7.jpg",
+    "release_date": "7/29/2005"
+  },
+  {
+    "id": 667,
     "imdb_id": "tt0395584",
     "tmdb_id": "1696",
     "title": "THE DEVIL'S REJECTS",
@@ -5008,7 +5336,15 @@
     "release_date": "7/22/2005"
   },
   {
-    "id": 627,
+    "id": 668,
+    "imdb_id": "tt0396269",
+    "tmdb_id": "9522",
+    "title": "WEDDING CRASHERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "release_date": "7/15/2005"
+  },
+  {
+    "id": 669,
     "imdb_id": "tt0365485",
     "tmdb_id": "9515",
     "title": "THE MATADOR",
@@ -5016,7 +5352,7 @@
     "release_date": "5/12/2005"
   },
   {
-    "id": 628,
+    "id": 670,
     "imdb_id": "tt0375679",
     "tmdb_id": "1640",
     "title": "CRASH",
@@ -5024,7 +5360,7 @@
     "release_date": "5/6/2005"
   },
   {
-    "id": 629,
+    "id": 671,
     "imdb_id": "tt0384806",
     "tmdb_id": "10065",
     "title": "THE AMITYVILLE HORROR",
@@ -5032,7 +5368,31 @@
     "release_date": "4/15/2005"
   },
   {
-    "id": 630,
+    "id": 672,
+    "imdb_id": "tt0364569",
+    "tmdb_id": "670",
+    "title": "OLDBOY",
+    "poster": "https://www.themoviedb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+    "release_date": "3/25/2005"
+  },
+  {
+    "id": 673,
+    "imdb_id": "tt0290002",
+    "tmdb_id": "693",
+    "title": "MEET THE FOCKERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
+    "release_date": "12/22/2004"
+  },
+  {
+    "id": 674,
+    "imdb_id": "tt0371246",
+    "tmdb_id": "2539",
+    "title": "SPANGLISH",
+    "poster": "https://www.themoviedb.org/t/p/w500/t7mBGNmaUFU9nGebA8P6hLaj7jO.jpg",
+    "release_date": "12/17/2004"
+  },
+  {
+    "id": 675,
     "imdb_id": "tt0405159",
     "tmdb_id": "70",
     "title": "MILLION DOLLAR BABY",
@@ -5040,7 +5400,7 @@
     "release_date": "12/15/2004"
   },
   {
-    "id": 631,
+    "id": 676,
     "imdb_id": "tt0387575",
     "tmdb_id": "11249",
     "title": "SEED OF CHUCKY",
@@ -5048,7 +5408,7 @@
     "release_date": "11/12/2004"
   },
   {
-    "id": 632,
+    "id": 677,
     "imdb_id": "tt0375063",
     "tmdb_id": "9675",
     "title": "SIDEWAYS",
@@ -5056,7 +5416,15 @@
     "release_date": "10/22/2004"
   },
   {
-    "id": 633,
+    "id": 678,
+    "imdb_id": "tt0357413",
+    "tmdb_id": "8699",
+    "title": "ANCHORMAN: THE LEGEND OF RON BURGUNDY",
+    "poster": "https://www.themoviedb.org/t/p/w500/9rQceSyOxJpOVsJRhkgoxNqbkvA.jpg",
+    "release_date": "7/9/2004"
+  },
+  {
+    "id": 679,
     "imdb_id": "tt0332280",
     "tmdb_id": "11036",
     "title": "THE NOTEBOOK",
@@ -5064,7 +5432,15 @@
     "release_date": "6/25/2004"
   },
   {
-    "id": 634,
+    "id": 680,
+    "imdb_id": "tt0366551",
+    "tmdb_id": "11282",
+    "title": "HAROLD & KUMAR GO TO WHITE CASTLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/5vO7R4xYlDipTp8gzfRbWegO8eb.jpg",
+    "release_date": "5/30/2004"
+  },
+  {
+    "id": 681,
     "imdb_id": "tt0377092",
     "tmdb_id": "10625",
     "title": "MEAN GIRLS",
@@ -5072,7 +5448,39 @@
     "release_date": "4/30/2004"
   },
   {
-    "id": 635,
+    "id": 682,
+    "imdb_id": "tt0337563",
+    "tmdb_id": "10096",
+    "title": "13 GOING ON 30",
+    "poster": "https://www.themoviedb.org/t/p/w500/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+    "release_date": "4/13/2004"
+  },
+  {
+    "id": 683,
+    "imdb_id": "tt0265208",
+    "tmdb_id": "10591",
+    "title": "THE GIRL NEXT DOOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg",
+    "release_date": "4/9/2004"
+  },
+  {
+    "id": 684,
+    "imdb_id": "tt0349205",
+    "tmdb_id": "11007",
+    "title": "CHEAPER BY THE DOZEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/afclGGoQslTYFTnyW1LRMtJMiBp.jpg",
+    "release_date": "12/25/2003"
+  },
+  {
+    "id": 685,
+    "imdb_id": "tt0304415",
+    "tmdb_id": "11820",
+    "title": "MONA LISA SMILE",
+    "poster": "https://www.themoviedb.org/t/p/w500/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+    "release_date": "12/19/2003"
+  },
+  {
+    "id": 686,
     "imdb_id": "tt0337741",
     "tmdb_id": "6964",
     "title": "SOMETHING'S GOTTA GIVE",
@@ -5080,7 +5488,15 @@
     "release_date": "12/12/2003"
   },
   {
-    "id": 636,
+    "id": 687,
+    "imdb_id": "tt0332379",
+    "tmdb_id": "1584",
+    "title": "SCHOOL OF ROCK",
+    "poster": "https://www.themoviedb.org/t/p/w500/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+    "release_date": "10/3/2003"
+  },
+  {
+    "id": 688,
     "imdb_id": "tt0329101",
     "tmdb_id": "6466",
     "title": "FREDDY VS. JASON",
@@ -5088,7 +5504,7 @@
     "release_date": "8/13/2003"
   },
   {
-    "id": 637,
+    "id": 689,
     "imdb_id": "tt0266543",
     "tmdb_id": "12",
     "title": "FINDING NEMO",
@@ -5096,7 +5512,23 @@
     "release_date": "5/30/2003"
   },
   {
-    "id": 638,
+    "id": 690,
+    "imdb_id": "tt0315327",
+    "tmdb_id": "310",
+    "title": "BRUCE ALMIGHTY",
+    "poster": "https://www.themoviedb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg",
+    "release_date": "5/23/2003"
+  },
+  {
+    "id": 691,
+    "imdb_id": "tt0310281",
+    "tmdb_id": "13370",
+    "title": "A MIGHTY WIND",
+    "poster": "https://www.themoviedb.org/t/p/w500/iB6Ky3EDGC3wv5ExtAapB615tt8.jpg",
+    "release_date": "4/16/2003"
+  },
+  {
+    "id": 692,
     "imdb_id": "tt0305224",
     "tmdb_id": "9506",
     "title": "ANGER MANAGEMENT",
@@ -5104,7 +5536,7 @@
     "release_date": "4/11/2003"
   },
   {
-    "id": 639,
+    "id": 693,
     "imdb_id": "tt0251736",
     "tmdb_id": "2662",
     "title": "HOUSE OF 1000 CORPSES",
@@ -5112,7 +5544,15 @@
     "release_date": "4/11/2003"
   },
   {
-    "id": 640,
+    "id": 694,
+    "imdb_id": "tt0328099",
+    "tmdb_id": "13411",
+    "title": "MALIBU'S MOST WANTED",
+    "poster": "https://www.themoviedb.org/t/p/w500/bjYuoz2S8S1AED5QIMvmAi21drc.jpg",
+    "release_date": "4/10/2003"
+  },
+  {
+    "id": 695,
     "imdb_id": "tt0303816",
     "tmdb_id": "11547",
     "title": "CABIN FEVER",
@@ -5120,7 +5560,31 @@
     "release_date": "3/9/2003"
   },
   {
-    "id": 641,
+    "id": 696,
+    "imdb_id": "tt0302886",
+    "tmdb_id": "11635",
+    "title": "OLD SCHOOL",
+    "poster": "https://www.themoviedb.org/t/p/w500/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+    "release_date": "2/21/2003"
+  },
+  {
+    "id": 697,
+    "imdb_id": "tt0264464",
+    "tmdb_id": "640",
+    "title": "CATCH ME IF YOU CAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+    "release_date": "12/25/2002"
+  },
+  {
+    "id": 698,
+    "imdb_id": "tt0313737",
+    "tmdb_id": "2642",
+    "title": "TWO WEEKS NOTICE",
+    "poster": "https://www.themoviedb.org/t/p/w500/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
+    "release_date": "12/20/2002"
+  },
+  {
+    "id": 699,
     "imdb_id": "tt0257360",
     "tmdb_id": "2755",
     "title": "ABOUT SCHMIDT",
@@ -5128,7 +5592,23 @@
     "release_date": "12/13/2002"
   },
   {
-    "id": 642,
+    "id": 700,
+    "imdb_id": "tt0298203",
+    "tmdb_id": "65",
+    "title": "8 MILE",
+    "poster": "https://www.themoviedb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+    "release_date": "11/8/2002"
+  },
+  {
+    "id": 701,
+    "imdb_id": "tt0322802",
+    "tmdb_id": "9012",
+    "title": "JACKASS: THE MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+    "release_date": "10/25/2002"
+  },
+  {
+    "id": 702,
     "imdb_id": "tt0272338",
     "tmdb_id": "8051",
     "title": "PUNCH-DRUNK LOVE",
@@ -5136,7 +5616,23 @@
     "release_date": "10/11/2002"
   },
   {
-    "id": 643,
+    "id": 703,
+    "imdb_id": "tt0295701",
+    "tmdb_id": "7451",
+    "title": "XXX",
+    "poster": "https://www.themoviedb.org/t/p/w500/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+    "release_date": "8/9/2002"
+  },
+  {
+    "id": 704,
+    "imdb_id": "tt0295178",
+    "tmdb_id": "818",
+    "title": "AUSTIN POWERS IN GOLDMEMBER",
+    "poster": "https://www.themoviedb.org/t/p/w500/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+    "release_date": "7/26/2002"
+  },
+  {
+    "id": 705,
     "imdb_id": "tt0280590",
     "tmdb_id": "2022",
     "title": "MR. DEEDS",
@@ -5144,7 +5640,23 @@
     "release_date": "6/28/2002"
   },
   {
-    "id": 644,
+    "id": 706,
+    "imdb_id": "tt0310775",
+    "tmdb_id": "4689",
+    "title": "SYMPATHY FOR MR. VENGEANCE",
+    "poster": "https://www.themoviedb.org/t/p/w500/uj42ubGbgVL65T10SvPVr0p9mJc.jpg",
+    "release_date": "6/14/2002"
+  },
+  {
+    "id": 707,
+    "imdb_id": "tt0259446",
+    "tmdb_id": "8346",
+    "title": "MY BIG FAT GREEK WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
+    "release_date": "4/19/2002"
+  },
+  {
+    "id": 708,
     "imdb_id": "tt0280707",
     "tmdb_id": "5279",
     "title": "GOSFORD PARK",
@@ -5152,7 +5664,7 @@
     "release_date": "12/26/2001"
   },
   {
-    "id": 645,
+    "id": 709,
     "imdb_id": "tt0268995",
     "tmdb_id": "11086",
     "title": "THE MAJESTIC",
@@ -5160,7 +5672,7 @@
     "release_date": "12/21/2001"
   },
   {
-    "id": 646,
+    "id": 710,
     "imdb_id": "tt0120737",
     "tmdb_id": "120",
     "title": "THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING",
@@ -5168,7 +5680,7 @@
     "release_date": "12/19/2001"
   },
   {
-    "id": 647,
+    "id": 711,
     "imdb_id": "tt0120681",
     "tmdb_id": "768",
     "title": "FROM HELL",
@@ -5176,7 +5688,47 @@
     "release_date": "10/19/2001"
   },
   {
-    "id": 648,
+    "id": 712,
+    "imdb_id": "tt0166924",
+    "tmdb_id": "1018",
+    "title": "MULHOLLAND DRIVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
+    "release_date": "10/19/2001"
+  },
+  {
+    "id": 713,
+    "imdb_id": "tt0261392",
+    "tmdb_id": "2294",
+    "title": "JAY AND SILENT BOB STRIKE BACK",
+    "poster": "https://www.themoviedb.org/t/p/w500/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg",
+    "release_date": "8/24/2001"
+  },
+  {
+    "id": 714,
+    "imdb_id": "tt0266915",
+    "tmdb_id": "5175",
+    "title": "RUSH HOUR 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
+    "release_date": "8/3/2001"
+  },
+  {
+    "id": 715,
+    "imdb_id": "tt0248845",
+    "tmdb_id": "13403",
+    "title": "HEDWIG AND THE ANGRY INCH",
+    "poster": "https://www.themoviedb.org/t/p/w500/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+    "release_date": "7/20/2001"
+  },
+  {
+    "id": 716,
+    "imdb_id": "tt0250494",
+    "tmdb_id": "8835",
+    "title": "LEGALLY BLONDE",
+    "poster": "https://www.themoviedb.org/t/p/w500/4ABNnmkVpzplrEVQWt1piITT0Ey.jpg",
+    "release_date": "7/13/2001"
+  },
+  {
+    "id": 717,
     "imdb_id": "tt0203009",
     "tmdb_id": "824",
     "title": "MOULIN ROUGE!",
@@ -5184,7 +5736,15 @@
     "release_date": "6/1/2001"
   },
   {
-    "id": 649,
+    "id": 718,
+    "imdb_id": "tt0213149",
+    "tmdb_id": "676",
+    "title": "PEARL HARBOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+    "release_date": "5/21/2001"
+  },
+  {
+    "id": 719,
     "imdb_id": "tt0126029",
     "tmdb_id": "808",
     "title": "SHREK",
@@ -5192,7 +5752,23 @@
     "release_date": "5/18/2001"
   },
   {
-    "id": 650,
+    "id": 720,
+    "imdb_id": "tt0166276",
+    "tmdb_id": "23685",
+    "title": "MONKEYBONE",
+    "poster": "https://www.themoviedb.org/t/p/w500/lgH7Wej9922C1MQv0wciAfesKH8.jpg",
+    "release_date": "2/23/2001"
+  },
+  {
+    "id": 721,
+    "imdb_id": "tt0212346",
+    "tmdb_id": "1493",
+    "title": "MISS CONGENIALITY",
+    "poster": "https://www.themoviedb.org/t/p/w500/q1m9ME0zvncnFDmKXC43RqZr8mU.jpg",
+    "release_date": "12/22/2000"
+  },
+  {
+    "id": 722,
     "imdb_id": "tt0207201",
     "tmdb_id": "3981",
     "title": "WHAT WOMEN WANT",
@@ -5200,7 +5776,7 @@
     "release_date": "12/15/2000"
   },
   {
-    "id": 651,
+    "id": 723,
     "imdb_id": "tt0185431",
     "tmdb_id": "9678",
     "title": "LITTLE NICKY",
@@ -5208,7 +5784,7 @@
     "release_date": "11/10/2000"
   },
   {
-    "id": 652,
+    "id": 724,
     "imdb_id": "tt0212338",
     "tmdb_id": "1597",
     "title": "MEET THE PARENTS",
@@ -5216,7 +5792,7 @@
     "release_date": "10/6/2000"
   },
   {
-    "id": 653,
+    "id": 725,
     "imdb_id": "tt0180093",
     "tmdb_id": "641",
     "title": "REQUIEM FOR A DREAM",
@@ -5224,7 +5800,31 @@
     "release_date": "10/6/2000"
   },
   {
-    "id": 654,
+    "id": 726,
+    "imdb_id": "tt0218839",
+    "tmdb_id": "13785",
+    "title": "BEST IN SHOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/kVNaXzoX64YwLC99o4gXyKPnplS.jpg",
+    "release_date": "9/29/2000"
+  },
+  {
+    "id": 727,
+    "imdb_id": "tt0204946",
+    "tmdb_id": "1588",
+    "title": "BRING IT ON",
+    "poster": "https://www.themoviedb.org/t/p/w500/oygh24Z4YsAvBIvghnBZt9NPPqK.jpg",
+    "release_date": "8/25/2000"
+  },
+  {
+    "id": 728,
+    "imdb_id": "tt0234853",
+    "tmdb_id": "20438",
+    "title": "THE TAO OF STEVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/u9z4Qg0KGomhBUerbUzQXeO1ODs.jpg",
+    "release_date": "8/4/2000"
+  },
+  {
+    "id": 729,
     "imdb_id": "tt0195685",
     "tmdb_id": "462",
     "title": "ERIN BROCKOVICH",
@@ -5232,7 +5832,7 @@
     "release_date": "3/17/2000"
   },
   {
-    "id": 655,
+    "id": 730,
     "imdb_id": "tt0185014",
     "tmdb_id": "11004",
     "title": "WONDER BOYS",
@@ -5240,7 +5840,7 @@
     "release_date": "2/22/2000"
   },
   {
-    "id": 656,
+    "id": 731,
     "imdb_id": "tt0134084",
     "tmdb_id": "4234",
     "title": "SCREAM 3",
@@ -5248,7 +5848,23 @@
     "release_date": "2/4/2000"
   },
   {
-    "id": 657,
+    "id": 732,
+    "imdb_id": "tt0125664",
+    "tmdb_id": "1850",
+    "title": "MAN ON THE MOON",
+    "poster": "https://www.themoviedb.org/t/p/w500/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+    "release_date": "12/22/1999"
+  },
+  {
+    "id": 733,
+    "imdb_id": "tt0120910",
+    "tmdb_id": "49948",
+    "title": "FANTASIA 2000",
+    "poster": "https://www.themoviedb.org/t/p/w500/5rwAtUaKEK48CPUijVfVU0IPKPZ.jpg",
+    "release_date": "12/17/1999"
+  },
+  {
+    "id": 734,
     "imdb_id": "tt0120363",
     "tmdb_id": "863",
     "title": "TOY STORY 2",
@@ -5256,7 +5872,15 @@
     "release_date": "11/24/1999"
   },
   {
-    "id": 658,
+    "id": 735,
+    "imdb_id": "tt0120655",
+    "tmdb_id": "1832",
+    "title": "DOGMA",
+    "poster": "https://www.themoviedb.org/t/p/w500/xI5beD8Td79E2uZNAxgd1gWWOEd.jpg",
+    "release_date": "11/12/1999"
+  },
+  {
+    "id": 736,
     "imdb_id": "tt0120601",
     "tmdb_id": "492",
     "title": "BEING JOHN MALKOVICH",
@@ -5264,7 +5888,7 @@
     "release_date": "10/29/1999"
   },
   {
-    "id": 659,
+    "id": 737,
     "imdb_id": "tt0169547",
     "tmdb_id": "14",
     "title": "AMERICAN BEAUTY",
@@ -5272,7 +5896,15 @@
     "release_date": "9/15/1999"
   },
   {
-    "id": 660,
+    "id": 738,
+    "imdb_id": "tt0133046",
+    "tmdb_id": "10342",
+    "title": "TEACHING MRS. TINGLE",
+    "poster": "https://www.themoviedb.org/t/p/w500/hHKiifRFrC0IM7Ba2HX3sAjnSBr.jpg",
+    "release_date": "8/11/1999"
+  },
+  {
+    "id": 739,
     "imdb_id": "tt0167404",
     "tmdb_id": "745",
     "title": "THE SIXTH SENSE",
@@ -5280,7 +5912,7 @@
     "release_date": "8/6/1999"
   },
   {
-    "id": 661,
+    "id": 740,
     "imdb_id": "tt0155267",
     "tmdb_id": "913",
     "title": "THE THOMAS CROWN AFFAIR",
@@ -5288,7 +5920,39 @@
     "release_date": "8/6/1999"
   },
   {
-    "id": 662,
+    "id": 741,
+    "imdb_id": "tt0163187",
+    "tmdb_id": "4806",
+    "title": "RUNAWAY BRIDE",
+    "poster": "https://www.themoviedb.org/t/p/w500/aq0wzlWTEaUHlehS14cS5kejRIY.jpg",
+    "release_date": "7/30/1999"
+  },
+  {
+    "id": 742,
+    "imdb_id": "tt0141369",
+    "tmdb_id": "332",
+    "title": "INSPECTOR GADGET",
+    "poster": "https://www.themoviedb.org/t/p/w500/eKpK8FaQDpkgp3HHm3YrIDqUjWh.jpg",
+    "release_date": "7/23/1999"
+  },
+  {
+    "id": 743,
+    "imdb_id": "tt0185937",
+    "tmdb_id": "2667",
+    "title": "THE BLAIR WITCH PROJECT",
+    "poster": "https://www.themoviedb.org/t/p/w500/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+    "release_date": "7/14/1999"
+  },
+  {
+    "id": 744,
+    "imdb_id": "tt0163651",
+    "tmdb_id": "2105",
+    "title": "AMERICAN PIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/n0nglZOU2uLMAwf1glc6dEWvojC.jpg",
+    "release_date": "7/9/1999"
+  },
+  {
+    "id": 745,
     "imdb_id": "tt0158983",
     "tmdb_id": "9473",
     "title": "SOUTH PARK: BIGGER, LONGER & UNCUT",
@@ -5296,7 +5960,15 @@
     "release_date": "6/30/1999"
   },
   {
-    "id": 663,
+    "id": 746,
+    "imdb_id": "tt0120891",
+    "tmdb_id": "8487",
+    "title": "WILD WILD WEST",
+    "poster": "https://www.themoviedb.org/t/p/w500/1AUzpDzJSecEBIgwUIPzL5KMuTQ.jpg",
+    "release_date": "6/30/1999"
+  },
+  {
+    "id": 747,
     "imdb_id": "tt0142342",
     "tmdb_id": "9032",
     "title": "BIG DADDY",
@@ -5304,7 +5976,23 @@
     "release_date": "6/25/1999"
   },
   {
-    "id": 664,
+    "id": 748,
+    "imdb_id": "tt0145660",
+    "tmdb_id": "817",
+    "title": "AUSTIN POWERS: THE SPY WHO SHAGGED ME",
+    "poster": "https://www.themoviedb.org/t/p/w500/f2ohIBEbc3eERyU5pgSknm8DqUj.jpg",
+    "release_date": "6/8/1999"
+  },
+  {
+    "id": 749,
+    "imdb_id": "tt0126886",
+    "tmdb_id": "9451",
+    "title": "ELECTION",
+    "poster": "https://www.themoviedb.org/t/p/w500/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+    "release_date": "4/23/1999"
+  },
+  {
+    "id": 750,
     "imdb_id": "tt0147800",
     "tmdb_id": "4951",
     "title": "10 THINGS I HATE ABOUT YOU",
@@ -5312,7 +6000,7 @@
     "release_date": "3/31/1999"
   },
   {
-    "id": 665,
+    "id": 751,
     "imdb_id": "tt0151804",
     "tmdb_id": "1542",
     "title": "OFFICE SPACE",
@@ -5320,7 +6008,23 @@
     "release_date": "2/19/1999"
   },
   {
-    "id": 666,
+    "id": 752,
+    "imdb_id": "tt0120686",
+    "tmdb_id": "9441",
+    "title": "STEPMOM",
+    "poster": "https://www.themoviedb.org/t/p/w500/1bBiApUkRfzislORsl07d6XXYsT.jpg",
+    "release_date": "12/25/1998"
+  },
+  {
+    "id": 753,
+    "imdb_id": "tt0128853",
+    "tmdb_id": "9489",
+    "title": "YOU'VE GOT MAIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+    "release_date": "12/18/1998"
+  },
+  {
+    "id": 754,
     "imdb_id": "tt0120844",
     "tmdb_id": "200",
     "title": "STAR TREK: INSURRECTION",
@@ -5328,7 +6032,7 @@
     "release_date": "12/11/1998"
   },
   {
-    "id": 667,
+    "id": 755,
     "imdb_id": "tt0120586",
     "tmdb_id": "73",
     "title": "AMERICAN HISTORY X",
@@ -5336,7 +6040,7 @@
     "release_date": "10/30/1998"
   },
   {
-    "id": 668,
+    "id": 756,
     "imdb_id": "tt0120789",
     "tmdb_id": "2657",
     "title": "PLEASANTVILLE",
@@ -5344,7 +6048,7 @@
     "release_date": "10/23/1998"
   },
   {
-    "id": 669,
+    "id": 757,
     "imdb_id": "tt0144120",
     "tmdb_id": "11932",
     "title": "BRIDE OF CHUCKY",
@@ -5352,7 +6056,7 @@
     "release_date": "10/16/1998"
   },
   {
-    "id": 670,
+    "id": 758,
     "imdb_id": "tt0118863",
     "tmdb_id": "26618",
     "title": "CLAY PIGEONS",
@@ -5360,7 +6064,15 @@
     "release_date": "9/25/1998"
   },
   {
-    "id": 671,
+    "id": 759,
+    "imdb_id": "tt0120812",
+    "tmdb_id": "2109",
+    "title": "RUSH HOUR",
+    "poster": "https://www.themoviedb.org/t/p/w500/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg",
+    "release_date": "9/18/1998"
+  },
+  {
+    "id": 760,
     "imdb_id": "tt0128442",
     "tmdb_id": "10220",
     "title": "ROUNDERS",
@@ -5368,7 +6080,15 @@
     "release_date": "9/11/1998"
   },
   {
-    "id": 672,
+    "id": 761,
+    "imdb_id": "tt0134619",
+    "tmdb_id": "9424",
+    "title": "DISTURBING BEHAVIOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/uAhvaueOUUQ6ORCRdsJr1WXz1w0.jpg",
+    "release_date": "7/24/1998"
+  },
+  {
+    "id": 762,
     "imdb_id": "tt0120815",
     "tmdb_id": "857",
     "title": "SAVING PRIVATE RYAN",
@@ -5376,7 +6096,7 @@
     "release_date": "7/24/1998"
   },
   {
-    "id": 673,
+    "id": 763,
     "imdb_id": "tt0129387",
     "tmdb_id": "544",
     "title": "THERE'S SOMETHING ABOUT MARY",
@@ -5384,7 +6104,23 @@
     "release_date": "7/15/1998"
   },
   {
-    "id": 674,
+    "id": 764,
+    "imdb_id": "tt0127723",
+    "tmdb_id": "15037",
+    "title": "CAN'T HARDLY WAIT",
+    "poster": "https://www.themoviedb.org/t/p/w500/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+    "release_date": "6/12/1998"
+  },
+  {
+    "id": 765,
+    "imdb_id": "tt0120654",
+    "tmdb_id": "14577",
+    "title": "DIRTY WORK",
+    "poster": "https://www.themoviedb.org/t/p/w500/btYKWL9SP12nhkcw8EkMG3aFtga.jpg",
+    "release_date": "6/12/1998"
+  },
+  {
+    "id": 766,
     "imdb_id": "tt0120382",
     "tmdb_id": "37165",
     "title": "THE TRUMAN SHOW",
@@ -5392,7 +6128,15 @@
     "release_date": "6/5/1998"
   },
   {
-    "id": 675,
+    "id": 767,
+    "imdb_id": "tt0120890",
+    "tmdb_id": "617",
+    "title": "WILD THINGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/aaicreJBf7EuwGq3GgUV5ZedlfF.jpg",
+    "release_date": "3/20/1998"
+  },
+  {
+    "id": 768,
     "imdb_id": "tt0118715",
     "tmdb_id": "115",
     "title": "THE BIG LEBOWSKI",
@@ -5400,7 +6144,15 @@
     "release_date": "3/6/1998"
   },
   {
-    "id": 676,
+    "id": 769,
+    "imdb_id": "tt0118747",
+    "tmdb_id": "11568",
+    "title": "BLUES BROTHERS 2000",
+    "poster": "https://www.themoviedb.org/t/p/w500/nCoY8UK2x4DWpICipL40Hg4cDmO.jpg",
+    "release_date": "2/5/1998"
+  },
+  {
+    "id": 770,
     "imdb_id": "tt0119396",
     "tmdb_id": "184",
     "title": "JACKIE BROWN",
@@ -5408,7 +6160,7 @@
     "release_date": "12/25/1997"
   },
   {
-    "id": 677,
+    "id": 771,
     "imdb_id": "tt0119822",
     "tmdb_id": "2898",
     "title": "AS GOOD AS IT GETS",
@@ -5416,7 +6168,7 @@
     "release_date": "12/19/1997"
   },
   {
-    "id": 678,
+    "id": 772,
     "imdb_id": "tt0120338",
     "tmdb_id": "597",
     "title": "TITANIC",
@@ -5424,7 +6176,7 @@
     "release_date": "12/19/1997"
   },
   {
-    "id": 679,
+    "id": 773,
     "imdb_id": "tt0120082",
     "tmdb_id": "4233",
     "title": "SCREAM 2",
@@ -5432,7 +6184,7 @@
     "release_date": "12/12/1997"
   },
   {
-    "id": 680,
+    "id": 774,
     "imdb_id": "tt0119217",
     "tmdb_id": "489",
     "title": "GOOD WILL HUNTING",
@@ -5440,7 +6192,7 @@
     "release_date": "12/5/1997"
   },
   {
-    "id": 681,
+    "id": 775,
     "imdb_id": "tt0119080",
     "tmdb_id": "45153",
     "title": "EVE'S BAYOU",
@@ -5448,7 +6200,15 @@
     "release_date": "11/7/1997"
   },
   {
-    "id": 682,
+    "id": 776,
+    "imdb_id": "tt0119345",
+    "tmdb_id": "3597",
+    "title": "I KNOW WHAT YOU DID LAST SUMMER",
+    "poster": "https://www.themoviedb.org/t/p/w500/rf7V1R9zyvbZE1GSxpGfiE0mWJr.jpg",
+    "release_date": "10/17/1997"
+  },
+  {
+    "id": 777,
     "imdb_id": "tt0118749",
     "tmdb_id": "4995",
     "title": "BOOGIE NIGHTS",
@@ -5456,7 +6216,7 @@
     "release_date": "10/1/1997"
   },
   {
-    "id": 683,
+    "id": 778,
     "imdb_id": "tt0119488",
     "tmdb_id": "2118",
     "title": "L.A. CONFIDENTIAL",
@@ -5464,7 +6224,7 @@
     "release_date": "9/19/1997"
   },
   {
-    "id": 684,
+    "id": 779,
     "imdb_id": "tt0118887",
     "tmdb_id": "2142",
     "title": "COP LAND",
@@ -5472,7 +6232,23 @@
     "release_date": "8/15/1997"
   },
   {
-    "id": 685,
+    "id": 780,
+    "imdb_id": "tt0119654",
+    "tmdb_id": "607",
+    "title": "MEN IN BLACK",
+    "poster": "https://www.themoviedb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+    "release_date": "7/2/1997"
+  },
+  {
+    "id": 781,
+    "imdb_id": "tt0119738",
+    "tmdb_id": "8874",
+    "title": "MY BEST FRIEND'S WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+    "release_date": "6/19/1997"
+  },
+  {
+    "id": 782,
     "imdb_id": "tt0118655",
     "tmdb_id": "816",
     "title": "AUSTIN POWERS: INTERNATIONAL MAN OF MYSTERY",
@@ -5480,7 +6256,79 @@
     "release_date": "5/2/1997"
   },
   {
-    "id": 686,
+    "id": 783,
+    "imdb_id": "tt0120032",
+    "tmdb_id": "9611",
+    "title": "ROMY AND MICHELE'S HIGH SCHOOL REUNION",
+    "poster": "https://www.themoviedb.org/t/p/w500/etg1pHDwJfWbr5XeOkVxErjBRld.jpg",
+    "release_date": "4/25/1997"
+  },
+  {
+    "id": 784,
+    "imdb_id": "tt0118842",
+    "tmdb_id": "2255",
+    "title": "CHASING AMY",
+    "poster": "https://www.themoviedb.org/t/p/w500/eFhPqkNmRDfRHyQiUzUdoQjpwgh.jpg",
+    "release_date": "4/4/1997"
+  },
+  {
+    "id": 785,
+    "imdb_id": "tt0119528",
+    "tmdb_id": "1624",
+    "title": "LIAR LIAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+    "release_date": "3/21/1997"
+  },
+  {
+    "id": 786,
+    "imdb_id": "tt0120094",
+    "tmdb_id": "16052",
+    "title": "SELENA",
+    "poster": "https://www.themoviedb.org/t/p/w500/j8xX3yBAFOayfSaImgLZPnAcdWz.jpg",
+    "release_date": "3/21/1997"
+  },
+  {
+    "id": 787,
+    "imdb_id": "tt0119951",
+    "tmdb_id": "9403",
+    "title": "PRIVATE PARTS",
+    "poster": "https://www.themoviedb.org/t/p/w500/8nCc9fhXCVvetlqpxkrCTc9NwOz.jpg",
+    "release_date": "3/7/1997"
+  },
+  {
+    "id": 788,
+    "imdb_id": "tt0118691",
+    "tmdb_id": "17894",
+    "title": "THE BEAUTICIAN AND THE BEAST",
+    "poster": "https://www.themoviedb.org/t/p/w500/s2RaTrqoPvD4eYEaZCyF0zFbbpV.jpg",
+    "release_date": "2/7/1997"
+  },
+  {
+    "id": 789,
+    "imdb_id": "tt0118111",
+    "tmdb_id": "16448",
+    "title": "WAITING FOR GUFFMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/zuArI6EBpV6mExrvfnyidoOtzdf.jpg",
+    "release_date": "1/31/1997"
+  },
+  {
+    "id": 790,
+    "imdb_id": "tt0118708",
+    "tmdb_id": "9622",
+    "title": "BEVERLY HILLS NINJA",
+    "poster": "https://www.themoviedb.org/t/p/w500/kAUtHecWe0KS54jNggapnbHBGTI.jpg",
+    "release_date": "1/17/1997"
+  },
+  {
+    "id": 791,
+    "imdb_id": "tt0115641",
+    "tmdb_id": "3179",
+    "title": "BEAVIS AND BUTT-HEAD DO AMERICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/wEB1GPT7mQcTNuYT73s72ljjbMF.jpg",
+    "release_date": "12/20/1996"
+  },
+  {
+    "id": 792,
     "imdb_id": "tt0117571",
     "tmdb_id": "4232",
     "title": "SCREAM",
@@ -5488,7 +6336,7 @@
     "release_date": "12/20/1996"
   },
   {
-    "id": 687,
+    "id": 793,
     "imdb_id": "tt0115433",
     "tmdb_id": "11674",
     "title": "101 DALMATIANS",
@@ -5496,7 +6344,31 @@
     "release_date": "11/27/1996"
   },
   {
-    "id": 688,
+    "id": 794,
+    "imdb_id": "tt0117731",
+    "tmdb_id": "199",
+    "title": "STAR TREK: FIRST CONTACT",
+    "poster": "https://www.themoviedb.org/t/p/w500/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg",
+    "release_date": "11/22/1996"
+  },
+  {
+    "id": 795,
+    "imdb_id": "tt0117057",
+    "tmdb_id": "25189",
+    "title": "THE MIRROR HAS TWO FACES",
+    "poster": "https://www.themoviedb.org/t/p/w500/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+    "release_date": "11/15/1996"
+  },
+  {
+    "id": 796,
+    "imdb_id": "tt0117802",
+    "tmdb_id": "10218",
+    "title": "SWINGERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+    "release_date": "10/18/1996"
+  },
+  {
+    "id": 797,
     "imdb_id": "tt0118073",
     "tmdb_id": "12606",
     "title": "A VERY BRADY SEQUEL",
@@ -5504,7 +6376,31 @@
     "release_date": "8/23/1996"
   },
   {
-    "id": 689,
+    "id": 798,
+    "imdb_id": "tt0116707",
+    "tmdb_id": "11962",
+    "title": "JOE'S APARTMENT",
+    "poster": "https://www.themoviedb.org/t/p/w500/jITEDqVp2SonHCeC77dI5JaWD1t.jpg",
+    "release_date": "7/26/1996"
+  },
+  {
+    "id": 799,
+    "imdb_id": "tt0117765",
+    "tmdb_id": "9879",
+    "title": "STRIPTEASE",
+    "poster": "https://www.themoviedb.org/t/p/w500/edkpT3vgjEjVrF461AbIwZgkvC7.jpg",
+    "release_date": "6/28/1996"
+  },
+  {
+    "id": 800,
+    "imdb_id": "tt0116629",
+    "tmdb_id": "602",
+    "title": "INDEPENDENCE DAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "release_date": "6/25/1996"
+  },
+  {
+    "id": 801,
     "imdb_id": "tt0116583",
     "tmdb_id": "10545",
     "title": "THE HUNCHBACK OF NOTRE DAME",
@@ -5512,7 +6408,7 @@
     "release_date": "6/21/1996"
   },
   {
-    "id": 690,
+    "id": 802,
     "imdb_id": "tt0116282",
     "tmdb_id": "275",
     "title": "FARGO",
@@ -5520,7 +6416,39 @@
     "release_date": "3/8/1996"
   },
   {
-    "id": 691,
+    "id": 803,
+    "imdb_id": "tt0116483",
+    "tmdb_id": "9614",
+    "title": "HAPPY GILMORE",
+    "poster": "https://www.themoviedb.org/t/p/w500/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+    "release_date": "2/16/1996"
+  },
+  {
+    "id": 804,
+    "imdb_id": "tt0115697",
+    "tmdb_id": "13997",
+    "title": "BLACK SHEEP",
+    "poster": "https://www.themoviedb.org/t/p/w500/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg",
+    "release_date": "2/2/1996"
+  },
+  {
+    "id": 805,
+    "imdb_id": "tt0116367",
+    "tmdb_id": "755",
+    "title": "FROM DUSK TILL DAWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+    "release_date": "1/17/1996"
+  },
+  {
+    "id": 806,
+    "imdb_id": "tt0115683",
+    "tmdb_id": "9536",
+    "title": "BIO-DOME",
+    "poster": "https://www.themoviedb.org/t/p/w500/pkL8rqpO0EryTV1DLJJdrhOZ7sL.jpg",
+    "release_date": "1/12/1996"
+  },
+  {
+    "id": 807,
     "imdb_id": "tt0112818",
     "tmdb_id": "687",
     "title": "DEAD MAN WALKING",
@@ -5528,7 +6456,31 @@
     "release_date": "12/29/1995"
   },
   {
-    "id": 692,
+    "id": 808,
+    "imdb_id": "tt0113862",
+    "tmdb_id": "2054",
+    "title": "MR. HOLLAND'S OPUS",
+    "poster": "https://www.themoviedb.org/t/p/w500/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
+    "release_date": "12/29/1995"
+  },
+  {
+    "id": 809,
+    "imdb_id": "tt0114279",
+    "tmdb_id": "31174",
+    "title": "RICHARD III",
+    "poster": "https://www.themoviedb.org/t/p/w500/aN2BcIH6rvGbYiRQCS8lxOdeeVQ.jpg",
+    "release_date": "12/29/1995"
+  },
+  {
+    "id": 810,
+    "imdb_id": "tt0113228",
+    "tmdb_id": "15602",
+    "title": "GRUMPIER OLD MEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg",
+    "release_date": "12/22/1995"
+  },
+  {
+    "id": 811,
     "imdb_id": "tt0112641",
     "tmdb_id": "524",
     "title": "CASINO",
@@ -5536,7 +6488,7 @@
     "release_date": "11/22/1995"
   },
   {
-    "id": 693,
+    "id": 812,
     "imdb_id": "tt0114709",
     "tmdb_id": "862",
     "title": "TOY STORY",
@@ -5544,7 +6496,15 @@
     "release_date": "11/22/1995"
   },
   {
-    "id": 694,
+    "id": 813,
+    "imdb_id": "tt0113749",
+    "tmdb_id": "2293",
+    "title": "MALLRATS",
+    "poster": "https://www.themoviedb.org/t/p/w500/kNm0AQFIc4nlzCd8Nqvbb5gccAV.jpg",
+    "release_date": "10/20/1995"
+  },
+  {
+    "id": 814,
     "imdb_id": "tt0114369",
     "tmdb_id": "807",
     "title": "SE7EN",
@@ -5552,7 +6512,7 @@
     "release_date": "9/22/1995"
   },
   {
-    "id": 695,
+    "id": 815,
     "imdb_id": "tt0114436",
     "tmdb_id": "10802",
     "title": "SHOWGIRLS",
@@ -5560,7 +6520,7 @@
     "release_date": "9/22/1995"
   },
   {
-    "id": 696,
+    "id": 816,
     "imdb_id": "tt0112688",
     "tmdb_id": "20649",
     "title": "CLOCKERS",
@@ -5568,7 +6528,7 @@
     "release_date": "9/15/1995"
   },
   {
-    "id": 697,
+    "id": 817,
     "imdb_id": "tt0114814",
     "tmdb_id": "629",
     "title": "THE USUAL SUSPECTS",
@@ -5576,7 +6536,7 @@
     "release_date": "8/16/1995"
   },
   {
-    "id": 698,
+    "id": 818,
     "imdb_id": "tt0112431",
     "tmdb_id": "9598",
     "title": "BABE",
@@ -5584,7 +6544,7 @@
     "release_date": "8/3/1995"
   },
   {
-    "id": 699,
+    "id": 819,
     "imdb_id": "tt0112697",
     "tmdb_id": "9603",
     "title": "CLUELESS",
@@ -5592,7 +6552,31 @@
     "release_date": "7/19/1995"
   },
   {
-    "id": 700,
+    "id": 820,
+    "imdb_id": "tt0113419",
+    "tmdb_id": "11359",
+    "title": "THE INDIAN IN THE CUPBOARD",
+    "poster": "https://www.themoviedb.org/t/p/w500/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg",
+    "release_date": "7/14/1995"
+  },
+  {
+    "id": 821,
+    "imdb_id": "tt0109370",
+    "tmdb_id": "1775",
+    "title": "CANADIAN BACON",
+    "poster": "https://www.themoviedb.org/t/p/w500/bzK2aQ8xUB67kwCR5LHTSY99HtT.jpg",
+    "release_date": "6/8/1995"
+  },
+  {
+    "id": 822,
+    "imdb_id": "tt0112642",
+    "tmdb_id": "8839",
+    "title": "CASPER",
+    "poster": "https://www.themoviedb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+    "release_date": "5/26/1995"
+  },
+  {
+    "id": 823,
     "imdb_id": "tt0112573",
     "tmdb_id": "197",
     "title": "BRAVEHEART",
@@ -5600,7 +6584,7 @@
     "release_date": "5/24/1995"
   },
   {
-    "id": 701,
+    "id": 824,
     "imdb_id": "tt0113118",
     "tmdb_id": "10634",
     "title": "FRIDAY",
@@ -5608,7 +6592,7 @@
     "release_date": "4/26/1995"
   },
   {
-    "id": 702,
+    "id": 825,
     "imdb_id": "tt0114924",
     "tmdb_id": "2064",
     "title": "WHILE YOU WERE SLEEPING",
@@ -5616,7 +6600,23 @@
     "release_date": "4/21/1995"
   },
   {
-    "id": 703,
+    "id": 826,
+    "imdb_id": "tt0114287",
+    "tmdb_id": "11780",
+    "title": "ROB ROY",
+    "poster": "https://www.themoviedb.org/t/p/w500/4QuypgbNYmPECAAHnV3QY8qEpOz.jpg",
+    "release_date": "4/14/1995"
+  },
+  {
+    "id": 827,
+    "imdb_id": "tt0113500",
+    "tmdb_id": "19326",
+    "title": "JURY DUTY",
+    "poster": "https://www.themoviedb.org/t/p/w500/DbKQDPqBE4kCaePj4CHu6r3ZAb.jpg",
+    "release_date": "4/12/1995"
+  },
+  {
+    "id": 828,
     "imdb_id": "tt0112442",
     "tmdb_id": "9737",
     "title": "BAD BOYS",
@@ -5624,7 +6624,31 @@
     "release_date": "4/7/1995"
   },
   {
-    "id": 704,
+    "id": 829,
+    "imdb_id": "tt0114694",
+    "tmdb_id": "11381",
+    "title": "TOMMY BOY",
+    "poster": "https://www.themoviedb.org/t/p/w500/6m1xJqfViDkmNmKUKvTSJ5fo0k4.jpg",
+    "release_date": "3/31/1995"
+  },
+  {
+    "id": 830,
+    "imdb_id": "tt0110443",
+    "tmdb_id": "11008",
+    "title": "MAJOR PAYNE",
+    "poster": "https://www.themoviedb.org/t/p/w500/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+    "release_date": "3/24/1995"
+  },
+  {
+    "id": 831,
+    "imdb_id": "tt0110598",
+    "tmdb_id": "236",
+    "title": "MURIEL'S WEDDING",
+    "poster": "https://www.themoviedb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+    "release_date": "3/10/1995"
+  },
+  {
+    "id": 832,
     "imdb_id": "tt0112572",
     "tmdb_id": "9066",
     "title": "THE BRADY BUNCH MOVIE",
@@ -5632,7 +6656,47 @@
     "release_date": "2/17/1995"
   },
   {
-    "id": 705,
+    "id": 833,
+    "imdb_id": "tt0112508",
+    "tmdb_id": "11017",
+    "title": "BILLY MADISON",
+    "poster": "https://www.themoviedb.org/t/p/w500/iwk9pWR6MwTInEQc8Vw5vGHjeQ0.jpg",
+    "release_date": "2/10/1995"
+  },
+  {
+    "id": 834,
+    "imdb_id": "tt0110638",
+    "tmdb_id": "1945",
+    "title": "NELL",
+    "poster": "https://www.themoviedb.org/t/p/w500/aIDp3x2YfijtdherR28pIH6yenn.jpg",
+    "release_date": "12/23/1994"
+  },
+  {
+    "id": 835,
+    "imdb_id": "tt0110989",
+    "tmdb_id": "11011",
+    "title": "RICHIE RICH",
+    "poster": "https://www.themoviedb.org/t/p/w500/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg",
+    "release_date": "12/21/1994"
+  },
+  {
+    "id": 836,
+    "imdb_id": "tt0109686",
+    "tmdb_id": "8467",
+    "title": "DUMB AND DUMBER",
+    "poster": "https://www.themoviedb.org/t/p/w500/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+    "release_date": "12/16/1994"
+  },
+  {
+    "id": 837,
+    "imdb_id": "tt0110116",
+    "tmdb_id": "13701",
+    "title": "IMMORTAL BELOVED",
+    "poster": "https://www.themoviedb.org/t/p/w500/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
+    "release_date": "12/16/1994"
+  },
+  {
+    "id": 838,
     "imdb_id": "tt0109635",
     "tmdb_id": "8984",
     "title": "DISCLOSURE",
@@ -5640,7 +6704,31 @@
     "release_date": "12/9/1994"
   },
   {
-    "id": 706,
+    "id": 839,
+    "imdb_id": "tt0110763",
+    "tmdb_id": "15139",
+    "title": "THE PAGEMASTER",
+    "poster": "https://www.themoviedb.org/t/p/w500/etctWkYFfP7voGM3rd7uqxQJavY.jpg",
+    "release_date": "11/23/1994"
+  },
+  {
+    "id": 840,
+    "imdb_id": "tt0111280",
+    "tmdb_id": "193",
+    "title": "STAR TREK: GENERATIONS",
+    "poster": "https://www.themoviedb.org/t/p/w500/rHsCYDGHFUarGh5k987b0EFU6kC.jpg",
+    "release_date": "11/18/1994"
+  },
+  {
+    "id": 841,
+    "imdb_id": "tt0109445",
+    "tmdb_id": "2292",
+    "title": "CLERKS",
+    "poster": "https://www.themoviedb.org/t/p/w500/zeFhNF0SXlYIvWXpaOLuXVQ3jB4.jpg",
+    "release_date": "10/19/1994"
+  },
+  {
+    "id": 842,
     "imdb_id": "tt0110912",
     "tmdb_id": "680",
     "title": "PULP FICTION",
@@ -5648,7 +6736,7 @@
     "release_date": "10/14/1994"
   },
   {
-    "id": 707,
+    "id": 843,
     "imdb_id": "tt0111686",
     "tmdb_id": "11596",
     "title": "WES CRAVEN'S NEW NIGHTMARE",
@@ -5656,7 +6744,7 @@
     "release_date": "10/14/1994"
   },
   {
-    "id": 708,
+    "id": 844,
     "imdb_id": "tt0111161",
     "tmdb_id": "278",
     "title": "THE SHAWSHANK REDEMPTION",
@@ -5664,7 +6752,15 @@
     "release_date": "9/23/1994"
   },
   {
-    "id": 709,
+    "id": 845,
+    "imdb_id": "tt0110123",
+    "tmdb_id": "12475",
+    "title": "IN THE ARMY NOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/cNIIDaJM9nsDP9tTmAN6sjKpeiN.jpg",
+    "release_date": "8/12/1994"
+  },
+  {
+    "id": 846,
     "imdb_id": "tt0110475",
     "tmdb_id": "854",
     "title": "THE MASK",
@@ -5672,7 +6768,15 @@
     "release_date": "7/29/1994"
   },
   {
-    "id": 710,
+    "id": 847,
+    "imdb_id": "tt0109127",
+    "tmdb_id": "24795",
+    "title": "ANGELS IN THE OUTFIELD",
+    "poster": "https://www.themoviedb.org/t/p/w500/7WRt6l7tiXVPG9zLco1rwy5Ffw9.jpg",
+    "release_date": "7/15/1994"
+  },
+  {
+    "id": 848,
     "imdb_id": "tt0109830",
     "tmdb_id": "13",
     "title": "FORREST GUMP",
@@ -5680,7 +6784,15 @@
     "release_date": "7/6/1994"
   },
   {
-    "id": 711,
+    "id": 849,
+    "imdb_id": "tt0110363",
+    "tmdb_id": "31504",
+    "title": "LITTLE BIG LEAGUE",
+    "poster": "https://www.themoviedb.org/t/p/w500/dyZ6Agvh2yAFe91J8pJroAPCZgh.jpg",
+    "release_date": "6/29/1994"
+  },
+  {
+    "id": 850,
     "imdb_id": "tt0110357",
     "tmdb_id": "8587",
     "title": "THE LION KING",
@@ -5688,7 +6800,47 @@
     "release_date": "6/24/1994"
   },
   {
-    "id": 712,
+    "id": 851,
+    "imdb_id": "tt0111257",
+    "tmdb_id": "1637",
+    "title": "SPEED",
+    "poster": "https://www.themoviedb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+    "release_date": "6/9/1994"
+  },
+  {
+    "id": 852,
+    "imdb_id": "tt0109813",
+    "tmdb_id": "888",
+    "title": "THE FLINTSTONES",
+    "poster": "https://www.themoviedb.org/t/p/w500/bXb2oCdarefkfu6pnHX3JpYicsY.jpg",
+    "release_date": "5/26/1994"
+  },
+  {
+    "id": 853,
+    "imdb_id": "tt0110613",
+    "tmdb_id": "11317",
+    "title": "MY GIRL 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/hEZ6L72eBORRnoUxf4pip5U76pq.jpg",
+    "release_date": "2/11/1994"
+  },
+  {
+    "id": 854,
+    "imdb_id": "tt0109040",
+    "tmdb_id": "3049",
+    "title": "ACE VENTURA: PET DETECTIVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/yaHnZqJvsSddOKYxf4zCj2Ww2hA.jpg",
+    "release_date": "2/4/1994"
+  },
+  {
+    "id": 855,
+    "imdb_id": "tt0107050",
+    "tmdb_id": "11520",
+    "title": "GRUMPY OLD MEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg",
+    "release_date": "12/25/1993"
+  },
+  {
+    "id": 856,
     "imdb_id": "tt0108052",
     "tmdb_id": "424",
     "title": "SCHINDLER'S LIST",
@@ -5696,7 +6848,23 @@
     "release_date": "12/15/1993"
   },
   {
-    "id": 713,
+    "id": 857,
+    "imdb_id": "tt0108525",
+    "tmdb_id": "8873",
+    "title": "WAYNE'S WORLD 2",
+    "poster": "https://www.themoviedb.org/t/p/w500/xRzMaHvSJEBdqEVrscOnfyyCj2Y.jpg",
+    "release_date": "12/10/1993"
+  },
+  {
+    "id": 858,
+    "imdb_id": "tt0108147",
+    "tmdb_id": "6279",
+    "title": "SISTER ACT 2: BACK IN THE HABIT",
+    "poster": "https://www.themoviedb.org/t/p/w500/dlkBp5S6Ei5f54031rAhyb4IwML.jpg",
+    "release_date": "12/9/1993"
+  },
+  {
+    "id": 859,
     "imdb_id": "tt0107614",
     "tmdb_id": "788",
     "title": "MRS. DOUBTFIRE",
@@ -5704,7 +6872,15 @@
     "release_date": "11/24/1993"
   },
   {
-    "id": 714,
+    "id": 860,
+    "imdb_id": "tt0107130",
+    "tmdb_id": "78133",
+    "title": "A HOME OF OUR OWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/t6ppbwU2lBDPBdwcUykwBeMkcPU.jpg",
+    "release_date": "11/5/1993"
+  },
+  {
+    "id": 861,
     "imdb_id": "tt0107688",
     "tmdb_id": "9479",
     "title": "THE NIGHTMARE BEFORE CHRISTMAS",
@@ -5712,7 +6888,39 @@
     "release_date": "10/29/1993"
   },
   {
-    "id": 715,
+    "id": 862,
+    "imdb_id": "tt0106400",
+    "tmdb_id": "11041",
+    "title": "THE BEVERLY HILLBILLIES",
+    "poster": "https://www.themoviedb.org/t/p/w500/refYLEQvzkY63i2IHronCPQODex.jpg",
+    "release_date": "10/15/1993"
+  },
+  {
+    "id": 863,
+    "imdb_id": "tt0108002",
+    "tmdb_id": "14534",
+    "title": "RUDY",
+    "poster": "https://www.themoviedb.org/t/p/w500/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+    "release_date": "10/13/1993"
+  },
+  {
+    "id": 864,
+    "imdb_id": "tt0106611",
+    "tmdb_id": "864",
+    "title": "COOL RUNNINGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/6fXuGEb7EqGmAeUodxm7l5ELPZ.jpg",
+    "release_date": "10/1/1993"
+  },
+  {
+    "id": 865,
+    "imdb_id": "tt0107034",
+    "tmdb_id": "9272",
+    "title": "THE GOOD SON",
+    "poster": "https://www.themoviedb.org/t/p/w500/iIV9zYVEFbb7AWc3BgnVQlfoeW.jpg",
+    "release_date": "9/24/1993"
+  },
+  {
+    "id": 866,
     "imdb_id": "tt0107254",
     "tmdb_id": "10285",
     "title": "JASON GOES TO HELL: THE FINAL FRIDAY",
@@ -5720,7 +6928,7 @@
     "release_date": "8/13/1993"
   },
   {
-    "id": 716,
+    "id": 867,
     "imdb_id": "tt0108065",
     "tmdb_id": "14291",
     "title": "SEARCHING FOR BOBBY FISCHER",
@@ -5728,7 +6936,15 @@
     "release_date": "8/13/1993"
   },
   {
-    "id": 717,
+    "id": 868,
+    "imdb_id": "tt0106965",
+    "tmdb_id": "1634",
+    "title": "FREE WILLY",
+    "poster": "https://www.themoviedb.org/t/p/w500/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
+    "release_date": "7/16/1993"
+  },
+  {
+    "id": 869,
     "imdb_id": "tt0107206",
     "tmdb_id": "9386",
     "title": "IN THE LINE OF FIRE",
@@ -5736,7 +6952,31 @@
     "release_date": "7/8/1993"
   },
   {
-    "id": 718,
+    "id": 870,
+    "imdb_id": "tt0107985",
+    "tmdb_id": "21845",
+    "title": "ROOKIE OF THE YEAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+    "release_date": "7/7/1993"
+  },
+  {
+    "id": 871,
+    "imdb_id": "tt0108186",
+    "tmdb_id": "13203",
+    "title": "SON IN LAW",
+    "poster": "https://www.themoviedb.org/t/p/w500/A1PzB78kLgJRhslXumMTFjsIUcV.jpg",
+    "release_date": "7/2/1993"
+  },
+  {
+    "id": 872,
+    "imdb_id": "tt0106701",
+    "tmdb_id": "12139",
+    "title": "DENNIS THE MENACE",
+    "poster": "https://www.themoviedb.org/t/p/w500/Kl3HTDhJ1wNg9NpJwApE5mXGmo.jpg",
+    "release_date": "6/25/1993"
+  },
+  {
+    "id": 873,
     "imdb_id": "tt0108160",
     "tmdb_id": "858",
     "title": "SLEEPLESS IN SEATTLE",
@@ -5744,7 +6984,7 @@
     "release_date": "6/24/1993"
   },
   {
-    "id": 719,
+    "id": 874,
     "imdb_id": "tt0107290",
     "tmdb_id": "329",
     "title": "JURASSIC PARK",
@@ -5752,7 +6992,7 @@
     "release_date": "6/11/1993"
   },
   {
-    "id": 720,
+    "id": 875,
     "imdb_id": "tt0108551",
     "tmdb_id": "15765",
     "title": "WHAT'S LOVE GOT TO DO WITH IT",
@@ -5760,7 +7000,23 @@
     "release_date": "6/9/1993"
   },
   {
-    "id": 721,
+    "id": 876,
+    "imdb_id": "tt0106856",
+    "tmdb_id": "37094",
+    "title": "FALLING DOWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+    "release_date": "2/26/1993"
+  },
+  {
+    "id": 877,
+    "imdb_id": "tt0107131",
+    "tmdb_id": "6878",
+    "title": "HOMEWARD BOUND: THE INCREDIBLE JOURNEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/el6dJEpK97OJRQiQhuiSGk2jkV5.jpg",
+    "release_date": "2/3/1993"
+  },
+  {
+    "id": 878,
     "imdb_id": "tt0105323",
     "tmdb_id": "9475",
     "title": "SCENT OF A WOMAN",
@@ -5768,7 +7024,23 @@
     "release_date": "12/23/1992"
   },
   {
-    "id": 722,
+    "id": 879,
+    "imdb_id": "tt0104291",
+    "tmdb_id": "10326",
+    "title": "FOREVER YOUNG",
+    "poster": "https://www.themoviedb.org/t/p/w500/eKbD77BEhhBmFD7ZE9VTi9o8r2K.jpg",
+    "release_date": "12/11/1992"
+  },
+  {
+    "id": 880,
+    "imdb_id": "tt0104940",
+    "tmdb_id": "10437",
+    "title": "THE MUPPET CHRISTMAS CAROL",
+    "poster": "https://www.themoviedb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+    "release_date": "12/10/1992"
+  },
+  {
+    "id": 881,
     "imdb_id": "tt0104036",
     "tmdb_id": "11386",
     "title": "THE CRYING GAME",
@@ -5776,7 +7048,7 @@
     "release_date": "11/27/1992"
   },
   {
-    "id": 723,
+    "id": 882,
     "imdb_id": "tt0103639",
     "tmdb_id": "812",
     "title": "ALADDIN",
@@ -5784,7 +7056,15 @@
     "release_date": "11/25/1992"
   },
   {
-    "id": 724,
+    "id": 883,
+    "imdb_id": "tt0105236",
+    "tmdb_id": "500",
+    "title": "RESERVOIR DOGS",
+    "poster": "https://www.themoviedb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+    "release_date": "10/23/1992"
+  },
+  {
+    "id": 884,
     "imdb_id": "tt0104868",
     "tmdb_id": "10414",
     "title": "THE MIGHTY DUCKS",
@@ -5792,7 +7072,15 @@
     "release_date": "10/2/1992"
   },
   {
-    "id": 725,
+    "id": 885,
+    "imdb_id": "tt0103924",
+    "tmdb_id": "14361",
+    "title": "CAPTAIN RON",
+    "poster": "https://www.themoviedb.org/t/p/w500/otnKFXvqFH2swlrNf2sNiXpnIsR.jpg",
+    "release_date": "9/18/1992"
+  },
+  {
+    "id": 886,
     "imdb_id": "tt0105695",
     "tmdb_id": "33",
     "title": "UNFORGIVEN",
@@ -5800,7 +7088,47 @@
     "release_date": "8/7/1992"
   },
   {
-    "id": 726,
+    "id": 887,
+    "imdb_id": "tt0104694",
+    "tmdb_id": "11287",
+    "title": "A LEAGUE OF THEIR OWN",
+    "poster": "https://www.themoviedb.org/t/p/w500/7xpFXAOjgzFPE3vyVerFGfrXhFK.jpg",
+    "release_date": "7/1/1992"
+  },
+  {
+    "id": 888,
+    "imdb_id": "tt0105417",
+    "tmdb_id": "2005",
+    "title": "SISTER ACT",
+    "poster": "https://www.themoviedb.org/t/p/w500/nn0XTBqZf8Q3iXPApE9OQevrYZY.jpg",
+    "release_date": "5/28/1992"
+  },
+  {
+    "id": 889,
+    "imdb_id": "tt0104187",
+    "tmdb_id": "10406",
+    "title": "ENCINO MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/xRR9CLZOEKxAt4CNcFe7R7A4ptj.jpg",
+    "release_date": "5/22/1992"
+  },
+  {
+    "id": 890,
+    "imdb_id": "tt0104254",
+    "tmdb_id": "13225",
+    "title": "FERNGULLY: THE LAST RAINFOREST",
+    "poster": "https://www.themoviedb.org/t/p/w500/jAD6Ofuz4PiYFV3fd3oBP6aOTyM.jpg",
+    "release_date": "4/10/1992"
+  },
+  {
+    "id": 891,
+    "imdb_id": "tt0103786",
+    "tmdb_id": "11806",
+    "title": "BEETHOVEN",
+    "poster": "https://www.themoviedb.org/t/p/w500/mVb3r5ZOeopEbCbx6kuIAjUz20F.jpg",
+    "release_date": "4/3/1992"
+  },
+  {
+    "id": 892,
     "imdb_id": "tt0103772",
     "tmdb_id": "402",
     "title": "BASIC INSTINCT",
@@ -5808,7 +7136,7 @@
     "release_date": "3/20/1992"
   },
   {
-    "id": 727,
+    "id": 893,
     "imdb_id": "tt0104952",
     "tmdb_id": "10377",
     "title": "MY COUSIN VINNY",
@@ -5816,7 +7144,15 @@
     "release_date": "3/13/1992"
   },
   {
-    "id": 728,
+    "id": 894,
+    "imdb_id": "tt0105793",
+    "tmdb_id": "8872",
+    "title": "WAYNE'S WORLD",
+    "poster": "https://www.themoviedb.org/t/p/w500/nhQtlLVl2z5ywu2uDnXjVqi08On.jpg",
+    "release_date": "2/14/1992"
+  },
+  {
+    "id": 895,
     "imdb_id": "tt0101921",
     "tmdb_id": "1633",
     "title": "FRIED GREEN TOMATOES",
@@ -5824,7 +7160,23 @@
     "release_date": "12/27/1991"
   },
   {
-    "id": 729,
+    "id": 896,
+    "imdb_id": "tt0101862",
+    "tmdb_id": "11846",
+    "title": "FATHER OF THE BRIDE",
+    "poster": "https://www.themoviedb.org/t/p/w500/g6OTK7l6EX2JP5r00O5fG6BZJlh.jpg",
+    "release_date": "12/20/1991"
+  },
+  {
+    "id": 897,
+    "imdb_id": "tt0102057",
+    "tmdb_id": "879",
+    "title": "HOOK",
+    "poster": "https://www.themoviedb.org/t/p/w500/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+    "release_date": "12/11/1991"
+  },
+  {
+    "id": 898,
     "imdb_id": "tt0102975",
     "tmdb_id": "174",
     "title": "STAR TREK VI: THE UNDISCOVERED COUNTRY",
@@ -5832,7 +7184,15 @@
     "release_date": "12/6/1991"
   },
   {
-    "id": 730,
+    "id": 899,
+    "imdb_id": "tt0102492",
+    "tmdb_id": "4032",
+    "title": "MY GIRL",
+    "poster": "https://www.themoviedb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+    "release_date": "11/27/1991"
+  },
+  {
+    "id": 900,
     "imdb_id": "tt0101414",
     "tmdb_id": "10020",
     "title": "BEAUTY AND THE BEAST",
@@ -5840,7 +7200,7 @@
     "release_date": "11/22/1991"
   },
   {
-    "id": 731,
+    "id": 901,
     "imdb_id": "tt0101917",
     "tmdb_id": "11284",
     "title": "FREDDY'S DEAD: THE FINAL NIGHTMARE",
@@ -5848,7 +7208,15 @@
     "release_date": "9/13/1991"
   },
   {
-    "id": 732,
+    "id": 902,
+    "imdb_id": "tt0102316",
+    "tmdb_id": "11521",
+    "title": "LITTLE MAN TATE",
+    "poster": "https://www.themoviedb.org/t/p/w500/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg",
+    "release_date": "9/6/1991"
+  },
+  {
+    "id": 903,
     "imdb_id": "tt0103956",
     "tmdb_id": "11187",
     "title": "CHILD'S PLAY 3",
@@ -5856,7 +7224,15 @@
     "release_date": "8/30/1991"
   },
   {
-    "id": 733,
+    "id": 904,
+    "imdb_id": "tt0101452",
+    "tmdb_id": "1649",
+    "title": "BILL & TED'S BOGUS JOURNEY",
+    "poster": "https://www.themoviedb.org/t/p/w500/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+    "release_date": "7/19/1991"
+  },
+  {
+    "id": 905,
     "imdb_id": "tt0101507",
     "tmdb_id": "650",
     "title": "BOYZ N THE HOOD",
@@ -5864,7 +7240,7 @@
     "release_date": "7/12/1991"
   },
   {
-    "id": 734,
+    "id": 906,
     "imdb_id": "tt0102768",
     "tmdb_id": "11364",
     "title": "REGARDING HENRY",
@@ -5872,7 +7248,31 @@
     "release_date": "7/10/1991"
   },
   {
-    "id": 735,
+    "id": 907,
+    "imdb_id": "tt0102803",
+    "tmdb_id": "10249",
+    "title": "THE ROCKETEER",
+    "poster": "https://www.themoviedb.org/t/p/w500/2tDFRESFwKww1LHRE8W1Exj9edH.jpg",
+    "release_date": "6/21/1991"
+  },
+  {
+    "id": 908,
+    "imdb_id": "tt0102798",
+    "tmdb_id": "8367",
+    "title": "ROBIN HOOD: PRINCE OF THIEVES",
+    "poster": "https://www.themoviedb.org/t/p/w500/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+    "release_date": "6/14/1991"
+  },
+  {
+    "id": 909,
+    "imdb_id": "tt0101393",
+    "tmdb_id": "2924",
+    "title": "BACKDRAFT",
+    "poster": "https://www.themoviedb.org/t/p/w500/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+    "release_date": "5/24/1991"
+  },
+  {
+    "id": 910,
     "imdb_id": "tt0103074",
     "tmdb_id": "1541",
     "title": "THELMA & LOUISE",
@@ -5880,7 +7280,15 @@
     "release_date": "5/24/1991"
   },
   {
-    "id": 736,
+    "id": 911,
+    "imdb_id": "tt0103241",
+    "tmdb_id": "10276",
+    "title": "WHAT ABOUT BOB?",
+    "poster": "https://www.themoviedb.org/t/p/w500/q2FCvI3kkumL00uHaTo5PHF5Af.jpg",
+    "release_date": "5/17/1991"
+  },
+  {
+    "id": 912,
     "imdb_id": "tt0102926",
     "tmdb_id": "274",
     "title": "THE SILENCE OF THE LAMBS",
@@ -5888,7 +7296,7 @@
     "release_date": "2/14/1991"
   },
   {
-    "id": 737,
+    "id": 913,
     "imdb_id": "tt0102250",
     "tmdb_id": "2107",
     "title": "L.A. STORY",
@@ -5896,7 +7304,15 @@
     "release_date": "2/8/1991"
   },
   {
-    "id": 738,
+    "id": 914,
+    "imdb_id": "tt0103247",
+    "tmdb_id": "12227",
+    "title": "WHITE FANG",
+    "poster": "https://www.themoviedb.org/t/p/w500/27wg0rVZW8hX7nWeHCwTf9DygGc.jpg",
+    "release_date": "1/18/1991"
+  },
+  {
+    "id": 915,
     "imdb_id": "tt0099674",
     "tmdb_id": "242",
     "title": "THE GODFATHER PART III",
@@ -5904,7 +7320,15 @@
     "release_date": "12/25/1990"
   },
   {
-    "id": 739,
+    "id": 916,
+    "imdb_id": "tt0099938",
+    "tmdb_id": "951",
+    "title": "KINDERGARTEN COP",
+    "poster": "https://www.themoviedb.org/t/p/w500/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg",
+    "release_date": "12/21/1990"
+  },
+  {
+    "id": 917,
     "imdb_id": "tt0099864",
     "tmdb_id": "19614",
     "title": "STEPHEN KING'S IT",
@@ -5912,7 +7336,23 @@
     "release_date": "11/18/1990"
   },
   {
-    "id": 740,
+    "id": 918,
+    "imdb_id": "tt0099785",
+    "tmdb_id": "771",
+    "title": "HOME ALONE",
+    "poster": "https://www.themoviedb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "release_date": "11/16/1990"
+  },
+  {
+    "id": 919,
+    "imdb_id": "tt0100477",
+    "tmdb_id": "11135",
+    "title": "THE RESCUERS DOWN UNDER",
+    "poster": "https://www.themoviedb.org/t/p/w500/nVWadtcW4JxeY4DtjRbqDxyOEin.jpg",
+    "release_date": "11/16/1990"
+  },
+  {
+    "id": 920,
     "imdb_id": "tt0099253",
     "tmdb_id": "11186",
     "title": "CHILD'S PLAY 2",
@@ -5920,7 +7360,7 @@
     "release_date": "11/9/1990"
   },
   {
-    "id": 741,
+    "id": 921,
     "imdb_id": "tt0099348",
     "tmdb_id": "581",
     "title": "DANCES WITH WOLVES",
@@ -5928,7 +7368,7 @@
     "release_date": "11/9/1990"
   },
   {
-    "id": 742,
+    "id": 922,
     "imdb_id": "tt0099685",
     "tmdb_id": "769",
     "title": "GOODFELLAS",
@@ -5936,7 +7376,23 @@
     "release_date": "9/19/1990"
   },
   {
-    "id": 743,
+    "id": 923,
+    "imdb_id": "tt0099422",
+    "tmdb_id": "8592",
+    "title": "DICK TRACY",
+    "poster": "https://www.themoviedb.org/t/p/w500/xY6D5Ti44xuwzCkmf6Ygbj86BkP.jpg",
+    "release_date": "6/15/1990"
+  },
+  {
+    "id": 924,
+    "imdb_id": "tt0099878",
+    "tmdb_id": "17009",
+    "title": "JETSONS: THE MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/udqh5uSjKOspXKOd9iKQXCJPzDe.jpg",
+    "release_date": "6/6/1990"
+  },
+  {
+    "id": 925,
     "imdb_id": "tt0099088",
     "tmdb_id": "196",
     "title": "BACK TO THE FUTURE PART III",
@@ -5944,7 +7400,31 @@
     "release_date": "5/25/1990"
   },
   {
-    "id": 744,
+    "id": 926,
+    "imdb_id": "tt0099512",
+    "tmdb_id": "18943",
+    "title": "ERNEST GOES TO JAIL",
+    "poster": "https://www.themoviedb.org/t/p/w500/w1k8SgODFQOk9wHjX4mi8QdkYAO.jpg",
+    "release_date": "4/6/1990"
+  },
+  {
+    "id": 927,
+    "imdb_id": "tt0100758",
+    "tmdb_id": "1498",
+    "title": "TEENAGE MUTANT NINJA TURTLES",
+    "poster": "https://www.themoviedb.org/t/p/w500/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
+    "release_date": "3/30/1990"
+  },
+  {
+    "id": 928,
+    "imdb_id": "tt0100405",
+    "tmdb_id": "114",
+    "title": "PRETTY WOMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/dZXpE4BlesBJwLl53jUJ9mT1Jxr.jpg",
+    "release_date": "3/23/1990"
+  },
+  {
+    "id": 929,
     "imdb_id": "tt0097239",
     "tmdb_id": "403",
     "title": "DRIVING MISS DAISY",
@@ -5952,7 +7432,7 @@
     "release_date": "12/13/1989"
   },
   {
-    "id": 745,
+    "id": 930,
     "imdb_id": "tt0096874",
     "tmdb_id": "165",
     "title": "BACK TO THE FUTURE PART II",
@@ -5960,7 +7440,7 @@
     "release_date": "11/22/1989"
   },
   {
-    "id": 746,
+    "id": 931,
     "imdb_id": "tt0097757",
     "tmdb_id": "10144",
     "title": "THE LITTLE MERMAID",
@@ -5968,7 +7448,15 @@
     "release_date": "11/17/1989"
   },
   {
-    "id": 747,
+    "id": 932,
+    "imdb_id": "tt0095800",
+    "tmdb_id": "2383",
+    "title": "THE BEAR",
+    "poster": "https://www.themoviedb.org/t/p/w500/ry4A1Y2udvqyDlVHLtSeP1u9qwJ.jpg",
+    "release_date": "10/27/1989"
+  },
+  {
+    "id": 933,
     "imdb_id": "tt0097981",
     "tmdb_id": "10160",
     "title": "A NIGHTMARE ON ELM STREET 5: THE DREAM CHILD",
@@ -5976,7 +7464,7 @@
     "release_date": "8/11/1989"
   },
   {
-    "id": 748,
+    "id": 934,
     "imdb_id": "tt0098536",
     "tmdb_id": "6951",
     "title": "TURNER AND HOOCH",
@@ -5984,7 +7472,7 @@
     "release_date": "7/28/1989"
   },
   {
-    "id": 749,
+    "id": 935,
     "imdb_id": "tt0097216",
     "tmdb_id": "925",
     "title": "DO THE RIGHT THING",
@@ -5992,7 +7480,23 @@
     "release_date": "6/30/1989"
   },
   {
-    "id": 750,
+    "id": 936,
+    "imdb_id": "tt0097523",
+    "tmdb_id": "9354",
+    "title": "HONEY, I SHRUNK THE KIDS",
+    "poster": "https://www.themoviedb.org/t/p/w500/1Xebz5V4UQchh49NXQ0n6FFLYQb.jpg",
+    "release_date": "6/23/1989"
+  },
+  {
+    "id": 937,
+    "imdb_id": "tt0096928",
+    "tmdb_id": "1648",
+    "title": "BILL & TED'S EXCELLENT ADVENTURE",
+    "poster": "https://www.themoviedb.org/t/p/w500/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+    "release_date": "2/17/1989"
+  },
+  {
+    "id": 938,
     "imdb_id": "tt0096463",
     "tmdb_id": "3525",
     "title": "WORKING GIRL",
@@ -6000,7 +7504,7 @@
     "release_date": "12/20/1988"
   },
   {
-    "id": 751,
+    "id": 939,
     "imdb_id": "tt0095953",
     "tmdb_id": "380",
     "title": "RAIN MAN",
@@ -6008,7 +7512,7 @@
     "release_date": "12/16/1988"
   },
   {
-    "id": 752,
+    "id": 940,
     "imdb_id": "tt0095776",
     "tmdb_id": "12233",
     "title": "OLIVER AND COMPANY",
@@ -6016,7 +7520,15 @@
     "release_date": "11/18/1988"
   },
   {
-    "id": 753,
+    "id": 941,
+    "imdb_id": "tt0095489",
+    "tmdb_id": "12144",
+    "title": "THE LAND BEFORE TIME",
+    "poster": "https://www.themoviedb.org/t/p/w500/vP2cDLZyj8mlu97m1N3q9nxNrRS.jpg",
+    "release_date": "11/18/1988"
+  },
+  {
+    "id": 942,
     "imdb_id": "tt0094862",
     "tmdb_id": "10585",
     "title": "CHILD'S PLAY",
@@ -6024,7 +7536,7 @@
     "release_date": "11/9/1988"
   },
   {
-    "id": 754,
+    "id": 943,
     "imdb_id": "tt0096256",
     "tmdb_id": "8337",
     "title": "THEY LIVE",
@@ -6032,7 +7544,7 @@
     "release_date": "11/4/1988"
   },
   {
-    "id": 755,
+    "id": 944,
     "imdb_id": "tt0095742",
     "tmdb_id": "10131",
     "title": "A NIGHTMARE ON ELM STREET 4: THE DREAM MASTER",
@@ -6040,7 +7552,7 @@
     "release_date": "8/19/1988"
   },
   {
-    "id": 756,
+    "id": 945,
     "imdb_id": "tt0095560",
     "tmdb_id": "20196",
     "title": "MAC AND ME",
@@ -6048,7 +7560,7 @@
     "release_date": "8/12/1988"
   },
   {
-    "id": 757,
+    "id": 946,
     "imdb_id": "tt0095159",
     "tmdb_id": "623",
     "title": "A FISH CALLED WANDA",
@@ -6056,15 +7568,23 @@
     "release_date": "7/15/1988"
   },
   {
-    "id": 758,
-    "imdb_id": "tt0066995",
+    "id": 947,
+    "imdb_id": "tt0095016",
     "tmdb_id": "562",
     "title": "DIE HARD",
     "poster": "https://www.themoviedb.org/t/p/w500/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
     "release_date": "7/15/1988"
   },
   {
-    "id": 759,
+    "id": 948,
+    "imdb_id": "tt0094898",
+    "tmdb_id": "9602",
+    "title": "COMING TO AMERICA",
+    "poster": "https://www.themoviedb.org/t/p/w500/djRAvxyvvN2yqlJKDbT3uy4vOBw.jpg",
+    "release_date": "6/29/1988"
+  },
+  {
+    "id": 949,
     "imdb_id": "tt0096438",
     "tmdb_id": "856",
     "title": "WHO FRAMED ROGER RABBIT",
@@ -6072,7 +7592,7 @@
     "release_date": "6/21/1988"
   },
   {
-    "id": 760,
+    "id": 950,
     "imdb_id": "tt0094737",
     "tmdb_id": "2280",
     "title": "BIG",
@@ -6080,7 +7600,7 @@
     "release_date": "6/3/1988"
   },
   {
-    "id": 761,
+    "id": 951,
     "imdb_id": "tt0095444",
     "tmdb_id": "16296",
     "title": "KILLER KLOWNS FROM OUTER SPACE",
@@ -6088,7 +7608,15 @@
     "release_date": "5/27/1988"
   },
   {
-    "id": 762,
+    "id": 952,
+    "imdb_id": "tt0096446",
+    "tmdb_id": "847",
+    "title": "WILLOW",
+    "poster": "https://www.themoviedb.org/t/p/w500/d9xEILdvVRX8ZgFwPDbco6kKSaS.jpg",
+    "release_date": "5/20/1988"
+  },
+  {
+    "id": 953,
     "imdb_id": "tt0094894",
     "tmdb_id": "10126",
     "title": "COLORS",
@@ -6096,7 +7624,7 @@
     "release_date": "4/15/1988"
   },
   {
-    "id": 763,
+    "id": 954,
     "imdb_id": "tt0094721",
     "tmdb_id": "4011",
     "title": "BEETLEJUICE",
@@ -6104,7 +7632,7 @@
     "release_date": "3/30/1988"
   },
   {
-    "id": 764,
+    "id": 955,
     "imdb_id": "tt0094027",
     "tmdb_id": "29154",
     "title": "STAND AND DELIVER",
@@ -6112,7 +7640,7 @@
     "release_date": "3/11/1988"
   },
   {
-    "id": 765,
+    "id": 956,
     "imdb_id": "tt0094291",
     "tmdb_id": "10673",
     "title": "WALL STREET",
@@ -6120,7 +7648,7 @@
     "release_date": "12/10/1987"
   },
   {
-    "id": 766,
+    "id": 957,
     "imdb_id": "tt0093779",
     "tmdb_id": "2493",
     "title": "THE PRINCESS BRIDE",
@@ -6128,7 +7656,7 @@
     "release_date": "9/25/1987"
   },
   {
-    "id": 767,
+    "id": 958,
     "imdb_id": "tt0093010",
     "tmdb_id": "10998",
     "title": "FATAL ATTRACTION",
@@ -6136,7 +7664,7 @@
     "release_date": "9/18/1987"
   },
   {
-    "id": 768,
+    "id": 959,
     "imdb_id": "tt0093177",
     "tmdb_id": "9003",
     "title": "HELLRAISER",
@@ -6144,7 +7672,7 @@
     "release_date": "9/18/1987"
   },
   {
-    "id": 769,
+    "id": 960,
     "imdb_id": "tt0092690",
     "tmdb_id": "19324",
     "title": "BORN IN EAST LA",
@@ -6152,7 +7680,7 @@
     "release_date": "8/21/1987"
   },
   {
-    "id": 770,
+    "id": 961,
     "imdb_id": "tt0092890",
     "tmdb_id": "88",
     "title": "DIRTY DANCING",
@@ -6160,7 +7688,39 @@
     "release_date": "8/21/1987"
   },
   {
-    "id": 771,
+    "id": 962,
+    "imdb_id": "tt0093058",
+    "tmdb_id": "600",
+    "title": "FULL METAL JACKET",
+    "poster": "https://www.themoviedb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+    "release_date": "6/26/1987"
+  },
+  {
+    "id": 963,
+    "imdb_id": "tt0094012",
+    "tmdb_id": "957",
+    "title": "SPACEBALLS",
+    "poster": "https://www.themoviedb.org/t/p/w500/o624HTt93iIJIc1Sg5hNkDTnk5l.jpg",
+    "release_date": "6/24/1987"
+  },
+  {
+    "id": 964,
+    "imdb_id": "tt0093773",
+    "tmdb_id": "106",
+    "title": "PREDATOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+    "release_date": "6/12/1987"
+  },
+  {
+    "id": 965,
+    "imdb_id": "tt0092974",
+    "tmdb_id": "18935",
+    "title": "ERNEST GOES TO CAMP",
+    "poster": "https://www.themoviedb.org/t/p/w500/pMmIFo5roUZ6hNqHOINbkj6EREz.jpg",
+    "release_date": "5/22/1987"
+  },
+  {
+    "id": 966,
     "imdb_id": "tt0092796",
     "tmdb_id": "16288",
     "title": "CREEPSHOW 2",
@@ -6168,7 +7728,7 @@
     "release_date": "5/1/1987"
   },
   {
-    "id": 772,
+    "id": 967,
     "imdb_id": "tt0092991",
     "tmdb_id": "765",
     "title": "EVIL DEAD II",
@@ -6176,7 +7736,7 @@
     "release_date": "3/13/1987"
   },
   {
-    "id": 773,
+    "id": 968,
     "imdb_id": "tt0093629",
     "tmdb_id": "10072",
     "title": "A NIGHTMARE ON ELM STREET 3: DREAM WARRIORS",
@@ -6184,7 +7744,15 @@
     "release_date": "2/27/1987"
   },
   {
-    "id": 774,
+    "id": 969,
+    "imdb_id": "tt0091419",
+    "tmdb_id": "10776",
+    "title": "LITTLE SHOP OF HORRORS",
+    "poster": "https://www.themoviedb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+    "release_date": "12/19/1986"
+  },
+  {
+    "id": 970,
     "imdb_id": "tt0091763",
     "tmdb_id": "792",
     "title": "PLATOON",
@@ -6192,7 +7760,7 @@
     "release_date": "12/19/1986"
   },
   {
-    "id": 775,
+    "id": 971,
     "imdb_id": "tt0092007",
     "tmdb_id": "168",
     "title": "STAR TREK IV: THE VOYAGE HOME",
@@ -6200,7 +7768,7 @@
     "release_date": "11/26/1986"
   },
   {
-    "id": 776,
+    "id": 972,
     "imdb_id": "tt0090633",
     "tmdb_id": "4978",
     "title": "AN AMERICAN TAIL",
@@ -6208,7 +7776,7 @@
     "release_date": "11/21/1986"
   },
   {
-    "id": 777,
+    "id": 973,
     "imdb_id": "tt0090830",
     "tmdb_id": "1890",
     "title": "CHILDREN OF A LESSER GOD",
@@ -6216,7 +7784,23 @@
     "release_date": "10/3/1986"
   },
   {
-    "id": 778,
+    "id": 974,
+    "imdb_id": "tt0092005",
+    "tmdb_id": "235",
+    "title": "STAND BY ME",
+    "poster": "https://www.themoviedb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+    "release_date": "8/8/1986"
+  },
+  {
+    "id": 975,
+    "imdb_id": "tt0091149",
+    "tmdb_id": "9994",
+    "title": "THE GREAT MOUSE DETECTIVE",
+    "poster": "https://www.themoviedb.org/t/p/w500/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg",
+    "release_date": "7/2/1986"
+  },
+  {
+    "id": 976,
     "imdb_id": "tt0091369",
     "tmdb_id": "13597",
     "title": "LABYRINTH",
@@ -6224,7 +7808,15 @@
     "release_date": "6/27/1986"
   },
   {
-    "id": 779,
+    "id": 977,
+    "imdb_id": "tt0090685",
+    "tmdb_id": "15596",
+    "title": "BACK TO SCHOOL",
+    "poster": "https://www.themoviedb.org/t/p/w500/bIQH3dptGaMBtwos7j9lEHt65BV.jpg",
+    "release_date": "6/13/1986"
+  },
+  {
+    "id": 978,
     "imdb_id": "tt0091042",
     "tmdb_id": "9377",
     "title": "FERRIS BUELLER'S DAY OFF",
@@ -6232,7 +7824,15 @@
     "release_date": "6/11/1986"
   },
   {
-    "id": 780,
+    "id": 979,
+    "imdb_id": "tt0092099",
+    "tmdb_id": "744",
+    "title": "TOP GUN",
+    "poster": "https://www.themoviedb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "release_date": "5/16/1986"
+  },
+  {
+    "id": 980,
     "imdb_id": "tt0091223",
     "tmdb_id": "11415",
     "title": "HOUSE",
@@ -6240,7 +7840,7 @@
     "release_date": "2/28/1986"
   },
   {
-    "id": 781,
+    "id": 981,
     "imdb_id": "tt0091209",
     "tmdb_id": "9542",
     "title": "THE HITCHER",
@@ -6248,7 +7848,7 @@
     "release_date": "1/17/1986"
   },
   {
-    "id": 782,
+    "id": 982,
     "imdb_id": "tt0089755",
     "tmdb_id": "606",
     "title": "OUT OF AFRICA",
@@ -6256,7 +7856,7 @@
     "release_date": "12/20/1985"
   },
   {
-    "id": 783,
+    "id": 983,
     "imdb_id": "tt0088930",
     "tmdb_id": "15196",
     "title": "CLUE",
@@ -6264,7 +7864,7 @@
     "release_date": "12/13/1985"
   },
   {
-    "id": 784,
+    "id": 984,
     "imdb_id": "tt0089686",
     "tmdb_id": "10014",
     "title": "A NIGHTMARE ON ELM STREET 2: FREDDY'S REVENGE",
@@ -6272,7 +7872,7 @@
     "release_date": "11/1/1985"
   },
   {
-    "id": 785,
+    "id": 985,
     "imdb_id": "tt0089974",
     "tmdb_id": "77850",
     "title": "SCHOOL SPIRIT",
@@ -6280,7 +7880,31 @@
     "release_date": "10/30/1985"
   },
   {
-    "id": 786,
+    "id": 986,
+    "imdb_id": "tt0089961",
+    "tmdb_id": "13764",
+    "title": "SANTA CLAUS: THE MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/auLNNdTb4CXCW97lAmddrMiycjR.jpg",
+    "release_date": "10/29/1985"
+  },
+  {
+    "id": 987,
+    "imdb_id": "tt0089994",
+    "tmdb_id": "36536",
+    "title": "SESAME STREET: FOLLOW THAT BIRD",
+    "poster": "https://www.themoviedb.org/t/p/w500/nRMuNuzhuX4AuVekxSQnlz7ircm.jpg",
+    "release_date": "8/2/1985"
+  },
+  {
+    "id": 988,
+    "imdb_id": "tt0089791",
+    "tmdb_id": "5683",
+    "title": "PEE-WEE'S BIG ADVENTURE",
+    "poster": "https://www.themoviedb.org/t/p/w500/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+    "release_date": "7/26/1985"
+  },
+  {
+    "id": 989,
     "imdb_id": "tt0088763",
     "tmdb_id": "105",
     "title": "BACK TO THE FUTURE",
@@ -6288,7 +7912,15 @@
     "release_date": "7/3/1985"
   },
   {
-    "id": 787,
+    "id": 990,
+    "imdb_id": "tt0088885",
+    "tmdb_id": "11243",
+    "title": "THE CARE BEARS MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/hInHHG8oiKLLXPtO87aUZ9txX4q.jpg",
+    "release_date": "3/23/1985"
+  },
+  {
+    "id": 991,
     "imdb_id": "tt0088847",
     "tmdb_id": "2108",
     "title": "THE BREAKFAST CLUB",
@@ -6296,7 +7928,15 @@
     "release_date": "2/15/1985"
   },
   {
-    "id": 788,
+    "id": 992,
+    "imdb_id": "tt0088172",
+    "tmdb_id": "9663",
+    "title": "STARMAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg",
+    "release_date": "12/14/1984"
+  },
+  {
+    "id": 993,
     "imdb_id": "tt0086960",
     "tmdb_id": "90",
     "title": "BEVERLY HILLS COP",
@@ -6304,7 +7944,7 @@
     "release_date": "12/5/1984"
   },
   {
-    "id": 789,
+    "id": 994,
     "imdb_id": "tt0087800",
     "tmdb_id": "377",
     "title": "A NIGHTMARE ON ELM STREET",
@@ -6312,7 +7952,7 @@
     "release_date": "11/9/1984"
   },
   {
-    "id": 790,
+    "id": 995,
     "imdb_id": "tt0088247",
     "tmdb_id": "218",
     "title": "THE TERMINATOR",
@@ -6320,7 +7960,7 @@
     "release_date": "10/26/1984"
   },
   {
-    "id": 791,
+    "id": 996,
     "imdb_id": "tt0086879",
     "tmdb_id": "279",
     "title": "AMADEUS",
@@ -6328,7 +7968,7 @@
     "release_date": "9/19/1984"
   },
   {
-    "id": 792,
+    "id": 997,
     "imdb_id": "tt0087921",
     "tmdb_id": "13681",
     "title": "PLACES IN THE HEART",
@@ -6336,7 +7976,7 @@
     "release_date": "9/11/1984"
   },
   {
-    "id": 793,
+    "id": 998,
     "imdb_id": "tt0087015",
     "tmdb_id": "23730",
     "title": "C.H.U.D.",
@@ -6344,7 +7984,15 @@
     "release_date": "8/31/1984"
   },
   {
-    "id": 794,
+    "id": 999,
+    "imdb_id": "tt0088323",
+    "tmdb_id": "34584",
+    "title": "THE NEVERENDING STORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/lWJC8om086h01f0CMGR9ombdpnI.jpg",
+    "release_date": "7/20/1984"
+  },
+  {
+    "id": 1000,
     "imdb_id": "tt0087755",
     "tmdb_id": "11899",
     "title": "THE MUPPETS TAKE MANHATTAN",
@@ -6352,7 +8000,7 @@
     "release_date": "7/13/1984"
   },
   {
-    "id": 795,
+    "id": 1001,
     "imdb_id": "tt0087538",
     "tmdb_id": "1885",
     "title": "THE KARATE KID",
@@ -6360,7 +8008,7 @@
     "release_date": "6/22/1984"
   },
   {
-    "id": 796,
+    "id": 1002,
     "imdb_id": "tt0087332",
     "tmdb_id": "620",
     "title": "GHOSTBUSTERS",
@@ -6368,7 +8016,7 @@
     "release_date": "6/8/1984"
   },
   {
-    "id": 797,
+    "id": 1003,
     "imdb_id": "tt0087363",
     "tmdb_id": "927",
     "title": "GREMLINS",
@@ -6376,7 +8024,7 @@
     "release_date": "6/8/1984"
   },
   {
-    "id": 798,
+    "id": 1004,
     "imdb_id": "tt0087843",
     "tmdb_id": "311",
     "title": "ONCE UPON A TIME IN AMERICA",
@@ -6384,7 +8032,7 @@
     "release_date": "6/1/1984"
   },
   {
-    "id": 799,
+    "id": 1005,
     "imdb_id": "tt0088170",
     "tmdb_id": "157",
     "title": "STAR TREK III: THE SEARCH FOR SPOCK",
@@ -6392,7 +8040,7 @@
     "release_date": "6/1/1984"
   },
   {
-    "id": 800,
+    "id": 1006,
     "imdb_id": "tt0088194",
     "tmdb_id": "14746",
     "title": "STREETS OF FIRE",
@@ -6400,7 +8048,7 @@
     "release_date": "6/1/1984"
   },
   {
-    "id": 801,
+    "id": 1007,
     "imdb_id": "tt0087781",
     "tmdb_id": "11393",
     "title": "THE NATURAL",
@@ -6408,7 +8056,7 @@
     "release_date": "5/11/1984"
   },
   {
-    "id": 802,
+    "id": 1008,
     "imdb_id": "tt0088128",
     "tmdb_id": "15144",
     "title": "SIXTEEN CANDLES",
@@ -6416,7 +8064,7 @@
     "release_date": "5/4/1984"
   },
   {
-    "id": 803,
+    "id": 1009,
     "imdb_id": "tt0086896",
     "tmdb_id": "1803",
     "title": "ANGEL",
@@ -6424,7 +8072,7 @@
     "release_date": "4/27/1984"
   },
   {
-    "id": 804,
+    "id": 1010,
     "imdb_id": "tt0087298",
     "tmdb_id": "9730",
     "title": "FRIDAY THE 13TH: THE FINAL CHAPTER",
@@ -6432,7 +8080,7 @@
     "release_date": "4/13/1984"
   },
   {
-    "id": 805,
+    "id": 1011,
     "imdb_id": "tt0087050",
     "tmdb_id": "10823",
     "title": "CHILDREN OF THE CORN",
@@ -6440,7 +8088,7 @@
     "release_date": "3/9/1984"
   },
   {
-    "id": 806,
+    "id": 1012,
     "imdb_id": "tt0088258",
     "tmdb_id": "11031",
     "title": "THIS IS SPINAL TAP",
@@ -6448,7 +8096,7 @@
     "release_date": "3/2/1984"
   },
   {
-    "id": 807,
+    "id": 1013,
     "imdb_id": "tt0087277",
     "tmdb_id": "1788",
     "title": "FOOTLOOSE",
@@ -6456,7 +8104,7 @@
     "release_date": "2/17/1984"
   },
   {
-    "id": 808,
+    "id": 1014,
     "imdb_id": "tt0086425",
     "tmdb_id": "11050",
     "title": "TERMS OF ENDEARMENT",
@@ -6464,7 +8112,15 @@
     "release_date": "11/20/1983"
   },
   {
-    "id": 809,
+    "id": 1015,
+    "imdb_id": "tt0085334",
+    "tmdb_id": "850",
+    "title": "A CHRISTMAS STORY",
+    "poster": "https://www.themoviedb.org/t/p/w500/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+    "release_date": "11/18/1983"
+  },
+  {
+    "id": 1016,
     "imdb_id": "tt0086619",
     "tmdb_id": "10269",
     "title": "YENTL",
@@ -6472,7 +8128,15 @@
     "release_date": "11/18/1983"
   },
   {
-    "id": 810,
+    "id": 1017,
+    "imdb_id": "tt0085995",
+    "tmdb_id": "11153",
+    "title": "NATIONAL LAMPOON'S VACATION",
+    "poster": "https://www.themoviedb.org/t/p/w500/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+    "release_date": "7/29/1983"
+  },
+  {
+    "id": 1018,
     "imdb_id": "tt0086366",
     "tmdb_id": "12695",
     "title": "CHEECH AND CHONG: STILL SMOKIN",
@@ -6480,7 +8144,7 @@
     "release_date": "5/6/1983"
   },
   {
-    "id": 811,
+    "id": 1019,
     "imdb_id": "tt0085549",
     "tmdb_id": "535",
     "title": "FLASHDANCE",
@@ -6488,7 +8152,23 @@
     "release_date": "4/14/1983"
   },
   {
-    "id": 812,
+    "id": 1020,
+    "imdb_id": "tt0086525",
+    "tmdb_id": "19053",
+    "title": "VALLEY GIRL",
+    "poster": "https://www.themoviedb.org/t/p/w500/mQSrU9jerYSIOWeLBqFA1gcUU59.jpg",
+    "release_date": "4/8/1983"
+  },
+  {
+    "id": 1021,
+    "imdb_id": "tt0085959",
+    "tmdb_id": "4543",
+    "title": "MONTY PYTHON'S THE MEANING OF LIFE",
+    "poster": "https://www.themoviedb.org/t/p/w500/xkIdT6ztJ2tOEknZ9QyragUY82Q.jpg",
+    "release_date": "3/31/1983"
+  },
+  {
+    "id": 1022,
     "imdb_id": "tt0086066",
     "tmdb_id": "227",
     "title": "THE OUTSIDERS",
@@ -6496,7 +8176,15 @@
     "release_date": "3/25/1983"
   },
   {
-    "id": 813,
+    "id": 1023,
+    "imdb_id": "tt0083791",
+    "tmdb_id": "11639",
+    "title": "THE DARK CRYSTAL",
+    "poster": "https://www.themoviedb.org/t/p/w500/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
+    "release_date": "12/17/1982"
+  },
+  {
+    "id": 1024,
     "imdb_id": "tt0084805",
     "tmdb_id": "9576",
     "title": "TOOTSIE",
@@ -6504,7 +8192,15 @@
     "release_date": "12/17/1982"
   },
   {
-    "id": 814,
+    "id": 1025,
+    "imdb_id": "tt0084809",
+    "tmdb_id": "23805",
+    "title": "THE TOY",
+    "poster": "https://www.themoviedb.org/t/p/w500/yt7Z37Uo2zls64XikaYh8nCwTAv.jpg",
+    "release_date": "12/10/1982"
+  },
+  {
+    "id": 1026,
     "imdb_id": "tt0084707",
     "tmdb_id": "15764",
     "title": "SOPHIE'S CHOICE",
@@ -6512,7 +8208,7 @@
     "release_date": "12/8/1982"
   },
   {
-    "id": 815,
+    "id": 1027,
     "imdb_id": "tt0085636",
     "tmdb_id": "10676",
     "title": "HALLOWEEN III: SEASON OF THE WITCH",
@@ -6520,7 +8216,7 @@
     "release_date": "10/22/1982"
   },
   {
-    "id": 816,
+    "id": 1028,
     "imdb_id": "tt0083755",
     "tmdb_id": "39457",
     "title": "THE CONCRETE JUNGLE",
@@ -6528,7 +8224,7 @@
     "release_date": "9/3/1982"
   },
   {
-    "id": 817,
+    "id": 1029,
     "imdb_id": "tt0083739",
     "tmdb_id": "11564",
     "title": "CLASS OF 1984",
@@ -6536,7 +8232,7 @@
     "release_date": "8/20/1982"
   },
   {
-    "id": 818,
+    "id": 1030,
     "imdb_id": "tt0083929",
     "tmdb_id": "13342",
     "title": "FAST TIMES AT RIDGEMONT HIGH",
@@ -6544,7 +8240,7 @@
     "release_date": "8/13/1982"
   },
   {
-    "id": 819,
+    "id": 1031,
     "imdb_id": "tt0083972",
     "tmdb_id": "9728",
     "title": "FRIDAY THE 13TH PART 3",
@@ -6552,7 +8248,7 @@
     "release_date": "8/13/1982"
   },
   {
-    "id": 820,
+    "id": 1032,
     "imdb_id": "tt0084788",
     "tmdb_id": "20197",
     "title": "THINGS ARE TOUGH ALL OVER",
@@ -6560,7 +8256,7 @@
     "release_date": "8/4/1982"
   },
   {
-    "id": 821,
+    "id": 1033,
     "imdb_id": "tt0084434",
     "tmdb_id": "2623",
     "title": "AN OFFICER AND A GENTLEMAN",
@@ -6568,7 +8264,7 @@
     "release_date": "7/28/1982"
   },
   {
-    "id": 822,
+    "id": 1034,
     "imdb_id": "tt0083658",
     "tmdb_id": "78",
     "title": "BLADE RUNNER",
@@ -6576,7 +8272,7 @@
     "release_date": "6/25/1982"
   },
   {
-    "id": 823,
+    "id": 1035,
     "imdb_id": "tt0083866",
     "tmdb_id": "601",
     "title": "E.T. THE EXTRA-TERRESTRIAL",
@@ -6584,7 +8280,15 @@
     "release_date": "6/11/1982"
   },
   {
-    "id": 824,
+    "id": 1036,
+    "imdb_id": "tt0084516",
+    "tmdb_id": "609",
+    "title": "POLTERGEIST",
+    "poster": "https://www.themoviedb.org/t/p/w500/xPazCcKp62IshnLVf9BLAjf9vgC.jpg",
+    "release_date": "6/4/1982"
+  },
+  {
+    "id": 1037,
     "imdb_id": "tt0084726",
     "tmdb_id": "154",
     "title": "STAR TREK II: THE WRATH OF KHAN",
@@ -6592,7 +8296,7 @@
     "release_date": "6/4/1982"
   },
   {
-    "id": 825,
+    "id": 1038,
     "imdb_id": "tt0082250",
     "tmdb_id": "14373",
     "title": "DEATH WISH II",
@@ -6600,7 +8304,15 @@
     "release_date": "2/20/1982"
   },
   {
-    "id": 826,
+    "id": 1039,
+    "imdb_id": "tt0082484",
+    "tmdb_id": "62204",
+    "title": "QUEST FOR FIRE",
+    "poster": "https://www.themoviedb.org/t/p/w500/tyzW1M00xfHKNtmTlT6wJ3F4pNr.jpg",
+    "release_date": "2/11/1982"
+  },
+  {
+    "id": 1040,
     "imdb_id": "tt0082495",
     "tmdb_id": "11281",
     "title": "HALLOWEEN II",
@@ -6608,7 +8320,7 @@
     "release_date": "10/30/1981"
   },
   {
-    "id": 827,
+    "id": 1041,
     "imdb_id": "tt0082158",
     "tmdb_id": "9443",
     "title": "CHARIOTS OF FIRE",
@@ -6616,7 +8328,7 @@
     "release_date": "9/25/1981"
   },
   {
-    "id": 828,
+    "id": 1042,
     "imdb_id": "tt0082766",
     "tmdb_id": "15660",
     "title": "MOMMIE DEAREST",
@@ -6624,7 +8336,7 @@
     "release_date": "9/16/1981"
   },
   {
-    "id": 829,
+    "id": 1043,
     "imdb_id": "tt0082089",
     "tmdb_id": "14412",
     "title": "BODY HEAT",
@@ -6632,7 +8344,7 @@
     "release_date": "8/28/1981"
   },
   {
-    "id": 830,
+    "id": 1044,
     "imdb_id": "tt0082163",
     "tmdb_id": "20075",
     "title": "NICE DREAMS",
@@ -6640,7 +8352,7 @@
     "release_date": "7/24/1981"
   },
   {
-    "id": 831,
+    "id": 1045,
     "imdb_id": "tt0082031",
     "tmdb_id": "13665",
     "title": "ARTHUR",
@@ -6648,7 +8360,31 @@
     "release_date": "7/17/1981"
   },
   {
-    "id": 832,
+    "id": 1046,
+    "imdb_id": "tt0082406",
+    "tmdb_id": "10948",
+    "title": "THE FOX AND THE HOUND",
+    "poster": "https://www.themoviedb.org/t/p/w500/1382VHxqZDXu2t8i46zf4fP71JG.jpg",
+    "release_date": "7/10/1981"
+  },
+  {
+    "id": 1047,
+    "imdb_id": "tt0082288",
+    "tmdb_id": "848",
+    "title": "DRAGONSLAYER",
+    "poster": "https://www.themoviedb.org/t/p/w500/a1VkuAoRnpr04S4RGhTRd8ff7gq.jpg",
+    "release_date": "6/26/1981"
+  },
+  {
+    "id": 1048,
+    "imdb_id": "tt0082517",
+    "tmdb_id": "10156",
+    "title": "HISTORY OF THE WORLD, PART I",
+    "poster": "https://www.themoviedb.org/t/p/w500/6iAl78qZHT65erPXr2YW6Y54wlY.jpg",
+    "release_date": "6/12/1981"
+  },
+  {
+    "id": 1049,
     "imdb_id": "tt0082971",
     "tmdb_id": "85",
     "title": "RAIDERS OF THE LOST ARK",
@@ -6656,7 +8392,7 @@
     "release_date": "6/12/1981"
   },
   {
-    "id": 833,
+    "id": 1050,
     "imdb_id": "tt0082418",
     "tmdb_id": "9725",
     "title": "FRIDAY THE 13TH PART 2",
@@ -6664,7 +8400,7 @@
     "release_date": "5/1/1981"
   },
   {
-    "id": 834,
+    "id": 1051,
     "imdb_id": "tt0080319",
     "tmdb_id": "19494",
     "title": "9 TO 5",
@@ -6672,7 +8408,7 @@
     "release_date": "12/19/1980"
   },
   {
-    "id": 835,
+    "id": 1052,
     "imdb_id": "tt0081398",
     "tmdb_id": "1578",
     "title": "RAGING BULL",
@@ -6680,7 +8416,7 @@
     "release_date": "11/14/1980"
   },
   {
-    "id": 836,
+    "id": 1053,
     "imdb_id": "tt0081150",
     "tmdb_id": "38772",
     "title": "MELVIN AND HOWARD",
@@ -6688,7 +8424,7 @@
     "release_date": "9/19/1980"
   },
   {
-    "id": 837,
+    "id": 1054,
     "imdb_id": "tt0081283",
     "tmdb_id": "16619",
     "title": "ORDINARY PEOPLE",
@@ -6696,7 +8432,7 @@
     "release_date": "9/19/1980"
   },
   {
-    "id": 838,
+    "id": 1055,
     "imdb_id": "tt0080487",
     "tmdb_id": "11977",
     "title": "CADDYSHACK",
@@ -6704,7 +8440,7 @@
     "release_date": "7/25/1980"
   },
   {
-    "id": 839,
+    "id": 1056,
     "imdb_id": "tt0080520",
     "tmdb_id": "13612",
     "title": "CHEECH AND CHONG'S NEXT MOVIE",
@@ -6712,7 +8448,7 @@
     "release_date": "7/18/1980"
   },
   {
-    "id": 840,
+    "id": 1057,
     "imdb_id": "tt0080453",
     "tmdb_id": "5689",
     "title": "THE BLUE LAGOON",
@@ -6720,7 +8456,7 @@
     "release_date": "7/5/1980"
   },
   {
-    "id": 841,
+    "id": 1058,
     "imdb_id": "tt0080339",
     "tmdb_id": "813",
     "title": "AIRPLANE!",
@@ -6728,7 +8464,23 @@
     "release_date": "7/2/1980"
   },
   {
-    "id": 842,
+    "id": 1059,
+    "imdb_id": "tt0080861",
+    "tmdb_id": "12129",
+    "title": "HERBIE GOES BANANAS",
+    "poster": "https://www.themoviedb.org/t/p/w500/7cBOYLDhHMA351ndLthSxBCwO5N.jpg",
+    "release_date": "6/25/1980"
+  },
+  {
+    "id": 1060,
+    "imdb_id": "tt0080455",
+    "tmdb_id": "525",
+    "title": "THE BLUES BROTHERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+    "release_date": "6/16/1980"
+  },
+  {
+    "id": 1061,
     "imdb_id": "tt0081696",
     "tmdb_id": "17496",
     "title": "URBAN COWBOY",
@@ -6736,7 +8488,7 @@
     "release_date": "6/6/1980"
   },
   {
-    "id": 843,
+    "id": 1062,
     "imdb_id": "tt0081505",
     "tmdb_id": "694",
     "title": "THE SHINING",
@@ -6744,7 +8496,7 @@
     "release_date": "5/23/1980"
   },
   {
-    "id": 844,
+    "id": 1063,
     "imdb_id": "tt0080716",
     "tmdb_id": "3537",
     "title": "FAME",
@@ -6752,7 +8504,7 @@
     "release_date": "5/16/1980"
   },
   {
-    "id": 845,
+    "id": 1064,
     "imdb_id": "tt0080761",
     "tmdb_id": "4488",
     "title": "FRIDAY THE 13TH",
@@ -6760,7 +8512,7 @@
     "release_date": "5/9/1980"
   },
   {
-    "id": 846,
+    "id": 1065,
     "imdb_id": "tt0080549",
     "tmdb_id": "16769",
     "title": "COAL MINER'S DAUGHTER",
@@ -6768,7 +8520,7 @@
     "release_date": "3/7/1980"
   },
   {
-    "id": 847,
+    "id": 1066,
     "imdb_id": "tt0080365",
     "tmdb_id": "2768",
     "title": "AMERICAN GIGOLO",
@@ -6776,7 +8528,7 @@
     "release_date": "2/8/1980"
   },
   {
-    "id": 848,
+    "id": 1067,
     "imdb_id": "tt0078935",
     "tmdb_id": "8689",
     "title": "CANNIBAL HOLOCAUST",
@@ -6784,7 +8536,7 @@
     "release_date": "2/7/1980"
   },
   {
-    "id": 849,
+    "id": 1068,
     "imdb_id": "tt0079417",
     "tmdb_id": "12102",
     "title": "KRAMER VS KRAMER",
@@ -6792,7 +8544,7 @@
     "release_date": "12/19/1979"
   },
   {
-    "id": 850,
+    "id": 1069,
     "imdb_id": "tt0079470",
     "tmdb_id": "583",
     "title": "LIFE OF BRIAN",
@@ -6800,7 +8552,7 @@
     "release_date": "8/17/1979"
   },
   {
-    "id": 851,
+    "id": 1070,
     "imdb_id": "tt0078788",
     "tmdb_id": "28",
     "title": "APOCALYPSE NOW",
@@ -6808,7 +8560,7 @@
     "release_date": "8/15/1979"
   },
   {
-    "id": 852,
+    "id": 1071,
     "imdb_id": "tt0079116",
     "tmdb_id": "10734",
     "title": "ESCAPE FROM ALCATRAZ",
@@ -6816,7 +8568,7 @@
     "release_date": "6/22/1979"
   },
   {
-    "id": 853,
+    "id": 1072,
     "imdb_id": "tt0079588",
     "tmdb_id": "11176",
     "title": "THE MUPPET MOVIE",
@@ -6824,7 +8576,7 @@
     "release_date": "6/22/1979"
   },
   {
-    "id": 854,
+    "id": 1073,
     "imdb_id": "tt0079688",
     "tmdb_id": "23957",
     "title": "OVER THE EDGE",
@@ -6832,7 +8584,7 @@
     "release_date": "5/18/1979"
   },
   {
-    "id": 855,
+    "id": 1074,
     "imdb_id": "tt0079522",
     "tmdb_id": "696",
     "title": "MANHATTAN",
@@ -6840,7 +8592,7 @@
     "release_date": "4/25/1979"
   },
   {
-    "id": 856,
+    "id": 1075,
     "imdb_id": "tt0363547",
     "tmdb_id": "923",
     "title": "DAWN OF THE DEAD",
@@ -6848,7 +8600,7 @@
     "release_date": "4/20/1979"
   },
   {
-    "id": 857,
+    "id": 1076,
     "imdb_id": "tt0079714",
     "tmdb_id": "9638",
     "title": "PHANTASM",
@@ -6856,7 +8608,7 @@
     "release_date": "3/28/1979"
   },
   {
-    "id": 858,
+    "id": 1077,
     "imdb_id": "tt0078966",
     "tmdb_id": "988",
     "title": "THE CHINA SYNDROME",
@@ -6864,7 +8616,7 @@
     "release_date": "3/16/1979"
   },
   {
-    "id": 859,
+    "id": 1078,
     "imdb_id": "tt0079261",
     "tmdb_id": "10654",
     "title": "HAIR",
@@ -6872,7 +8624,7 @@
     "release_date": "3/15/1979"
   },
   {
-    "id": 860,
+    "id": 1079,
     "imdb_id": "tt0077416",
     "tmdb_id": "11778",
     "title": "THE DEER HUNTER",
@@ -6880,7 +8632,7 @@
     "release_date": "12/8/1978"
   },
   {
-    "id": 861,
+    "id": 1080,
     "imdb_id": "tt0077651",
     "tmdb_id": "948",
     "title": "HALLOWEEN",
@@ -6888,7 +8640,7 @@
     "release_date": "10/25/1978"
   },
   {
-    "id": 862,
+    "id": 1081,
     "imdb_id": "tt0078446",
     "tmdb_id": "11455",
     "title": "UP IN SMOKE",
@@ -6896,7 +8648,7 @@
     "release_date": "9/15/1978"
   },
   {
-    "id": 863,
+    "id": 1082,
     "imdb_id": "tt0077405",
     "tmdb_id": "16642",
     "title": "DAYS OF HEAVEN",
@@ -6904,7 +8656,7 @@
     "release_date": "9/13/1978"
   },
   {
-    "id": 864,
+    "id": 1083,
     "imdb_id": "tt0077975",
     "tmdb_id": "8469",
     "title": "NATIONAL LAMPOON'S ANIMAL HOUSE",
@@ -6912,7 +8664,7 @@
     "release_date": "7/28/1978"
   },
   {
-    "id": 865,
+    "id": 1084,
     "imdb_id": "tt0078239",
     "tmdb_id": "36759",
     "title": "SGT. PEPPER'S LONELY HEARTS CLUB BAND",
@@ -6920,7 +8672,7 @@
     "release_date": "7/24/1978"
   },
   {
-    "id": 866,
+    "id": 1085,
     "imdb_id": "tt0077369",
     "tmdb_id": "9584",
     "title": "CONVOY",
@@ -6928,7 +8680,7 @@
     "release_date": "6/28/1978"
   },
   {
-    "id": 867,
+    "id": 1086,
     "imdb_id": "tt0077663",
     "tmdb_id": "12185",
     "title": "HEAVEN CAN WAIT",
@@ -6936,7 +8688,7 @@
     "release_date": "6/28/1978"
   },
   {
-    "id": 868,
+    "id": 1087,
     "imdb_id": "tt0076666",
     "tmdb_id": "11009",
     "title": "SATURDAY NIGHT FEVER",
@@ -6944,7 +8696,7 @@
     "release_date": "12/16/1977"
   },
   {
-    "id": 869,
+    "id": 1088,
     "imdb_id": "tt0075860",
     "tmdb_id": "840",
     "title": "CLOSE ENCOUNTERS OF THE THIRD KIND",
@@ -6952,7 +8704,7 @@
     "release_date": "12/14/1977"
   },
   {
-    "id": 870,
+    "id": 1089,
     "imdb_id": "tt0076752",
     "tmdb_id": "691",
     "title": "THE SPY WHO LOVED ME",
@@ -6960,7 +8712,7 @@
     "release_date": "8/3/1977"
   },
   {
-    "id": 871,
+    "id": 1090,
     "imdb_id": "tt0076729",
     "tmdb_id": "11006",
     "title": "SMOKEY AND THE BANDIT",
@@ -6968,7 +8720,7 @@
     "release_date": "5/27/1977"
   },
   {
-    "id": 872,
+    "id": 1091,
     "imdb_id": "tt0076759",
     "tmdb_id": "11",
     "title": "STAR WARS",
@@ -6976,7 +8728,7 @@
     "release_date": "5/25/1977"
   },
   {
-    "id": 873,
+    "id": 1092,
     "imdb_id": "tt0075686",
     "tmdb_id": "703",
     "title": "ANNIE HALL",
@@ -6984,7 +8736,7 @@
     "release_date": "4/20/1977"
   },
   {
-    "id": 874,
+    "id": 1093,
     "imdb_id": "tt0075148",
     "tmdb_id": "1366",
     "title": "ROCKY",
@@ -6992,7 +8744,7 @@
     "release_date": "11/21/1976"
   },
   {
-    "id": 875,
+    "id": 1094,
     "imdb_id": "tt0074958",
     "tmdb_id": "10774",
     "title": "NETWORK",
@@ -7000,7 +8752,7 @@
     "release_date": "11/14/1976"
   },
   {
-    "id": 876,
+    "id": 1095,
     "imdb_id": "tt0074285",
     "tmdb_id": "7340",
     "title": "CARRIE",
@@ -7008,7 +8760,7 @@
     "release_date": "11/3/1976"
   },
   {
-    "id": 877,
+    "id": 1096,
     "imdb_id": "tt0074860",
     "tmdb_id": "10518",
     "title": "MARATHON MAN",
@@ -7016,7 +8768,7 @@
     "release_date": "10/8/1976"
   },
   {
-    "id": 878,
+    "id": 1097,
     "imdb_id": "tt0074119",
     "tmdb_id": "891",
     "title": "ALL THE PRESIDENT'S MEN",
@@ -7024,7 +8776,7 @@
     "release_date": "4/9/1976"
   },
   {
-    "id": 879,
+    "id": 1098,
     "imdb_id": "tt0075314",
     "tmdb_id": "103",
     "title": "TAXI DRIVER",
@@ -7032,7 +8784,7 @@
     "release_date": "2/9/1976"
   },
   {
-    "id": 880,
+    "id": 1099,
     "imdb_id": "tt0073486",
     "tmdb_id": "510",
     "title": "ONE FLEW OVER THE CUCKOO'S NEST",
@@ -7040,7 +8792,7 @@
     "release_date": "11/19/1975"
   },
   {
-    "id": 881,
+    "id": 1100,
     "imdb_id": "tt0072730",
     "tmdb_id": "4917",
     "title": "A BOY AND HIS DOG",
@@ -7048,7 +8800,7 @@
     "release_date": "11/14/1975"
   },
   {
-    "id": 882,
+    "id": 1101,
     "imdb_id": "tt0073629",
     "tmdb_id": "36685",
     "title": "THE ROCKY HORROR PICTURE SHOW",
@@ -7056,7 +8808,7 @@
     "release_date": "9/29/1975"
   },
   {
-    "id": 883,
+    "id": 1102,
     "imdb_id": "tt0073195",
     "tmdb_id": "578",
     "title": "JAWS",
@@ -7064,7 +8816,7 @@
     "release_date": "6/20/1975"
   },
   {
-    "id": 884,
+    "id": 1103,
     "imdb_id": "tt0073440",
     "tmdb_id": "3121",
     "title": "NASHVILLE",
@@ -7072,7 +8824,7 @@
     "release_date": "6/11/1975"
   },
   {
-    "id": 885,
+    "id": 1104,
     "imdb_id": "tt0071562",
     "tmdb_id": "240",
     "title": "THE GODFATHER PART II",
@@ -7080,7 +8832,7 @@
     "release_date": "12/20/1974"
   },
   {
-    "id": 886,
+    "id": 1105,
     "imdb_id": "tt0071807",
     "tmdb_id": "682",
     "title": "THE MAN WITH THE GOLDEN GUN",
@@ -7088,7 +8840,7 @@
     "release_date": "12/20/1974"
   },
   {
-    "id": 887,
+    "id": 1106,
     "imdb_id": "tt0072431",
     "tmdb_id": "3034",
     "title": "YOUNG FRANKENSTEIN",
@@ -7096,7 +8848,7 @@
     "release_date": "12/15/1974"
   },
   {
-    "id": 888,
+    "id": 1107,
     "imdb_id": "tt0071206",
     "tmdb_id": "23069",
     "title": "BENJI",
@@ -7104,7 +8856,7 @@
     "release_date": "10/17/1974"
   },
   {
-    "id": 889,
+    "id": 1108,
     "imdb_id": "tt0071402",
     "tmdb_id": "13939",
     "title": "DEATH WISH",
@@ -7112,7 +8864,7 @@
     "release_date": "7/24/1974"
   },
   {
-    "id": 890,
+    "id": 1109,
     "imdb_id": "tt0071315",
     "tmdb_id": "829",
     "title": "CHINATOWN",
@@ -7120,7 +8872,7 @@
     "release_date": "6/20/1974"
   },
   {
-    "id": 891,
+    "id": 1110,
     "imdb_id": "tt0071358",
     "tmdb_id": "30702",
     "title": "CONRACK",
@@ -7128,7 +8880,7 @@
     "release_date": "3/27/1974"
   },
   {
-    "id": 892,
+    "id": 1111,
     "imdb_id": "tt0064904",
     "tmdb_id": "28050",
     "title": "HATCHET FOR THE HONEYMOON",
@@ -7136,7 +8888,7 @@
     "release_date": "2/9/1974"
   },
   {
-    "id": 893,
+    "id": 1112,
     "imdb_id": "tt0071230",
     "tmdb_id": "11072",
     "title": "BLAZING SADDLES",
@@ -7144,7 +8896,7 @@
     "release_date": "2/7/1974"
   },
   {
-    "id": 894,
+    "id": 1113,
     "imdb_id": "tt0070735",
     "tmdb_id": "9277",
     "title": "THE STING",
@@ -7152,7 +8904,7 @@
     "release_date": "12/25/1973"
   },
   {
-    "id": 895,
+    "id": 1114,
     "imdb_id": "tt0070707",
     "tmdb_id": "11561",
     "title": "SLEEPER",
@@ -7160,7 +8912,7 @@
     "release_date": "12/17/1973"
   },
   {
-    "id": 896,
+    "id": 1115,
     "imdb_id": "tt0069704",
     "tmdb_id": "838",
     "title": "AMERICAN GRAFFITI",
@@ -7168,7 +8920,7 @@
     "release_date": "8/11/1973"
   },
   {
-    "id": 897,
+    "id": 1116,
     "imdb_id": "tt0070328",
     "tmdb_id": "253",
     "title": "LIVE AND LET DIE",
@@ -7176,7 +8928,7 @@
     "release_date": "6/27/1973"
   },
   {
-    "id": 898,
+    "id": 1117,
     "imdb_id": "tt0068833",
     "tmdb_id": "15516",
     "title": "LAST HOUSE ON THE LEFT",
@@ -7184,7 +8936,7 @@
     "release_date": "8/30/1972"
   },
   {
-    "id": 899,
+    "id": 1118,
     "imdb_id": "tt0068646",
     "tmdb_id": "238",
     "title": "THE GODFATHER",
@@ -7192,7 +8944,7 @@
     "release_date": "3/24/1972"
   },
   {
-    "id": 900,
+    "id": 1119,
     "imdb_id": "tt0068327",
     "tmdb_id": "10784",
     "title": "CABARET",
@@ -7200,7 +8952,7 @@
     "release_date": "2/13/1972"
   },
   {
-    "id": 901,
+    "id": 1120,
     "imdb_id": "tt0067185",
     "tmdb_id": "343",
     "title": "HAROLD AND MAUDE",
@@ -7208,7 +8960,7 @@
     "release_date": "12/20/1971"
   },
   {
-    "id": 902,
+    "id": 1121,
     "imdb_id": "tt0066921",
     "tmdb_id": "185",
     "title": "A CLOCKWORK ORANGE",
@@ -7216,7 +8968,7 @@
     "release_date": "12/19/1971"
   },
   {
-    "id": 903,
+    "id": 1122,
     "imdb_id": "tt0066995",
     "tmdb_id": "681",
     "title": "DIAMONDS ARE FOREVER",
@@ -7224,7 +8976,7 @@
     "release_date": "12/17/1971"
   },
   {
-    "id": 904,
+    "id": 1123,
     "imdb_id": "tt0067116",
     "tmdb_id": "1051",
     "title": "THE FRENCH CONNECTION",
@@ -7232,7 +8984,7 @@
     "release_date": "10/9/1971"
   },
   {
-    "id": 905,
+    "id": 1124,
     "imdb_id": "tt0067328",
     "tmdb_id": "25188",
     "title": "THE LAST PICTURE SHOW",
@@ -7240,7 +8992,7 @@
     "release_date": "10/3/1971"
   },
   {
-    "id": 906,
+    "id": 1125,
     "imdb_id": "tt0067992",
     "tmdb_id": "252",
     "title": "WILLY WONKA & THE CHOCOLATE FACTORY",
@@ -7248,7 +9000,7 @@
     "release_date": "6/30/1971"
   },
   {
-    "id": 907,
+    "id": 1126,
     "imdb_id": "tt0067229",
     "tmdb_id": "27313",
     "title": "I DRINK YOUR BLOOD",
@@ -7256,7 +9008,7 @@
     "release_date": "5/7/1971"
   },
   {
-    "id": 908,
+    "id": 1127,
     "imdb_id": "tt0066808",
     "tmdb_id": "11302",
     "title": "BANANAS",
@@ -7264,7 +9016,7 @@
     "release_date": "4/28/1971"
   },
   {
-    "id": 909,
+    "id": 1128,
     "imdb_id": "tt0066026",
     "tmdb_id": "651",
     "title": "M*A*S*H",
@@ -7272,7 +9024,7 @@
     "release_date": "2/18/1970"
   },
   {
-    "id": 910,
+    "id": 1129,
     "imdb_id": "tt0064757",
     "tmdb_id": "668",
     "title": "ON HER MAJESTY'S SECRET SERVICE",
@@ -7280,7 +9032,7 @@
     "release_date": "12/18/1969"
   },
   {
-    "id": 911,
+    "id": 1130,
     "imdb_id": "tt0064115",
     "tmdb_id": "642",
     "title": "BUTCH CASSIDY AND THE SUNDANCE KID",
@@ -7288,7 +9040,7 @@
     "release_date": "9/24/1969"
   },
   {
-    "id": 912,
+    "id": 1131,
     "imdb_id": "tt0064100",
     "tmdb_id": "26520",
     "title": "BOB & CAROL & TED & ALICE",
@@ -7296,7 +9048,7 @@
     "release_date": "9/17/1969"
   },
   {
-    "id": 913,
+    "id": 1132,
     "imdb_id": "tt0064665",
     "tmdb_id": "3116",
     "title": "MIDNIGHT COWBOY",
@@ -7304,7 +9056,7 @@
     "release_date": "7/30/1969"
   },
   {
-    "id": 914,
+    "id": 1133,
     "imdb_id": "tt0064276",
     "tmdb_id": "624",
     "title": "EASY RIDER",
@@ -7312,7 +9064,7 @@
     "release_date": "7/14/1969"
   },
   {
-    "id": 915,
+    "id": 1134,
     "imdb_id": "tt0065214",
     "tmdb_id": "576",
     "title": "THE WILD BUNCH",
@@ -7320,7 +9072,7 @@
     "release_date": "6/19/1969"
   },
   {
-    "id": 916,
+    "id": 1135,
     "imdb_id": "tt0063350",
     "tmdb_id": "10331",
     "title": "NIGHT OF THE LIVING DEAD",
@@ -7328,7 +9080,7 @@
     "release_date": "10/4/1968"
   },
   {
-    "id": 917,
+    "id": 1136,
     "imdb_id": "tt0063374",
     "tmdb_id": "11356",
     "title": "THE ODD COUPLE",
@@ -7336,7 +9088,7 @@
     "release_date": "5/16/1968"
   },
   {
-    "id": 918,
+    "id": 1137,
     "imdb_id": "tt0062622",
     "tmdb_id": "62",
     "title": "2001: A SPACE ODYSSEY",
@@ -7344,7 +9096,7 @@
     "release_date": "4/10/1968"
   },
   {
-    "id": 919,
+    "id": 1138,
     "imdb_id": "tt0061722",
     "tmdb_id": "37247",
     "title": "THE GRADUATE",
@@ -7352,7 +9104,7 @@
     "release_date": "12/21/1967"
   },
   {
-    "id": 920,
+    "id": 1139,
     "imdb_id": "tt0061735",
     "tmdb_id": "1879",
     "title": "GUESS WHO'S COMING TO DINNER",
@@ -7360,7 +9112,7 @@
     "release_date": "12/11/1967"
   },
   {
-    "id": 921,
+    "id": 1140,
     "imdb_id": "tt0061512",
     "tmdb_id": "903",
     "title": "COOL HAND LUKE",
@@ -7368,7 +9120,7 @@
     "release_date": "11/1/1967"
   },
   {
-    "id": 922,
+    "id": 1141,
     "imdb_id": "tt0061852",
     "tmdb_id": "9325",
     "title": "THE JUNGLE BOOK",
@@ -7376,7 +9128,7 @@
     "release_date": "10/18/1967"
   },
   {
-    "id": 923,
+    "id": 1142,
     "imdb_id": "tt0061418",
     "tmdb_id": "475",
     "title": "BONNIE AND CLYDE",
@@ -7384,7 +9136,7 @@
     "release_date": "8/14/1967"
   },
   {
-    "id": 924,
+    "id": 1143,
     "imdb_id": "tt0094484",
     "tmdb_id": "10633",
     "title": "IN THE HEAT OF THE NIGHT",
@@ -7392,7 +9144,7 @@
     "release_date": "8/2/1967"
   },
   {
-    "id": 925,
+    "id": 1144,
     "imdb_id": "tt0062376",
     "tmdb_id": "25934",
     "title": "TO SIR, WITH LOVE",
@@ -7400,7 +9152,7 @@
     "release_date": "6/14/1967"
   },
   {
-    "id": 926,
+    "id": 1145,
     "imdb_id": "tt0062512",
     "tmdb_id": "667",
     "title": "YOU ONLY LIVE TWICE",
@@ -7408,7 +9160,7 @@
     "release_date": "6/13/1967"
   },
   {
-    "id": 927,
+    "id": 1146,
     "imdb_id": "tt0061184",
     "tmdb_id": "396",
     "title": "WHO'S AFRAID OF VIRGINIA WOOLF?",
@@ -7416,7 +9168,7 @@
     "release_date": "6/22/1966"
   },
   {
-    "id": 928,
+    "id": 1147,
     "imdb_id": "tt0059800",
     "tmdb_id": "660",
     "title": "THUNDERBALL",
@@ -7424,7 +9176,7 @@
     "release_date": "12/29/1965"
   },
   {
-    "id": 929,
+    "id": 1148,
     "imdb_id": "tt0059043",
     "tmdb_id": "42740",
     "title": "THE COLLECTOR",
@@ -7432,7 +9184,7 @@
     "release_date": "6/17/1965"
   },
   {
-    "id": 930,
+    "id": 1149,
     "imdb_id": "tt0059742",
     "tmdb_id": "15121",
     "title": "THE SOUND OF MUSIC",
@@ -7440,7 +9192,7 @@
     "release_date": "4/1/1965"
   },
   {
-    "id": 931,
+    "id": 1150,
     "imdb_id": "tt0058150",
     "tmdb_id": "658",
     "title": "GOLDFINGER",
@@ -7448,7 +9200,7 @@
     "release_date": "12/21/1964"
   },
   {
-    "id": 932,
+    "id": 1151,
     "imdb_id": "tt0058385",
     "tmdb_id": "11113",
     "title": "MY FAIR LADY",
@@ -7456,7 +9208,7 @@
     "release_date": "10/21/1964"
   },
   {
-    "id": 933,
+    "id": 1152,
     "imdb_id": "tt0058331",
     "tmdb_id": "433",
     "title": "MARY POPPINS",
@@ -7464,7 +9216,7 @@
     "release_date": "8/27/1964"
   },
   {
-    "id": 934,
+    "id": 1153,
     "imdb_id": "tt0057076",
     "tmdb_id": "657",
     "title": "FROM RUSSIA WITH LOVE",
@@ -7472,7 +9224,7 @@
     "release_date": "4/8/1964"
   },
   {
-    "id": 935,
+    "id": 1154,
     "imdb_id": "tt0057012",
     "tmdb_id": "935",
     "title": "DR. STRANGELOVE",
@@ -7480,7 +9232,7 @@
     "release_date": "1/29/1964"
   },
   {
-    "id": 936,
+    "id": 1155,
     "imdb_id": "tt0057180",
     "tmdb_id": "37969",
     "title": "THE INCREDIBLE JOURNEY",
@@ -7488,7 +9240,7 @@
     "release_date": "11/20/1963"
   },
   {
-    "id": 937,
+    "id": 1156,
     "imdb_id": "tt0057590",
     "tmdb_id": "5769",
     "title": "TOM JONES",
@@ -7496,7 +9248,7 @@
     "release_date": "10/6/1963"
   },
   {
-    "id": 938,
+    "id": 1157,
     "imdb_id": "tt0055928",
     "tmdb_id": "646",
     "title": "DR. NO",
@@ -7504,7 +9256,7 @@
     "release_date": "5/8/1963"
   },
   {
-    "id": 939,
+    "id": 1158,
     "imdb_id": "tt0056869",
     "tmdb_id": "571",
     "title": "THE BIRDS",
@@ -7512,7 +9264,7 @@
     "release_date": "3/28/1963"
   },
   {
-    "id": 940,
+    "id": 1159,
     "imdb_id": "tt0056592",
     "tmdb_id": "595",
     "title": "TO KILL A MOCKINGBIRD",
@@ -7520,7 +9272,7 @@
     "release_date": "12/25/1962"
   },
   {
-    "id": 941,
+    "id": 1160,
     "imdb_id": "tt0056172",
     "tmdb_id": "947",
     "title": "LAWRENCE OF ARABIA",
@@ -7528,7 +9280,7 @@
     "release_date": "12/16/1962"
   },
   {
-    "id": 942,
+    "id": 1161,
     "imdb_id": "tt0056218",
     "tmdb_id": "982",
     "title": "THE MANCHURIAN CANDIDATE",
@@ -7536,7 +9288,7 @@
     "release_date": "10/24/1962"
   },
   {
-    "id": 943,
+    "id": 1162,
     "imdb_id": "tt0056687",
     "tmdb_id": "10242",
     "title": "WHAT EVER HAPPENED TO BABY JANE?",
@@ -7544,7 +9296,7 @@
     "release_date": "10/12/1962"
   },
   {
-    "id": 944,
+    "id": 1163,
     "imdb_id": "tt0056217",
     "tmdb_id": "11697",
     "title": "THE MAN WHO SHOT LIBERTY VALANCE",
@@ -7552,7 +9304,7 @@
     "release_date": "4/13/1962"
   },
   {
-    "id": 945,
+    "id": 1164,
     "imdb_id": "tt0055614",
     "tmdb_id": "1725",
     "title": "WEST SIDE STORY",
@@ -7560,7 +9312,7 @@
     "release_date": "12/13/1961"
   },
   {
-    "id": 946,
+    "id": 1165,
     "imdb_id": "tt0054698",
     "tmdb_id": "164",
     "title": "BREAKFAST AT TIFFANY'S",
@@ -7568,7 +9320,7 @@
     "release_date": "10/6/1961"
   },
   {
-    "id": 947,
+    "id": 1166,
     "imdb_id": "tt0055254",
     "tmdb_id": "12230",
     "title": "ONE HUNDRED AND ONE DALMATIANS",
@@ -7576,7 +9328,7 @@
     "release_date": "1/25/1961"
   },
   {
-    "id": 948,
+    "id": 1167,
     "imdb_id": "tt0054331",
     "tmdb_id": "967",
     "title": "SPARTACUS",
@@ -7584,7 +9336,7 @@
     "release_date": "10/13/1960"
   },
   {
-    "id": 949,
+    "id": 1168,
     "imdb_id": "tt0054047",
     "tmdb_id": "966",
     "title": "THE MAGNIFICENT SEVEN",
@@ -7592,7 +9344,7 @@
     "release_date": "10/12/1960"
   },
   {
-    "id": 950,
+    "id": 1169,
     "imdb_id": "tt0054387",
     "tmdb_id": "2134",
     "title": "TIME MACHINE",
@@ -7600,7 +9352,7 @@
     "release_date": "8/17/1960"
   },
   {
-    "id": 951,
+    "id": 1170,
     "imdb_id": "tt0054215",
     "tmdb_id": "539",
     "title": "PSYCHO",
@@ -7608,7 +9360,7 @@
     "release_date": "6/22/1960"
   },
   {
-    "id": 952,
+    "id": 1171,
     "imdb_id": "tt0053604",
     "tmdb_id": "284",
     "title": "THE APARTMENT",
@@ -7616,7 +9368,7 @@
     "release_date": "6/21/1960"
   },
   {
-    "id": 953,
+    "id": 1172,
     "imdb_id": "tt0054195",
     "tmdb_id": "31102",
     "title": "POLLYANNA",
@@ -7624,7 +9376,7 @@
     "release_date": "5/19/1960"
   },
   {
-    "id": 954,
+    "id": 1173,
     "imdb_id": "tt0052618",
     "tmdb_id": "665",
     "title": "BEN-HUR",
@@ -7632,7 +9384,7 @@
     "release_date": "11/24/1959"
   },
   {
-    "id": 955,
+    "id": 1174,
     "imdb_id": "tt0053125",
     "tmdb_id": "213",
     "title": "NORTH BY NORTHWEST",
@@ -7640,7 +9392,7 @@
     "release_date": "8/6/1959"
   },
   {
-    "id": 956,
+    "id": 1175,
     "imdb_id": "tt0052561",
     "tmdb_id": "93",
     "title": "ANATOMY OF A MURDER",
@@ -7648,7 +9400,7 @@
     "release_date": "7/1/1959"
   },
   {
-    "id": 957,
+    "id": 1176,
     "imdb_id": "tt0053291",
     "tmdb_id": "239",
     "title": "SOME LIKE IT HOT",
@@ -7656,7 +9408,7 @@
     "release_date": "3/19/1959"
   },
   {
-    "id": 958,
+    "id": 1177,
     "imdb_id": "tt0053285",
     "tmdb_id": "10882",
     "title": "SLEEPING BEAUTY",
@@ -7664,7 +9416,7 @@
     "release_date": "2/17/1959"
   },
   {
-    "id": 959,
+    "id": 1178,
     "imdb_id": "tt0052357",
     "tmdb_id": "426",
     "title": "VERTIGO",
@@ -7672,7 +9424,7 @@
     "release_date": "5/28/1958"
   },
   {
-    "id": 960,
+    "id": 1179,
     "imdb_id": "tt0052225",
     "tmdb_id": "17352",
     "title": "SOUTH PACIFIC",
@@ -7680,7 +9432,7 @@
     "release_date": "3/19/1958"
   },
   {
-    "id": 961,
+    "id": 1180,
     "imdb_id": "tt0051878",
     "tmdb_id": "40085",
     "title": "THE LONG HOT SUMMER",
@@ -7688,7 +9440,7 @@
     "release_date": "3/13/1958"
   },
   {
-    "id": 962,
+    "id": 1181,
     "imdb_id": "tt0050212",
     "tmdb_id": "826",
     "title": "THE BRIDGE ON THE RIVER KWAI",
@@ -7696,7 +9448,7 @@
     "release_date": "12/14/1957"
   },
   {
-    "id": 963,
+    "id": 1182,
     "imdb_id": "tt0050083",
     "tmdb_id": "389",
     "title": "12 ANGRY MEN",
@@ -7704,7 +9456,7 @@
     "release_date": "4/10/1957"
   },
   {
-    "id": 964,
+    "id": 1183,
     "imdb_id": "tt0049261",
     "tmdb_id": "1712",
     "title": "GIANT",
@@ -7712,7 +9464,7 @@
     "release_date": "11/24/1956"
   },
   {
-    "id": 965,
+    "id": 1184,
     "imdb_id": "tt0049730",
     "tmdb_id": "3114",
     "title": "THE SEARCHERS",
@@ -7720,7 +9472,7 @@
     "release_date": "5/26/1956"
   },
   {
-    "id": 966,
+    "id": 1185,
     "imdb_id": "tt0047811",
     "tmdb_id": "43316",
     "title": "ALL THAT HEAVEN ALLOWS",
@@ -7728,7 +9480,7 @@
     "release_date": "12/25/1955"
   },
   {
-    "id": 967,
+    "id": 1186,
     "imdb_id": "tt0048545",
     "tmdb_id": "221",
     "title": "REBEL WITHOUT A CAUSE",
@@ -7736,7 +9488,7 @@
     "release_date": "10/27/1955"
   },
   {
-    "id": 968,
+    "id": 1187,
     "imdb_id": "tt0048280",
     "tmdb_id": "10340",
     "title": "LADY AND THE TRAMP",
@@ -7744,7 +9496,7 @@
     "release_date": "6/22/1955"
   },
   {
-    "id": 969,
+    "id": 1188,
     "imdb_id": "tt0048605",
     "tmdb_id": "10653",
     "title": "THE SEVEN YEAR ITCH",
@@ -7752,7 +9504,7 @@
     "release_date": "6/3/1955"
   },
   {
-    "id": 970,
+    "id": 1189,
     "imdb_id": "tt0048028",
     "tmdb_id": "220",
     "title": "EAST OF EDEN",
@@ -7760,7 +9512,7 @@
     "release_date": "4/10/1955"
   },
   {
-    "id": 971,
+    "id": 1190,
     "imdb_id": "tt0047885",
     "tmdb_id": "26516",
     "title": "BLACKBOARD JUNGLE",
@@ -7768,7 +9520,7 @@
     "release_date": "3/25/1955"
   },
   {
-    "id": 972,
+    "id": 1191,
     "imdb_id": "tt0046672",
     "tmdb_id": "173",
     "title": "20,000 LEAGUES UNDER THE SEA",
@@ -7776,7 +9528,7 @@
     "release_date": "12/23/1954"
   },
   {
-    "id": 973,
+    "id": 1192,
     "imdb_id": "tt0047396",
     "tmdb_id": "567",
     "title": "REAR WINDOW",
@@ -7784,7 +9536,7 @@
     "release_date": "9/1/1954"
   },
   {
-    "id": 974,
+    "id": 1193,
     "imdb_id": "tt0047296",
     "tmdb_id": "654",
     "title": "ON THE WATERFRONT",
@@ -7792,7 +9544,7 @@
     "release_date": "7/28/1954"
   },
   {
-    "id": 975,
+    "id": 1194,
     "imdb_id": "tt0045793",
     "tmdb_id": "11426",
     "title": "FROM HERE TO ETERNITY",
@@ -7800,7 +9552,7 @@
     "release_date": "8/28/1953"
   },
   {
-    "id": 976,
+    "id": 1195,
     "imdb_id": "tt0045810",
     "tmdb_id": "759",
     "title": "GENTLEMEN PREFER BLONDES",
@@ -7808,7 +9560,7 @@
     "release_date": "7/15/1953"
   },
   {
-    "id": 977,
+    "id": 1196,
     "imdb_id": "tt0046303",
     "tmdb_id": "3110",
     "title": "SHANE",
@@ -7816,7 +9568,7 @@
     "release_date": "4/23/1953"
   },
   {
-    "id": 978,
+    "id": 1197,
     "imdb_id": "tt0046183",
     "tmdb_id": "10693",
     "title": "PETER PAN",
@@ -7824,7 +9576,7 @@
     "release_date": "2/5/1953"
   },
   {
-    "id": 979,
+    "id": 1198,
     "imdb_id": "tt0044706",
     "tmdb_id": "288",
     "title": "HIGH NOON",
@@ -7832,7 +9584,7 @@
     "release_date": "7/30/1952"
   },
   {
-    "id": 980,
+    "id": 1199,
     "imdb_id": "tt0045152",
     "tmdb_id": "872",
     "title": "SINGIN' IN THE RAIN",
@@ -7840,7 +9592,7 @@
     "release_date": "4/9/1952"
   },
   {
-    "id": 981,
+    "id": 1200,
     "imdb_id": "tt0043265",
     "tmdb_id": "488",
     "title": "THE AFRICAN QUEEN",
@@ -7848,7 +9600,7 @@
     "release_date": "12/26/1951"
   },
   {
-    "id": 982,
+    "id": 1201,
     "imdb_id": "tt0043278",
     "tmdb_id": "2769",
     "title": "AN AMERICAN IN PARIS",
@@ -7856,7 +9608,7 @@
     "release_date": "9/26/1951"
   },
   {
-    "id": 983,
+    "id": 1202,
     "imdb_id": "tt0044081",
     "tmdb_id": "702",
     "title": "A STREETCAR NAMED DESIRE",
@@ -7864,7 +9616,7 @@
     "release_date": "9/19/1951"
   },
   {
-    "id": 984,
+    "id": 1203,
     "imdb_id": "tt0043274",
     "tmdb_id": "12092",
     "title": "ALICE IN WONDERLAND",
@@ -7872,7 +9624,7 @@
     "release_date": "7/28/1951"
   },
   {
-    "id": 985,
+    "id": 1204,
     "imdb_id": "tt0042192",
     "tmdb_id": "705",
     "title": "ALL ABOUT EVE",
@@ -7880,7 +9632,7 @@
     "release_date": "11/9/1950"
   },
   {
-    "id": 986,
+    "id": 1205,
     "imdb_id": "tt0043014",
     "tmdb_id": "599",
     "title": "SUNSET BLVD.",
@@ -7888,7 +9640,7 @@
     "release_date": "8/10/1950"
   },
   {
-    "id": 987,
+    "id": 1206,
     "imdb_id": "tt0042332",
     "tmdb_id": "11224",
     "title": "CINDERELLA",
@@ -7896,7 +9648,7 @@
     "release_date": "2/22/1950"
   },
   {
-    "id": 988,
+    "id": 1207,
     "imdb_id": "tt0041113",
     "tmdb_id": "25430",
     "title": "ALL THE KING'S MEN",
@@ -7904,7 +9656,7 @@
     "release_date": "11/16/1949"
   },
   {
-    "id": 989,
+    "id": 1208,
     "imdb_id": "tt0040897",
     "tmdb_id": "3090",
     "title": "THE TREASURE OF THE SIERRA MADRE",
@@ -7912,7 +9664,7 @@
     "release_date": "1/15/1948"
   },
   {
-    "id": 990,
+    "id": 1209,
     "imdb_id": "tt0036868",
     "tmdb_id": "887",
     "title": "THE BEST YEARS OF OUR LIVES",
@@ -7920,7 +9672,7 @@
     "release_date": "12/25/1946"
   },
   {
-    "id": 991,
+    "id": 1210,
     "imdb_id": "tt0038650",
     "tmdb_id": "1585",
     "title": "IT'S A WONDERFUL LIFE",
@@ -7928,7 +9680,7 @@
     "release_date": "12/20/1946"
   },
   {
-    "id": 992,
+    "id": 1211,
     "imdb_id": "tt0038969",
     "tmdb_id": "13850",
     "title": "SONG OF THE SOUTH",
@@ -7936,7 +9688,7 @@
     "release_date": "11/12/1946"
   },
   {
-    "id": 993,
+    "id": 1212,
     "imdb_id": "tt0036775",
     "tmdb_id": "996",
     "title": "DOUBLE INDEMNITY",
@@ -7944,7 +9696,7 @@
     "release_date": "7/6/1944"
   },
   {
-    "id": 994,
+    "id": 1213,
     "imdb_id": "tt0035937",
     "tmdb_id": "40765",
     "title": "THE GHOST SHIP",
@@ -7952,7 +9704,7 @@
     "release_date": "12/16/1943"
   },
   {
-    "id": 995,
+    "id": 1214,
     "imdb_id": "tt0036104",
     "tmdb_id": "28438",
     "title": "THE LEOPARD MAN",
@@ -7960,7 +9712,7 @@
     "release_date": "5/19/1943"
   },
   {
-    "id": 996,
+    "id": 1215,
     "imdb_id": "tt0035703",
     "tmdb_id": "59964",
     "title": "CABIN IN THE SKY",
@@ -7968,7 +9720,7 @@
     "release_date": "4/9/1943"
   },
   {
-    "id": 997,
+    "id": 1216,
     "imdb_id": "tt0034583",
     "tmdb_id": "289",
     "title": "CASABLANCA",
@@ -7976,7 +9728,7 @@
     "release_date": "1/23/1943"
   },
   {
-    "id": 998,
+    "id": 1217,
     "imdb_id": "tt0034492",
     "tmdb_id": "3170",
     "title": "BAMBI",
@@ -7984,7 +9736,7 @@
     "release_date": "8/14/1942"
   },
   {
-    "id": 999,
+    "id": 1218,
     "imdb_id": "tt0035575",
     "tmdb_id": "3087",
     "title": "YANKEE DOODLE DANDY",
@@ -7992,7 +9744,7 @@
     "release_date": "5/29/1942"
   },
   {
-    "id": 1000,
+    "id": 1219,
     "imdb_id": "tt0034240",
     "tmdb_id": "16305",
     "title": "SULLIVAN'S TRAVELS",
@@ -8000,7 +9752,7 @@
     "release_date": "12/1/1941"
   },
   {
-    "id": 1001,
+    "id": 1220,
     "imdb_id": "tt0033563",
     "tmdb_id": "11360",
     "title": "DUMBO",
@@ -8008,7 +9760,7 @@
     "release_date": "10/31/1941"
   },
   {
-    "id": 1002,
+    "id": 1221,
     "imdb_id": "tt0033870",
     "tmdb_id": "963",
     "title": "THE MALTESE FALCON",
@@ -8016,7 +9768,7 @@
     "release_date": "10/18/1941"
   },
   {
-    "id": 1003,
+    "id": 1222,
     "imdb_id": "tt0033467",
     "tmdb_id": "15",
     "title": "CITIZEN KANE",
@@ -8024,7 +9776,7 @@
     "release_date": "5/6/1941"
   },
   {
-    "id": 1004,
+    "id": 1223,
     "imdb_id": "tt0033891",
     "tmdb_id": "32574",
     "title": "MEET JOHN DOE",
@@ -8032,7 +9784,7 @@
     "release_date": "3/14/1941"
   },
   {
-    "id": 1005,
+    "id": 1224,
     "imdb_id": "tt0032904",
     "tmdb_id": "981",
     "title": "THE PHILADELPHIA STORY",
@@ -8040,7 +9792,7 @@
     "release_date": "12/5/1940"
   },
   {
-    "id": 1006,
+    "id": 1225,
     "imdb_id": "tt0032455",
     "tmdb_id": "756",
     "title": "FANTASIA",
@@ -8048,7 +9800,7 @@
     "release_date": "11/13/1940"
   },
   {
-    "id": 1007,
+    "id": 1226,
     "imdb_id": "tt0032551",
     "tmdb_id": "596",
     "title": "THE GRAPES OF WRATH",
@@ -8056,7 +9808,7 @@
     "release_date": "3/15/1940"
   },
   {
-    "id": 1008,
+    "id": 1227,
     "imdb_id": "tt0032910",
     "tmdb_id": "10895",
     "title": "PINOCCHIO",
@@ -8064,7 +9816,7 @@
     "release_date": "2/23/1940"
   },
   {
-    "id": 1009,
+    "id": 1228,
     "imdb_id": "tt0031381",
     "tmdb_id": "770",
     "title": "GONE WITH THE WIND",
@@ -8072,7 +9824,7 @@
     "release_date": "12/15/1939"
   },
   {
-    "id": 1010,
+    "id": 1229,
     "imdb_id": "tt0031679",
     "tmdb_id": "3083",
     "title": "MR. SMITH GOES TO WASHINGTON",
@@ -8080,7 +9832,7 @@
     "release_date": "10/19/1939"
   },
   {
-    "id": 1011,
+    "id": 1230,
     "imdb_id": "tt0032138",
     "tmdb_id": "630",
     "title": "THE WIZARD OF OZ",
@@ -8088,7 +9840,7 @@
     "release_date": "8/25/1939"
   },
   {
-    "id": 1012,
+    "id": 1231,
     "imdb_id": "tt0032145",
     "tmdb_id": "3084",
     "title": "WUTHERING HEIGHTS",
@@ -8096,7 +9848,7 @@
     "release_date": "4/7/1939"
   },
   {
-    "id": 1013,
+    "id": 1232,
     "imdb_id": "tt0031971",
     "tmdb_id": "995",
     "title": "STAGECOACH",
@@ -8104,7 +9856,7 @@
     "release_date": "3/3/1939"
   },
   {
-    "id": 1014,
+    "id": 1233,
     "imdb_id": "tt0031398",
     "tmdb_id": "24965",
     "title": "GUNGA DIN",
@@ -8112,7 +9864,7 @@
     "release_date": "1/26/1939"
   },
   {
-    "id": 1015,
+    "id": 1234,
     "imdb_id": "tt0030993",
     "tmdb_id": "34106",
     "title": "YOU CAN'T TAKE IT WITH YOU",
@@ -8120,7 +9872,7 @@
     "release_date": "9/1/1938"
   },
   {
-    "id": 1016,
+    "id": 1235,
     "imdb_id": "tt0029843",
     "tmdb_id": "10907",
     "title": "THE ADVENTURES OF ROBIN HOOD",
@@ -8128,7 +9880,7 @@
     "release_date": "5/13/1938"
   },
   {
-    "id": 1017,
+    "id": 1236,
     "imdb_id": "tt0029947",
     "tmdb_id": "900",
     "title": "BRINGING UP BABY",
@@ -8136,7 +9888,7 @@
     "release_date": "2/18/1938"
   },
   {
-    "id": 1018,
+    "id": 1237,
     "imdb_id": "tt0029583",
     "tmdb_id": "408",
     "title": "SNOW WHITE AND THE SEVEN DWARFS",
@@ -8144,7 +9896,7 @@
     "release_date": "12/21/1937"
   },
   {
-    "id": 1019,
+    "id": 1238,
     "imdb_id": "tt0028333",
     "tmdb_id": "20325",
     "title": "SWING TIME",
@@ -8152,7 +9904,7 @@
     "release_date": "8/27/1936"
   },
   {
-    "id": 1020,
+    "id": 1239,
     "imdb_id": "tt0027996",
     "tmdb_id": "24807",
     "title": "MR. DEEDS GOES TO TOWN",
@@ -8160,7 +9912,7 @@
     "release_date": "4/9/1936"
   },
   {
-    "id": 1021,
+    "id": 1240,
     "imdb_id": "tt0028401",
     "tmdb_id": "76094",
     "title": "THE TRAIL OF THE LONESOME PINE",
@@ -8168,7 +9920,7 @@
     "release_date": "3/13/1936"
   },
   {
-    "id": 1022,
+    "id": 1241,
     "imdb_id": "tt0027977",
     "tmdb_id": "3082",
     "title": "MODERN TIMES",
@@ -8176,7 +9928,7 @@
     "release_date": "2/25/1936"
   },
   {
-    "id": 1023,
+    "id": 1242,
     "imdb_id": "tt0026778",
     "tmdb_id": "37719",
     "title": "A NIGHT AT THE OPERA",
@@ -8184,7 +9936,7 @@
     "release_date": "11/15/1935"
   },
   {
-    "id": 1024,
+    "id": 1243,
     "imdb_id": "tt0026138",
     "tmdb_id": "229",
     "title": "THE BRIDE OF FRANKENSTEIN",
@@ -8192,7 +9944,7 @@
     "release_date": "4/20/1935"
   },
   {
-    "id": 1025,
+    "id": 1244,
     "imdb_id": "tt0025316",
     "tmdb_id": "3078",
     "title": "IT HAPPENED ONE NIGHT",
@@ -8200,7 +9952,7 @@
     "release_date": "2/22/1934"
   },
   {
-    "id": 1026,
+    "id": 1245,
     "imdb_id": "tt0023969",
     "tmdb_id": "3063",
     "title": "DUCK SOUP",
@@ -8208,7 +9960,7 @@
     "release_date": "11/12/1933"
   },
   {
-    "id": 1027,
+    "id": 1246,
     "imdb_id": "tt0024216",
     "tmdb_id": "244",
     "title": "KING KONG",
@@ -8216,7 +9968,7 @@
     "release_date": "3/15/1933"
   },
   {
-    "id": 1028,
+    "id": 1247,
     "imdb_id": "tt0023251",
     "tmdb_id": "44892",
     "title": "THE MUSIC BOX",
@@ -8224,7 +9976,7 @@
     "release_date": "4/16/1932"
   },
   {
-    "id": 1029,
+    "id": 1248,
     "imdb_id": "tt0023427",
     "tmdb_id": "877",
     "title": "SCARFACE: THE SHAME OF A NATION",
@@ -8232,7 +9984,7 @@
     "release_date": "4/9/1932"
   },
   {
-    "id": 1030,
+    "id": 1249,
     "imdb_id": "tt0021884",
     "tmdb_id": "3035",
     "title": "FRANKENSTEIN",
@@ -8240,7 +9992,7 @@
     "release_date": "11/21/1931"
   },
   {
-    "id": 1031,
+    "id": 1250,
     "imdb_id": "tt0022158",
     "tmdb_id": "13911",
     "title": "MONKEY BUSINESS",
@@ -8248,7 +10000,7 @@
     "release_date": "9/19/1931"
   },
   {
-    "id": 1032,
+    "id": 1251,
     "imdb_id": "tt0022286",
     "tmdb_id": "17687",
     "title": "THE PUBLIC ENEMY",
@@ -8256,7 +10008,7 @@
     "release_date": "4/23/1931"
   },
   {
-    "id": 1033,
+    "id": 1252,
     "imdb_id": "tt0021749",
     "tmdb_id": "901",
     "title": "CITY LIGHTS",
@@ -8264,7 +10016,7 @@
     "release_date": "3/7/1931"
   },
   {
-    "id": 1034,
+    "id": 1253,
     "imdb_id": "tt0021079",
     "tmdb_id": "27899",
     "title": "LITTLE CAESAR",
@@ -8272,7 +10024,7 @@
     "release_date": "1/25/1931"
   },
   {
-    "id": 1035,
+    "id": 1254,
     "imdb_id": "tt0019644",
     "tmdb_id": "120833",
     "title": "APPLAUSE",
@@ -8280,7 +10032,7 @@
     "release_date": "10/7/1929"
   },
   {
-    "id": 1036,
+    "id": 1255,
     "imdb_id": "tt0018839",
     "tmdb_id": "885",
     "title": "DOCKS OF NEW YORK",
@@ -8288,7 +10040,7 @@
     "release_date": "9/16/1928"
   },
   {
-    "id": 1037,
+    "id": 1256,
     "imdb_id": "tt0019429",
     "tmdb_id": "28391",
     "title": "STREET ANGEL",
@@ -8296,7 +10048,7 @@
     "release_date": "4/9/1928"
   },
   {
-    "id": 1038,
+    "id": 1257,
     "imdb_id": "tt0018455",
     "tmdb_id": "631",
     "title": "SUNRISE",
@@ -8304,7 +10056,7 @@
     "release_date": "11/4/1927"
   },
   {
-    "id": 1039,
+    "id": 1258,
     "imdb_id": "tt0017925",
     "tmdb_id": "961",
     "title": "THE GENERAL",
@@ -8312,7 +10064,7 @@
     "release_date": "12/25/1926"
   },
   {
-    "id": 1040,
+    "id": 1259,
     "imdb_id": "tt0015864",
     "tmdb_id": "962",
     "title": "THE GOLD RUSH",
@@ -8320,7 +10072,7 @@
     "release_date": "8/15/1925"
   },
   {
-    "id": 1041,
+    "id": 1260,
     "imdb_id": "tt0006864",
     "tmdb_id": "3059",
     "title": "INTOLERANCE",
@@ -8328,7 +10080,7 @@
     "release_date": "9/4/1916"
   },
   {
-    "id": 1042,
+    "id": 1261,
     "imdb_id": "tt0222874",
     "tmdb_id": "96701",
     "title": "THE CAKE-WALK INFERNAL",
