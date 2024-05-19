@@ -1,6 +1,6 @@
 [
   {
-    "id": 1290,
+    "id": 1301,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 1291,
+    "id": 1302,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -16,7 +16,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 1292,
+    "id": 1303,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -24,7 +24,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 1293,
+    "id": 1304,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -32,7 +32,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 1294,
+    "id": 1305,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -40,7 +40,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 1295,
+    "id": 1306,
     "imdb_id": "tt9352178",
     "tmdb_id": "632995",
     "title": "THE PRIMEVALS",
@@ -48,7 +48,7 @@
     "release_date": "3/11/24"
   },
   {
-    "id": 1296,
+    "id": 1307,
     "imdb_id": "tt24806518",
     "tmdb_id": "1063679",
     "title": "FREE TIME",
@@ -56,15 +56,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 1297,
-    "imdb_id": "tt24244436",
-    "tmdb_id": "1081593",
-    "title": "HOUSEKEEPING FOR BEGINNERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg",
-    "release_date": "4/5/24"
-  },
-  {
-    "id": 1298,
+    "id": 1308,
     "imdb_id": "tt21651430",
     "tmdb_id": "808482",
     "title": "THE PEOPLE'S JOKER",
@@ -72,31 +64,7 @@
     "release_date": "4/5/24"
   },
   {
-    "id": 1299,
-    "imdb_id": "tt30180830",
-    "tmdb_id": "1015634",
-    "title": "SASQUATCH SUNSET",
-    "poster": "https://www.themoviedb.org/t/p/w500/s43rgDGRDOB12prgK9YfWPEIyAh.jpg",
-    "release_date": "4/12/24"
-  },
-  {
-    "id": 1300,
-    "imdb_id": "tt20112746",
-    "tmdb_id": "1087388",
-    "title": "STING",
-    "poster": "https://www.themoviedb.org/t/p/w500/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
-    "release_date": "4/12/24"
-  },
-  {
-    "id": 1301,
-    "imdb_id": "tt12444168",
-    "tmdb_id": "1251687",
-    "title": "DON'T TELL MOM THE BABYSITTER'S DEAD",
-    "poster": "https://www.themoviedb.org/t/p/w500/jRhyL0c6E06nX5RZxrk9w5kzord.jpg",
-    "release_date": "4/12/24"
-  },
-  {
-    "id": 1302,
+    "id": 1309,
     "imdb_id": "tt15353574",
     "tmdb_id": "1009679",
     "title": "HARD MILES",
@@ -104,7 +72,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1303,
+    "id": 1310,
     "imdb_id": "tt28639049",
     "tmdb_id": "1163186",
     "title": "WE GROWN NOW",
@@ -112,7 +80,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1304,
+    "id": 1311,
     "imdb_id": "tt30319533",
     "tmdb_id": "1214474",
     "title": "STRESS POSITIONS",
@@ -120,7 +88,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1305,
+    "id": 1312,
     "imdb_id": "tt23638614",
     "tmdb_id": "1115009",
     "title": "UNSUNG HERO",
@@ -128,15 +96,7 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1306,
-    "imdb_id": "tt16426418",
-    "tmdb_id": "937287",
-    "title": "CHALLENGERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
-    "release_date": "4/26/24"
-  },
-  {
-    "id": 1307,
+    "id": 1313,
     "imdb_id": "tt27722061",
     "tmdb_id": "1059319",
     "title": "THE FEELING THAT THE TIME FOR DOING SOMETHING HAS PASSED",
@@ -144,7 +104,7 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1308,
+    "id": 1314,
     "imdb_id": "tt27507837",
     "tmdb_id": "1115579",
     "title": "LOST SOULZ",
@@ -152,15 +112,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1309,
-    "imdb_id": "tt15574270",
-    "tmdb_id": "858017",
-    "title": "I SAW THE TV GLOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
-    "release_date": "5/3/24"
-  },
-  {
-    "id": 1310,
+    "id": 1315,
     "imdb_id": "tt26442871",
     "tmdb_id": "1076101",
     "title": "WILDCAT",
@@ -168,7 +120,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1311,
+    "id": 1316,
     "imdb_id": "tt11389872",
     "tmdb_id": "653346",
     "title": "KINGDOM OF THE PLANET OF THE APES",
@@ -176,7 +128,7 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1312,
+    "id": 1317,
     "imdb_id": "tt28494031",
     "tmdb_id": "1156110",
     "title": "GASOLINE RAINBOW",
@@ -184,7 +136,7 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1313,
+    "id": 1318,
     "imdb_id": "tt19358036",
     "tmdb_id": "1045467",
     "title": "NOT ANOTHER CHURCH MOVIE",
@@ -192,7 +144,7 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1314,
+    "id": 1319,
     "imdb_id": "tt18077924",
     "tmdb_id": "834562",
     "title": "POOLMAN",
@@ -200,11 +152,67 @@
     "release_date": "5/10/24"
   },
   {
-    "id": 1315,
+    "id": 1320,
     "imdb_id": "tt28332336",
     "tmdb_id": "1183002",
     "title": "THE IMAGE OF YOU",
     "poster": "https://www.themoviedb.org/t/p/w500/gboq2oB6QNBcW32V0A8uOajTwXU.jpg",
     "release_date": "5/10/24"
+  },
+  {
+    "id": 1321,
+    "imdb_id": "tt15782954",
+    "tmdb_id": "1062198",
+    "title": "FRESH KILLS",
+    "poster": "https://www.themoviedb.org/t/p/w500/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1322,
+    "imdb_id": "tt11152168",
+    "tmdb_id": "639720",
+    "title": "IF",
+    "poster": "https://www.themoviedb.org/t/p/w500/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1323,
+    "imdb_id": "tt21261712",
+    "tmdb_id": "998846",
+    "title": "BACK TO BLACK",
+    "poster": "https://www.themoviedb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1324,
+    "imdb_id": "tt21276958",
+    "tmdb_id": "999582",
+    "title": "BABES",
+    "poster": "https://www.themoviedb.org/t/p/w500/jNZhSeDXDNX2rHqURPzq43lI6Xg.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1325,
+    "imdb_id": "tt10442352",
+    "tmdb_id": "739547",
+    "title": "THELMA THE UNICORN",
+    "poster": "https://www.themoviedb.org/t/p/w500/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1326,
+    "imdb_id": "tt22050754",
+    "tmdb_id": "1010600",
+    "title": "THE STRANGERS: CHAPTER 1",
+    "poster": "https://www.themoviedb.org/t/p/w500/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1327,
+    "imdb_id": "tt15451150",
+    "tmdb_id": "879412",
+    "title": "YOU CAN'T RUN FOREVER",
+    "poster": "https://www.themoviedb.org/t/p/w500/sPXdti3kRfBFufFTX2QxKId2hfy.jpg",
+    "release_date": "5/17/24"
   }
 ]
