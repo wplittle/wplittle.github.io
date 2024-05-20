@@ -1,5 +1,21 @@
 [
   {
+    "id": 1327,
+    "imdb_id": "tt15451150",
+    "tmdb_id": "879412",
+    "title": "YOU CAN'T RUN FOREVER",
+    "poster": "https://www.themoviedb.org/t/p/w500/sPXdti3kRfBFufFTX2QxKId2hfy.jpg",
+    "release_date": "5/17/24"
+  },
+  {
+    "id": 1325,
+    "imdb_id": "tt10442352",
+    "tmdb_id": "739547",
+    "title": "THELMA THE UNICORN",
+    "poster": "https://www.themoviedb.org/t/p/w500/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg",
+    "release_date": "5/17/24"
+  },
+  {
     "id": 1,
     "imdb_id": "tt11674730",
     "tmdb_id": "1047020",
