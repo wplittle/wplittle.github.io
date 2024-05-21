@@ -198,5 +198,20 @@
     "title": "THE STRANGERS: CHAPTER 1",
     "poster": "https://www.themoviedb.org/t/p/w500/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
     "release_date": "5/17/24"
+  },{
+    "id": 1328,
+    "imdb_id": "tt23173980",
+    "tmdb_id": "1049574",
+    "title": "DARKNESS OF MAN",
+    "poster": "https://www.themoviedb.org/t/p/w500/tsj5oYBRoF5PuTYrfe1Hw6fsxfG.jpg",
+    "release_date": "5/21/24"
+  },
+  {
+    "id": 1329,
+    "imdb_id": "tt13391554",
+    "tmdb_id": "1068260",
+    "title": "DEAD WRONG",
+    "poster": "https://www.themoviedb.org/t/p/w500/8fgWP9wK96rIWRYCXVf64HS1wi2.jpg",
+    "release_date": "5/21/24"
   }
 ]
