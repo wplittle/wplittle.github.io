@@ -1,6 +1,6 @@
 [
   {
-    "id": 1301,
+    "id": 1318,
     "imdb_id": "tt17372926",
     "tmdb_id": "1014063",
     "title": "AT THE GATES",
@@ -8,7 +8,7 @@
     "release_date": "11/3/23"
   },
   {
-    "id": 1302,
+    "id": 1319,
     "imdb_id": "tt15091524",
     "tmdb_id": "912600",
     "title": "SOME OTHER WOMAN",
@@ -16,7 +16,7 @@
     "release_date": "1/5/24"
   },
   {
-    "id": 1303,
+    "id": 1320,
     "imdb_id": "tt2263648",
     "tmdb_id": "476928",
     "title": "WHAT ABOUT LOVE",
@@ -24,7 +24,7 @@
     "release_date": "2/14/24"
   },
   {
-    "id": 1304,
+    "id": 1321,
     "imdb_id": "tt12004238",
     "tmdb_id": "680027",
     "title": "ALTERED REALITY",
@@ -32,7 +32,7 @@
     "release_date": "2/16/24"
   },
   {
-    "id": 1305,
+    "id": 1322,
     "imdb_id": "tt14356266",
     "tmdb_id": "1223440",
     "title": "THE NEON HIGHWAY",
@@ -40,7 +40,7 @@
     "release_date": "2/27/24"
   },
   {
-    "id": 1306,
+    "id": 1323,
     "imdb_id": "tt9352178",
     "tmdb_id": "632995",
     "title": "THE PRIMEVALS",
@@ -48,7 +48,7 @@
     "release_date": "3/11/24"
   },
   {
-    "id": 1307,
+    "id": 1324,
     "imdb_id": "tt24806518",
     "tmdb_id": "1063679",
     "title": "FREE TIME",
@@ -56,7 +56,7 @@
     "release_date": "3/22/24"
   },
   {
-    "id": 1308,
+    "id": 1325,
     "imdb_id": "tt21651430",
     "tmdb_id": "808482",
     "title": "THE PEOPLE'S JOKER",
@@ -64,15 +64,7 @@
     "release_date": "4/5/24"
   },
   {
-    "id": 1309,
-    "imdb_id": "tt15353574",
-    "tmdb_id": "1009679",
-    "title": "HARD MILES",
-    "poster": "https://www.themoviedb.org/t/p/w500/pU50LpVZ7doTyJeC9JaqcbeH4ef.jpg",
-    "release_date": "4/19/24"
-  },
-  {
-    "id": 1310,
+    "id": 1326,
     "imdb_id": "tt28639049",
     "tmdb_id": "1163186",
     "title": "WE GROWN NOW",
@@ -80,15 +72,7 @@
     "release_date": "4/19/24"
   },
   {
-    "id": 1311,
-    "imdb_id": "tt30319533",
-    "tmdb_id": "1214474",
-    "title": "STRESS POSITIONS",
-    "poster": "https://www.themoviedb.org/t/p/w500/lXfh0bSMc8BcpUyaddZYmfsWwbs.jpg",
-    "release_date": "4/19/24"
-  },
-  {
-    "id": 1312,
+    "id": 1327,
     "imdb_id": "tt23638614",
     "tmdb_id": "1115009",
     "title": "UNSUNG HERO",
@@ -96,23 +80,15 @@
     "release_date": "4/26/24"
   },
   {
-    "id": 1313,
-    "imdb_id": "tt27722061",
-    "tmdb_id": "1059319",
-    "title": "THE FEELING THAT THE TIME FOR DOING SOMETHING HAS PASSED",
-    "poster": "https://www.themoviedb.org/t/p/w500/739T9ieCKgPvmZfzQzYl9dyX6cp.jpg",
-    "release_date": "4/26/24"
-  },
-  {
-    "id": 1314,
+    "id": 1328,
     "imdb_id": "tt27507837",
     "tmdb_id": "1115579",
     "title": "LOST SOULZ",
-    "poster": "https://www.themoviedb.org/t/p/w500/fFYgnBCTDONhMw3qW3um0LovBFM.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/wFIzNpkOMcqjBA9ZwJAlHholLEd.jpg",
     "release_date": "5/3/24"
   },
   {
-    "id": 1315,
+    "id": 1329,
     "imdb_id": "tt26442871",
     "tmdb_id": "1076101",
     "title": "WILDCAT",
@@ -120,55 +96,7 @@
     "release_date": "5/3/24"
   },
   {
-    "id": 1316,
-    "imdb_id": "tt11389872",
-    "tmdb_id": "653346",
-    "title": "KINGDOM OF THE PLANET OF THE APES",
-    "poster": "https://www.themoviedb.org/t/p/w500/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1317,
-    "imdb_id": "tt28494031",
-    "tmdb_id": "1156110",
-    "title": "GASOLINE RAINBOW",
-    "poster": "https://www.themoviedb.org/t/p/w500/3wZPMKCrL4jwpAMWgQQoV75VaU.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1318,
-    "imdb_id": "tt19358036",
-    "tmdb_id": "1045467",
-    "title": "NOT ANOTHER CHURCH MOVIE",
-    "poster": "https://www.themoviedb.org/t/p/w500/1EJ3MhWGnWNXLgmWXb4e3QGb1m1.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1319,
-    "imdb_id": "tt18077924",
-    "tmdb_id": "834562",
-    "title": "POOLMAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/vVz4Rh4j6FQTq9eva3xEvCMumAh.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1320,
-    "imdb_id": "tt28332336",
-    "tmdb_id": "1183002",
-    "title": "THE IMAGE OF YOU",
-    "poster": "https://www.themoviedb.org/t/p/w500/gboq2oB6QNBcW32V0A8uOajTwXU.jpg",
-    "release_date": "5/10/24"
-  },
-  {
-    "id": 1321,
-    "imdb_id": "tt15782954",
-    "tmdb_id": "1062198",
-    "title": "FRESH KILLS",
-    "poster": "https://www.themoviedb.org/t/p/w500/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
-    "release_date": "5/17/24"
-  },
-  {
-    "id": 1322,
+    "id": 1330,
     "imdb_id": "tt11152168",
     "tmdb_id": "639720",
     "title": "IF",
@@ -176,42 +104,195 @@
     "release_date": "5/17/24"
   },
   {
-    "id": 1323,
-    "imdb_id": "tt21261712",
-    "tmdb_id": "998846",
-    "title": "BACK TO BLACK",
-    "poster": "https://www.themoviedb.org/t/p/w500/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
-    "release_date": "5/17/24"
-  },
-  {
-    "id": 1324,
+    "id": 1331,
     "imdb_id": "tt21276958",
     "tmdb_id": "999582",
     "title": "BABES",
-    "poster": "https://www.themoviedb.org/t/p/w500/jNZhSeDXDNX2rHqURPzq43lI6Xg.jpg",
+    "poster": "https://www.themoviedb.org/t/p/w500/qEU8ByvvhYba4hDlkKVXfIuiGWB.jpg",
     "release_date": "5/17/24"
   },
   {
-    "id": 1326,
+    "id": 1332,
     "imdb_id": "tt22050754",
     "tmdb_id": "1010600",
     "title": "THE STRANGERS: CHAPTER 1",
     "poster": "https://www.themoviedb.org/t/p/w500/qyT2xw9FBxHlNXQYsuNCu8T7Rbo.jpg",
     "release_date": "5/17/24"
-  },{
-    "id": 1328,
-    "imdb_id": "tt23173980",
-    "tmdb_id": "1049574",
-    "title": "DARKNESS OF MAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/tsj5oYBRoF5PuTYrfe1Hw6fsxfG.jpg",
-    "release_date": "5/21/24"
   },
   {
-    "id": 1329,
-    "imdb_id": "tt13391554",
-    "tmdb_id": "1068260",
-    "title": "DEAD WRONG",
-    "poster": "https://www.themoviedb.org/t/p/w500/8fgWP9wK96rIWRYCXVf64HS1wi2.jpg",
-    "release_date": "5/21/24"
+    "id": 1333,
+    "imdb_id": "tt12873300",
+    "tmdb_id": "1057006",
+    "title": "SIGHT",
+    "poster": "https://www.themoviedb.org/t/p/w500/vICC15G7L5WIqW3lVFxeae4kvKp.jpg",
+    "release_date": "5/24/24"
+  },
+  {
+    "id": 1334,
+    "imdb_id": "tt5779228",
+    "tmdb_id": "748783",
+    "title": "THE GARFIELD MOVIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+    "release_date": "5/24/24"
+  },
+  {
+    "id": 1335,
+    "imdb_id": "tt15507424",
+    "tmdb_id": "1295174",
+    "title": "THE KEEPER",
+    "poster": "https://www.themoviedb.org/t/p/w500/1ZWSj6uK3TNomhvMegsh6YkyHE9.jpg",
+    "release_date": "5/24/24"
+  },
+  {
+    "id": 1336,
+    "imdb_id": "tt5765240",
+    "tmdb_id": "1279104",
+    "title": "THE LEGEND OF CATCLAWS MOUNTAIN",
+    "poster": "https://www.themoviedb.org/t/p/w500/4T3Gz4ZC8H6kaEpq56S4j3mI40L.jpg",
+    "release_date": "5/28/24"
+  },
+  {
+    "id": 1337,
+    "imdb_id": "tt22184520",
+    "tmdb_id": "1041517",
+    "title": "DEER CAMP '86",
+    "poster": "https://www.themoviedb.org/t/p/w500/dhjfSUByNAsZuiwZlTOdXXLhKKz.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1338,
+    "imdb_id": "tt13638858",
+    "tmdb_id": "1126934",
+    "title": "WHAT YOU WISH FOR",
+    "poster": "https://www.themoviedb.org/t/p/w500/bBbceiJHq4dqrKcFEAKolBhiDx0.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1339,
+    "imdb_id": "tt26739710",
+    "tmdb_id": "1093974",
+    "title": "BACKSPOT",
+    "poster": "https://www.themoviedb.org/t/p/w500/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1340,
+    "imdb_id": "tt20315818",
+    "tmdb_id": "977262",
+    "title": "EZRA",
+    "poster": "https://www.themoviedb.org/t/p/w500/uXSajviZLZhYUSNL41y1PJ9RisB.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1341,
+    "imdb_id": "tt26928684",
+    "tmdb_id": "1094009",
+    "title": "SUMMER CAMP",
+    "poster": "https://www.themoviedb.org/t/p/w500/qoScfa6S3P3WDi9hZYGctNFRa4t.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1342,
+    "imdb_id": "tt5177114",
+    "tmdb_id": "774531",
+    "title": "YOUNG WOMAN AND THE SEA",
+    "poster": "https://www.themoviedb.org/t/p/w500/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1343,
+    "imdb_id": "tt14260566",
+    "tmdb_id": "800513",
+    "title": "THE GREAT LILLIAN HALL",
+    "poster": "https://www.themoviedb.org/t/p/w500/2ogNnNAmteEYlhf8iW4rPXgfYNW.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1344,
+    "imdb_id": "tt31956123",
+    "tmdb_id": "1283707",
+    "title": "SHADOW LAND",
+    "poster": "https://www.themoviedb.org/t/p/w500/n6tk8oqhUki6Zp4PIuQqr1aTSXq.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1345,
+    "imdb_id": "tt26669823",
+    "tmdb_id": "1273736",
+    "title": "PROTOCOL-7",
+    "poster": "https://www.themoviedb.org/t/p/w500/2JxhRdPU54A3QHIortu3alX6nWo.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1346,
+    "imdb_id": "tt18375360",
+    "tmdb_id": "945393",
+    "title": "THE YOUNG WIFE",
+    "poster": "https://www.themoviedb.org/t/p/w500/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
+    "release_date": "5/31/24"
+  },
+  {
+    "id": 1347,
+    "imdb_id": "tt10993078",
+    "tmdb_id": "1114738",
+    "title": "BONEYARD",
+    "poster": "https://www.themoviedb.org/t/p/w500/mCcgzeAy7uNsOg2MiBKz8NFOvAp.jpg",
+    "release_date": "6/5/24"
+  },
+  {
+    "id": 1348,
+    "imdb_id": "tt11225626",
+    "tmdb_id": "641934",
+    "title": "AM I OK?",
+    "poster": "https://www.themoviedb.org/t/p/w500/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
+    "release_date": "6/6/24"
+  },
+  {
+    "id": 1349,
+    "imdb_id": "tt21284442",
+    "tmdb_id": "999849",
+    "title": "LATE BLOOMERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/3SOHdbnArnILAkv07X0f6uCRBxf.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 1350,
+    "imdb_id": "tt14682800",
+    "tmdb_id": "831395",
+    "title": "TUESDAY",
+    "poster": "https://www.themoviedb.org/t/p/w500/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 1351,
+    "imdb_id": "tt21478426",
+    "tmdb_id": "1289601",
+    "title": "LIFE AFTER FIGHTING",
+    "poster": "https://www.themoviedb.org/t/p/w500/1l0BMkChCespKNKRqIRAJy7ahje.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 1352,
+    "imdb_id": "tt4919268",
+    "tmdb_id": "573435",
+    "title": "BAD BOYS: RIDE OR DIE",
+    "poster": "https://www.themoviedb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 1353,
+    "imdb_id": "tt26736843",
+    "tmdb_id": "1086747",
+    "title": "THE WATCHERS",
+    "poster": "https://www.themoviedb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+    "release_date": "6/7/24"
+  },
+  {
+    "id": 1354,
+    "imdb_id": "tt8442220",
+    "tmdb_id": "1167351",
+    "title": "LONGING",
+    "poster": "https://www.themoviedb.org/t/p/w500/o2gWEaM4nv0t9VYxsJowqnTWpN4.jpg",
+    "release_date": "6/7/24"
   }
 ]
