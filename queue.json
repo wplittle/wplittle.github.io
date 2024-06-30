@@ -216,14 +216,6 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1374,
-    "imdb_id":"tt5834874",
-    "tmdb_id":"704673",
-    "title":"TRIGGER WARNING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3Upk7iUi5cIsDJm5QlnzaHILHN8.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
     "id":1373,
     "imdb_id":"tt22408160",
     "tmdb_id":"1029955",
@@ -232,19 +224,19 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1371,
-    "imdb_id":"tt22767628",
-    "tmdb_id":"1215918",
-    "title":"BLACKWATER LANE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
     "id":1372,
     "imdb_id":"tt11240348",
     "tmdb_id":"646683",
     "title":"THE EXORCISM",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":1371,
+    "imdb_id":"tt22767628",
+    "tmdb_id":"1215918",
+    "title":"BLACKWATER LANE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
     "release_date":"6\/21\/24"
   },
   {
