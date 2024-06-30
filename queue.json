@@ -1,418 +1,346 @@
 [
   {
-    "id": 1332,
-    "imdb_id": "tt17372926",
-    "tmdb_id": "1014063",
-    "title": "AT THE GATES",
-    "poster": "https://www.themoviedb.org/t/p/w500/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg",
-    "release_date": "11/3/23"
+    "id":1152,
+    "imdb_id":"tt17372926",
+    "tmdb_id":"1014063",
+    "title":"AT THE GATES",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kOSRXwB7WLn3tq5DYT6qvTe7U82.jpg",
+    "release_date":"11\/03\/2023"
   },
   {
-    "id": 1333,
-    "imdb_id": "tt15091524",
-    "tmdb_id": "912600",
-    "title": "SOME OTHER WOMAN",
-    "poster": "https://www.themoviedb.org/t/p/w500/kiXZm4lEuE5DbvUssNFi10X3J4J.jpg",
-    "release_date": "1/5/24"
+    "id":1340,
+    "imdb_id":"tt15091524",
+    "tmdb_id":"912600",
+    "title":"SOME OTHER WOMAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kiXZm4lEuE5DbvUssNFi10X3J4J.jpg",
+    "release_date":"01\/05\/2024"
   },
   {
-    "id": 1334,
-    "imdb_id": "tt2263648",
-    "tmdb_id": "476928",
-    "title": "WHAT ABOUT LOVE",
-    "poster": "https://www.themoviedb.org/t/p/w500/jGVpMWEemYCSa2p9OSCMsaBXY98.jpg",
-    "release_date": "2/14/24"
+    "id":1341,
+    "imdb_id":"tt2263648",
+    "tmdb_id":"476928",
+    "title":"WHAT ABOUT LOVE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/jGVpMWEemYCSa2p9OSCMsaBXY98.jpg",
+    "release_date":"02\/14\/2024"
   },
   {
-    "id": 1335,
-    "imdb_id": "tt12004238",
-    "tmdb_id": "680027",
-    "title": "ALTERED REALITY",
-    "poster": "https://www.themoviedb.org/t/p/w500/5SWMAhFwRYS3VbGwIv1j2DySYMG.jpg",
-    "release_date": "2/16/24"
+    "id":1342,
+    "imdb_id":"tt12004238",
+    "tmdb_id":"680027",
+    "title":"ALTERED REALITY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5SWMAhFwRYS3VbGwIv1j2DySYMG.jpg",
+    "release_date":"02\/16\/2024"
   },
   {
-    "id": 1336,
-    "imdb_id": "tt14356266",
-    "tmdb_id": "1223440",
-    "title": "THE NEON HIGHWAY",
-    "poster": "https://www.themoviedb.org/t/p/w500/myFLl70Jg2DhJ6emvMEFMiD2tOg.jpg",
-    "release_date": "2/27/24"
+    "id":1343,
+    "imdb_id":"tt14356266",
+    "tmdb_id":"1223440",
+    "title":"THE NEON HIGHWAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/myFLl70Jg2DhJ6emvMEFMiD2tOg.jpg",
+    "release_date":"02\/27\/2024"
   },
   {
-    "id": 1337,
-    "imdb_id": "tt24806518",
-    "tmdb_id": "1063679",
-    "title": "FREE TIME",
-    "poster": "https://www.themoviedb.org/t/p/w500/nO7inolIFHkNUAklk1iHdfPfHlr.jpg",
-    "release_date": "3/22/24"
+    "id":1344,
+    "imdb_id":"tt24806518",
+    "tmdb_id":"1063679",
+    "title":"FREE TIME",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nO7inolIFHkNUAklk1iHdfPfHlr.jpg",
+    "release_date":"03\/22\/2024"
   },
   {
-    "id": 1338,
-    "imdb_id": "tt21651430",
-    "tmdb_id": "808482",
-    "title": "THE PEOPLE'S JOKER",
-    "poster": "https://www.themoviedb.org/t/p/w500/9mPoxHqonXXeQnwscNEd73Z0Ik3.jpg",
-    "release_date": "4/5/24"
+    "id":1345,
+    "imdb_id":"tt21651430",
+    "tmdb_id":"808482",
+    "title":"THE PEOPLE'S JOKER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/9mPoxHqonXXeQnwscNEd73Z0Ik3.jpg",
+    "release_date":"04\/05\/2024"
   },
   {
-    "id": 1339,
-    "imdb_id": "tt26442871",
-    "tmdb_id": "1076101",
-    "title": "WILDCAT",
-    "poster": "https://www.themoviedb.org/t/p/w500/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg",
-    "release_date": "5/3/24"
+    "id":1346,
+    "imdb_id":"tt26442871",
+    "tmdb_id":"1076101",
+    "title":"WILDCAT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg",
+    "release_date":"05\/03\/2024"
   },
   {
-    "id": 1340,
-    "imdb_id": "tt21276958",
-    "tmdb_id": "999582",
-    "title": "BABES",
-    "poster": "https://www.themoviedb.org/t/p/w500/qEU8ByvvhYba4hDlkKVXfIuiGWB.jpg",
-    "release_date": "5/17/24"
+    "id":1347,
+    "imdb_id":"tt21276958",
+    "tmdb_id":"999582",
+    "title":"BABES",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qEU8ByvvhYba4hDlkKVXfIuiGWB.jpg",
+    "release_date":"05\/17\/2024"
   },
   {
-    "id": 1341,
-    "imdb_id": "tt15507424",
-    "tmdb_id": "1295174",
-    "title": "THE KEEPER",
-    "poster": "https://www.themoviedb.org/t/p/w500/1ZWSj6uK3TNomhvMegsh6YkyHE9.jpg",
-    "release_date": "5/24/24"
+    "id":1348,
+    "imdb_id":"tt15507424",
+    "tmdb_id":"1295174",
+    "title":"THE KEEPER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1ZWSj6uK3TNomhvMegsh6YkyHE9.jpg",
+    "release_date":"05\/24\/2024"
   },
   {
-    "id": 1342,
-    "imdb_id": "tt22184520",
-    "tmdb_id": "1041517",
-    "title": "DEER CAMP '86",
-    "poster": "https://www.themoviedb.org/t/p/w500/dhjfSUByNAsZuiwZlTOdXXLhKKz.jpg",
-    "release_date": "5/31/24"
+    "id":1353,
+    "imdb_id":"tt18375360",
+    "tmdb_id":"945393",
+    "title":"THE YOUNG WIFE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
+    "release_date":"05\/31\/2024"
   },
   {
-    "id": 1343,
-    "imdb_id": "tt26739710",
-    "tmdb_id": "1093974",
-    "title": "BACKSPOT",
-    "poster": "https://www.themoviedb.org/t/p/w500/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
-    "release_date": "5/31/24"
+    "id":1352,
+    "imdb_id":"tt26669823",
+    "tmdb_id":"1273736",
+    "title":"PROTOCOL-7",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/img74ojiZaAChozjYeYyS7Lv35f.jpg",
+    "release_date":"05\/31\/2024"
   },
   {
-    "id": 1344,
-    "imdb_id": "tt20315818",
-    "tmdb_id": "977262",
-    "title": "EZRA",
-    "poster": "https://www.themoviedb.org/t/p/w500/uXSajviZLZhYUSNL41y1PJ9RisB.jpg",
-    "release_date": "5/31/24"
+    "id":1350,
+    "imdb_id":"tt26739710",
+    "tmdb_id":"1093974",
+    "title":"BACKSPOT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
+    "release_date":"05\/31\/2024"
   },
   {
-    "id": 1345,
-    "imdb_id": "tt26928684",
-    "tmdb_id": "1094009",
-    "title": "SUMMER CAMP",
-    "poster": "https://www.themoviedb.org/t/p/w500/qoScfa6S3P3WDi9hZYGctNFRa4t.jpg",
-    "release_date": "5/31/24"
+    "id":1349,
+    "imdb_id":"tt22184520",
+    "tmdb_id":"1041517",
+    "title":"DEER CAMP '86",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dhjfSUByNAsZuiwZlTOdXXLhKKz.jpg",
+    "release_date":"05\/31\/2024"
   },
   {
-    "id": 1346,
-    "imdb_id": "tt5177114",
-    "tmdb_id": "774531",
-    "title": "YOUNG WOMAN AND THE SEA",
-    "poster": "https://www.themoviedb.org/t/p/w500/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
-    "release_date": "5/31/24"
+    "id":1351,
+    "imdb_id":"tt5177114",
+    "tmdb_id":"774531",
+    "title":"YOUNG WOMAN AND THE SEA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
+    "release_date":"05\/31\/2024"
   },
   {
-    "id": 1347,
-    "imdb_id": "tt26669823",
-    "tmdb_id": "1273736",
-    "title": "PROTOCOL-7",
-    "poster": "https://www.themoviedb.org/t/p/w500/img74ojiZaAChozjYeYyS7Lv35f.jpg",
-    "release_date": "5/31/24"
+    "id":1354,
+    "imdb_id":"tt10993078",
+    "tmdb_id":"1114738",
+    "title":"BONEYARD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/u3ZwuidDKMa5aYQAPNGk5khRrks.jpg",
+    "release_date":"06\/05\/2024"
   },
   {
-    "id": 1348,
-    "imdb_id": "tt18375360",
-    "tmdb_id": "945393",
-    "title": "THE YOUNG WIFE",
-    "poster": "https://www.themoviedb.org/t/p/w500/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
-    "release_date": "5/31/24"
+    "id":1355,
+    "imdb_id":"tt14682800",
+    "tmdb_id":"831395",
+    "title":"TUESDAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+    "release_date":"06\/07\/2024"
   },
   {
-    "id": 1349,
-    "imdb_id": "tt10993078",
-    "tmdb_id": "1114738",
-    "title": "BONEYARD",
-    "poster": "https://www.themoviedb.org/t/p/w500/mCcgzeAy7uNsOg2MiBKz8NFOvAp.jpg",
-    "release_date": "6/5/24"
+    "id":1356,
+    "imdb_id":"tt4919268",
+    "tmdb_id":"573435",
+    "title":"BAD BOYS: RIDE OR DIE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+    "release_date":"06\/07\/2024"
   },
   {
-    "id": 1350,
-    "imdb_id": "tt11225626",
-    "tmdb_id": "641934",
-    "title": "AM I OK?",
-    "poster": "https://www.themoviedb.org/t/p/w500/qKkaG7HVFVe7C1JuxTGwNz0eSyL.jpg",
-    "release_date": "6/6/24"
+    "id":1357,
+    "imdb_id":"tt8442220",
+    "tmdb_id":"1167351",
+    "title":"LONGING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yozIV5KgjKJbXNh5blU71vjoOOM.jpg",
+    "release_date":"06\/07\/2024"
   },
   {
-    "id": 1351,
-    "imdb_id": "tt21284442",
-    "tmdb_id": "999849",
-    "title": "LATE BLOOMERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/3SOHdbnArnILAkv07X0f6uCRBxf.jpg",
-    "release_date": "6/7/24"
+    "id":1358,
+    "imdb_id":"tt11985484",
+    "tmdb_id":"879502",
+    "title":"KILLER OF MEN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iaznGUC6A76x9CsiIu1K5ZQd7k3.jpg",
+    "release_date":"06\/11\/2024"
   },
   {
-    "id": 1352,
-    "imdb_id": "tt14682800",
-    "tmdb_id": "831395",
-    "title": "TUESDAY",
-    "poster": "https://www.themoviedb.org/t/p/w500/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
-    "release_date": "6/7/24"
+    "id":1365,
+    "imdb_id":"tt20255354",
+    "tmdb_id":"1011516",
+    "title":"THE PRESENT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ty34N8ddZS2xsBXuGtOHCuXz1bN.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1353,
-    "imdb_id": "tt21478426",
-    "tmdb_id": "1289601",
-    "title": "LIFE AFTER FIGHTING",
-    "poster": "https://www.themoviedb.org/t/p/w500/5IRyM2LaWfZcpuwWE1np2eWsdp0.jpg",
-    "release_date": "6/7/24"
+    "id":1366,
+    "imdb_id":"tt26295103",
+    "tmdb_id":"1279642",
+    "title":"RIDE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1354,
-    "imdb_id": "tt15846876",
-    "tmdb_id": "1094596",
-    "title": "TRIM SEASON",
-    "poster": "https://www.themoviedb.org/t/p/w500/tHlKo2CQbI7OWD0hcEB0vhm5fK7.jpg",
-    "release_date": "6/7/24"
+    "id":1364,
+    "imdb_id":"tt9471678",
+    "tmdb_id":"829402",
+    "title":"ULTRAMAN: RISING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/j886YEkIUsiImY53px5VHKD4lRa.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1355,
-    "imdb_id": "tt4919268",
-    "tmdb_id": "573435",
-    "title": "BAD BOYS: RIDE OR DIE",
-    "poster": "https://www.themoviedb.org/t/p/w500/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
-    "release_date": "6/7/24"
+    "id":1360,
+    "imdb_id":"tt15782954",
+    "tmdb_id":"1062198",
+    "title":"FRESH KILLS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1356,
-    "imdb_id": "tt26736843",
-    "tmdb_id": "1086747",
-    "title": "THE WATCHERS",
-    "poster": "https://www.themoviedb.org/t/p/w500/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
-    "release_date": "6/7/24"
+    "id":1362,
+    "imdb_id":"tt23146644",
+    "tmdb_id":"1042657",
+    "title":"LATENCY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eFEvsmCR7tjari53AFcfwjelKrW.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1357,
-    "imdb_id": "tt8442220",
-    "tmdb_id": "1167351",
-    "title": "LONGING",
-    "poster": "https://www.themoviedb.org/t/p/w500/o2gWEaM4nv0t9VYxsJowqnTWpN4.jpg",
-    "release_date": "6/7/24"
+    "id":1359,
+    "imdb_id":"tt30321095",
+    "tmdb_id":"1214469",
+    "title":"GHOSTLIGHT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1358,
-    "imdb_id": "tt11985484",
-    "tmdb_id": "879502",
-    "title": "KILLER OF MEN",
-    "poster": "https://www.themoviedb.org/t/p/w500/iaznGUC6A76x9CsiIu1K5ZQd7k3.jpg",
-    "release_date": "6/11/24"
+    "id":1363,
+    "imdb_id":"tt22022452",
+    "tmdb_id":"1022789",
+    "title":"INSIDE OUT 2",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date":"06\/14\/2024"
   },
   {
-    "id": 1359,
-    "imdb_id": "tt30321095",
-    "tmdb_id": "1214469",
-    "title": "GHOSTLIGHT",
-    "poster": "https://www.themoviedb.org/t/p/w500/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
-    "release_date": "6/14/24"
+    "id":1374,
+    "imdb_id":"tt26743864",
+    "tmdb_id":"1198899",
+    "title":"AGENT RECON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1360,
-    "imdb_id": "tt15782954",
-    "tmdb_id": "1062198",
-    "title": "FRESH KILLS",
-    "poster": "https://www.themoviedb.org/t/p/w500/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
-    "release_date": "6/14/24"
+    "id":1372,
+    "imdb_id":"tt22408160",
+    "tmdb_id":"1029955",
+    "title":"KINDS OF KINDNESS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/8mmpltkcG9areafsQHXaURedno3.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1361,
-    "imdb_id": "tt20216624",
-    "tmdb_id": "1043870",
-    "title": "REVERSE THE CURSE",
-    "poster": "https://www.themoviedb.org/t/p/w500/lKMS9EzlyWXNXB020fYkeHCWQ5r.jpg",
-    "release_date": "6/14/24"
+    "id":1371,
+    "imdb_id":"tt11240348",
+    "tmdb_id":"646683",
+    "title":"THE EXORCISM",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1362,
-    "imdb_id": "tt23146644",
-    "tmdb_id": "1042657",
-    "title": "LATENCY",
-    "poster": "https://www.themoviedb.org/t/p/w500/eFEvsmCR7tjari53AFcfwjelKrW.jpg",
-    "release_date": "6/14/24"
+    "id":1373,
+    "imdb_id":"tt5834874",
+    "tmdb_id":"704673",
+    "title":"TRIGGER WARNING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3Upk7iUi5cIsDJm5QlnzaHILHN8.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1363,
-    "imdb_id": "tt22022452",
-    "tmdb_id": "1022789",
-    "title": "INSIDE OUT 2",
-    "poster": "https://www.themoviedb.org/t/p/w500/oxxqiyWrnM0XPnBtVe9TgYWnPxT.jpg",
-    "release_date": "6/14/24"
+    "id":1369,
+    "imdb_id":"tt15558178",
+    "tmdb_id":"881517",
+    "title":"CHESTNUT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1364,
-    "imdb_id": "tt9471678",
-    "tmdb_id": "829402",
-    "title": "ULTRAMAN: RISING",
-    "poster": "https://www.themoviedb.org/t/p/w500/j886YEkIUsiImY53px5VHKD4lRa.jpg",
-    "release_date": "6/14/24"
+    "id":1368,
+    "imdb_id":"tt28366692",
+    "tmdb_id":"1037035",
+    "title":"JANET PLANET",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wBzsGjJR4b3K3v3fY7jeu0wiTod.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1365,
-    "imdb_id": "tt20255354",
-    "tmdb_id": "1011516",
-    "title": "THE PRESENT",
-    "poster": "https://www.themoviedb.org/t/p/w500/ty34N8ddZS2xsBXuGtOHCuXz1bN.jpg",
-    "release_date": "6/14/24"
+    "id":1367,
+    "imdb_id":"tt21813994",
+    "tmdb_id":"1058617",
+    "title":"FANCY DANCE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uEiosO6QiXITDIMGf2JQ9tRkqyM.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1366,
-    "imdb_id": "tt26295103",
-    "tmdb_id": "1279642",
-    "title": "RIDE",
-    "poster": "https://www.themoviedb.org/t/p/w500/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
-    "release_date": "6/14/24"
+    "id":1370,
+    "imdb_id":"tt22767628",
+    "tmdb_id":"1215918",
+    "title":"BLACKWATER LANE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
+    "release_date":"06\/21\/2024"
   },
   {
-    "id": 1367,
-    "imdb_id": "tt23778968",
-    "tmdb_id": "1051891",
-    "title": "THELMA",
-    "poster": "https://www.themoviedb.org/t/p/w500/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
-    "release_date": "6/21/24"
+    "id":1381,
+    "imdb_id":"tt28128599",
+    "tmdb_id":"1288913",
+    "title":"MIDAS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1368,
-    "imdb_id": "tt21813994",
-    "tmdb_id": "1058617",
-    "title": "FANCY DANCE",
-    "poster": "https://www.themoviedb.org/t/p/w500/uEiosO6QiXITDIMGf2JQ9tRkqyM.jpg",
-    "release_date": "6/21/24"
+    "id":1375,
+    "imdb_id":"tt7461686",
+    "tmdb_id":"843416",
+    "title":"DADDIO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1369,
-    "imdb_id": "tt28366692",
-    "tmdb_id": "1037035",
-    "title": "JANET PLANET",
-    "poster": "https://www.themoviedb.org/t/p/w500/wBzsGjJR4b3K3v3fY7jeu0wiTod.jpg",
-    "release_date": "6/21/24"
+    "id":1376,
+    "imdb_id":"tt18834372",
+    "tmdb_id":"982221",
+    "title":"JUNE ZERO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1370,
-    "imdb_id": "tt15558178",
-    "tmdb_id": "881517",
-    "title": "CHESTNUT",
-    "poster": "https://www.themoviedb.org/t/p/w500/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
-    "release_date": "6/21/24"
+    "id":1377,
+    "imdb_id":"tt21257870",
+    "tmdb_id":"1147755",
+    "title":"FAMILY PORTRAIT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1371,
-    "imdb_id": "tt22767628",
-    "tmdb_id": "1215918",
-    "title": "BLACKWATER LANE",
-    "poster": "https://www.themoviedb.org/t/p/w500/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
-    "release_date": "6/21/24"
+    "id":1378,
+    "imdb_id":"tt13433802",
+    "tmdb_id":"762441",
+    "title":"A QUIET PLACE: DAY ONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1372,
-    "imdb_id": "tt11240348",
-    "tmdb_id": "646683",
-    "title": "THE EXORCISM",
-    "poster": "https://www.themoviedb.org/t/p/w500/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
-    "release_date": "6/21/24"
+    "id":1379,
+    "imdb_id":"tt17505010",
+    "tmdb_id":"932086",
+    "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1373,
-    "imdb_id": "tt22408160",
-    "tmdb_id": "1029955",
-    "title": "KINDS OF KINDNESS",
-    "poster": "https://www.themoviedb.org/t/p/w500/8mmpltkcG9areafsQHXaURedno3.jpg",
-    "release_date": "6/21/24"
+    "id":1380,
+    "imdb_id":"tt21051906",
+    "tmdb_id":"987686",
+    "title":"A FAMILY AFFAIR",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg",
+    "release_date":"06\/28\/2024"
   },
   {
-    "id": 1374,
-    "imdb_id": "tt5834874",
-    "tmdb_id": "704673",
-    "title": "TRIGGER WARNING",
-    "poster": "https://www.themoviedb.org/t/p/w500/6XJM3C47iGOK9nFU6yLFCSf4U5c.jpg",
-    "release_date": "6/21/24"
-  },
-  {
-    "id": 1375,
-    "imdb_id": "tt26743864",
-    "tmdb_id": "1198899",
-    "title": "AGENT RECON",
-    "poster": "https://www.themoviedb.org/t/p/w500/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg",
-    "release_date": "6/21/24"
-  },
-  {
-    "id": 1376,
-    "imdb_id": "tt7461686",
-    "tmdb_id": "843416",
-    "title": "DADDIO",
-    "poster": "https://www.themoviedb.org/t/p/w500/knmIdCpnRP20rvLw43TayuvuOhk.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1377,
-    "imdb_id": "tt18834372",
-    "tmdb_id": "982221",
-    "title": "JUNE ZERO",
-    "poster": "https://www.themoviedb.org/t/p/w500/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1378,
-    "imdb_id": "tt21257870",
-    "tmdb_id": "1147755",
-    "title": "FAMILY PORTRAIT",
-    "poster": "https://www.themoviedb.org/t/p/w500/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1379,
-    "imdb_id": "tt13433802",
-    "tmdb_id": "762441",
-    "title": "A QUIET PLACE: DAY ONE",
-    "poster": "https://www.themoviedb.org/t/p/w500/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1380,
-    "imdb_id": "tt17505010",
-    "tmdb_id": "932086",
-    "title": "HORIZON: AN AMERICAN SAGA - CHAPTER 1",
-    "poster": "https://www.themoviedb.org/t/p/w500/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1381,
-    "imdb_id": "tt21051906",
-    "tmdb_id": "987686",
-    "title": "A FAMILY AFFAIR",
-    "poster": "https://www.themoviedb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1382,
-    "imdb_id": "tt28128599",
-    "tmdb_id": "1288913",
-    "title": "MIDAS",
-    "poster": "https://www.themoviedb.org/t/p/w500/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
-    "release_date": "6/28/24"
-  },
-  {
-    "id": 1383,
-    "imdb_id": "tt16491560",
-    "tmdb_id": "931628",
-    "title": "A SACRIFICE (fka BERLIN NOBODY)",
-    "poster": "https://www.themoviedb.org/t/p/w500/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
-    "release_date": "6/28/24"
+    "id":1382,
+    "imdb_id":"tt16491560",
+    "tmdb_id":"931628",
+    "title":"A SACRIFICE (fka BERLIN NOBODY)",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
+    "release_date":"06\/28\/2024"
   }
 ]
