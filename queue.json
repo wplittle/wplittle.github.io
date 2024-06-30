@@ -1,5 +1,13 @@
 [
   {
+    "id":1153,
+    "imdb_id":"tt23037488",
+    "tmdb_id":"1093994",
+    "title":"ONE RANGER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
+    "release_date":"5\/5\/23"
+  },
+  {
     "id":1152,
     "imdb_id":"tt17372926",
     "tmdb_id":"1014063",
@@ -8,7 +16,7 @@
     "release_date":"11\/3\/23"
   },
   {
-    "id":1340,
+    "id":1341,
     "imdb_id":"tt15091524",
     "tmdb_id":"912600",
     "title":"SOME OTHER WOMAN",
@@ -16,7 +24,7 @@
     "release_date":"1\/5\/24"
   },
   {
-    "id":1341,
+    "id":1342,
     "imdb_id":"tt2263648",
     "tmdb_id":"476928",
     "title":"WHAT ABOUT LOVE",
@@ -24,7 +32,7 @@
     "release_date":"2\/14\/24"
   },
   {
-    "id":1342,
+    "id":1343,
     "imdb_id":"tt12004238",
     "tmdb_id":"680027",
     "title":"ALTERED REALITY",
@@ -32,7 +40,7 @@
     "release_date":"2\/16\/24"
   },
   {
-    "id":1343,
+    "id":1344,
     "imdb_id":"tt14356266",
     "tmdb_id":"1223440",
     "title":"THE NEON HIGHWAY",
@@ -40,7 +48,7 @@
     "release_date":"2\/27\/24"
   },
   {
-    "id":1344,
+    "id":1345,
     "imdb_id":"tt24806518",
     "tmdb_id":"1063679",
     "title":"FREE TIME",
@@ -48,7 +56,7 @@
     "release_date":"3\/22\/24"
   },
   {
-    "id":1345,
+    "id":1346,
     "imdb_id":"tt21651430",
     "tmdb_id":"808482",
     "title":"THE PEOPLE'S JOKER",
@@ -56,7 +64,7 @@
     "release_date":"4\/5\/24"
   },
   {
-    "id":1346,
+    "id":1347,
     "imdb_id":"tt26442871",
     "tmdb_id":"1076101",
     "title":"WILDCAT",
@@ -64,7 +72,7 @@
     "release_date":"5\/3\/24"
   },
   {
-    "id":1347,
+    "id":1348,
     "imdb_id":"tt21276958",
     "tmdb_id":"999582",
     "title":"BABES",
@@ -72,7 +80,7 @@
     "release_date":"5\/17\/24"
   },
   {
-    "id":1348,
+    "id":1349,
     "imdb_id":"tt15507424",
     "tmdb_id":"1295174",
     "title":"THE KEEPER",
@@ -80,7 +88,7 @@
     "release_date":"5\/24\/24"
   },
   {
-    "id":1353,
+    "id":1354,
     "imdb_id":"tt18375360",
     "tmdb_id":"945393",
     "title":"THE YOUNG WIFE",
@@ -88,7 +96,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1352,
+    "id":1353,
     "imdb_id":"tt26669823",
     "tmdb_id":"1273736",
     "title":"PROTOCOL-7",
@@ -97,14 +105,6 @@
   },
   {
     "id":1350,
-    "imdb_id":"tt26739710",
-    "tmdb_id":"1093974",
-    "title":"BACKSPOT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
-    "id":1349,
     "imdb_id":"tt22184520",
     "tmdb_id":"1041517",
     "title":"DEER CAMP '86",
@@ -113,6 +113,14 @@
   },
   {
     "id":1351,
+    "imdb_id":"tt26739710",
+    "tmdb_id":"1093974",
+    "title":"BACKSPOT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
+    "release_date":"5\/31\/24"
+  },
+  {
+    "id":1352,
     "imdb_id":"tt5177114",
     "tmdb_id":"774531",
     "title":"YOUNG WOMAN AND THE SEA",
@@ -120,7 +128,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1354,
+    "id":1355,
     "imdb_id":"tt10993078",
     "tmdb_id":"1114738",
     "title":"BONEYARD",
@@ -128,7 +136,7 @@
     "release_date":"6\/5\/24"
   },
   {
-    "id":1355,
+    "id":1356,
     "imdb_id":"tt14682800",
     "tmdb_id":"831395",
     "title":"TUESDAY",
@@ -136,7 +144,7 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1356,
+    "id":1357,
     "imdb_id":"tt4919268",
     "tmdb_id":"573435",
     "title":"BAD BOYS: RIDE OR DIE",
@@ -144,7 +152,7 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1357,
+    "id":1358,
     "imdb_id":"tt8442220",
     "tmdb_id":"1167351",
     "title":"LONGING",
@@ -152,7 +160,7 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1358,
+    "id":1359,
     "imdb_id":"tt11985484",
     "tmdb_id":"879502",
     "title":"KILLER OF MEN",
@@ -160,7 +168,7 @@
     "release_date":"6\/11\/24"
   },
   {
-    "id":1365,
+    "id":1366,
     "imdb_id":"tt20255354",
     "tmdb_id":"1011516",
     "title":"THE PRESENT",
@@ -168,7 +176,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1366,
+    "id":1367,
     "imdb_id":"tt26295103",
     "tmdb_id":"1279642",
     "title":"RIDE",
@@ -176,7 +184,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1363,
+    "id":1364,
     "imdb_id":"tt22022452",
     "tmdb_id":"1022789",
     "title":"INSIDE OUT 2",
@@ -184,7 +192,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1359,
+    "id":1360,
     "imdb_id":"tt30321095",
     "tmdb_id":"1214469",
     "title":"GHOSTLIGHT",
@@ -192,7 +200,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1360,
+    "id":1361,
     "imdb_id":"tt15782954",
     "tmdb_id":"1062198",
     "title":"FRESH KILLS",
@@ -200,7 +208,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1362,
+    "id":1363,
     "imdb_id":"tt23146644",
     "tmdb_id":"1042657",
     "title":"LATENCY",
@@ -208,7 +216,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1374,
+    "id":1375,
     "imdb_id":"tt26743864",
     "tmdb_id":"1198899",
     "title":"AGENT RECON",
@@ -216,7 +224,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1372,
+    "id":1373,
     "imdb_id":"tt22408160",
     "tmdb_id":"1029955",
     "title":"KINDS OF KINDNESS",
@@ -224,7 +232,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1371,
+    "id":1372,
     "imdb_id":"tt11240348",
     "tmdb_id":"646683",
     "title":"THE EXORCISM",
@@ -232,7 +240,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1373,
+    "id":1374,
     "imdb_id":"tt5834874",
     "tmdb_id":"704673",
     "title":"TRIGGER WARNING",
@@ -240,7 +248,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1369,
+    "id":1370,
     "imdb_id":"tt15558178",
     "tmdb_id":"881517",
     "title":"CHESTNUT",
@@ -248,7 +256,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1368,
+    "id":1369,
     "imdb_id":"tt28366692",
     "tmdb_id":"1037035",
     "title":"JANET PLANET",
@@ -256,7 +264,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1367,
+    "id":1368,
     "imdb_id":"tt21813994",
     "tmdb_id":"1058617",
     "title":"FANCY DANCE",
@@ -264,7 +272,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1370,
+    "id":1371,
     "imdb_id":"tt22767628",
     "tmdb_id":"1215918",
     "title":"BLACKWATER LANE",
@@ -272,7 +280,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1381,
+    "id":1382,
     "imdb_id":"tt28128599",
     "tmdb_id":"1288913",
     "title":"MIDAS",
@@ -280,7 +288,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1375,
+    "id":1376,
     "imdb_id":"tt7461686",
     "tmdb_id":"843416",
     "title":"DADDIO",
@@ -288,7 +296,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1376,
+    "id":1377,
     "imdb_id":"tt18834372",
     "tmdb_id":"982221",
     "title":"JUNE ZERO",
@@ -296,7 +304,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1377,
+    "id":1378,
     "imdb_id":"tt21257870",
     "tmdb_id":"1147755",
     "title":"FAMILY PORTRAIT",
@@ -304,7 +312,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1378,
+    "id":1379,
     "imdb_id":"tt13433802",
     "tmdb_id":"762441",
     "title":"A QUIET PLACE: DAY ONE",
@@ -312,7 +320,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1379,
+    "id":1380,
     "imdb_id":"tt17505010",
     "tmdb_id":"932086",
     "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
@@ -320,7 +328,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1380,
+    "id":1381,
     "imdb_id":"tt21051906",
     "tmdb_id":"987686",
     "title":"A FAMILY AFFAIR",
@@ -328,7 +336,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1382,
+    "id":1383,
     "imdb_id":"tt16491560",
     "tmdb_id":"931628",
     "title":"A SACRIFICE (fka BERLIN NOBODY)",
