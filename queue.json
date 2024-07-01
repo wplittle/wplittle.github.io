@@ -136,11 +136,11 @@
     "release_date":"6\/5\/24"
   },
   {
-    "id":1356,
-    "imdb_id":"tt14682800",
-    "tmdb_id":"831395",
-    "title":"TUESDAY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+    "id":1358,
+    "imdb_id":"tt8442220",
+    "tmdb_id":"1167351",
+    "title":"LONGING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yozIV5KgjKJbXNh5blU71vjoOOM.jpg",
     "release_date":"6\/7\/24"
   },
   {
@@ -152,11 +152,11 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1358,
-    "imdb_id":"tt8442220",
-    "tmdb_id":"1167351",
-    "title":"LONGING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yozIV5KgjKJbXNh5blU71vjoOOM.jpg",
+    "id":1356,
+    "imdb_id":"tt14682800",
+    "tmdb_id":"831395",
+    "title":"TUESDAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
     "release_date":"6\/7\/24"
   },
   {
@@ -232,44 +232,12 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1371,
-    "imdb_id":"tt22767628",
-    "tmdb_id":"1215918",
-    "title":"BLACKWATER LANE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
     "id":1369,
     "imdb_id":"tt28366692",
     "tmdb_id":"1037035",
     "title":"JANET PLANET",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wBzsGjJR4b3K3v3fY7jeu0wiTod.jpg",
     "release_date":"6\/21\/24"
-  },
-  {
-    "id":1368,
-    "imdb_id":"tt21813994",
-    "tmdb_id":"1058617",
-    "title":"FANCY DANCE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uEiosO6QiXITDIMGf2JQ9tRkqyM.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":1370,
-    "imdb_id":"tt15558178",
-    "tmdb_id":"881517",
-    "title":"CHESTNUT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":1382,
-    "imdb_id":"tt28128599",
-    "tmdb_id":"1288913",
-    "title":"MIDAS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
-    "release_date":"6\/28\/24"
   },
   {
     "id":1376,
@@ -317,6 +285,14 @@
     "tmdb_id":"987686",
     "title":"A FAMILY AFFAIR",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1382,
+    "imdb_id":"tt28128599",
+    "tmdb_id":"1288913",
+    "title":"MIDAS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
     "release_date":"6\/28\/24"
   },
   {
