@@ -6120,19 +6120,19 @@
     "release_date":"12\/19\/01"
   },
   {
-    "id":230,
-    "imdb_id":"tt0166924",
-    "tmdb_id":"1018",
-    "title":"MULHOLLAND DRIVE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
-    "release_date":"10\/19\/01"
-  },
-  {
     "id":229,
     "imdb_id":"tt0120681",
     "tmdb_id":"768",
     "title":"FROM HELL",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg",
+    "release_date":"10\/19\/01"
+  },
+  {
+    "id":230,
+    "imdb_id":"tt0166924",
+    "tmdb_id":"1018",
+    "title":"MULHOLLAND DRIVE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
     "release_date":"10\/19\/01"
   },
   {
@@ -6520,19 +6520,19 @@
     "release_date":"9\/11\/98"
   },
   {
-    "id":279,
-    "imdb_id":"tt0134619",
-    "tmdb_id":"9424",
-    "title":"DISTURBING BEHAVIOR",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uAhvaueOUUQ6ORCRdsJr1WXz1w0.jpg",
-    "release_date":"7\/24\/98"
-  },
-  {
     "id":280,
     "imdb_id":"tt0120815",
     "tmdb_id":"857",
     "title":"SAVING PRIVATE RYAN",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "release_date":"7\/24\/98"
+  },
+  {
+    "id":279,
+    "imdb_id":"tt0134619",
+    "tmdb_id":"9424",
+    "title":"DISTURBING BEHAVIOR",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uAhvaueOUUQ6ORCRdsJr1WXz1w0.jpg",
     "release_date":"7\/24\/98"
   },
   {
@@ -6760,19 +6760,19 @@
     "release_date":"1\/17\/97"
   },
   {
-    "id":309,
-    "imdb_id":"tt0115641",
-    "tmdb_id":"3179",
-    "title":"BEAVIS AND BUTT-HEAD DO AMERICA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
-    "release_date":"12\/20\/96"
-  },
-  {
     "id":310,
     "imdb_id":"tt0117571",
     "tmdb_id":"4232",
     "title":"SCREAM",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
+    "release_date":"12\/20\/96"
+  },
+  {
+    "id":309,
+    "imdb_id":"tt0115641",
+    "tmdb_id":"3179",
+    "title":"BEAVIS AND BUTT-HEAD DO AMERICA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
     "release_date":"12\/20\/96"
   },
   {
@@ -6888,14 +6888,6 @@
     "release_date":"1\/12\/96"
   },
   {
-    "id":325,
-    "imdb_id":"tt0112818",
-    "tmdb_id":"687",
-    "title":"DEAD MAN WALKING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg",
-    "release_date":"12\/29\/95"
-  },
-  {
     "id":326,
     "imdb_id":"tt0113862",
     "tmdb_id":"2054",
@@ -6912,6 +6904,14 @@
     "release_date":"12\/29\/95"
   },
   {
+    "id":325,
+    "imdb_id":"tt0112818",
+    "tmdb_id":"687",
+    "title":"DEAD MAN WALKING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg",
+    "release_date":"12\/29\/95"
+  },
+  {
     "id":328,
     "imdb_id":"tt0113228",
     "tmdb_id":"15602",
@@ -6920,19 +6920,19 @@
     "release_date":"12\/22\/95"
   },
   {
-    "id":330,
-    "imdb_id":"tt0114709",
-    "tmdb_id":"862",
-    "title":"TOY STORY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-    "release_date":"11\/22\/95"
-  },
-  {
     "id":329,
     "imdb_id":"tt0112641",
     "tmdb_id":"524",
     "title":"CASINO",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4TS5O1IP42bY2BvgMxL156EENy.jpg",
+    "release_date":"11\/22\/95"
+  },
+  {
+    "id":330,
+    "imdb_id":"tt0114709",
+    "tmdb_id":"862",
+    "title":"TOY STORY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
     "release_date":"11\/22\/95"
   },
   {
@@ -7120,19 +7120,19 @@
     "release_date":"12\/21\/94"
   },
   {
-    "id":354,
-    "imdb_id":"tt0109686",
-    "tmdb_id":"8467",
-    "title":"DUMB AND DUMBER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
-    "release_date":"12\/16\/94"
-  },
-  {
     "id":355,
     "imdb_id":"tt0110116",
     "tmdb_id":"13701",
     "title":"IMMORTAL BELOVED",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
+    "release_date":"12\/16\/94"
+  },
+  {
+    "id":354,
+    "imdb_id":"tt0109686",
+    "tmdb_id":"8467",
+    "title":"DUMB AND DUMBER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
     "release_date":"12\/16\/94"
   },
   {
@@ -7168,19 +7168,19 @@
     "release_date":"10\/19\/94"
   },
   {
-    "id":361,
-    "imdb_id":"tt0111686",
-    "tmdb_id":"11596",
-    "title":"WES CRAVEN'S NEW NIGHTMARE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
-    "release_date":"10\/14\/94"
-  },
-  {
     "id":360,
     "imdb_id":"tt0110912",
     "tmdb_id":"680",
     "title":"PULP FICTION",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+    "release_date":"10\/14\/94"
+  },
+  {
+    "id":361,
+    "imdb_id":"tt0111686",
+    "tmdb_id":"11596",
+    "title":"WES CRAVEN'S NEW NIGHTMARE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg",
     "release_date":"10\/14\/94"
   },
   {
@@ -7360,19 +7360,19 @@
     "release_date":"9\/24\/93"
   },
   {
-    "id":384,
-    "imdb_id":"tt0107254",
-    "tmdb_id":"10285",
-    "title":"JASON GOES TO HELL: THE FINAL FRIDAY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uZNsMWE5o1PaBEUjfRYaeZga08q.jpg",
-    "release_date":"8\/13\/93"
-  },
-  {
     "id":385,
     "imdb_id":"tt0108065",
     "tmdb_id":"14291",
     "title":"SEARCHING FOR BOBBY FISCHER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+    "release_date":"8\/13\/93"
+  },
+  {
+    "id":384,
+    "imdb_id":"tt0107254",
+    "tmdb_id":"10285",
+    "title":"JASON GOES TO HELL: THE FINAL FRIDAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uZNsMWE5o1PaBEUjfRYaeZga08q.jpg",
     "release_date":"8\/13\/93"
   },
   {
@@ -7776,14 +7776,6 @@
     "release_date":"11\/18\/90"
   },
   {
-    "id":436,
-    "imdb_id":"tt0099785",
-    "tmdb_id":"771",
-    "title":"HOME ALONE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
-    "release_date":"11\/16\/90"
-  },
-  {
     "id":437,
     "imdb_id":"tt0100477",
     "tmdb_id":"11135",
@@ -7792,12 +7784,12 @@
     "release_date":"11\/16\/90"
   },
   {
-    "id":438,
-    "imdb_id":"tt0099253",
-    "tmdb_id":"11186",
-    "title":"CHILD'S PLAY 2",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tFcol3qTcL5ImNRbcGLSsLPTTv1.jpg",
-    "release_date":"11\/9\/90"
+    "id":436,
+    "imdb_id":"tt0099785",
+    "tmdb_id":"771",
+    "title":"HOME ALONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+    "release_date":"11\/16\/90"
   },
   {
     "id":439,
@@ -7805,6 +7797,14 @@
     "tmdb_id":"581",
     "title":"DANCES WITH WOLVES",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg",
+    "release_date":"11\/9\/90"
+  },
+  {
+    "id":438,
+    "imdb_id":"tt0099253",
+    "tmdb_id":"11186",
+    "title":"CHILD'S PLAY 2",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tFcol3qTcL5ImNRbcGLSsLPTTv1.jpg",
     "release_date":"11\/9\/90"
   },
   {
@@ -8184,19 +8184,19 @@
     "release_date":"5\/1\/87"
   },
   {
-    "id":488,
-    "imdb_id":"tt0093822",
-    "tmdb_id":"378",
-    "title":"RAISING ARIZONA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
-    "release_date":"3\/13\/87"
-  },
-  {
     "id":487,
     "imdb_id":"tt0092991",
     "tmdb_id":"765",
     "title":"EVIL DEAD II",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+    "release_date":"3\/13\/87"
+  },
+  {
+    "id":488,
+    "imdb_id":"tt0093822",
+    "tmdb_id":"378",
+    "title":"RAISING ARIZONA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
     "release_date":"3\/13\/87"
   },
   {
@@ -8504,14 +8504,6 @@
     "release_date":"6\/8\/84"
   },
   {
-    "id":527,
-    "imdb_id":"tt0087843",
-    "tmdb_id":"311",
-    "title":"ONCE UPON A TIME IN AMERICA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
-    "release_date":"6\/1\/84"
-  },
-  {
     "id":528,
     "imdb_id":"tt0088170",
     "tmdb_id":"157",
@@ -8525,6 +8517,14 @@
     "tmdb_id":"14746",
     "title":"STREETS OF FIRE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+    "release_date":"6\/1\/84"
+  },
+  {
+    "id":527,
+    "imdb_id":"tt0087843",
+    "tmdb_id":"311",
+    "title":"ONCE UPON A TIME IN AMERICA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
     "release_date":"6\/1\/84"
   },
   {
@@ -10798,6 +10798,14 @@
     "title":"THE GOLD RUSH",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
     "release_date":"8\/15\/25"
+  },
+  {
+    "id":1082,
+    "imdb_id":"tt0015163",
+    "tmdb_id":"32318",
+    "title":"THE NAVIGATOR",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eFIbnDnBnIi1qnz15UUiMFmjRmL.jpg",
+    "release_date":"9\/28\/24"
   },
   {
     "id":814,
