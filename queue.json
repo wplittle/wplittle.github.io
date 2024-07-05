@@ -16,14 +16,6 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1661,
-    "imdb_id":"tt3083016",
-    "tmdb_id":"280180",
-    "title":"BEVERLY HILLS COP: AXEL F",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/o9UgkltiZnx20mIhnaKmJsz5QOc.jpg",
-    "release_date":"7\/3\/24"
-  },
-  {
     "id":1660,
     "imdb_id":"tt13407984",
     "tmdb_id":"1081015",
@@ -32,43 +24,11 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1653,
-    "imdb_id":"tt21257870",
-    "tmdb_id":"1147755",
-    "title":"FAMILY PORTRAIT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1651,
-    "imdb_id":"tt7461686",
-    "tmdb_id":"843416",
-    "title":"DADDIO",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1652,
-    "imdb_id":"tt18834372",
-    "tmdb_id":"982221",
-    "title":"JUNE ZERO",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1654,
-    "imdb_id":"tt13433802",
-    "tmdb_id":"762441",
-    "title":"A QUIET PLACE: DAY ONE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1655,
-    "imdb_id":"tt17505010",
-    "tmdb_id":"932086",
-    "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+    "id":1658,
+    "imdb_id":"tt16491560",
+    "tmdb_id":"931628",
+    "title":"A SACRIFICE (fka BERLIN NOBODY)",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
     "release_date":"6\/28\/24"
   },
   {
@@ -80,11 +40,43 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1658,
-    "imdb_id":"tt16491560",
-    "tmdb_id":"931628",
-    "title":"A SACRIFICE (fka BERLIN NOBODY)",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
+    "id":1655,
+    "imdb_id":"tt17505010",
+    "tmdb_id":"932086",
+    "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1654,
+    "imdb_id":"tt13433802",
+    "tmdb_id":"762441",
+    "title":"A QUIET PLACE: DAY ONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1653,
+    "imdb_id":"tt21257870",
+    "tmdb_id":"1147755",
+    "title":"FAMILY PORTRAIT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1652,
+    "imdb_id":"tt18834372",
+    "tmdb_id":"982221",
+    "title":"JUNE ZERO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1651,
+    "imdb_id":"tt7461686",
+    "tmdb_id":"843416",
+    "title":"DADDIO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
     "release_date":"6\/28\/24"
   },
   {
@@ -120,11 +112,11 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1635,
-    "imdb_id":"tt30321095",
-    "tmdb_id":"1214469",
-    "title":"GHOSTLIGHT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
+    "id":1636,
+    "imdb_id":"tt15782954",
+    "tmdb_id":"1062198",
+    "title":"FRESH KILLS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
     "release_date":"6\/14\/24"
   },
   {
@@ -136,11 +128,11 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1636,
-    "imdb_id":"tt15782954",
-    "tmdb_id":"1062198",
-    "title":"FRESH KILLS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fZMIgErxvB4t05qCyw4sKdMGKZB.jpg",
+    "id":1635,
+    "imdb_id":"tt30321095",
+    "tmdb_id":"1214469",
+    "title":"GHOSTLIGHT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
     "release_date":"6\/14\/24"
   },
   {
@@ -200,19 +192,19 @@
     "release_date":"6\/5\/24"
   },
   {
-    "id":1626,
-    "imdb_id":"tt26739710",
-    "tmdb_id":"1093974",
-    "title":"BACKSPOT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
     "id":1625,
     "imdb_id":"tt22184520",
     "tmdb_id":"1041517",
     "title":"DEER CAMP '86",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dhjfSUByNAsZuiwZlTOdXXLhKKz.jpg",
+    "release_date":"5\/31\/24"
+  },
+  {
+    "id":1626,
+    "imdb_id":"tt26739710",
+    "tmdb_id":"1093974",
+    "title":"BACKSPOT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5w0aOgyjXGMUT1cgnmLm8aoSeoE.jpg",
     "release_date":"5\/31\/24"
   },
   {
