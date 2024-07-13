@@ -72,11 +72,11 @@
     "release_date":"7\/9\/24"
   },
   {
-    "id":1666,
-    "imdb_id":"tt22853096",
-    "tmdb_id":"1261352",
-    "title":"DEAD WHISPER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
+    "id":1669,
+    "imdb_id":"tt29685033",
+    "tmdb_id":"1285247",
+    "title":"MURDER COMPANY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sXDTzTh1KNG6Pug5OhKHKCzSx6D.jpg",
     "release_date":"7\/5\/24"
   },
   {
@@ -88,11 +88,11 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":1669,
-    "imdb_id":"tt29685033",
-    "tmdb_id":"1285247",
-    "title":"MURDER COMPANY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sXDTzTh1KNG6Pug5OhKHKCzSx6D.jpg",
+    "id":1666,
+    "imdb_id":"tt22853096",
+    "tmdb_id":"1261352",
+    "title":"DEAD WHISPER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
     "release_date":"7\/5\/24"
   },
   {
@@ -120,35 +120,11 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1661,
-    "imdb_id":"tt28128599",
-    "tmdb_id":"1288913",
-    "title":"MIDAS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1660,
-    "imdb_id":"tt16491560",
-    "tmdb_id":"931628",
-    "title":"A SACRIFICE (fka BERLIN NOBODY)",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
     "id":1659,
     "imdb_id":"tt13433802",
     "tmdb_id":"762441",
     "title":"A QUIET PLACE: DAY ONE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1658,
-    "imdb_id":"tt21257870",
-    "tmdb_id":"1147755",
-    "title":"FAMILY PORTRAIT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
     "release_date":"6\/28\/24"
   },
   {
@@ -160,12 +136,44 @@
     "release_date":"6\/28\/24"
   },
   {
+    "id":1658,
+    "imdb_id":"tt21257870",
+    "tmdb_id":"1147755",
+    "title":"FAMILY PORTRAIT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
     "id":1656,
     "imdb_id":"tt7461686",
     "tmdb_id":"843416",
     "title":"DADDIO",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
     "release_date":"6\/28\/24"
+  },
+  {
+    "id":1660,
+    "imdb_id":"tt16491560",
+    "tmdb_id":"931628",
+    "title":"A SACRIFICE (fka BERLIN NOBODY)",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gCFbUIPkE3faOlTTAap8UxYZomf.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1661,
+    "imdb_id":"tt28128599",
+    "tmdb_id":"1288913",
+    "title":"MIDAS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1655,
+    "imdb_id":"tt11240348",
+    "tmdb_id":"646683",
+    "title":"THE EXORCISM",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+    "release_date":"6\/21\/24"
   },
   {
     "id":1654,
@@ -184,12 +192,12 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1655,
-    "imdb_id":"tt11240348",
-    "tmdb_id":"646683",
-    "title":"THE EXORCISM",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
-    "release_date":"6\/21\/24"
+    "id":1652,
+    "imdb_id":"tt26295103",
+    "tmdb_id":"1279642",
+    "title":"RIDE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
+    "release_date":"6\/14\/24"
   },
   {
     "id":1651,
@@ -224,20 +232,20 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1652,
-    "imdb_id":"tt26295103",
-    "tmdb_id":"1279642",
-    "title":"RIDE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
-    "release_date":"6\/14\/24"
-  },
-  {
     "id":1647,
     "imdb_id":"tt11985484",
     "tmdb_id":"879502",
     "title":"KILLER OF MEN",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iaznGUC6A76x9CsiIu1K5ZQd7k3.jpg",
     "release_date":"6\/11\/24"
+  },
+  {
+    "id":1645,
+    "imdb_id":"tt4919268",
+    "tmdb_id":"573435",
+    "title":"BAD BOYS: RIDE OR DIE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+    "release_date":"6\/7\/24"
   },
   {
     "id":1644,
@@ -256,12 +264,20 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1645,
-    "imdb_id":"tt4919268",
-    "tmdb_id":"573435",
-    "title":"BAD BOYS: RIDE OR DIE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
-    "release_date":"6\/7\/24"
+    "id":1643,
+    "imdb_id":"tt5177114",
+    "tmdb_id":"774531",
+    "title":"YOUNG WOMAN AND THE SEA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
+    "release_date":"5\/31\/24"
+  },
+  {
+    "id":1642,
+    "imdb_id":"tt18375360",
+    "tmdb_id":"945393",
+    "title":"THE YOUNG WIFE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
+    "release_date":"5\/31\/24"
   },
   {
     "id":1641,
@@ -280,36 +296,12 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1643,
-    "imdb_id":"tt5177114",
-    "tmdb_id":"774531",
-    "title":"YOUNG WOMAN AND THE SEA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
-    "id":1642,
-    "imdb_id":"tt18375360",
-    "tmdb_id":"945393",
-    "title":"THE YOUNG WIFE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
     "id":1638,
     "imdb_id":"tt15507424",
     "tmdb_id":"1295174",
     "title":"THE KEEPER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1ZWSj6uK3TNomhvMegsh6YkyHE9.jpg",
     "release_date":"5\/24\/24"
-  },
-  {
-    "id":1637,
-    "imdb_id":"tt26442871",
-    "tmdb_id":"1076101",
-    "title":"WILDCAT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg",
-    "release_date":"5\/3\/24"
   },
   {
     "id":1636,
