@@ -1,5 +1,69 @@
 [
   {
+    "id":1679,
+    "imdb_id":"tt23468836",
+    "tmdb_id":"1032472",
+    "title":"TOUCH",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/7azx73Z5nYWgG9c00HH6CHVtgMX.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1678,
+    "imdb_id":"tt9271850",
+    "tmdb_id":"821499",
+    "title":"THE INHERITANCE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ec6fk5Y3DWt18ZFHWuFRJEr9E8D.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1677,
+    "imdb_id":"tt5636228",
+    "tmdb_id":"1113231",
+    "title":"LUMINA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tySni5LziDoPSgicjAc3FRFiKfe.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1675,
+    "imdb_id":"tt19299678",
+    "tmdb_id":"956842",
+    "title":"FLY ME TO THE MOON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1674,
+    "imdb_id":"tt22803220",
+    "tmdb_id":"1082543",
+    "title":"NATIONAL ANTHEM",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/2sKgtABRHNsR5d8v260vMwIxtBm.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1673,
+    "imdb_id":"tt22866050",
+    "tmdb_id":"1038476",
+    "title":"DANDELION",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1EqxUdNND2l2VhUcXiJAKF7hXu1.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1672,
+    "imdb_id":"tt28479262",
+    "tmdb_id":"1155828",
+    "title":"SING SING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qNfqd1edAynytI32lZRq6B1j1C.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":1671,
+    "imdb_id":"tt28248897",
+    "tmdb_id":"1213742",
+    "title":"TYLER PERRY'S DIVORCE IN THE BLACK",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5CAERJVqedHDztyGbxb0QAle0qj.jpg",
+    "release_date":"7\/11\/24"
+  },
+  {
     "id":1670,
     "imdb_id":"tt20237152",
     "tmdb_id":"1123727",
@@ -8,11 +72,11 @@
     "release_date":"7\/9\/24"
   },
   {
-    "id":1669,
-    "imdb_id":"tt29685033",
-    "tmdb_id":"1285247",
-    "title":"MURDER COMPANY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sXDTzTh1KNG6Pug5OhKHKCzSx6D.jpg",
+    "id":1666,
+    "imdb_id":"tt22853096",
+    "tmdb_id":"1261352",
+    "title":"DEAD WHISPER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
     "release_date":"7\/5\/24"
   },
   {
@@ -24,11 +88,11 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":1666,
-    "imdb_id":"tt22853096",
-    "tmdb_id":"1261352",
-    "title":"DEAD WHISPER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
+    "id":1669,
+    "imdb_id":"tt29685033",
+    "tmdb_id":"1285247",
+    "title":"MURDER COMPANY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sXDTzTh1KNG6Pug5OhKHKCzSx6D.jpg",
     "release_date":"7\/5\/24"
   },
   {
@@ -56,27 +120,11 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1658,
-    "imdb_id":"tt21257870",
-    "tmdb_id":"1147755",
-    "title":"FAMILY PORTRAIT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1656,
-    "imdb_id":"tt7461686",
-    "tmdb_id":"843416",
-    "title":"DADDIO",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":1657,
-    "imdb_id":"tt18834372",
-    "tmdb_id":"982221",
-    "title":"JUNE ZERO",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
+    "id":1661,
+    "imdb_id":"tt28128599",
+    "tmdb_id":"1288913",
+    "title":"MIDAS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
     "release_date":"6\/28\/24"
   },
   {
@@ -96,20 +144,28 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1661,
-    "imdb_id":"tt28128599",
-    "tmdb_id":"1288913",
-    "title":"MIDAS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6oetpELBLxtKTu8oWAn5yRggehM.jpg",
+    "id":1658,
+    "imdb_id":"tt21257870",
+    "tmdb_id":"1147755",
+    "title":"FAMILY PORTRAIT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wK7iJ57jzbEmq0Tr2USeTKQNJuy.jpg",
     "release_date":"6\/28\/24"
   },
   {
-    "id":1655,
-    "imdb_id":"tt11240348",
-    "tmdb_id":"646683",
-    "title":"THE EXORCISM",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
-    "release_date":"6\/21\/24"
+    "id":1657,
+    "imdb_id":"tt18834372",
+    "tmdb_id":"982221",
+    "title":"JUNE ZERO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nyFh9zRa8KMWgMng87t3TEr3XEX.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":1656,
+    "imdb_id":"tt7461686",
+    "tmdb_id":"843416",
+    "title":"DADDIO",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lt90DWbEu7KbZhb5Rq8gjosWBc5.jpg",
+    "release_date":"6\/28\/24"
   },
   {
     "id":1654,
@@ -128,6 +184,30 @@
     "release_date":"6\/21\/24"
   },
   {
+    "id":1655,
+    "imdb_id":"tt11240348",
+    "tmdb_id":"646683",
+    "title":"THE EXORCISM",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":1651,
+    "imdb_id":"tt22022452",
+    "tmdb_id":"1022789",
+    "title":"INSIDE OUT 2",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date":"6\/14\/24"
+  },
+  {
+    "id":1650,
+    "imdb_id":"tt23146644",
+    "tmdb_id":"1042657",
+    "title":"LATENCY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eFEvsmCR7tjari53AFcfwjelKrW.jpg",
+    "release_date":"6\/14\/24"
+  },
+  {
     "id":1649,
     "imdb_id":"tt15782954",
     "tmdb_id":"1062198",
@@ -141,22 +221,6 @@
     "tmdb_id":"1214469",
     "title":"GHOSTLIGHT",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
-    "release_date":"6\/14\/24"
-  },
-  {
-    "id":1650,
-    "imdb_id":"tt23146644",
-    "tmdb_id":"1042657",
-    "title":"LATENCY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eFEvsmCR7tjari53AFcfwjelKrW.jpg",
-    "release_date":"6\/14\/24"
-  },
-  {
-    "id":1651,
-    "imdb_id":"tt22022452",
-    "tmdb_id":"1022789",
-    "title":"INSIDE OUT 2",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
     "release_date":"6\/14\/24"
   },
   {
@@ -176,6 +240,14 @@
     "release_date":"6\/11\/24"
   },
   {
+    "id":1644,
+    "imdb_id":"tt14682800",
+    "tmdb_id":"831395",
+    "title":"TUESDAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
+    "release_date":"6\/7\/24"
+  },
+  {
     "id":1646,
     "imdb_id":"tt8442220",
     "tmdb_id":"1167351",
@@ -192,27 +264,11 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1644,
-    "imdb_id":"tt14682800",
-    "tmdb_id":"831395",
-    "title":"TUESDAY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zrd6blans3SqghHSxPAl7tqnaOf.jpg",
-    "release_date":"6\/7\/24"
-  },
-  {
     "id":1641,
     "imdb_id":"tt26669823",
     "tmdb_id":"1273736",
     "title":"PROTOCOL-7",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/img74ojiZaAChozjYeYyS7Lv35f.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
-    "id":1639,
-    "imdb_id":"tt22184520",
-    "tmdb_id":"1041517",
-    "title":"DEER CAMP '86",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dhjfSUByNAsZuiwZlTOdXXLhKKz.jpg",
     "release_date":"5\/31\/24"
   },
   {
@@ -224,19 +280,19 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1642,
-    "imdb_id":"tt18375360",
-    "tmdb_id":"945393",
-    "title":"THE YOUNG WIFE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
-    "release_date":"5\/31\/24"
-  },
-  {
     "id":1643,
     "imdb_id":"tt5177114",
     "tmdb_id":"774531",
     "title":"YOUNG WOMAN AND THE SEA",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iEmmGOlO5LC2IkWFSr1DWV4twoG.jpg",
+    "release_date":"5\/31\/24"
+  },
+  {
+    "id":1642,
+    "imdb_id":"tt18375360",
+    "tmdb_id":"945393",
+    "title":"THE YOUNG WIFE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sDE8AZc0IF47QqBrLj8cgPhqhZD.jpg",
     "release_date":"5\/31\/24"
   },
   {
@@ -262,14 +318,6 @@
     "title":"THE PEOPLE'S JOKER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/9mPoxHqonXXeQnwscNEd73Z0Ik3.jpg",
     "release_date":"4\/5\/24"
-  },
-  {
-    "id":1634,
-    "imdb_id":"tt14356266",
-    "tmdb_id":"1223440",
-    "title":"THE NEON HIGHWAY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/myFLl70Jg2DhJ6emvMEFMiD2tOg.jpg",
-    "release_date":"2\/27\/24"
   },
   {
     "id":1633,
@@ -616,19 +664,19 @@
     "release_date":"12\/23\/87"
   },
   {
-    "id":532,
-    "imdb_id":"tt0093565",
-    "tmdb_id":"2039",
-    "title":"MOONSTRUCK",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
-    "release_date":"12\/16\/87"
-  },
-  {
     "id":531,
     "imdb_id":"tt0092699",
     "tmdb_id":"12626",
     "title":"BROADCAST NEWS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6hQfRQC2UsC4Nxb5vG62VmDCoOv.jpg",
+    "release_date":"12\/16\/87"
+  },
+  {
+    "id":532,
+    "imdb_id":"tt0093565",
+    "tmdb_id":"2039",
+    "title":"MOONSTRUCK",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
     "release_date":"12\/16\/87"
   },
   {
@@ -760,19 +808,19 @@
     "release_date":"8\/5\/83"
   },
   {
-    "id":625,
-    "imdb_id":"tt0084855",
-    "tmdb_id":"24226",
-    "title":"THE VERDICT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/bAe0telFqAzdV8a7aUiIBMEy9d8.jpg",
-    "release_date":"12\/8\/82"
-  },
-  {
     "id":624,
     "imdb_id":"tt0083987",
     "tmdb_id":"783",
     "title":"GANDHI",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+    "release_date":"12\/8\/82"
+  },
+  {
+    "id":625,
+    "imdb_id":"tt0084855",
+    "tmdb_id":"24226",
+    "title":"THE VERDICT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/bAe0telFqAzdV8a7aUiIBMEy9d8.jpg",
     "release_date":"12\/8\/82"
   },
   {
