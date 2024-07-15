@@ -1,6 +1,6 @@
 [
   {
-    "id":1727,
+    "id":1761,
     "imdb_id":"tt7513012",
     "tmdb_id":"1025553",
     "title":"BECAUSE WE'RE FAMILY",
@@ -8,15 +8,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1720,
-    "imdb_id":"tt28479262",
-    "tmdb_id":"1155828",
-    "title":"SING SING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qNfqd1edAynytI32lZRq6B1j1C.jpg",
-    "release_date":"7\/12\/24"
-  },
-  {
-    "id":1726,
+    "id":1760,
     "imdb_id":"tt23468836",
     "tmdb_id":"1032472",
     "title":"TOUCH",
@@ -24,7 +16,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1725,
+    "id":1759,
     "imdb_id":"tt9271850",
     "tmdb_id":"821499",
     "title":"THE INHERITANCE",
@@ -32,7 +24,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1724,
+    "id":1758,
     "imdb_id":"tt5636228",
     "tmdb_id":"1113231",
     "title":"LUMINA",
@@ -40,7 +32,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1723,
+    "id":1757,
     "imdb_id":"tt19299678",
     "tmdb_id":"956842",
     "title":"FLY ME TO THE MOON",
@@ -48,7 +40,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1722,
+    "id":1756,
     "imdb_id":"tt22803220",
     "tmdb_id":"1082543",
     "title":"NATIONAL ANTHEM",
@@ -56,7 +48,7 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1721,
+    "id":1755,
     "imdb_id":"tt22866050",
     "tmdb_id":"1038476",
     "title":"DANDELION",
@@ -64,23 +56,15 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":1719,
-    "imdb_id":"tt28248897",
-    "tmdb_id":"1213742",
-    "title":"TYLER PERRY'S DIVORCE IN THE BLACK",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5CAERJVqedHDztyGbxb0QAle0qj.jpg",
-    "release_date":"7\/11\/24"
+    "id":1754,
+    "imdb_id":"tt28479262",
+    "tmdb_id":"1155828",
+    "title":"SING SING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qNfqd1edAynytI32lZRq6B1j1C.jpg",
+    "release_date":"7\/12\/24"
   },
   {
-    "id":1718,
-    "imdb_id":"tt20258220",
-    "tmdb_id":"1058537",
-    "title":"ANGELS FALLEN: WARRIORS OF PEACE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sF1dpOaMIwyE8BpIeFnBgmF61ds.jpg",
-    "release_date":"7\/9\/24"
-  },
-  {
-    "id":1717,
+    "id":1751,
     "imdb_id":"tt20237152",
     "tmdb_id":"1123727",
     "title":"EXPOSURE",
@@ -88,7 +72,15 @@
     "release_date":"7\/9\/24"
   },
   {
-    "id":1715,
+    "id":1752,
+    "imdb_id":"tt20258220",
+    "tmdb_id":"1058537",
+    "title":"ANGELS FALLEN: WARRIORS OF PEACE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sF1dpOaMIwyE8BpIeFnBgmF61ds.jpg",
+    "release_date":"7\/9\/24"
+  },
+  {
+    "id":1749,
     "imdb_id":"tt23778430",
     "tmdb_id":"1032642",
     "title":"MOTHER, COUCH",
@@ -96,7 +88,7 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":1714,
+    "id":1748,
     "imdb_id":"tt22853096",
     "tmdb_id":"1261352",
     "title":"DEAD WHISPER",
@@ -104,7 +96,7 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":1713,
+    "id":1747,
     "imdb_id":"tt6881490",
     "tmdb_id":"1242526",
     "title":"SOUND OF HOPE: THE STORY OF POSSUM TROT",
@@ -112,7 +104,7 @@
     "release_date":"7\/4\/24"
   },
   {
-    "id":1712,
+    "id":1746,
     "imdb_id":"tt7510222",
     "tmdb_id":"519182",
     "title":"DESPICABLE ME 4",
@@ -120,7 +112,7 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1711,
+    "id":1745,
     "imdb_id":"tt13407984",
     "tmdb_id":"1081015",
     "title":"THE SECRET ART OF HUMAN FLIGHT",
@@ -128,7 +120,7 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":1708,
+    "id":1742,
     "imdb_id":"tt13433802",
     "tmdb_id":"762441",
     "title":"A QUIET PLACE: DAY ONE",
@@ -136,7 +128,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1705,
+    "id":1739,
     "imdb_id":"tt7461686",
     "tmdb_id":"843416",
     "title":"DADDIO",
@@ -144,7 +136,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1706,
+    "id":1740,
     "imdb_id":"tt18834372",
     "tmdb_id":"982221",
     "title":"JUNE ZERO",
@@ -152,7 +144,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1707,
+    "id":1741,
     "imdb_id":"tt21257870",
     "tmdb_id":"1147755",
     "title":"FAMILY PORTRAIT",
@@ -160,7 +152,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1709,
+    "id":1743,
     "imdb_id":"tt16491560",
     "tmdb_id":"931628",
     "title":"A SACRIFICE (fka BERLIN NOBODY)",
@@ -168,7 +160,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1710,
+    "id":1744,
     "imdb_id":"tt28128599",
     "tmdb_id":"1288913",
     "title":"MIDAS",
@@ -176,7 +168,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":1703,
+    "id":1737,
     "imdb_id":"tt22408160",
     "tmdb_id":"1029955",
     "title":"KINDS OF KINDNESS",
@@ -184,7 +176,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1702,
+    "id":1736,
     "imdb_id":"tt28366692",
     "tmdb_id":"1037035",
     "title":"JANET PLANET",
@@ -192,7 +184,7 @@
     "release_date":"6\/21\/24"
   },
   {
-    "id":1701,
+    "id":1735,
     "imdb_id":"tt26295103",
     "tmdb_id":"1279642",
     "title":"RIDE",
@@ -200,7 +192,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1700,
+    "id":1734,
     "imdb_id":"tt22022452",
     "tmdb_id":"1022789",
     "title":"INSIDE OUT 2",
@@ -208,7 +200,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1699,
+    "id":1733,
     "imdb_id":"tt30321095",
     "tmdb_id":"1214469",
     "title":"GHOSTLIGHT",
@@ -216,7 +208,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":1698,
+    "id":1732,
     "imdb_id":"tt11985484",
     "tmdb_id":"879502",
     "title":"KILLER OF MEN",
@@ -224,7 +216,7 @@
     "release_date":"6\/11\/24"
   },
   {
-    "id":1696,
+    "id":1730,
     "imdb_id":"tt14682800",
     "tmdb_id":"831395",
     "title":"TUESDAY",
@@ -232,7 +224,7 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1697,
+    "id":1731,
     "imdb_id":"tt4919268",
     "tmdb_id":"573435",
     "title":"BAD BOYS: RIDE OR DIE",
@@ -240,7 +232,7 @@
     "release_date":"6\/7\/24"
   },
   {
-    "id":1695,
+    "id":1729,
     "imdb_id":"tt5177114",
     "tmdb_id":"774531",
     "title":"YOUNG WOMAN AND THE SEA",
@@ -248,7 +240,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1694,
+    "id":1728,
     "imdb_id":"tt18375360",
     "tmdb_id":"945393",
     "title":"THE YOUNG WIFE",
@@ -256,7 +248,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1693,
+    "id":1727,
     "imdb_id":"tt26669823",
     "tmdb_id":"1273736",
     "title":"PROTOCOL-7",
@@ -264,7 +256,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1692,
+    "id":1726,
     "imdb_id":"tt26739710",
     "tmdb_id":"1093974",
     "title":"BACKSPOT",
@@ -272,7 +264,7 @@
     "release_date":"5\/31\/24"
   },
   {
-    "id":1691,
+    "id":1725,
     "imdb_id":"tt15507424",
     "tmdb_id":"1295174",
     "title":"THE KEEPER",
@@ -280,7 +272,7 @@
     "release_date":"5\/24\/24"
   },
   {
-    "id":1690,
+    "id":1724,
     "imdb_id":"tt21651430",
     "tmdb_id":"808482",
     "title":"THE PEOPLE'S JOKER",
@@ -288,7 +280,7 @@
     "release_date":"4\/5\/24"
   },
   {
-    "id":1689,
+    "id":1723,
     "imdb_id":"tt12004238",
     "tmdb_id":"680027",
     "title":"ALTERED REALITY",
@@ -296,7 +288,7 @@
     "release_date":"2\/16\/24"
   },
   {
-    "id":1688,
+    "id":1722,
     "imdb_id":"tt2263648",
     "tmdb_id":"476928",
     "title":"WHAT ABOUT LOVE",
@@ -304,7 +296,7 @@
     "release_date":"2\/14\/24"
   },
   {
-    "id":1687,
+    "id":1721,
     "imdb_id":"tt15091524",
     "tmdb_id":"912600",
     "title":"SOME OTHER WOMAN",
@@ -312,7 +304,7 @@
     "release_date":"1\/5\/24"
   },
   {
-    "id":1474,
+    "id":1508,
     "imdb_id":"tt17372926",
     "tmdb_id":"1014063",
     "title":"AT THE GATES",
@@ -360,6 +352,30 @@
     "release_date":"10\/24\/08"
   },
   {
+    "id":1145,
+    "imdb_id":"tt1038988",
+    "tmdb_id":"8329",
+    "title":"REC",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5XsVGgo8I12v3KlPcD0r1CNHMC6.jpg",
+    "release_date":"10\/17\/08"
+  },
+  {
+    "id":1146,
+    "imdb_id":"tt1029234",
+    "tmdb_id":"9539",
+    "title":"MARTYRS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rnKh6NCmJZcBpK82wIn4qzPRzfc.jpg",
+    "release_date":"9\/25\/08"
+  },
+  {
+    "id":1156,
+    "imdb_id":"tt0464141",
+    "tmdb_id":"6537",
+    "title":"THE ORPHANAGE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
+    "release_date":"12\/28\/07"
+  },
+  {
     "id":182,
     "imdb_id":"tt0407887",
     "tmdb_id":"1422",
@@ -376,6 +392,14 @@
     "release_date":"8\/4\/06"
   },
   {
+    "id":1157,
+    "imdb_id":"tt0338095",
+    "tmdb_id":"10226",
+    "title":"HIGH TENSION",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/o2k0Zi4VNNKnlkx9ZLHcXln9tlR.jpg",
+    "release_date":"6\/10\/05"
+  },
+  {
     "id":208,
     "imdb_id":"tt0395169",
     "tmdb_id":"205",
@@ -384,12 +408,28 @@
     "release_date":"12\/22\/04"
   },
   {
+    "id":1147,
+    "imdb_id":"tt0387564",
+    "tmdb_id":"176",
+    "title":"SAW",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+    "release_date":"10\/29\/04"
+  },
+  {
     "id":209,
     "imdb_id":"tt0350258",
     "tmdb_id":"1677",
     "title":"RAY",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nweucNFvw8B5u8Mi0UQqUQCk8TG.jpg",
     "release_date":"10\/29\/04"
+  },
+  {
+    "id":1151,
+    "imdb_id":"tt0365748",
+    "tmdb_id":"747",
+    "title":"SHAUN OF THE DEAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+    "release_date":"9\/24\/04"
   },
   {
     "id":223,
@@ -440,6 +480,14 @@
     "release_date":"12\/18\/02"
   },
   {
+    "id":1148,
+    "imdb_id":"tt0298130",
+    "tmdb_id":"565",
+    "title":"THE RING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg",
+    "release_date":"10\/18\/02"
+  },
+  {
     "id":251,
     "imdb_id":"tt0268978",
     "tmdb_id":"453",
@@ -454,6 +502,14 @@
     "title":"TRAINING DAY",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
     "release_date":"10\/5\/01"
+  },
+  {
+    "id":1139,
+    "imdb_id":"tt0256009",
+    "tmdb_id":"1433",
+    "title":"THE DEVIL'S BACKBONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
+    "release_date":"9\/2\/01"
   },
   {
     "id":1130,
@@ -510,6 +566,14 @@
     "title":"THE ENGLISH PATIENT",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
     "release_date":"11\/14\/96"
+  },
+  {
+    "id":1168,
+    "imdb_id":"tt0109592",
+    "tmdb_id":"21588",
+    "title":"CEMETERY MAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
+    "release_date":"4\/26\/96"
   },
   {
     "id":371,
@@ -592,6 +656,22 @@
     "release_date":"11\/25\/92"
   },
   {
+    "id":1161,
+    "imdb_id":"tt0103874",
+    "tmdb_id":"6114",
+    "title":"BRAM STOKER'S DRACULA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/n39glC4GkBeCbwdenES8ZBodim8.jpg",
+    "release_date":"11\/13\/92"
+  },
+  {
+    "id":1141,
+    "imdb_id":"tt0103919",
+    "tmdb_id":"9529",
+    "title":"CANDYMAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/n38YbNqUf5KWpMJFc4X3t0rlhg5.jpg",
+    "release_date":"10\/16\/92"
+  },
+  {
     "id":461,
     "imdb_id":"tt0103064",
     "tmdb_id":"280",
@@ -608,12 +688,28 @@
     "release_date":"6\/7\/91"
   },
   {
+    "id":1167,
+    "imdb_id":"tt0096163",
+    "tmdb_id":"8740",
+    "title":"THE VANISHING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eE5bbuRJluooG2MjEAsLEYyuJoa.jpg",
+    "release_date":"1\/25\/91"
+  },
+  {
     "id":477,
     "imdb_id":"tt0100157",
     "tmdb_id":"1700",
     "title":"MISERY",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/23Y65uWaVMpqfbZTN3CT0aei4D5.jpg",
     "release_date":"11\/30\/90"
+  },
+  {
+    "id":1163,
+    "imdb_id":"tt0099871",
+    "tmdb_id":"2291",
+    "title":"JACOB'S LADDER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4GY4FsM0ZOtbSTeMpY0g4WkEuBW.jpg",
+    "release_date":"11\/2\/90"
   },
   {
     "id":478,
@@ -712,6 +808,14 @@
     "release_date":"11\/20\/87"
   },
   {
+    "id":1153,
+    "imdb_id":"tt0093605",
+    "tmdb_id":"11879",
+    "title":"NEAR DARK",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+    "release_date":"10\/2\/87"
+  },
+  {
     "id":534,
     "imdb_id":"tt0093886",
     "tmdb_id":"11584",
@@ -734,6 +838,14 @@
     "title":"THE MISSION",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
     "release_date":"9\/29\/86"
+  },
+  {
+    "id":1142,
+    "imdb_id":"tt0099763",
+    "tmdb_id":"10692",
+    "title":"HENRY: PORTRAIT OF A SERIAL KILLER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+    "release_date":"9\/24\/86"
   },
   {
     "id":552,
@@ -776,12 +888,20 @@
     "release_date":"10\/18\/85"
   },
   {
-    "id":566,
-    "imdb_id":"tt0090329",
-    "tmdb_id":"9281",
-    "title":"WITNESS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
-    "release_date":"2\/8\/85"
+    "id":1155,
+    "imdb_id":"tt0089907",
+    "tmdb_id":"10925",
+    "title":"THE RETURN OF THE LIVING DEAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qVTFBabgnWz4jZ8wOQRYZI5EITF.jpg",
+    "release_date":"8\/16\/85"
+  },
+  {
+    "id":1162,
+    "imdb_id":"tt0088993",
+    "tmdb_id":"8408",
+    "title":"DAY OF THE DEAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg",
+    "release_date":"7\/3\/85"
   },
   {
     "id":565,
@@ -789,6 +909,14 @@
     "tmdb_id":"27223",
     "title":"LOST IN AMERICA",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/j7QiwUekGiYOmjKratNORIr35zg.jpg",
+    "release_date":"2\/8\/85"
+  },
+  {
+    "id":566,
+    "imdb_id":"tt0090329",
+    "tmdb_id":"9281",
+    "title":"WITNESS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
     "release_date":"2\/8\/85"
   },
   {
@@ -832,6 +960,14 @@
     "release_date":"12\/8\/83"
   },
   {
+    "id":1166,
+    "imdb_id":"tt0082307",
+    "tmdb_id":"19204",
+    "title":"THE BEYOND",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/TkMDD7R9y84ZTfS8mtU1oIxKvd.jpg",
+    "release_date":"11\/11\/83"
+  },
+  {
     "id":605,
     "imdb_id":"tt0086197",
     "tmdb_id":"9549",
@@ -856,19 +992,19 @@
     "release_date":"2\/4\/83"
   },
   {
-    "id":625,
-    "imdb_id":"tt0084855",
-    "tmdb_id":"24226",
-    "title":"THE VERDICT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/bAe0telFqAzdV8a7aUiIBMEy9d8.jpg",
-    "release_date":"12\/8\/82"
-  },
-  {
     "id":624,
     "imdb_id":"tt0083987",
     "tmdb_id":"783",
     "title":"GANDHI",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+    "release_date":"12\/8\/82"
+  },
+  {
+    "id":625,
+    "imdb_id":"tt0084855",
+    "tmdb_id":"24226",
+    "title":"THE VERDICT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/bAe0telFqAzdV8a7aUiIBMEy9d8.jpg",
     "release_date":"12\/8\/82"
   },
   {
@@ -926,6 +1062,14 @@
     "title":"AN AMERICAN WEREWOLF IN LONDON",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
     "release_date":"8\/21\/81"
+  },
+  {
+    "id":1158,
+    "imdb_id":"tt0082533",
+    "tmdb_id":"11298",
+    "title":"THE HOWLING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dEFMku7o825YhyUEHSlkvLDz1Dt.jpg",
+    "release_date":"3\/13\/81"
   },
   {
     "id":659,
@@ -992,12 +1136,28 @@
     "release_date":"7\/20\/79"
   },
   {
+    "id":1160,
+    "imdb_id":"tt0078908",
+    "tmdb_id":"28942",
+    "title":"THE BROOD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+    "release_date":"5\/25\/79"
+  },
+  {
     "id":681,
     "imdb_id":"tt0079638",
     "tmdb_id":"40842",
     "title":"NORMA RAE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6au7WBVYoKhV1jORyFSIRszb46S.jpg",
     "release_date":"3\/2\/79"
+  },
+  {
+    "id":1136,
+    "imdb_id":"tt0077745",
+    "tmdb_id":"11850",
+    "title":"INVASION OF THE BODY SNATCHERS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5oNHdVo0vTsaC47Jv2Wb4eeo4V4.jpg",
+    "release_date":"12\/20\/78"
   },
   {
     "id":694,
@@ -1014,6 +1174,14 @@
     "title":"COMING HOME",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/2sMXGBrQ8lDtSVoymyQLZWjIzdZ.jpg",
     "release_date":"2\/15\/78"
+  },
+  {
+    "id":1149,
+    "imdb_id":"tt0074486",
+    "tmdb_id":"985",
+    "title":"ERASERHEAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+    "release_date":"2\/3\/78"
   },
   {
     "id":707,
@@ -1078,6 +1246,14 @@
     "title":"SHAMPOO",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
     "release_date":"2\/11\/75"
+  },
+  {
+    "id":1154,
+    "imdb_id":"tt0071222",
+    "tmdb_id":"16938",
+    "title":"BLACK CHRISTMAS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
+    "release_date":"12\/20\/74"
   },
   {
     "id":1116,
@@ -1360,6 +1536,22 @@
     "release_date":"6\/23\/65"
   },
   {
+    "id":1150,
+    "imdb_id":"tt0058430",
+    "tmdb_id":"3763",
+    "title":"ONIBABA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+    "release_date":"2\/9\/65"
+  },
+  {
+    "id":1164,
+    "imdb_id":"tt0058333",
+    "tmdb_id":"25319",
+    "title":"THE MASQUE OF THE RED DEATH",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6V3dCpKJhTf2jBdE5MXrHRmNdZJ.jpg",
+    "release_date":"6\/24\/64"
+  },
+  {
     "id":821,
     "imdb_id":"tt0058586",
     "tmdb_id":"1594",
@@ -1536,6 +1728,14 @@
     "release_date":"5\/28\/61"
   },
   {
+    "id":1152,
+    "imdb_id":"tt0054067",
+    "tmdb_id":"27632",
+    "title":"BLACK SUNDAY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/x41Zx8GeZhducquhOq9nE7z1GBG.jpg",
+    "release_date":"2\/15\/61"
+  },
+  {
     "id":862,
     "imdb_id":"tt0053172",
     "tmdb_id":"4952",
@@ -1638,6 +1838,14 @@
     "title":"SWEET SMELL OF SUCCESS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
     "release_date":"7\/4\/57"
+  },
+  {
+    "id":1143,
+    "imdb_id":"tt0050280",
+    "tmdb_id":"3079",
+    "title":"THE CURSE OF FRANKENSTEIN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/r9PDkqKhzdo54aqnOL88wUJY49B.jpg",
+    "release_date":"6\/25\/57"
   },
   {
     "id":878,
@@ -1752,6 +1960,14 @@
     "release_date":"4\/11\/55"
   },
   {
+    "id":1138,
+    "imdb_id":"tt0047034",
+    "tmdb_id":"1678",
+    "title":"GODZILLA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fg635r7DxfmbQpnIh7vLCOsGoOG.jpg",
+    "release_date":"10\/27\/54"
+  },
+  {
     "id":902,
     "imdb_id":"tt0047437",
     "tmdb_id":"6620",
@@ -1814,6 +2030,14 @@
     "title":"THE BAND WAGON",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5CvUmTWK46rShfgLmw7LuKF2fYL.jpg",
     "release_date":"8\/7\/53"
+  },
+  {
+    "id":1140,
+    "imdb_id":"tt0045888",
+    "tmdb_id":"18573",
+    "title":"HOUSE OF WAX",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5Di30K5NzAtYMjBSAABwgZHV0Ro.jpg",
+    "release_date":"4\/16\/53"
   },
   {
     "id":915,
@@ -2158,6 +2382,14 @@
     "title":"STORMY WEATHER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/d6XpJ69jXvP5WXzVsKVR4rUJhe1.jpg",
     "release_date":"7\/21\/43"
+  },
+  {
+    "id":1135,
+    "imdb_id":"tt0036027",
+    "tmdb_id":"27130",
+    "title":"I WALKED WITH A ZOMBIE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uoyBR8XNxPQRojujtczfG1qJezY.jpg",
+    "release_date":"4\/21\/43"
   },
   {
     "id":976,
@@ -2520,6 +2752,14 @@
     "release_date":"11\/30\/34"
   },
   {
+    "id":1144,
+    "imdb_id":"tt0023649",
+    "tmdb_id":"779",
+    "title":"VAMPYR",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yt3JS5JSoZseSohYkhs6FLU9B0O.jpg",
+    "release_date":"8\/14\/34"
+  },
+  {
     "id":1045,
     "imdb_id":"tt0025878",
     "tmdb_id":"3529",
@@ -2552,6 +2792,14 @@
     "release_date":"12\/28\/33"
   },
   {
+    "id":1137,
+    "imdb_id":"tt0024184",
+    "tmdb_id":"10787",
+    "title":"THE INVISIBLE MAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/a8WoUk92OLHnU5sODmdGaOi5iaH.jpg",
+    "release_date":"11\/3\/33"
+  },
+  {
     "id":1050,
     "imdb_id":"tt0023876",
     "tmdb_id":"56164",
@@ -2574,6 +2822,14 @@
     "title":"SHE DONE HIM WRONG",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kwxAUj8tf9kO2ESAriD8foYN28q.jpg",
     "release_date":"2\/9\/33"
+  },
+  {
+    "id":1159,
+    "imdb_id":"tt0024188",
+    "tmdb_id":"3031",
+    "title":"ISLAND OF LOST SOULS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/g7K7r1FojQC52YHxfmuXgwYBq5Q.jpg",
+    "release_date":"12\/24\/32"
   },
   {
     "id":1055,
@@ -2614,6 +2870,14 @@
     "title":"FREAKS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
     "release_date":"2\/12\/32"
+  },
+  {
+    "id":1165,
+    "imdb_id":"tt0022835",
+    "tmdb_id":"3019",
+    "title":"DR. JEKYLL AND MR. HYDE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+    "release_date":"12\/24\/31"
   },
   {
     "id":1064,
