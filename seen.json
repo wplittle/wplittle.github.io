@@ -1,6 +1,6 @@
 [
   {
-    "id":3378,
+    "id":3341,
     "imdb_id":"tt13397574",
     "tmdb_id":"758679",
     "title":"MOTHERS' INSTINCT",
@@ -8,7 +8,7 @@
     "release_date":"7\/26\/24"
   },
   {
-    "id":3337,
+    "id":3340,
     "imdb_id":"tt22206410",
     "tmdb_id":"1027452",
     "title":"SPREAD",
@@ -16,7 +16,7 @@
     "release_date":"7\/19\/24"
   },
   {
-    "id":3336,
+    "id":3339,
     "imdb_id":"tt19862722",
     "tmdb_id":"1255350",
     "title":"FIND ME FALLING",
@@ -24,7 +24,7 @@
     "release_date":"7\/19\/24"
   },
   {
-    "id":3335,
+    "id":3338,
     "imdb_id":"tt22175098",
     "tmdb_id":"1059643",
     "title":"CLAWFOOT",
@@ -32,7 +32,7 @@
     "release_date":"7\/19\/24"
   },
   {
-    "id":3334,
+    "id":3337,
     "imdb_id":"tt12584954",
     "tmdb_id":"718821",
     "title":"TWISTERS",
@@ -40,7 +40,7 @@
     "release_date":"7\/19\/24"
   },
   {
-    "id":3333,
+    "id":3336,
     "imdb_id":"tt12930350",
     "tmdb_id":"1048241",
     "title":"MY SPY: THE ETERNAL CITY",
@@ -48,15 +48,7 @@
     "release_date":"7\/18\/24"
   },
   {
-    "id":3331,
-    "imdb_id":"tt23468450",
-    "tmdb_id":"1226578",
-    "title":"LONGLEGS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dLAP1apgFIoBoPNw4HJLVACSu7u.jpg",
-    "release_date":"7\/12\/24"
-  },
-  {
-    "id":3332,
+    "id":3335,
     "imdb_id":"tt9271850",
     "tmdb_id":"821499",
     "title":"THE INHERITANCE",
@@ -64,7 +56,15 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":3330,
+    "id":3334,
+    "imdb_id":"tt23468450",
+    "tmdb_id":"1226578",
+    "title":"LONGLEGS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dLAP1apgFIoBoPNw4HJLVACSu7u.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
+    "id":3333,
     "imdb_id":"tt28248897",
     "tmdb_id":"1213742",
     "title":"TYLER PERRY'S DIVORCE IN THE BLACK",
@@ -72,15 +72,7 @@
     "release_date":"7\/11\/24"
   },
   {
-    "id":3328,
-    "imdb_id":"tt22853096",
-    "tmdb_id":"1261352",
-    "title":"DEAD WHISPER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
-    "release_date":"7\/5\/24"
-  },
-  {
-    "id":3329,
+    "id":3332,
     "imdb_id":"tt29685033",
     "tmdb_id":"1285247",
     "title":"MURDER COMPANY",
@@ -88,7 +80,15 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":3327,
+    "id":3331,
+    "imdb_id":"tt22853096",
+    "tmdb_id":"1261352",
+    "title":"DEAD WHISPER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1vwKuOP3ROZk7XmSzl371aICW62.jpg",
+    "release_date":"7\/5\/24"
+  },
+  {
+    "id":3330,
     "imdb_id":"tt22048412",
     "tmdb_id":"1023922",
     "title":"MAXXXINE",
@@ -96,7 +96,7 @@
     "release_date":"7\/5\/24"
   },
   {
-    "id":3326,
+    "id":3329,
     "imdb_id":"tt21469794",
     "tmdb_id":"1019411",
     "title":"SPACE CADET",
@@ -104,7 +104,7 @@
     "release_date":"7\/4\/24"
   },
   {
-    "id":3325,
+    "id":3328,
     "imdb_id":"tt3083016",
     "tmdb_id":"280180",
     "title":"BEVERLY HILLS COP: AXEL F",
@@ -112,7 +112,7 @@
     "release_date":"7\/3\/24"
   },
   {
-    "id":3324,
+    "id":3327,
     "imdb_id":"tt21356774",
     "tmdb_id":"1316297",
     "title":"LITTLE DEATHS",
@@ -120,23 +120,7 @@
     "release_date":"7\/2\/24"
   },
   {
-    "id":3321,
-    "imdb_id":"tt15338966",
-    "tmdb_id":"869597",
-    "title":"REUNION",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/k5XWnBAkMJIOjHbpkYb4ofLRJNy.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":3356,
-    "imdb_id":"tt13433802",
-    "tmdb_id":"762441",
-    "title":"A QUIET PLACE: DAY ONE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
-    "id":3323,
+    "id":3326,
     "imdb_id":"tt16491560",
     "tmdb_id":"931628",
     "title":"A SACRIFICE",
@@ -144,7 +128,7 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":3322,
+    "id":3325,
     "imdb_id":"tt21051906",
     "tmdb_id":"987686",
     "title":"A FAMILY AFFAIR",
@@ -152,7 +136,23 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":3320,
+    "id":3324,
+    "imdb_id":"tt15338966",
+    "tmdb_id":"869597",
+    "title":"REUNION",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/k5XWnBAkMJIOjHbpkYb4ofLRJNy.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":3323,
+    "imdb_id":"tt13433802",
+    "tmdb_id":"762441",
+    "title":"A QUIET PLACE: DAY ONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":3322,
     "imdb_id":"tt17505010",
     "tmdb_id":"932086",
     "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
@@ -160,55 +160,15 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":3317,
-    "imdb_id":"tt22767628",
-    "tmdb_id":"1215918",
-    "title":"BLACKWATER LANE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5ut7D7v9ZKlmlEiOZpdLKfZ0P9g.jpg",
+    "id":3321,
+    "imdb_id":"tt26743864",
+    "tmdb_id":"1198899",
+    "title":"AGENT RECON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rzk6rY7VBy3SJI1r7Hln1PEP6nk.jpg",
     "release_date":"6\/21\/24"
   },
   {
-    "id":3313,
-    "imdb_id":"tt21454134",
-    "tmdb_id":"1008409",
-    "title":"THE BIKERIDERS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":3314,
-    "imdb_id":"tt21813994",
-    "tmdb_id":"1058617",
-    "title":"FANCY DANCE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uEiosO6QiXITDIMGf2JQ9tRkqyM.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":3315,
-    "imdb_id":"tt15558178",
-    "tmdb_id":"881517",
-    "title":"CHESTNUT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":3316,
-    "imdb_id":"tt5834874",
-    "tmdb_id":"704673",
-    "title":"TRIGGER WARNING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lJN24nn28s5afC1UnLPYRgYOp1K.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":3312,
-    "imdb_id":"tt23778968",
-    "tmdb_id":"1051891",
-    "title":"THELMA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
-    "release_date":"6\/21\/24"
-  },
-  {
-    "id":3318,
+    "id":3320,
     "imdb_id":"tt11240348",
     "tmdb_id":"646683",
     "title":"THE EXORCISM",
@@ -217,30 +177,70 @@
   },
   {
     "id":3319,
-    "imdb_id":"tt26743864",
-    "tmdb_id":"1198899",
-    "title":"AGENT RECON",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rzk6rY7VBy3SJI1r7Hln1PEP6nk.jpg",
+    "imdb_id":"tt22767628",
+    "tmdb_id":"1215918",
+    "title":"BLACKWATER LANE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5ut7D7v9ZKlmlEiOZpdLKfZ0P9g.jpg",
     "release_date":"6\/21\/24"
   },
   {
-    "id":3307,
-    "imdb_id":"tt9471678",
-    "tmdb_id":"829402",
-    "title":"ULTRAMAN: RISING",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/i6JHSNF6JdjI7mpEqAcYRhu52qg.jpg",
-    "release_date":"6\/14\/24"
+    "id":3318,
+    "imdb_id":"tt5834874",
+    "tmdb_id":"704673",
+    "title":"TRIGGER WARNING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lJN24nn28s5afC1UnLPYRgYOp1K.jpg",
+    "release_date":"6\/21\/24"
   },
   {
-    "id":3310,
-    "imdb_id":"tt20255354",
-    "tmdb_id":"1011516",
-    "title":"THE PRESENT",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mRXPjCNFbXVXmaqHItMHDUPaxvK.jpg",
+    "id":3317,
+    "imdb_id":"tt15558178",
+    "tmdb_id":"881517",
+    "title":"CHESTNUT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":3316,
+    "imdb_id":"tt21813994",
+    "tmdb_id":"1058617",
+    "title":"FANCY DANCE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uEiosO6QiXITDIMGf2JQ9tRkqyM.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":3315,
+    "imdb_id":"tt21454134",
+    "tmdb_id":"1008409",
+    "title":"THE BIKERIDERS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qTb6sSRt8Pw96JTan8ezU2xO0FU.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":3314,
+    "imdb_id":"tt23778968",
+    "tmdb_id":"1051891",
+    "title":"THELMA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+    "release_date":"6\/21\/24"
+  },
+  {
+    "id":3311,
+    "imdb_id":"tt15782954",
+    "tmdb_id":"1062198",
+    "title":"FRESH KILLS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iDdDnFvxAVTHQLgzWos03lcFDvd.jpg",
     "release_date":"6\/14\/24"
   },
   {
     "id":3308,
+    "imdb_id":"tt26295103",
+    "tmdb_id":"1279642",
+    "title":"RIDE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
+    "release_date":"6\/14\/24"
+  },
+  {
+    "id":3310,
     "imdb_id":"tt20216624",
     "tmdb_id":"1043870",
     "title":"REVERSE THE CURSE",
@@ -249,14 +249,22 @@
   },
   {
     "id":3309,
-    "imdb_id":"tt15782954",
-    "tmdb_id":"1062198",
-    "title":"FRESH KILLS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iDdDnFvxAVTHQLgzWos03lcFDvd.jpg",
+    "imdb_id":"tt9471678",
+    "tmdb_id":"829402",
+    "title":"ULTRAMAN: RISING",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/i6JHSNF6JdjI7mpEqAcYRhu52qg.jpg",
     "release_date":"6\/14\/24"
   },
   {
-    "id":3311,
+    "id":3312,
+    "imdb_id":"tt20255354",
+    "tmdb_id":"1011516",
+    "title":"THE PRESENT",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mRXPjCNFbXVXmaqHItMHDUPaxvK.jpg",
+    "release_date":"6\/14\/24"
+  },
+  {
+    "id":3313,
     "imdb_id":"tt23146644",
     "tmdb_id":"1042657",
     "title":"LATENCY",
@@ -264,15 +272,7 @@
     "release_date":"6\/14\/24"
   },
   {
-    "id":3351,
-    "imdb_id":"tt26295103",
-    "tmdb_id":"1279642",
-    "title":"RIDE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iz4HyLI79FRDVNx3uj2B3dx7VTL.jpg",
-    "release_date":"6\/14\/24"
-  },
-  {
-    "id":3348,
+    "id":3307,
     "imdb_id":"tt11985484",
     "tmdb_id":"879502",
     "title":"KILLER OF MEN",
