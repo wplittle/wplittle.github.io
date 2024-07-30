@@ -6864,19 +6864,19 @@
     "release_date":"9\/11\/98"
   },
   {
-    "id":296,
-    "imdb_id":"tt0120815",
-    "tmdb_id":"857",
-    "title":"SAVING PRIVATE RYAN",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-    "release_date":"7\/24\/98"
-  },
-  {
     "id":295,
     "imdb_id":"tt0134619",
     "tmdb_id":"9424",
     "title":"DISTURBING BEHAVIOR",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uAhvaueOUUQ6ORCRdsJr1WXz1w0.jpg",
+    "release_date":"7\/24\/98"
+  },
+  {
+    "id":296,
+    "imdb_id":"tt0120815",
+    "tmdb_id":"857",
+    "title":"SAVING PRIVATE RYAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
     "release_date":"7\/24\/98"
   },
   {
@@ -7104,19 +7104,19 @@
     "release_date":"1\/17\/97"
   },
   {
-    "id":327,
-    "imdb_id":"tt0117571",
-    "tmdb_id":"4232",
-    "title":"SCREAM",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
-    "release_date":"12\/20\/96"
-  },
-  {
     "id":326,
     "imdb_id":"tt0115641",
     "tmdb_id":"3179",
     "title":"BEAVIS AND BUTT-HEAD DO AMERICA",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
+    "release_date":"12\/20\/96"
+  },
+  {
+    "id":327,
+    "imdb_id":"tt0117571",
+    "tmdb_id":"4232",
+    "title":"SCREAM",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3O3klyyYpAZBBE4n7IngzTomRDp.jpg",
     "release_date":"12\/20\/96"
   },
   {
@@ -7240,19 +7240,19 @@
     "release_date":"1\/12\/96"
   },
   {
-    "id":346,
-    "imdb_id":"tt0114279",
-    "tmdb_id":"31174",
-    "title":"RICHARD III",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aN2BcIH6rvGbYiRQCS8lxOdeeVQ.jpg",
-    "release_date":"12\/29\/95"
-  },
-  {
     "id":345,
     "imdb_id":"tt0113862",
     "tmdb_id":"2054",
     "title":"MR. HOLLAND'S OPUS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg",
+    "release_date":"12\/29\/95"
+  },
+  {
+    "id":346,
+    "imdb_id":"tt0114279",
+    "tmdb_id":"31174",
+    "title":"RICHARD III",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/aN2BcIH6rvGbYiRQCS8lxOdeeVQ.jpg",
     "release_date":"12\/29\/95"
   },
   {
@@ -7472,19 +7472,19 @@
     "release_date":"12\/21\/94"
   },
   {
-    "id":378,
-    "imdb_id":"tt0110116",
-    "tmdb_id":"13701",
-    "title":"IMMORTAL BELOVED",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
-    "release_date":"12\/16\/94"
-  },
-  {
     "id":377,
     "imdb_id":"tt0109686",
     "tmdb_id":"8467",
     "title":"DUMB AND DUMBER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+    "release_date":"12\/16\/94"
+  },
+  {
+    "id":378,
+    "imdb_id":"tt0110116",
+    "tmdb_id":"13701",
+    "title":"IMMORTAL BELOVED",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lkqz2R5pjXeDaiIjR3Z6JTGjtg6.jpg",
     "release_date":"12\/16\/94"
   },
   {
@@ -9192,19 +9192,19 @@
     "release_date":"6\/11\/82"
   },
   {
-    "id":620,
-    "imdb_id":"tt0084516",
-    "tmdb_id":"609",
-    "title":"POLTERGEIST",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
-    "release_date":"6\/4\/82"
-  },
-  {
     "id":621,
     "imdb_id":"tt0084726",
     "tmdb_id":"154",
     "title":"STAR TREK II: THE WRATH OF KHAN",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+    "release_date":"6\/4\/82"
+  },
+  {
+    "id":620,
+    "imdb_id":"tt0084516",
+    "tmdb_id":"609",
+    "title":"POLTERGEIST",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
     "release_date":"6\/4\/82"
   },
   {
@@ -11318,6 +11318,14 @@
     "title":"THE SHEIK",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5cwKEW94PEB1IPQtlJMdP1suXnu.jpg",
     "release_date":"11\/20\/21"
+  },
+  {
+    "id":1598,
+    "imdb_id":"tt0011130",
+    "tmdb_id":"3016",
+    "title":"DR. JEKYLL AND MR. HYDE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/u8OL0RbTNzqqB1WmkxroTBXohnv.jpg",
+    "release_date":"3\/18\/20"
   },
   {
     "id":1086,
