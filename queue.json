@@ -1,5 +1,13 @@
 [
   {
+    "id":3404,
+    "imdb_id":"tt32627540",
+    "tmdb_id":"1155058",
+    "title":"WATCHMEN: CHAPTER I",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tE2vZ6HdlmKaBh0wpsvHCf7HJKo.jpg",
+    "release_date":"8\/13\/24"
+  },
+  {
     "id":3403,
     "imdb_id":"tt10655524",
     "tmdb_id":"1079091",
@@ -64,11 +72,11 @@
     "release_date":"8\/5\/24"
   },
   {
-    "id":3394,
-    "imdb_id":"tt30110854",
-    "tmdb_id":"1213395",
-    "title":"THE FIRING SQUAD",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tk0GkJfFQK5GxYvsYx57JIy10gn.jpg",
+    "id":3393,
+    "imdb_id":"tt1609486",
+    "tmdb_id":"826510",
+    "title":"HAROLD AND THE PURPLE CRAYON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
     "release_date":"8\/2\/24"
   },
   {
@@ -80,19 +88,19 @@
     "release_date":"8\/2\/24"
   },
   {
-    "id":3393,
-    "imdb_id":"tt1609486",
-    "tmdb_id":"826510",
-    "title":"HAROLD AND THE PURPLE CRAYON",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dEsuQOZwdaFAVL26RjgjwGl9j7m.jpg",
-    "release_date":"8\/2\/24"
-  },
-  {
     "id":3395,
     "imdb_id":"tt24169886",
     "tmdb_id":"1059064",
     "title":"THE INSTIGATORS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/pIz9csYn1yjrzQi0BuBZNJrTMi0.jpg",
+    "release_date":"8\/2\/24"
+  },
+  {
+    "id":3394,
+    "imdb_id":"tt30110854",
+    "tmdb_id":"1213395",
+    "title":"THE FIRING SQUAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tk0GkJfFQK5GxYvsYx57JIy10gn.jpg",
     "release_date":"8\/2\/24"
   },
   {
@@ -144,14 +152,6 @@
     "release_date":"7\/19\/24"
   },
   {
-    "id":3385,
-    "imdb_id":"tt5636228",
-    "tmdb_id":"1113231",
-    "title":"LUMINA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tySni5LziDoPSgicjAc3FRFiKfe.jpg",
-    "release_date":"7\/12\/24"
-  },
-  {
     "id":3384,
     "imdb_id":"tt22803220",
     "tmdb_id":"1082543",
@@ -176,19 +176,19 @@
     "release_date":"7\/12\/24"
   },
   {
+    "id":3385,
+    "imdb_id":"tt5636228",
+    "tmdb_id":"1113231",
+    "title":"LUMINA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tySni5LziDoPSgicjAc3FRFiKfe.jpg",
+    "release_date":"7\/12\/24"
+  },
+  {
     "id":3380,
     "imdb_id":"tt20237152",
     "tmdb_id":"1123727",
     "title":"EXPOSURE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nGrOOTfX4hSGhWc5b6XRHzrcDRM.jpg",
-    "release_date":"7\/9\/24"
-  },
-  {
-    "id":3381,
-    "imdb_id":"tt20258220",
-    "tmdb_id":"1058537",
-    "title":"ANGELS FALLEN: WARRIORS OF PEACE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sF1dpOaMIwyE8BpIeFnBgmF61ds.jpg",
     "release_date":"7\/9\/24"
   },
   {
