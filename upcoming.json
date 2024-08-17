@@ -848,6 +848,14 @@
     "release_date":"1\/10\/25"
   },
   {
+    "id":3525,
+    "imdb_id":"tt9150192",
+    "tmdb_id":"1197306",
+    "title":"LEVON'S TRADE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/2946ZxIQ90Q0q1z9P7LlMXlVRLi.jpg",
+    "release_date":"1\/17\/25"
+  },
+  {
     "id":3591,
     "imdb_id":"tt28249919",
     "tmdb_id":"1140535",
@@ -1056,19 +1064,19 @@
     "release_date":"6\/20\/25"
   },
   {
-    "id":3555,
-    "imdb_id":"tt16311594",
-    "tmdb_id":"911430",
-    "title":"F1",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iGyqJwqAHQjRrChcOCo6Nqgkb0B.jpg",
-    "release_date":"6\/27\/25"
-  },
-  {
     "id":3554,
     "imdb_id":"tt26342662",
     "tmdb_id":"1071585",
     "title":"M3GAN 2.0",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tVdTOWt21vo5GB6tjd65qmPmqIr.jpg",
+    "release_date":"6\/27\/25"
+  },
+  {
+    "id":3555,
+    "imdb_id":"tt16311594",
+    "tmdb_id":"911430",
+    "title":"F1",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iGyqJwqAHQjRrChcOCo6Nqgkb0B.jpg",
     "release_date":"6\/27\/25"
   },
   {
