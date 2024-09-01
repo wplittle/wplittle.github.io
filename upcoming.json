@@ -360,14 +360,6 @@
     "release_date":"10\/4\/24"
   },
   {
-    "id":3492,
-    "imdb_id":"tt11068094",
-    "tmdb_id":"779816",
-    "title":"WHITE BIRD",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/s2igE99PVBEMsry3qEGEH3rM83K.jpg",
-    "release_date":"10\/4\/24"
-  },
-  {
     "id":3493,
     "imdb_id":"tt27491225",
     "tmdb_id":"1226840",
@@ -376,11 +368,11 @@
     "release_date":"10\/4\/24"
   },
   {
-    "id":3494,
-    "imdb_id":"tt11315808",
-    "tmdb_id":"889737",
-    "title":"JOKER: FOLIE \u00c0 DEUX",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
+    "id":3492,
+    "imdb_id":"tt11068094",
+    "tmdb_id":"779816",
+    "title":"WHITE BIRD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/s2igE99PVBEMsry3qEGEH3rM83K.jpg",
     "release_date":"10\/4\/24"
   },
   {
@@ -389,6 +381,14 @@
     "tmdb_id":"1052280",
     "title":"IT'S WHAT'S INSIDE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uxWfpizZw85RPoZriJgL6z0CQDi.jpg",
+    "release_date":"10\/4\/24"
+  },
+  {
+    "id":3494,
+    "imdb_id":"tt11315808",
+    "tmdb_id":"889737",
+    "title":"JOKER: FOLIE \u00c0 DEUX",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
     "release_date":"10\/4\/24"
   },
   {
@@ -448,6 +448,14 @@
     "release_date":"10\/11\/24"
   },
   {
+    "id":3555,
+    "imdb_id":"tt7737800",
+    "tmdb_id":"835113",
+    "title":"WOMAN OF THE HOUR",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ncgNKdtqVJvTtlkIgLQCM5vDhIO.jpg",
+    "release_date":"10\/18\/24"
+  },
+  {
     "id":3512,
     "imdb_id":"tt10171472",
     "tmdb_id":"1088096",
@@ -464,19 +472,11 @@
     "release_date":"10\/18\/24"
   },
   {
-    "id":3510,
-    "imdb_id":"tt10078772",
-    "tmdb_id":"1126166",
-    "title":"FLIGHT RISK",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg",
-    "release_date":"10\/18\/24"
-  },
-  {
-    "id":3555,
-    "imdb_id":"tt7737800",
-    "tmdb_id":"835113",
-    "title":"WOMAN OF THE HOUR",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/ncgNKdtqVJvTtlkIgLQCM5vDhIO.jpg",
+    "id":3509,
+    "imdb_id":"tt10092170",
+    "tmdb_id":"931107",
+    "title":"THE LINE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3KdO5ONYRsLwoRbHDmSKoSOiKfI.jpg",
     "release_date":"10\/18\/24"
   },
   {
@@ -496,11 +496,11 @@
     "release_date":"10\/18\/24"
   },
   {
-    "id":3509,
-    "imdb_id":"tt10092170",
-    "tmdb_id":"931107",
-    "title":"THE LINE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3KdO5ONYRsLwoRbHDmSKoSOiKfI.jpg",
+    "id":3510,
+    "imdb_id":"tt10078772",
+    "tmdb_id":"1126166",
+    "title":"FLIGHT RISK",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg",
     "release_date":"10\/18\/24"
   },
   {
@@ -568,11 +568,11 @@
     "release_date":"11\/1\/24"
   },
   {
-    "id":3518,
-    "imdb_id":"tt2965408",
-    "tmdb_id":"1197619",
-    "title":"LOST ON A MOUNTAIN IN MAINE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mAYlKD3FaO0gJcdYdqmjT5xKq9D.jpg",
+    "id":3519,
+    "imdb_id":"tt31186932",
+    "tmdb_id":"1242357",
+    "title":"THE GUTTER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kAc8bLxCjePFxps0qKE4Qgvrs4t.jpg",
     "release_date":"11\/1\/24"
   },
   {
@@ -584,6 +584,22 @@
     "release_date":"11\/1\/24"
   },
   {
+    "id":3522,
+    "imdb_id":"tt15939198",
+    "tmdb_id":"896151",
+    "title":"BLITZ",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/pWBnqvUXJAyqwMI02IXgyo04LBE.jpg",
+    "release_date":"11\/1\/24"
+  },
+  {
+    "id":3518,
+    "imdb_id":"tt2965408",
+    "tmdb_id":"1197619",
+    "title":"LOST ON A MOUNTAIN IN MAINE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mAYlKD3FaO0gJcdYdqmjT5xKq9D.jpg",
+    "release_date":"11\/1\/24"
+  },
+  {
     "id":3520,
     "imdb_id":"tt21823606",
     "tmdb_id":"1013850",
@@ -592,20 +608,12 @@
     "release_date":"11\/1\/24"
   },
   {
-    "id":3519,
-    "imdb_id":"tt31186932",
-    "tmdb_id":"1242357",
-    "title":"THE GUTTER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kAc8bLxCjePFxps0qKE4Qgvrs4t.jpg",
-    "release_date":"11\/1\/24"
-  },
-  {
-    "id":3522,
-    "imdb_id":"tt15939198",
-    "tmdb_id":"896151",
-    "title":"BLITZ",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/pWBnqvUXJAyqwMI02IXgyo04LBE.jpg",
-    "release_date":"11\/1\/24"
+    "id":3525,
+    "imdb_id":"tt29768335",
+    "tmdb_id":"1206617",
+    "title":"THE BEST CHRISTMAS PAGEANT EVER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qI8FDZuGA2VD7bhpYxdHcWZ79i4.jpg",
+    "release_date":"11\/8\/24"
   },
   {
     "id":3526,
@@ -621,14 +629,6 @@
     "tmdb_id":"1162136",
     "title":"LOVE BOMB",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/t8HIGAC9LQJI73HNfkgia5t0JGg.jpg",
-    "release_date":"11\/8\/24"
-  },
-  {
-    "id":3525,
-    "imdb_id":"tt29768335",
-    "tmdb_id":"1206617",
-    "title":"THE BEST CHRISTMAS PAGEANT EVER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/qI8FDZuGA2VD7bhpYxdHcWZ79i4.jpg",
     "release_date":"11\/8\/24"
   },
   {
@@ -672,14 +672,6 @@
     "release_date":"11\/22\/24"
   },
   {
-    "id":3533,
-    "imdb_id":"tt7215232",
-    "tmdb_id":"592983",
-    "title":"SPELLBOUND",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yzNvRMguCDcHnnUI661yNR1Ei9X.jpg",
-    "release_date":"11\/22\/24"
-  },
-  {
     "id":3534,
     "imdb_id":"tt1262426",
     "tmdb_id":"402431",
@@ -688,12 +680,12 @@
     "release_date":"11\/22\/24"
   },
   {
-    "id":3535,
-    "imdb_id":"tt31187297",
-    "tmdb_id":"1241982",
-    "title":"MOANA 2",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
-    "release_date":"11\/27\/24"
+    "id":3533,
+    "imdb_id":"tt7215232",
+    "tmdb_id":"592983",
+    "title":"SPELLBOUND",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yzNvRMguCDcHnnUI661yNR1Ei9X.jpg",
+    "release_date":"11\/22\/24"
   },
   {
     "id":3561,
@@ -701,6 +693,14 @@
     "tmdb_id":"1234811",
     "title":"OUR LITTLE SECRET",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/n6OXxORAvfzMGlGSWRRg7QVr6Sf.jpg",
+    "release_date":"11\/27\/24"
+  },
+  {
+    "id":3535,
+    "imdb_id":"tt31187297",
+    "tmdb_id":"1241982",
+    "title":"MOANA 2",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
     "release_date":"11\/27\/24"
   },
   {
@@ -712,19 +712,27 @@
     "release_date":"12\/4\/24"
   },
   {
-    "id":3542,
-    "imdb_id":"tt26625693",
-    "tmdb_id":"1082195",
-    "title":"THE ORDER",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yUoyBSdUn1srV6knb5n017ClQCf.jpg",
-    "release_date":"12\/6\/24"
-  },
-  {
     "id":3543,
     "imdb_id":"tt11891850",
     "tmdb_id":"1013154",
     "title":"HARD TRUTHS",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/6SB2Qvd9AXzf54vpPo0jfXK3FkV.jpg",
+    "release_date":"12\/6\/24"
+  },
+  {
+    "id":3540,
+    "imdb_id":"tt19861162",
+    "tmdb_id":"975511",
+    "title":"THE RETURN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zMMlbuShaybI019hHK47ugtqUG8.jpg",
+    "release_date":"12\/6\/24"
+  },
+  {
+    "id":3542,
+    "imdb_id":"tt26625693",
+    "tmdb_id":"1082195",
+    "title":"THE ORDER",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yUoyBSdUn1srV6knb5n017ClQCf.jpg",
     "release_date":"12\/6\/24"
   },
   {
@@ -752,12 +760,12 @@
     "release_date":"12\/6\/24"
   },
   {
-    "id":3540,
-    "imdb_id":"tt19861162",
-    "tmdb_id":"975511",
-    "title":"THE RETURN",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zMMlbuShaybI019hHK47ugtqUG8.jpg",
-    "release_date":"12\/6\/24"
+    "id":3562,
+    "imdb_id":"tt21382296",
+    "tmdb_id":"1005331",
+    "title":"CARRY ON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/jnyQ16XvD15xjYzTmFUZkJk44ka.jpg",
+    "release_date":"12\/13\/24"
   },
   {
     "id":3545,
@@ -784,12 +792,12 @@
     "release_date":"12\/13\/24"
   },
   {
-    "id":3562,
-    "imdb_id":"tt21382296",
-    "tmdb_id":"1005331",
-    "title":"CARRY ON",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/jnyQ16XvD15xjYzTmFUZkJk44ka.jpg",
-    "release_date":"12\/13\/24"
+    "id":3550,
+    "imdb_id":"tt18259086",
+    "tmdb_id":"939243",
+    "title":"SONIC THE HEDGEHOG 3",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4YzDggHQjVfSpaY2TWefTtlV6ca.jpg",
+    "release_date":"12\/20\/24"
   },
   {
     "id":3548,
@@ -808,12 +816,12 @@
     "release_date":"12\/20\/24"
   },
   {
-    "id":3550,
-    "imdb_id":"tt18259086",
-    "tmdb_id":"939243",
-    "title":"SONIC THE HEDGEHOG 3",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4YzDggHQjVfSpaY2TWefTtlV6ca.jpg",
-    "release_date":"12\/20\/24"
+    "id":3551,
+    "imdb_id":"tt30057084",
+    "tmdb_id":"1097549",
+    "title":"BABYGIRL",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sr7ysBozEsVMIz0ISnRjOf1l8iT.jpg",
+    "release_date":"12\/25\/24"
   },
   {
     "id":3554,
@@ -837,14 +845,6 @@
     "tmdb_id":"661539",
     "title":"A COMPLETE UNKNOWN",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/1wzGubEYLfrAXjGidgnDIAjM6v1.jpg",
-    "release_date":"12\/25\/24"
-  },
-  {
-    "id":3551,
-    "imdb_id":"tt30057084",
-    "tmdb_id":"1097549",
-    "title":"BABYGIRL",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sr7ysBozEsVMIz0ISnRjOf1l8iT.jpg",
     "release_date":"12\/25\/24"
   },
   {
@@ -872,19 +872,19 @@
     "release_date":"1\/17\/25"
   },
   {
-    "id":3637,
-    "imdb_id":"tt21191806",
-    "tmdb_id":"993710",
-    "title":"BACK IN ACTION",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/n65EpCRdC2Hg3ZoXB46RDNede14.jpg",
-    "release_date":"1\/17\/25"
-  },
-  {
     "id":3632,
     "imdb_id":"tt28249919",
     "tmdb_id":"1140535",
     "title":"PRESENCE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dYE8i8iIMr9bDuaRvM1oXTGwSoX.jpg",
+    "release_date":"1\/17\/25"
+  },
+  {
+    "id":3637,
+    "imdb_id":"tt21191806",
+    "tmdb_id":"993710",
+    "title":"BACK IN ACTION",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/n65EpCRdC2Hg3ZoXB46RDNede14.jpg",
     "release_date":"1\/17\/25"
   },
   {
@@ -896,19 +896,19 @@
     "release_date":"1\/30\/25"
   },
   {
-    "id":3571,
-    "imdb_id":"tt10954718",
-    "tmdb_id":"774370",
-    "title":"DOG MAN",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/waV5KLQnbzYhTNPYCzZ4g3K4keR.jpg",
-    "release_date":"1\/31\/25"
-  },
-  {
     "id":3570,
     "imdb_id":"tt12299608",
     "tmdb_id":"696506",
     "title":"MICKEY 17",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/y5rrebdZsGgpKb2U52rxMQTYbn0.jpg",
+    "release_date":"1\/31\/25"
+  },
+  {
+    "id":3571,
+    "imdb_id":"tt10954718",
+    "tmdb_id":"774370",
+    "title":"DOG MAN",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/waV5KLQnbzYhTNPYCzZ4g3K4keR.jpg",
     "release_date":"1\/31\/25"
   },
   {
@@ -1088,19 +1088,19 @@
     "release_date":"6\/20\/25"
   },
   {
-    "id":3596,
-    "imdb_id":"tt26342662",
-    "tmdb_id":"1071585",
-    "title":"M3GAN 2.0",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tVdTOWt21vo5GB6tjd65qmPmqIr.jpg",
-    "release_date":"6\/27\/25"
-  },
-  {
     "id":3597,
     "imdb_id":"tt16311594",
     "tmdb_id":"911430",
     "title":"F1",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/iGyqJwqAHQjRrChcOCo6Nqgkb0B.jpg",
+    "release_date":"6\/27\/25"
+  },
+  {
+    "id":3596,
+    "imdb_id":"tt26342662",
+    "tmdb_id":"1071585",
+    "title":"M3GAN 2.0",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tVdTOWt21vo5GB6tjd65qmPmqIr.jpg",
     "release_date":"6\/27\/25"
   },
   {
@@ -1168,19 +1168,19 @@
     "release_date":"9\/12\/25"
   },
   {
-    "id":3616,
-    "imdb_id":"tt30414742",
-    "tmdb_id":"1207360",
-    "title":"SAW XI",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4YdAlOYfgkSzo1lrHhk6lBFV2PJ.jpg",
-    "release_date":"9\/26\/25"
-  },
-  {
     "id":3615,
     "imdb_id":"tt30851137",
     "tmdb_id":"1159831",
     "title":"THE BRIDE!",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/nmfzCWNj4z6GjG6e7U20KXGKmtW.jpg",
+    "release_date":"9\/26\/25"
+  },
+  {
+    "id":3616,
+    "imdb_id":"tt30414742",
+    "tmdb_id":"1207360",
+    "title":"SAW XI",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/4YdAlOYfgkSzo1lrHhk6lBFV2PJ.jpg",
     "release_date":"9\/26\/25"
   },
   {
@@ -1390,5 +1390,21 @@
     "title":"THE HUNGER GAMES: SUNRISE ON THE REAPING",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/sneGArXc68FRX3bfDF7IsUuKgds.jpg",
     "release_date":"11\/20\/26"
+  },
+  {
+    "id":3673,
+    "imdb_id":"tt21361444",
+    "tmdb_id":"1003598",
+    "title":"AVENGERS: SECRET WARS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+    "release_date":"5\/7\/27"
+  },
+  {
+    "id":3680,
+    "imdb_id":"tt26680923",
+    "tmdb_id":"1024604",
+    "title":"FROZEN III",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/8eUfD6fzNWWyuwUYxeSI3grxpy0.jpg",
+    "release_date":"11\/24\/27"
   }
 ]
