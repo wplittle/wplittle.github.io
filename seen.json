@@ -1,19 +1,19 @@
 [
   {
-    "id":3455,
+    "id":3417,
+    "imdb_id":"tt5636228",
+    "tmdb_id":"1113231",
+    "title":"LUMINA",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tySni5LziDoPSgicjAc3FRFiKfe.jpg",
+    "release_date":"9\/20\/24"
+  },
+  {
+    "id":3454,
     "imdb_id":"tt2049403",
     "tmdb_id":"917496",
     "title":"BEETLEJUICE BEETLEJUICE",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
     "release_date":"9\/6\/24"
-  },
-  {
-    "id":3409,
-    "imdb_id":"tt24577462",
-    "tmdb_id":"1062215",
-    "title":"AFRAID",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
-    "release_date":"8\/30\/24"
   },
   {
     "id":3445,
@@ -29,6 +29,14 @@
     "tmdb_id":"1090007",
     "title":"FIRST SHIFT",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/pofOjClla6mXenoZblUDEie6fDh.jpg",
+    "release_date":"8\/30\/24"
+  },
+  {
+    "id":3409,
+    "imdb_id":"tt24577462",
+    "tmdb_id":"1062215",
+    "title":"AFRAID",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gUREuXCnJLVHsvKXDH9fgIcfM6e.jpg",
     "release_date":"8\/30\/24"
   },
   {
@@ -88,14 +96,6 @@
     "release_date":"8\/20\/24"
   },
   {
-    "id":3403,
-    "imdb_id":"tt18884172",
-    "tmdb_id":"1245708",
-    "title":"CRESCENT CITY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
-    "release_date":"8\/16\/24"
-  },
-  {
     "id":3402,
     "imdb_id":"tt12610390",
     "tmdb_id":"704239",
@@ -112,19 +112,27 @@
     "release_date":"8\/16\/24"
   },
   {
-    "id":3404,
-    "imdb_id":"tt4196566",
-    "tmdb_id":"930600",
-    "title":"THE DELIVERANCE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
-    "release_date":"8\/16\/24"
-  },
-  {
     "id":3401,
     "imdb_id":"tt12598606",
     "tmdb_id":"5492",
     "title":"GUNNER",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/eEkAY5veAnwxUOOlpF62KawkFO9.jpg",
+    "release_date":"8\/16\/24"
+  },
+  {
+    "id":3403,
+    "imdb_id":"tt18884172",
+    "tmdb_id":"1245708",
+    "title":"CRESCENT CITY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
+    "release_date":"8\/16\/24"
+  },
+  {
+    "id":3404,
+    "imdb_id":"tt4196566",
+    "tmdb_id":"930600",
+    "title":"THE DELIVERANCE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
     "release_date":"8\/16\/24"
   },
   {
@@ -144,11 +152,11 @@
     "release_date":"8\/13\/24"
   },
   {
-    "id":3395,
-    "imdb_id":"tt21927594",
-    "tmdb_id":"1067950",
-    "title":"GIRL YOU KNOW IT'S TRUE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yKYSHULhVfFzibLmWyJfUiwsFkR.jpg",
+    "id":3397,
+    "imdb_id":"tt4978420",
+    "tmdb_id":"365177",
+    "title":"BORDERLANDS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lrlSOlTiIlTQqVqJGW4HaWjJaBJ.jpg",
     "release_date":"8\/9\/24"
   },
   {
@@ -160,11 +168,11 @@
     "release_date":"8\/9\/24"
   },
   {
-    "id":3397,
-    "imdb_id":"tt4978420",
-    "tmdb_id":"365177",
-    "title":"BORDERLANDS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/lrlSOlTiIlTQqVqJGW4HaWjJaBJ.jpg",
+    "id":3395,
+    "imdb_id":"tt21927594",
+    "tmdb_id":"1067950",
+    "title":"GIRL YOU KNOW IT'S TRUE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/yKYSHULhVfFzibLmWyJfUiwsFkR.jpg",
     "release_date":"8\/9\/24"
   },
   {
@@ -192,38 +200,6 @@
     "release_date":"8\/5\/24"
   },
   {
-    "id":3422,
-    "imdb_id":"tt30110854",
-    "tmdb_id":"1213395",
-    "title":"THE FIRING SQUAD",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tk0GkJfFQK5GxYvsYx57JIy10gn.jpg",
-    "release_date":"8\/2\/24"
-  },
-  {
-    "id":3389,
-    "imdb_id":"tt26753003",
-    "tmdb_id":"1032823",
-    "title":"TRAP",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mWV2fNBkSTW67dIotVTXDYZhNBj.jpg",
-    "release_date":"8\/2\/24"
-  },
-  {
-    "id":3388,
-    "imdb_id":"tt23063732",
-    "tmdb_id":"831815",
-    "title":"SAVING BIKINI BOTTOM: THE SANDY CHEEKS MOVIE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
-    "release_date":"8\/2\/24"
-  },
-  {
-    "id":3387,
-    "imdb_id":"tt9567458",
-    "tmdb_id":"1090323",
-    "title":"#AMFAD: ALL MY FRIENDS ARE DEAD",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hbQPeTiRYxLNVOakBboMeCQiwQq.jpg",
-    "release_date":"8\/2\/24"
-  },
-  {
     "id":3392,
     "imdb_id":"tt1609486",
     "tmdb_id":"826510",
@@ -248,12 +224,52 @@
     "release_date":"8\/2\/24"
   },
   {
+    "id":3422,
+    "imdb_id":"tt30110854",
+    "tmdb_id":"1213395",
+    "title":"THE FIRING SQUAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tk0GkJfFQK5GxYvsYx57JIy10gn.jpg",
+    "release_date":"8\/2\/24"
+  },
+  {
+    "id":3389,
+    "imdb_id":"tt26753003",
+    "tmdb_id":"1032823",
+    "title":"TRAP",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/mWV2fNBkSTW67dIotVTXDYZhNBj.jpg",
+    "release_date":"8\/2\/24"
+  },
+  {
+    "id":3387,
+    "imdb_id":"tt9567458",
+    "tmdb_id":"1090323",
+    "title":"#AMFAD: ALL MY FRIENDS ARE DEAD",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hbQPeTiRYxLNVOakBboMeCQiwQq.jpg",
+    "release_date":"8\/2\/24"
+  },
+  {
+    "id":3388,
+    "imdb_id":"tt23063732",
+    "tmdb_id":"831815",
+    "title":"SAVING BIKINI BOTTOM: THE SANDY CHEEKS MOVIE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
+    "release_date":"8\/2\/24"
+  },
+  {
     "id":3386,
     "imdb_id":"tt26546715",
     "tmdb_id":"1094605",
     "title":"THE DUEL",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/dwh0Z4sxzItQpNVoPeevQqqNTqL.jpg",
     "release_date":"7\/31\/24"
+  },
+  {
+    "id":3383,
+    "imdb_id":"tt28547657",
+    "tmdb_id":"1277296",
+    "title":"THE GIRL IN THE POOL",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/m8gd4DxykPmnNgJKqNb8n0z0JDO.jpg",
+    "release_date":"7\/26\/24"
   },
   {
     "id":3382,
@@ -280,14 +296,6 @@
     "release_date":"7\/26\/24"
   },
   {
-    "id":3383,
-    "imdb_id":"tt28547657",
-    "tmdb_id":"1277296",
-    "title":"THE GIRL IN THE POOL",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/m8gd4DxykPmnNgJKqNb8n0z0JDO.jpg",
-    "release_date":"7\/26\/24"
-  },
-  {
     "id":3381,
     "imdb_id":"tt11724920",
     "tmdb_id":"1308757",
@@ -302,14 +310,6 @@
     "title":"D\u00ccDI",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg",
     "release_date":"7\/26\/24"
-  },
-  {
-    "id":3375,
-    "imdb_id":"tt26470109",
-    "tmdb_id":"1216191",
-    "title":"ODDITY",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg",
-    "release_date":"7\/19\/24"
   },
   {
     "id":3374,
@@ -368,6 +368,14 @@
     "release_date":"7\/19\/24"
   },
   {
+    "id":3375,
+    "imdb_id":"tt26470109",
+    "tmdb_id":"1216191",
+    "title":"ODDITY",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/uln9Efc2vzDOl0Fue2BPs8l1WO7.jpg",
+    "release_date":"7\/19\/24"
+  },
+  {
     "id":3373,
     "imdb_id":"tt12930350",
     "tmdb_id":"1048241",
@@ -384,11 +392,11 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":3367,
-    "imdb_id":"tt23468450",
-    "tmdb_id":"1226578",
-    "title":"LONGLEGS",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
+    "id":3368,
+    "imdb_id":"tt19299678",
+    "tmdb_id":"956842",
+    "title":"FLY ME TO THE MOON",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
     "release_date":"7\/12\/24"
   },
   {
@@ -424,19 +432,11 @@
     "release_date":"7\/12\/24"
   },
   {
-    "id":3368,
-    "imdb_id":"tt19299678",
-    "tmdb_id":"956842",
-    "title":"FLY ME TO THE MOON",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/gjk8YdXpItoC1in53FCrZMFIuBx.jpg",
-    "release_date":"7\/12\/24"
-  },
-  {
-    "id":3417,
-    "imdb_id":"tt5636228",
-    "tmdb_id":"1113231",
-    "title":"LUMINA",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/tySni5LziDoPSgicjAc3FRFiKfe.jpg",
+    "id":3367,
+    "imdb_id":"tt23468450",
+    "tmdb_id":"1226578",
+    "title":"LONGLEGS",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/5aj8vVGFwGVbQQs26ywhg4Zxk2L.jpg",
     "release_date":"7\/12\/24"
   },
   {
@@ -504,19 +504,19 @@
     "release_date":"7\/4\/24"
   },
   {
-    "id":3357,
-    "imdb_id":"tt3083016",
-    "tmdb_id":"280180",
-    "title":"BEVERLY HILLS COP: AXEL F",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
-    "release_date":"7\/3\/24"
-  },
-  {
     "id":3358,
     "imdb_id":"tt7510222",
     "tmdb_id":"519182",
     "title":"DESPICABLE ME 4",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "release_date":"7\/3\/24"
+  },
+  {
+    "id":3357,
+    "imdb_id":"tt3083016",
+    "tmdb_id":"280180",
+    "title":"BEVERLY HILLS COP: AXEL F",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
     "release_date":"7\/3\/24"
   },
   {
@@ -544,11 +544,11 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":3348,
-    "imdb_id":"tt17505010",
-    "tmdb_id":"932086",
-    "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+    "id":3349,
+    "imdb_id":"tt13433802",
+    "tmdb_id":"762441",
+    "title":"A QUIET PLACE: DAY ONE",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
     "release_date":"6\/28\/24"
   },
   {
@@ -568,19 +568,19 @@
     "release_date":"6\/28\/24"
   },
   {
-    "id":3349,
-    "imdb_id":"tt13433802",
-    "tmdb_id":"762441",
-    "title":"A QUIET PLACE: DAY ONE",
-    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
-    "release_date":"6\/28\/24"
-  },
-  {
     "id":3352,
     "imdb_id":"tt15338966",
     "tmdb_id":"869597",
     "title":"REUNION",
     "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/c5eQaqxTQN0DDKena1XIURNRaeJ.jpg",
+    "release_date":"6\/28\/24"
+  },
+  {
+    "id":3348,
+    "imdb_id":"tt17505010",
+    "tmdb_id":"932086",
+    "title":"HORIZON: AN AMERICAN SAGA - CHAPTER 1",
+    "poster":"https:\/\/www.themoviedb.org\/t\/p\/w500\/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
     "release_date":"6\/28\/24"
   },
   {
